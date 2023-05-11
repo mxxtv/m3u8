@@ -221,6 +221,9 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Docu | HD
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
+#EXTINF:-1 group-title="ECUADOR", DURAN TV | HD
+https://cloudvideo.servers10.com:8081/8074/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image92391202925.jpg" group-title="CINE Y SERIES", San Isidro tv | HD
 https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 
@@ -1088,7 +1091,7 @@ http://144.217.70.79/VODS-M/1080P/Harvey%201950.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/86jyzdxtAX8p956rVQDKwGbrYh2.jpg"group-title="PELICULAS" type="movie" , Earwig and the Witch (2020) 
 http://144.217.70.79/VODS-M/1080P/Earwig%20and%20the%20Witch%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZ9NZh4zB80phMxo5PucFyWagjG.jpg" type="movie" , Are We Done Yet (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZ9NZh4zB80phMxo5PucFyWagjG.jpg" group-title="PELICULAS" type="movie" , Are We Done Yet (2007) 
 http://144.217.70.79/VODS-M/1080P/Are%20We%20Done%20Yet%202007.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1qwj0wKFsDoC3w2i2kDhXY330TU.jpg"group-title="PELICULAS" type="movie" , Spanglish (2004) 
@@ -1347,7 +1350,7 @@ https://tgdownloads.dltelegram.workers.dev/1001886225227/20354
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/awDUk8zNvW6w2cQPxSWcYLSw9It.jpg",Maleficio 
 https://tgdownloads.dltelegram.workers.dev/1001886225227/20353 
 
-#EXTINF:-1 group-title="Pelis 2" tvg-logo="https://image.tmdb.org/t/p/w500/561TUe0s63tKVMMj9IZznGNoWLH.jpg",¿Y cómo es él? 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/561TUe0s63tKVMMj9IZznGNoWLH.jpg",¿Y cómo es él? 
 https://tgdownloads.dltelegram.workers.dev/1001886225227/20351 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wqnLdwVXoBjKibFRR5U3y0aDUhs.jpg",Star Wars: El Despertar de la Fuerza (2015) 
@@ -1416,7 +1419,7 @@ https://tgdownloads.dltelegram.workers.dev/1001886225227/20270
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kqhLjoz3FGywYXUNTCPItfDY2N8.jpg",1UP: Vida Extra (2022) 
 https://tgdownloads.dltelegram.workers.dev/1001886225227/20201 
 
-#EXTINF:-1 group-title="Pelis 2" tvg-logo="https://image.tmdb.org/t/p/w500/dhUDMDeZAGMx1gW58fssyzptbnO.jpg",Hermanos De La Mafia (2019) 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dhUDMDeZAGMx1gW58fssyzptbnO.jpg",Hermanos De La Mafia (2019) 
 https://tgdownloads.dltelegram.workers.dev/1001886225227/20200 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gYfeitlUW8kgnnUxb6oaQw5D4Mj.jpg",The Siren (2018) 
@@ -1431,7 +1434,7 @@ https://tgdownloads.dltelegram.workers.dev/1001886225227/20196
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zNIg7cCAxTVlsTU3ZyIsWpmHNkk.jpg",Disquiet (2023) 
 https://tgdownloads.dltelegram.workers.dev/1001886225227/20195 
 
-#EXTINF:-1 group-title="Pelis 2" tvg-logo="https://image.tmdb.org/t/p/w500/uNkGEzw9ROmoZuzdyNoZ5J6Qehf.jpg",Troll: Una aventura mágica (2018) 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uNkGEzw9ROmoZuzdyNoZ5J6Qehf.jpg",Troll: Una aventura mágica (2018) 
 https://tgdownloads.dltelegram.workers.dev/1001886225227/20194 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",El Valet 
@@ -1659,6 +1662,12 @@ https://archive.org/download/01_20220926_20220926_2358/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg",Escalera al infierno (2022) 
 https://archive.org/download/01_20220808_20220808_1622/01.mp4 
 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022) 
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar 2023 
+https://archive.org/download/01_20230509_20230509_1915/01.mp4
+
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",Luck (2022) 
 https://archive.org/download/01_20220806_20220806_1557/01.mp4 
 
@@ -1692,3 +1701,111 @@ https://archive.org/download/01_20220522_20220522_1455/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",Morbius (2022) 
 https://archive.org/download/01_20220522_20220522_1504/01.mp4 
 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",Renfield: Asistente de vampiro (2023) 
+http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol. 3 (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Guardianes%20de%20la%20Galaxia-%20Volumen%203%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",El exorcista del papa (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20El%20exorcista%20del%20papa%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir 2023 
+https://archive.org/download/01_20230509_202305/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//u3M1bVxEbIe3BVkFJWwMi8DIea1.jpg",Sustitutos 2023 
+https://archive.org/download/01_20230509_20230509/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar 2023 
+https://archive.org/download/01_20230509_20230509_1915/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",Quiero tu vida (2023) 
+http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosted (2023) 
+http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hj6NgZS6RIsrGzBIiT7s9yoYA5Z.jpg",La Madrastra (2022) 
+https://d1yei2z3i6k35z.cloudfront.net/2104853/634f05c3beffb_48LMNuenro4k_T.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vqc3bNpuDFPiKmWlfkyi5YOIMUT.jpg",Rosalina (2022) 
+https://d1yei2z3i6k35z.cloudfront.net/2104853/634f09af86ee3_50RSLNNumero4k_R.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 5 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",Rambo: Last Blood (2019) 
+http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",Quarantine 2 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/quarantine%202%20terminal%202011.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",Power Rangers (2017) 
+http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",Piratas del caribe 1 (2003) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20the%20curse%20of%20the%20black%20pearl.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",Piratas del Caribe 4 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",Piratas del Caribe 5 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",Piratas del Caribe 2 (2006) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20mans%20chest.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",Pan Viaje a Nunca Jamás (2015) 
+http://vod.tuxchannel.mx/peliculas/720/pan.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3RtOffRhVHyST1d5BDVu5dnFI04.jpg",El cazador de sueños (2003) 
+http://vod.tuxchannel.mx/peliculas/720/el%20cazador%20de%20suenos.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",Apocalypto (2006) 
+http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg",Chappie (2015) 
+http://vod.tuxchannel.mx/peliculas/720/chappie.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zdaU2jx0IS4lPpQs0mDBlLMO2b8.jpg",La rebelión (2019) 
+http://vod.tuxchannel.mx/peliculas/720/captive%20state%202019.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qBcIUgJmDGrcAKbhRwCd6AmO0ZW.jpg",Transformers 6 (2018) 
+http://vod.tuxchannel.mx/peliculas/720/bumblebee%202018.mk
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg",El bosque de los suicidios (2016) 
+http://vod.tuxchannel.mx/peliculas/720/el%20bosque%20de%20los%20suicidios.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wLx65gtGVnUFCxceHWGszcruCZj.jpg",Dredd (2012) 
+http://vod.tuxchannel.mx/peliculas/720/dredd.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",Drácula: La historia jamás contada (2014) 
+http://vod.tuxchannel.mx/peliculas/720/dracula%20untold.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",Distrito 9 (2009) 
+http://vod.tuxchannel.mx/peliculas/720/distrit%209.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",Destino final 1 (2000) 
+http://vod.tuxchannel.mx/peliculas/720/destino%20final.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg",Destino final 5 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",Destino final 4 (2009) 
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%204.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",Destino final 3 (2006) 
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%203.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg",Destino final 2 (2003) 
+http://vod.tuxchannel.mx/peliculas/720/destino%20final%202.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jq4TVchWAWac6zGmCuriFhfBSzo.jpg",Demonic (2015) 
+http://vod.tuxchannel.mx/peliculas/720/demonic.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9OkZ94drVlmLfa1uBYaP8yMv7Ow.jpg",Déjame entrar (2008) 
+http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",El amanecer de los muertos (2004) 
+http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
