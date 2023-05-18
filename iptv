@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HDA
+#EXTINF:-2 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS TV | SD
@@ -23,7 +23,7 @@ https://envivo.telerama.ec/stream.m3u8
 #EXTINF:-8 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
-#EXTINF:-9 tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg" group-title="ECUADOR", Canal TVC  STD
+#EXTINF:-9 tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg" group-title="ECUADOR", TVC ec | HD
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
@@ -36,7 +36,7 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
 #EXTINF:-13 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="COSTA RICA",Teletica | SD
-https://6zklxk9bdw9b-hls-live.5centscdn.com/TeleticaLiveStream/d072c3a8dde8622c607ecd258fd628e8.sdp/playlist_dvr.m3u8
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=217462
 
 #EXTINF:-14 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -80,8 +80,8 @@ https://d2ab26kihxq8p0.cloudfront.net/hls/live.m3u8
 #EXTINF:-27,Canal 3 TV
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
 
-#EXTINF:-28 tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", Capricho TV | HD
-https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
+#EXTINF:-28 tvg-logo="https://www.coolstreaming.us/img/ch/image60767301777.jpg" group-title="ECUADOR", CANAL 5 STV | HD
+https://stmv.streamingvip.click/sanvitotv/sanvitotv/chunklist_w247954831.m3u8
 
 #EXTINF:-29 tvg-logo="https://cigars.roku.com/v1/contain/156x88/https%3A%2F%2Fimage.roku.com%2Fdeveloper_channels%2Fprod%2F48f21736d7dd2ba6371ecb54e30c021df5d10953a8c54b894025ccbe59adf49c.jpg" group-title="ECUADOR", Zaracay TV | HD
 https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
@@ -397,6 +397,18 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6_130x130.webp" group-title="ECUADOR", Recuerdos Retro | HD
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
+
+#EXTINF:-1 group-title="ECUADOR", VITO TV | HD
+https://player-api.new.livestream.com/accounts/8069167/events/10091958/videos/228769225.secure.m3u8?token=6465af73_4ed979a607470693cd6f34f106e536e55dfc1e92
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
+https://s2.tvdatta.com:3753/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="ECUADOR", TC ec | HD
+https://www.dailymotion.com/cdn/live/video/x7wijay.m3u8?sec=BlC1XLbAtli100u3QdcY_Yf3vO7CSYDpSi7MQ7FXzib6jXhaQ1xncIV6ErcYBnOU&dmTs=728273&dmV1st=D4D173AE3259A7B7755D26CD8790EE1B
+
+#EXTINF:-1 group-title="COSTA RICA", Multizonas tv | HD
+https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2zQi7G3.png" group-title="ESPAÑA", ATRESeries | HD
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
@@ -814,6 +826,9 @@ https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico movies| HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
+
+#EXTINF:-1 tvg-logo="https://galocisnerosblog.com/wp-content/uploads/2021/09/Resumen-de-que-pasaria-si-el-capitan-Carter-fuera-el-primer-vengador.jpg.webp" type="movie" group-title="PELICULAS", El Capitán Carter lucha contra Hydra en una aventura retro de Marvel| HD
+https://1omgtestbucket.s3.amazonaws.com/user_2599%2Fvideos%2F6441e26b5fc29.mp4
 
 #EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6044193f82e19c7a3b57bef8abbccd8734d5149ab30982387cd800ff70155217._RI_V_TTW_.jpg" type="movie" group-title="PELICULAS", Gigante de piedra movies| HD
 https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/OA/XbQTHRlkvfBh_3k7lJAqH7huyht4qFtIvzt1rX2j8/megdpi1;/6m/phwUaIQk1kCbW-Wq5j8L9gfvcnEo4JkyJA6qnzmhk/megdpi1;/Li/lhz3YwVCUAbeGeTgVDWNQ_l1efPX7o0Egt_fE4jlk/megdpi1;/r9/evC8pnUH6PGAHo9CNwJ8_Hz0pbd_a-gof4CpJJWj8/megdpi1
@@ -1307,7 +1322,7 @@ http://144.217.70.79/VODS-M/1080P/Dan%20in%20Real%20Life%202007.mkv
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_carretera_The_Road-417695172-large.jpg"group-title="PELICULAS" type="movie", OPEN ROAD (2021) 
 http://144.217.70.79/VODS-M/1080P/Spirit%20Untamed%202021.mkv
 
-EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ lnUozDnDANTsDYEdsNsHC6b8IiS.jpg"group-title="PELICULAS" type="película" ,El pistolero (2015) 
+EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/pistolero-828658835-mmed.jpg"group-title="PELICULAS" type="película" ,El pistolero (2015) 
 http://144.217.70.79/VODS-M/1080P/The%20gunman%202015.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg"group-title="PELICULAS" type="movie" , Max 2 héroe de la casa blanca (2017) 
