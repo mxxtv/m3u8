@@ -884,11 +884,11 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pdd1dv
 #EXTINF:-1 tvg-id="El monje.eu" tvg-name="El monje (HD)" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/02/13/35/020996.jpg" type="movie" group-title="PELICULAS",El monje movies| HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_osi3zij8/format/applehttp/protocol/https/flavorIds/1_ze0hewb0,1_yoe7r29m,1_loycjvqn,1_jt2n7gk3,1_n2n2xqey,1_j1rlhl3f,1_5qq4wr2a/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242951&amp;id=6282&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=SP0thSxR97yeaStM3VwxFZIK0f9tp%2BzWX8ZeEylbRCo%3D&amp;playSessionId=f04e79e3-c867-99d7-4061-d236e4bad6d4:2a771962-4e90-4d88-8793-5881a47594b8&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2VsLW1vbmpl&amp;clientTag=html5:v7.56
 
-#EXTINF:-1 tvg-id="Trinidad.eu" tvg-name="Trinidad (HD)" tvg-logo="https://www.ecartelera.com/carteles/7600/7671/001_m.jpg" type="movie" group-title="PELICULAS",TRINIDAD movies| HD
+#EXTINF:-1 tvg-id="Trinidad.eu" tvg-name="Trinidad (HD)" tvg-logo="https://www.pantalla90.es/wp-content/uploads/2017/01/gchgkMYAVH2GiEQUYO1Wq6sN4mt.jpg" type="movie" group-title="PELICULAS",TRINIDAD movies| HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z3E0ei9TTjhxRmNqVEY=.m3u8?double_encode=1
 
-#EXTINF:-1 tvg-id="6 Balas.eu" tvg-name="6 Balas (HD)" tvg-logo="https://www.cineycine.com/archivos/2017/12/6-balas-poster.jpg" type="movie" group-title="PELICULAS",6 Balas | (HD)
-https://cfvod.kaltura.com/scf/enc/hlsm/p/2657331/sp/265733100/serveFlavor/entryId/1_b4jvbka6/v/1/ev/10/flavorId/1_qkydtnpv/name/a.mp4/index.m3u8/index-v1-a1.m3u8?Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9jZnZvZC5rYWx0dXJhLmNvbS9zY2YvZW5jL2hsc20vcC8yNjU3MzMxL3NwLzI2NTczMzEwMC9zZXJ2ZUZsYXZvci9lbnRyeUlkLzFfYjRqdmJrYTYvdi8xL2V2LzEwL2ZsYXZvcklkLzFfKiIsIkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MjE0NzQ4MzY0N319fV19&amp;Signature=IkyBR5fkU5zQYzJEBTDep-QmaynseoSn02dFQlHWevokXvuaH21Cr-6HcW4ZxuT7nwBwExuaUOQwceEowAYfx21hpZWQx8ayvoV-easQhaEfEC3GOxcekWdOlT7s4RRfeHnUKGuK8UOsFF-489xkAqexPkeMAt4-zfvsGgvzZY5-9evkWXjCCUarT3F5Oeh~7kbPakTGQSAYPatuNyg9SXvBxXVHtyF~2oVf7FfLVYezZ67T~6XzyNEiFbelB7WJcYsXqHum~6errrnmc6iWPJo3DNM0cbJwo69QJjSXntNFO4OaQxWaCkxjM2lOlR1mVh6pCJTSGGu40PV~vxF55Q__&amp;Key-Pair-Id=APKAJT6QIWSKVYK3V34A
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/03/17/13/02/022315.jpg" type="movie" group-title="PELICULAS",Zapatero su Zapatos | (HD)
+https://ia802802.us.archive.org/11/items/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjhhbd.mp4
 
 #EXTINF:-1 tvg-id="Zona 414.eu" tvg-name="Zona 414 (HD)" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/tTuduA578eoIwwztWsLJJYZr6E5.jpg" type="movie" group-title="PELICULAS",Zona 414 | (HD)
 https://wvpmla.sn.files.1drv.com/y4m_w_wuU9SUT7qhhBz_AAm_QJD-nyACppTmrheR3WnzMnmxfaoL58zkz7qRzoliBaSodtemhdQFcZangmAld9QQuiBZvfzDCewFFyB_6CWJaoB1TIHUkjF2x_rAACVbHwzuRlmGI_MQM3JHs3yCMdIsk3HMwTKarMJT6XZQDiqFNEmU-TEiHG1b3CNkuQVKPPRXEJaXS3ZqlQc-8A6BEBhYg?
@@ -1601,7 +1601,7 @@ http://144.217.70.79/VODS-M /1080P/Thor%20the%20dark%20world%202013.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg" group-title="PELICULAS" type="movie" , Dont breathe (2016) 
 http://144.217.70.79/VODS-M/1080P/Dont%20breathe%202016.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="PELICULAS" type="movie" , Mr) 
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/65a728fa23c4f490d15cdea1f37ee462aef336ddb39e8a31f0a13a2ea0f90ee6._RI_TTW_.jpg" group-title="PELICULAS" type="movie" , Mr.right) 
 http://144.217.70.79/VODS-M/1080P/Mr.right%202015.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/krMI3hRmlgKcuNc3XBWtl8APasR.jpg" group-title="PELICULAS" type="movie" , Race (2016) 
@@ -1805,7 +1805,7 @@ http://144.217.70.79/VODS-M/1080P/The%20Gods%20Must%20Be%20Crazy%201980.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg" group-title="PELICULAS" type="movie" , Zulu (1964) 
 http://144.217.70.79/VODS-M/1080P/Zulu%201964.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500" group-title="PELICULAS" type="movie" , (2012 (2009)) 
+#EXTINF:-1 tvg-logo="https://img.aullidos.com/imagenes/caratulas/2012-2.jpg" group-title="PELICULAS" type="movie" , (2012 (2009)) 
 http://144.217.70.79/VODS-M/1080P/2012%20(2009).mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8yKdQHaqOo1lkaErmqMuYFespYI.jpg" group-title="PELICULAS" type="movie" , Snow White and the Huntsman (2012)
@@ -1946,8 +1946,23 @@ http://144.217.70.79/VODS-M/1080P/Curly%20Sue%201991.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4RErLw0APt8qQiee0d8VCKasWwl.jpg" group-title="PELICULAS" type="movie" , A christmas prince the royal baby (2019) 
 http://144.217.70.79/VODS-M/1080P/A%20christmas%20prince%20the%20royal%20baby%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lnWkyG3LLgbbrIEeyl5mK5VRFe4.jpg" group-title="PELICULAS" type="movie" , 6 underground (2019) 
-http://144.217.70.79/VODS-M/1080P/6%20underground%202019.mp4 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eo28MSJ50erE1oPg9XGk8yu9Cn1.jpg" group-title="PELICULAS" type="movie" , Hope Springs Eternal (2018) 
+http://144.217.70.79/VODS-M/1080P/Hope%20Springs%20Eternal%202018.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg" group-title="PELICULAS" type="movie" , Monte Carlo (2011) 
+http://144.217.70.79/VODS-M/1080P/Monte%20Carlo%202011.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg" group-title="PELICULAS" type="movie" , Sweet Home Alabama (2002) 
+http://144.217.70.79/VODS-M/1080P/Sweet%20Home%20Alabama%202002.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/csle64zkLObsdRoabreC6bBRxLI.jpg" group-title="PELICULAS" type="movie" , Unstoppable (2010) 
+http://144.217.70.79/VODS-M/1080P/Unstoppable%202010.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg" group-title="PELICULAS" type="movie" , The Boss (2016) 
+http://144.217.70.79/VODS-M/1080P/The%20Boss%202016.mkv 
+
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg" group-title="PELICULAS" type="movie" , Second Act (2018) 
+http://144.217.70.79/VODS-M/1080P/Second%20Act%202018.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uNHueGo5TYCTLzoGULse65GC32Q.jpg" group-title="PELICULAS" type="movie" , Dont let go (2019) 
 http://144.217.70.79/VODS-M/1080P/Dont%20let%20go%202019.mp4 
@@ -2075,10 +2090,10 @@ http://144.217.70.79/VODS-M/1080P/Aliens%201986.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"group-title="PELICULAS" type="movie" , Once Upon a Time in Hollywood (2019) 
 http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20Hollywood%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg" type="movie" , Look Whos Back (2015) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg" group-title="PELICULAS" type="movie" , Look Whos Back (2015) 
 http://144.217.70.79/VODS-M/1080P/Look%20Whos%20Back%202015.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" type="movie" , It Chapter Two (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="PELICULAS" type="movie" , It Chapter Two (2019) 
 http://144.217.70.79/VODS-M/1080P/It%20Chapter%20Two%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg" group-title="PELICULAS" type="movie" , The irishman (2019) 
@@ -2380,7 +2395,7 @@ http://144.217.70.79/VODS-M/1080P/Ideal%20home%202018.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" type="movie"group-title="PELICULAS" , X-men dark phoenix (2019) 
 http://144.217.70.79/VODS-M/1080P/X-men%20dark%20phoenix%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h2ZZCMf0aNMOmRK7P7ZuaVyBis6.jpg" type="movie"group-title="PELICULAS" , Ma (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h2ZZCMf0aNMOmRK7P7ZuaVyBis6.jpg" type="movie"group-title="PELICULAS" , Ma ROSA (2019) 
 http://144.217.70.79/VODS-M/1080P/Ma%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E9rJ8G6RepClgFZ9DR0GsKO3n6.jpg" type="movie" , Beats (2019) 
@@ -2445,7 +2460,7 @@ http://144.217.70.79/VODS-M/1080P/Lets%20Be%20Cops%202014.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jiORLnBsGcVcqIibkGBE213zAyh.jpg"group-title="PELICULAS" type="movie" , Red Tails (2012) 
 http://144.217.70.79/VODS-M/1080P/Red%20Tails%202012.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500"group-title="PELICULAS" type="movie" , E) 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1189214892684918785/O_Y2ux30_400x400.jpg"group-title="PELICULAS" type="movie" , Extra) 
 http://144.217.70.79/VODS-M/1080P/E.T.%20the%20Extra-Terrestrial%201982.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg"group-title="PELICULAS" type="movie" , Men In Black (1997) 
@@ -2699,4 +2714,3 @@ http://144.217.70.79/VODS-M/1080P/211%202018.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="PELICULAS" type="movie" , Escape plan the extractors (2019) 
 http://144.217.70.79/VODS-M/1080P/Escape%20plan%20the%20extractors%202019.mp4
-
