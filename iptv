@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
-#EXTINF:-125 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
+#EXTINF:-2 tvg-logo="https://www.tvmundogt.com/wp-content/uploads/2020/10/5.jpeg" group-title="MEXICO", MUNDO TV | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS TV | SD
@@ -21,7 +21,7 @@ https://video.misistemareseller.com/ecuastereotv/ecuastereotv/chunklist_w1891749
 https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.imgur.com/897e9wy.png" group-title="MEXICO", Teleritmo | SD
-http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-9 tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg" group-title="ECUADOR", TVC ec | HD
 https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
@@ -170,7 +170,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/640px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", ECUAVISA costa HD
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
 
-#EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CHILE", Planeta TV movies  | SD
+#EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
 https://scl.edge.grupoz.cl/movie/live/chunklist_w248713290.m3u8?WebM3UCL
 
 #EXTINF:-59 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png?resize=696%2C392&amp;ssl=1" group-title="PARAGUAY", Unicanal | SD
@@ -233,8 +233,8 @@ https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
 #EXTINF:-78 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46140fd597ed896d58f12c7e794d5f06.webp" group-title="PARAGUAY",Jazmín Tv En Vivo
 https://tvdatta.com:3957/stream/play.m3u8
 
-#EXTINF:-79 tvg-id="Canal 10 CHiapas.mx" tvg-name="Canal 10 Chiapas (MX)" tvg-logo="https://www.coolstreaming.us/img/ch/image78632012243.jpg" group-title="MEXICO", CANAL 10 CHIAPAS (MX)
-https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist_w1400717752.m3u8
+#EXTINF:-79 tvg-id="Canal 10 CHiapas.mx" tvg-name="Canal 10 Chiapas (MX)" tvg-logo="http://www.rtq.mx/wp-content/uploads/2022/04/RTQ-logo-blanco-1.jpg" group-title="MEXICO", CANAL 10 RTQ (MX)
+https://59d39900ebfb8.streamlock.net/rytqrolive/rytqrolive/chunklist_w463973390.m3u8
 
 #EXTINF:-80 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="PARAGUAY", KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
@@ -288,7 +288,7 @@ https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-97 group-title="DEPORTES", SPORTS PLUTO FUTBOL
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/63c6e37e636b7e0007ccb635/master.m3u8?advertisingId=&appName=web&appVersion=7.0.0-5be6dadc7535b498a3b3c186a281977403f4d134&app_name=web&clientDeviceType=0&clientID=4c2a1f52-4888-4f00-9d88-21955d651184&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&deviceLat=-0.2910&deviceLon=-76.4083&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=113.0.0&marketingRegion=VE&serverSideAds=true&sessionID=b08b08ba-fab9-11ed-8295-f6bb0e16a023&sid=b08b08ba-fab9-11ed-8295-f6bb0e16a023&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg1OWFjNTgyLTEwNTgtNGZiYy05NDBmLWI3MGNiOTFiNzQyZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJiMDhiMDhiYS1mYWI5LTExZWQtODI5NS1mNmJiMGUxNmEwMjMiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjAuMC01YmU2ZGFkYzc1MzViNDk4YTNiM2MxODZhMjgxOTc3NDAzZjRkMTM0IiwiY2xpZW50SUQiOiI0YzJhMWY1Mi00ODg4LTRmMDAtOWQ4OC0yMTk1NWQ2NTExODQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9HdWF5YXF1aWwiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TkdNeVlURm1OVEl0TkRnNE9DMDBaakF3TFRsa09EZ3RNakU1TlRWa05qVXhNVGcwIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4NTA3NzQ5NSwiaWF0IjoxNjg0OTkxMDk1LCJqdGkiOiJkM2MxOTEwMC1iNzdhLTRjZjUtOWU5Yy05Mjg3ODdjNjQ4NTkifQ.LsA1BG_M-_xkzBCECSMJKNZ19a6vqAyFMxCqitNA_T8&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQE8BXhEEmr__XZpK4edaHlzygNkBLYW6rkirhQzAKTCgjfyu0xHtEUqRX23FKqip8deCK06T_Ym5puuaKff4DyAqtvz2L8_Py5kYQDNYxGc9u4BLImluOGUoWV2iX5uv0BOzXPxt_ZxsDVhl6ZM7Yz9vxEq9UtZo6nYF-1558xDRCMvfYB2Mys1Kp6tFTAyP_FwUmjzDiS3OrSNUmxcd_UwfFQbg-nEKPqK89MDf74cqJC8J7D_u2ok16_IzzXe4RyRrKQb8ypzaFZi2348RyWtpCWRf0YW_E5oiMFrK3f72QC2tNH4KBg2quZJHdJ7_Vw4t7A6bcS7JVFgjzZqixlHV26Psae_2xJMMd3XnjQlh0GxSq9MiVn71ecTr1R6n2fwptMotDLKFSiTBU9QpiegOHIJcIr1widk96KTf7LBF5BDpwirNwDE4IsoFO18zNdtJYsYCFSrbuCaVQpskcjWMRqBZKw0ryfZUDDMl7UzNvAeelhA9Kjw6aLr1PdVgagbTowA6HCu36rtvIEq8l7UCi7mtnt3DZvDO7Ryq-pLscgWddixMR-myGagfYEC4MxQVuNlnS7gGrLPZMxRcuqY5BjtVNbEesE54Rv6u5rneHUo9DMLYaiEnONuROoa5dXvIOUKPr2Dtj2Sc9nqclR7IF_OWwDgONVOwdZcFeJWyZOjIMtJ03VooRFx1nRzYAT0vlw0vOuGrwNAv3NsZD_FvPNLVylIG69oYWg9JDnOVbJRYWwVS3ljC7TJ0n_0eOIcV11Kk7itPB6OP84RctKn0GPmCeFiQAqnRcMwMyi90QxV1YZ9M8WSa3RJJgcKZrbViOrweGpytMxKzV1-EmcsD22IdmLZZcEgheom2ir6oqlahce3F5ucTVDWQd-cqIShLqo0V9Tiq4NxOvmxYwQOYapBpRM9SWEAoQ3vb7SeAtv51W4rYCQjmAaJF26YuQKeLmePsRnMVg87JiVWHNhjE68ydbSqIfTTKqjWbUhVBX9kVOk9BfAqKHPLQ6jlFlAgVVKWglehv9aAVJfV_jBj4Ht0-J6o4MzXlxlO7Ld141MMWbBB1uQDV8WVAOg0Q_OytHWTSWSkpqjWxadMicAJWr47DGagB8jQZ9N6eXW9njXmCUFdjQ5ZJekIlgG-3nlNyLbtzOKehofMPU2pOvsBePq0EnBxS_GAJtT5Ysogb8yKNgj_kVHSobLQS4jgCgflydqDyMo3EAgkJxbTKGVAvyV9wqFxI9_6opJcmVr0WAftVk.&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%2226148c1a-948d-4e29-a983-16dbcd9a57d5%22%2Csu&startingOffset=0
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/63c6e37e636b7e0007ccb635/master.m3u8?advertisingId=&appName=web&appVersion=7.0.0-5be6dadc7535b498a3b3c186a281977403f4d134&app_name=web&clientDeviceType=0&clientID=4c2a1f52-4888-4f00-9d88-21955d651184&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&deviceLat=-0.2910&deviceLon=-76.4083&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=113.0.0&marketingRegion=VE&serverSideAds=true&sessionID=7d2c24e7-fb52-11ed-8819-8ed80e2f5ca6&sid=7d2c24e7-fb52-11ed-8819-8ed80e2f5ca6&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg1OWFjNTgyLTEwNTgtNGZiYy05NDBmLWI3MGNiOTFiNzQyZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3ZDJjMjRlNy1mYjUyLTExZWQtODgxOS04ZWQ4MGUyZjVjYTYiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjAuMC01YmU2ZGFkYzc1MzViNDk4YTNiM2MxODZhMjgxOTc3NDAzZjRkMTM0IiwiY2xpZW50SUQiOiI0YzJhMWY1Mi00ODg4LTRmMDAtOWQ4OC0yMTk1NWQ2NTExODQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9HdWF5YXF1aWwiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TkdNeVlURm1OVEl0TkRnNE9DMDBaakF3TFRsa09EZ3RNakU1TlRWa05qVXhNVGcwIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4NTE0MzEyMiwiaWF0IjoxNjg1MDU2NzIyLCJqdGkiOiJmODIwYjg1NS1lYTBiLTQwZGQtYjQxMC1lMTZhMDJmYzJmNjcifQ.Os-reuaES9zIYHE75j-31nxWaDKYEsAP8MgMSfi54oY&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEjFwm1NjVM4AUQTsgD7VYZtaxApwUWwp40tXk57O_SO8u6C_wW7wYwNlz9v43zSkAWI0SoaB1PWaYEypcio9h5VLwoCAi_xbGykn_ACxdNqkkb5HnQgraVXmm0A-8KLLHBrEoSemf8DTDvLSgKWxGc6K4clQ95YUL9vKJSg578l5cfD21YiENef6CSu1qWnKER5QGgfQdys4sR1po8NlJeaSvSaXoSkjC1rf49AEaXvDO2n0VMJRcro6Sd5AO7sh5toEhqPCxDXaeQ9NpGh_lhU2TwfZNAOfo_sz9eQ7PGs07P4v3Jms_2eo_rA_AYR4YZsJBVHIMT1y8UVZ9LTXAKMeHghzTDQ_9AuA6nwbUxR22gpuANcHdrIW0zpsv_57hsGTmLzAoH8bMrtgC2CHXefeA_muB1wZoDer9DAEU4K8Ka_dAg-eBWR_T5oulo2TnIMwKlME96jxhfRqYkfyKm2c0JINw1TcEkBIm2jUgLOk7ZtKyPLOJAUrucIdVz6fVnm6HPxEPMTDVPTNBMpooQ-XD_cIgAcaqT-jTvNHuLVZNFaGfo7GeIWqSr5JyYMEIPaW_Uo3WiDc4XbRl0Py4VjiWORm8tTDGAhiGd_iDdbIWvHv60tdNBrz7NckekCbpmPqgZovuvtSVGubF6Ybd22_CLbpqV5NiL_ddsk_TQuAFHPWMpBJybBBbU9gCZn0PhTvzb5SqacpkE5vPguWU2QAQqoxx3yswr4gRalCLIm6ombDGwQaWZxfBsJPSY3r2K7WxSKPraqKUDZyNWfk-awDjrHTpmgKmmLv7Q3q2LsITOYJSm5hyhmmexoQjSjEEibCykIgkR-TjTI01cyN65loat4XhrKSgbFoefNM91cyfGRyeZDTl39bg0dkfrZEVg9FvAKtttHORKCEr6wmyDZBWrQCjg0UiQU_tXhaspXDXN-K8pC_oQ7qLxkYy0Q9FHCWIMlQWx-nwRuBgm4mpQVP89Su3_H3PzpMH1Cyg3bCmsBKDXDtLzDMtcriV1gcFsE1AXaJnwlMK41Tx0lkh-7x8G1ubQfft-2U0b0X1WASvIxppqnTbBrDW66myHP6Bh6uLFtIwqBfyyNXcWerA-LW9sL6Y5One38AdBOuZeDHcwHGoXq2j8IywVr26OunUj1pmJQEiHFjjwOKTtWi1Geoo6-NuPdHtQrg_WRGYX_4Mi5N9bzntuJDoY9sCGHReAFMYiAl06AQEkO5maB4iFNWqG-VdEeTKiJj5wWly-tl19AKlI8C0yTIVe-hLUAq1VUzraFsf1qKzrsfpVgkHAkV1KhE9ZNSYWsPQ&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a5a783fc-e93d-45db-980e-d1ec2cb19218%22%2Csu&startingOffset=0
 
 #EXTINF:-98 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
@@ -296,10 +296,13 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTINF:-99 tvg-logo="https://i.postimg.cc/PqZbtGH6/NICKTEEN.png" group-title="INFANTIL", NICK TEEN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
 
+#EXTINF:-100 tvg-logo="https://fmmundo.com/wp-content/uploads/2022/04/Logo-Fm-Mundo-radio-copy.png" group-title="ECUADOR", FM MUNDO TV | HD
+https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+
 #EXTINF:-101 tvg-logo="http://3.bp.blogspot.com/-u80D-SioUtE/Ts5fIVlJxgI/AAAAAAAAAFY/GxPAuB6LiWg/s1600/movies_logo_5.gif" group-title="CINE Y SERIES", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
 
-#EXTINF:-102 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="CINE Y SERIES", RETRO PLUS TV CINE
+#EXTINF:-102 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="CINE Y SERIES", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-103 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="CINE Y SERIES", ACS NETWORK
@@ -318,13 +321,13 @@ https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 https://channel04dai-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8?hdnea=st=1683255207~exp=1683255507~acl=*~id=393d86a4-2834-4a3e-b967-00c953f481a1~hmac=31c9eddf90bb623641d8ce87da969ad074109c98fceb2bc3c73c7611d28c7f1c&originpath=/linear/hls/pa/event/3UsAIXvJTlG81i3EGHF8ZA/stream/bf113414-a5a6-4499-9fc6-f55258f953e7:CHS/master.m3u8
 
 #EXTINF:-108 tvg-logo="https://i.postimg.cc/G2vz3nRG/image.png" group-title="COSTA RICA", SARAPIQUÍ TV
-https://list.iptvcat.com/my_list/s/e2cdee5e838c70a0a2f888fca8c7a2d4.m3u8
+https://lstv.duckdns.org:449/hls/stv.m3u8
 
 #EXTINF:-109 tvg-logo="https://i.postimg.cc/qqMKPPvk/telesistema.png" group-title="COSTA RICA", TELESISTEMA
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/playlist.m3u8
 
 #EXTINF:-110 tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES", LOVE NATURE EN ESPAÑOL
-https://bamus-spa-roku.amagi.tv/playlist.m3u8
+https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dd6b1da79e4d0007309455/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-111 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="INFANTIL", LATINO KIDS
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
@@ -353,8 +356,8 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-119 tvg-logo="https://mplay.es/images/2020/canales-azcorazon.png" group-title="MEXICO", Corazon tv | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
-#EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ec | SD
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0KA_P3U4tUUMVMetuCa25bJdXHfKfmTwxkTZXT2a29A)/dm/3/x7wijay/s/live-2.m3u8#cell=lnyc
+#EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
+https://youvideostreaming.club/hls/ecutv3.m3u8
 
 #EXTINF:-121, VIX NOVELAS DE ORO | HD
 https://linear-196.frequency.stream/196/hls/master/playlist.m3u8
@@ -398,11 +401,14 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1488662887.m3u8
 
-#EXTINF:-1  tvg-logo="https://fmmundo.com/wp-content/uploads/2022/04/Logo-Fm-Mundo-radio-copy.png" group-title="ECUADOR", FM MUNDO TV | HD
-https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
+#EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
+https://scl.edge.grupoz.cl/movie/live/chunklist_w1379090887.m3u8
 
 #EXTINF:-1 group-title="COSTA RICA", Multizonas tv | HD
 https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
@@ -413,19 +419,20 @@ https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-421 tvg-logo="https://i.postimg.cc/dQy6QJWf/spakinew.png" group-title="MÚSICA", MTV SPAKIN' NEW
+#EXTINF:-421 tvg-logo="https://i.postimg.cc/dQy6QJWf/spakinew.png" group-title="MUSICA", MTV SPAKIN' NEW
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="CINE Y SERIES",CANELA CLÁSSICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
+
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES", CINE LIFE
 https://magselect-stirr.amagi.tv/playlist720p.m3u8
 
-
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/sf5LjSCR/mitv.png" group-title="CINE Y SERIES", MI TV CINE
-http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+#EXTINF:-72 tvg-logo="https://www.coolstreaming.us/img/ch/image96674211510.jpg" group-title="DEPORTES", Mas23 TV
+https://mediacp.us:8081/mas23tv/index.m3u8
 
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/FHFj3Qxh/vegavisión_canal_18.png" group-title="REPUBLICA DOMINICANA", VEGAVISIÓN CANAL 18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
@@ -514,6 +521,9 @@ https://5ab772334c39c.streamlock.net/live-calitv/calitv1/.m3u8
 #EXTINF:-1 tvg-logo="https://img1.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/960x540/rcn-mas_1.jpg" group-title="COLOMBIA", RCN MAS | SD
 https://rcntv-rcnmas-1-us.plex.wurl.tv/3000.m3u8
 
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="COLOMBIA", VISIÓN DORADA TV
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/Rcn-xtra_2.png" group-title="COLOMBIA", RCN EXTRA | HD
 https://latv-rcn-xtra-1-mx.tcl.wurl.tv/3000.m3u8
 
@@ -527,7 +537,7 @@ https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w780463758_b1828000_sleng.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1770429_b1828000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8nCB06w.png" group-title="ARGENTINA", Telpin Canal 2 | SD
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w1288573524_b1344100_sleng.m3u8
@@ -552,9 +562,6 @@ https://vcp2.myplaytv.com/telesol/telesol/chunklist_w794515700.m3u8
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/fJ6TKmzdPANhI24NH8ULV8pbEsBhWPT3e6O6xchiQmsnlWLhViE904dJd5rvfZUwwQ" group-title="COLOMBIA", Canal-14 Codazzi TV | SD
 https://eu1.servers10.com:19360/8056/8056.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LU2WQFP.jpg" group-title="ARGENTINA", Canal 11 Ushuaia | HD
-https://stream.solumedia.com.ar/c11/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YyAsaqb.png" group-title="DEPORTES", DeporTV | SD
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
@@ -631,17 +638,11 @@ https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 #EXTINF:-1 tvg-name="CBS News" tvg-logo="https://canalesdominicanos.live/template/images/radios/telemax.png" group-title="CINE Y SERIES",TELEMAX
 https://cdn2.streamgato.us/telemax/telemax/chunklist_w825643099.m3u8
 
-#EXTINF:-1 tvg-name="Canal 26" tvg-logo="https://i.imgur.com/ubzkixu.png" group-title="ARGENTINA",Canal 26
-http://tvpremiumhd.club/lista-gratuita/green/canal26.m3u8
-
 #EXTINF:-1 tvg-name="RCC TV" tvg-logo="https://1.bp.blogspot.com/-TFCLCbyzLJg/YTX7J_MP0VI/AAAAAAAAQYU/NmDse7rND7MbfbhJvdimrzRhZ8HAFBXGgCLcBGAsYHQ/w172-h172/RCC%2BTV%2BEn%2Bvivo.png" group-title="PARAGUAY",RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
 
 #EXTINF:-1, Ñanduti tv
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
-
-#EXTINF:-1 tvg-name="ADN 40" tvg-logo="https://latele.com.py/wp-content/uploads/2022/06/logo-latele.png" group-title="PARAGUAY",LATELE
-https://rds3tf.desdeparaguay.net/latele/latele_int_baja/chunklist_w2048172176.m3u8?k=b17fa3477ec68e7d88471aa0c5dbe8fcf7351626e236754ae3fc5fdcdcc4b9c3&amp;exp=1682558282
 
 #EXTINF:-1 tvg-logo="https://lasuperdiscotecatv.com/wp-content/uploads/2021/04/LOGO2.png" group-title="MUSICA", SUPER DISCOTECA TV
 https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
@@ -1576,7 +1577,7 @@ http://144.217.70.79/VODS-M/1080P/Godzilla%20vs%20Mothra%201992.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg" group-title="PELICULAS" type="movie", Dreamland (2019) 
 http://144.217.70.79/VODS-M/1080P/Dreamland%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/ w500/wQmmJi5ypfHH2boXrQBmsep7qb2.jpg" group-title="PELICULAS" type="movie", Dead Man Walking (1995) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4Mzc4Mjg5OV5BMl5BanBnXkFtZTYwNjg4OTQ5._V1_.jpg" group-title="PELICULAS" type="movie", Dead Man Walking (1995) 
 http://144.217.70.79/VODS-M/1080P/Dead%20Man%20Walking%201995.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="PELICULAS" type="movie", Elektra (2005) 
@@ -1603,8 +1604,7 @@ http://144.217.70.79/VODS-M/1080P/Spider -Man%20Far%20from%20Home%202019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="PELICULAS" type="movie", Spider- Hombre de regreso a casa (2017) 
 http://144.217.70.79/VODS-M/1080P/Spider-Man%20Homecoming%202017.mkv 
 
-#EXTINF:-1 tvg-logo="https:// image.tmdb.org/t/p/w500/3sLz2yv6vBDWqBbd8rdnNeoJ2kJ.jpg" group-title="PELICULAS" type="movie" , The Witcher La pesadilla del lobo (2021) 
-http://144.217.70.79/VODS-M/1080P/The%20Witcher%20Nightmare %20of%20the%20Wolf%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023)
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJkkkG4ditqNzlua0oJzoaICGiz.jpg" group-title="PELICULAS" type="movie", Dan en la vida real (2007) 
 http://144.217.70.79/VODS-M/1080P/Dan%20in%20Real%20Life%202007.mkv 
@@ -2101,7 +2101,7 @@ http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%201993.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg"group-title="PELICULAS" type="movie" , Jurassic Park III (2001) 
 http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%20III%202001.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg" type="movie" , Jurassic park II the lost world (1997) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg" group-title="PELICULAS" type="movie" , Jurassic park II the lost world (1997) 
 http://144.217.70.79/VODS-M/1080P/Jurassic%20park%20II%20the%20lost%20world%201997.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg"group-title="PELICULAS" type="movie" , Aliens (1986) 
@@ -2256,7 +2256,7 @@ http://144.217.70.79/VODS-M/1080P/The%20king%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/osjexM9Yol8UwdTr5fce5zJkyvy.jpg"group-title="PELICULAS" type="movie" , Three Violent People (1956) 
 http://144.217.70.79/VODS-M/1080P/Three%20Violent%20People%201956.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg" type="movie" , The art of racing in the rain (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mi5VN4ww0JZgRFJIaPxxTGKjUg7.jpg"group-title="PELICULAS" type="movie", The art of racing in the rain (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20art%20of%20racing%20in%20the%20rain%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cEr3S3Atr4eRlHmMOA1GvaX0f4p.jpg"group-title="PELICULAS" type="movie" , Rattlesnake (2019) 
@@ -2540,7 +2540,7 @@ http://144.217.70.79/VODS-M/1080P/Lego%20batman%20family%20matters%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg"group-title="PELICULAS" type="movie" , The Return Of Jafar (1994) 
 http://144.217.70.79/VODS-M/1080P/The%20Return%20Of%20Jafar%201994.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500"group-title="PELICULAS" type="movie" , Born In East L) 
+#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1Njk5OTc4N15BMl5BanBnXkFtZTYwMTc0NDM5._V1_.jpg"group-title="PELICULAS" type="movie" , Born In East L) 
 http://144.217.70.79/VODS-M/1080P/Born%20In%20East%20L.A.%201987.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg"group-title="PELICULAS" type="movie" , Aladdin And The King Of Thieves (1996) 
@@ -2654,7 +2654,7 @@ http://144.217.70.79/VODS-M/1080P/Long%20shot%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg"group-title="PELICULAS" type="movie" , Escape from Alcatraz (1979) 
 http://144.217.70.79/VODS-M/1080P/Escape%20from%20Alcatraz%201979.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1II9kMjOuho3pnEvxkpx7e3ozOO.jpg" type="movie" , A Perfect World (1993) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1II9kMjOuho3pnEvxkpx7e3ozOO.jpg" group-title="PELICULAS" type="movie" , A Perfect World (1993) 
 http://144.217.70.79/VODS-M/1080P/A%20Perfect%20World%201993.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cVhe15rJLRjolunSWLBN6xQLyGU.jpg"group-title="PELICULAS" type="movie" , Fighting with my family (2019) 
@@ -2663,10 +2663,10 @@ http://144.217.70.79/VODS-M/1080P/Fighting%20with%20my%20family%202019.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jhTVNBVkdS4Wf6NXYA9kRKQU3YM.jpg"group-title="PELICULAS" type="movie" , Shrek (2001) 
 http://144.217.70.79/VODS-M/1080P/Shrek%202001.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg"group-title="PELICULAS" type="movie" ,group-title="PELICULAS" Shrek 2 (2004) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg" type="movie" ,group-title="PELICULAS" Shrek 2 (2004) 
 http://144.217.70.79/VODS-M/1080P/Shrek%202%202004.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg"group-title="PELICULAS" type="movie" ,group-title="PELICULAS" Shrek The Third (2007) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg" type="movie" ,group-title="PELICULAS" Shrek The Third (2007) 
 http://144.217.70.79/VODS-M/1080P/Shrek%20The%20Third%202007.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg" type="movie" ,group-title="PELICULAS" Shrek 4 (2010) 
@@ -2711,7 +2711,7 @@ http://144.217.70.79/VODS-M/1080P/Glory%201989.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xLXKYcmqJAdacWZy7enpMpiI4zw.jpg"group-title="PELICULAS" type="movie" , Point blank (2019) 
 http://144.217.70.79/VODS-M/1080P/Point%20blank%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z11Dd1r8BQhCLhLfRh1x5QuzMRw.jpg" type="movie" , Hide and Seek (2005) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z11Dd1r8BQhCLhLfRh1x5QuzMRw.jpg" group-title="PELICULAS" type="movie" , Hide and Seek (2005) 
 http://144.217.70.79/VODS-M/1080P/Hide%20and%20Seek%202005.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg" group-title="PELICULAS" type="movie" , Wildlife (2018) 
@@ -2732,6 +2732,18 @@ http://144.217.70.79/VODS-M/1080P/Alita%20battle%20angel%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/koap5B3bQHQi3yaZ39vpWR66TGP.jpg" group-title="PELICULAS" type="movie" , 211 (2018) 
 http://144.217.70.79/VODS-M/1080P/211%202018.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="PELICULAS" type="movie" , Escape plan the extractors (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r15SUgzjL8bablcdEkHk9T7TSRl.jpg" group-title="PELICULAS" type="movie" , Escape plan the extractors movies (2019) 
 http://144.217.70.79/VODS-M/1080P/Escape%20plan%20the%20extractors%202019.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen (2023) 
+https://archive.org/download/01_20230513/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg",Linaje Oscuro (2022) 
+https://archive.org/download/01_20230513_202305/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg",La madre (2023) 
+https://archive.org/download/01_20230512_20230512_2326/01.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqV0h_ZK47WmgqofBy4Jq62JtDRc2zAbgMj6lm4vmhA1oNLGM406vrhvAcShDWBXtotzs&usqp=CAU",HOMBRES DE NEGROS 
+https://rr3---sn-q4fl6nz6.c.drive.google.com/videoplayback?expire=1685156303&ei=jzlxZMehLNGApb0PgsKHqAY&ip=45.224.152.74&cp=QVRNV0JfVVNORFhPOmthODhQU29pbmh0MUJaMlN6WFpFSkFOX1FrRFpjODd2NFFvbjBwMGF3LXA&id=21f976f4ec79d7b1&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1D0K-860LHCPwxYaszjU804YlOI2YDacc&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6624.351&lmt=1660996036437279&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAJdE3O46nfapOXVnkgjH1VNIi1xvf53seZeh7TpKs0N6AiBSBWhQdZHAtZIj0Nre29MQ8u9IFveRBkBO9gdxsrb1PQ==&cpn=X07xcigEX0wqDemQ&c=WEB_EMBEDDED_PLAYER&cver=1.20230523.01.00&redirect_counter=1&cm2rm=sn-cvbel7s&req_id=7312cec9dbeb36e2&cms_redirect=yes&cmsv=e&mh=Ie&mm=34&mn=sn-q4fl6nz6&ms=ltu&mt=1685138190&mv=m&mvi=3&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRgIhAIH89xCcDFSf-kdouXmztlDo4Nq4n1hUYSALUWqSUj-XAiEAnGawc7Gb8ixEFOF8D97ofUzeKSjpxLELt7hLfe-EY6Y%3D
 
