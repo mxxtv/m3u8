@@ -128,7 +128,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 #EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", Pat tv | HD
 https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
 
-#EXTINF:44,Telemundo Opcion 1
+#EXTINF:-44,Telemundo Opcion 1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
 #EXTINF:-45 tvg-logo="https://i.imgur.com/6zwHGPE.png?1" group-title="NOTICIAS", CANAL ONCE
@@ -137,7 +137,7 @@ https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/chunklist_b1431072.m3u8
 #EXTINF:-46, Plomar TV
 https://vcp.myplaytv.com/promar/promar/chunklist_w631540690.m3u8
 
-#EXTINF:47 type="stream" channelId="-1", GLOBO TV HD
+#EXTINF:-47 type="stream" channelId="-1", GLOBO TV HD
 https://cdn.streamhispanatv.net:3862/live/teveglobolive.m3u8
 
 #EXTINF:-48, DW Entretenimiento
@@ -470,6 +470,9 @@ https://streamamg-sevil01.akamaized.net/hls/live/2039253/0_wzckw85c/master.m3u8?
 #EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/America_TV_SAS_logo.jpg" group-title="ESPAÑA", AMERICA TV | HD
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w529176325.m3u8
 
+#EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="INFANTIL", YU-GI-OH!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tio3Wpw.png" group-title="ESPAÑA", 324 | SD
 http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_mobil/master.m3u8
 
@@ -716,7 +719,7 @@ https://ztnr.rtve.es/ztnr/1688877.m3u8
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La2.TV
 https://rtvelivestream-clnx.rtve.es/rtvesec/la2/la2_main_dvr_720.m3u8
 
-#EXTINF:-1 tvg-logo="https://graph.facebook.com/pocoyo/picture?width=200&height=200" group-title="INFANTIL",PEQUERADIO
+#EXTINF:-240 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/pequeradio-tv-en-vivo-2317.jpg" group-title="INFANTIL",PEQUERADIO
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-1 tvg-logo="https://graph.facebook.com/TRECEtves/picture?width=200&height=200" group-title="ESPAÑA",13.TV
@@ -797,8 +800,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 #EXTINF:-1, Pluto Cartoon HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7a236036-f0de-11ec-884e-0242ac110003&sid=7a236036-f0de-11ec-884e-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3YTIzNjAzNi1mMGRlLTExZWMtODg0ZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODY4NiwianRpIjoiOTU4MDJhYjAtYjgxOS00YmVmLWJjMTgtMDE4ZmU3YTkxYjY0IiwiaWF0IjoxNjU1NzU5ODg2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.QVtzw0AeT2Cowcuere2sMTDHcipfpA-Bx3MJ8dh_tWY&masterJWTPassthrough=true
 
-#EXTINF:-1, MEGA ESPANA
-http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_2_av-b.m3u8
+#EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIL", BOB ESPONJA
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6254598f5083f800076d8563/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1, SONY NOVELAS HD
 https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
@@ -818,7 +821,10 @@ https://cdn.streamhispanatv.net:3531/live/tvsretrogtlive.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/2adc9ba45304258216fdecbbf9215a4f.webp" group-title="CINE Y SERIES", Retro plus | SD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-1, PLUTO ANIMALES
+#EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="INFANTIL", PAKA PAKA
+https://538d0bde28ccf.streamlock.net/live-cont.ar/pakapaka/chunklist_w1690172172.m3u8
+
+#EXTINF:-1 group-title="DOCUMENTALES" , PLUTO ANIMALES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=710bca97-f0df-11ec-991f-0242ac110003&sid=710bca97-f0df-11ec-991f-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MTBiY2E5Ny1mMGRmLTExZWMtOTkxZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4OTEwMCwianRpIjoiZGZmNWNmNjQtODQ5Yy00ZWRlLWE3ZDktNWQ0NTZkNDQzNmM1IiwiaWF0IjoxNjU1NzYwMzAwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.RRHzmGJzBrPHgK3mUn8cn6mu5SnvQcVo6nfw8a20CYc&masterJWTPassthrough=true
 
 #EXTINF:-1, Teleplay SD
@@ -851,6 +857,12 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff0009
 #EXTINF:-1, MEGA TV PARAGUAY
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
+#EXTINF:-91 tvg-logo="https://www-storage.13.cl/c13/13go/image/13kids.svg" group-title="INFANTIL", 13 KIDS
+https://dai.google.com/linear/hls/pa/event/LhHrVtyeQkKZ-Ye_xEU75g/stream/bc3f8417-0e7c-4bc5-976e-83bdf9ece732:MRN2/master.m3u8
+
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="CHILE", 13 PRIME
+https://dai.google.com/linear/hls/pa/event/p4mmBxEzSmKAxY1GusOHrw/stream/f6d0fdda-cad9-4536-a6bb-8b26a5596ec0:DLS/master.m3u8
+
 #EXTINF:-1 group-title="DEPORTES", ITV SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
@@ -859,6 +871,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 
 #EXTINF:-1 group-title="CINE Y SERIES", Vix Cine Club
 https://linear-192.frequency.stream/192/hls/master/playlist.m3u8
+
+#EXTINF:-72 group-title="CINE Y SERIES", TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU" group-title="COSTA RICA", CANAL 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -893,19 +908,19 @@ https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3pe
 #EXTINF:-1 tvg-logo="https://galocisnerosblog.com/wp-content/uploads/2021/09/Resumen-de-que-pasaria-si-el-capitan-Carter-fuera-el-primer-vengador.jpg.webp" type="movie" group-title="PELICULAS", El Capitán Carter lucha contra Hydra en una aventura retro de Marvel| HD
 https://1omgtestbucket.s3.amazonaws.com/user_2599%2Fvideos%2F6441e26b5fc29.mp4
 
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6044193f82e19c7a3b57bef8abbccd8734d5149ab30982387cd800ff70155217._RI_V_TTW_.jpg" type="movie" group-title="PELICULAS", Gigante de piedra movies| HD
+#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6044193f82e19c7a3b57bef8abbccd8734d5149ab30982387cd800ff70155217._RI_V_TTW_.jpg" type="movie" group-title="PELICULAS", Gigante de piedra movies  | SD
 https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/OA/XbQTHRlkvfBh_3k7lJAqH7huyht4qFtIvzt1rX2j8/megdpi1;/6m/phwUaIQk1kCbW-Wq5j8L9gfvcnEo4JkyJA6qnzmhk/megdpi1;/Li/lhz3YwVCUAbeGeTgVDWNQ_l1efPX7o0Egt_fE4jlk/megdpi1;/r9/evC8pnUH6PGAHo9CNwJ8_Hz0pbd_a-gof4CpJJWj8/megdpi1
 
-#EXTINF:-1 tvg-logo="https://televen.com/wp-content/uploads/2017/04/El-vengador-fantasma.jpg" type="movie" group-title="PELICULAS", El vengador fantasma movies| HD
+#EXTINF:-1 tvg-logo="https://televen.com/wp-content/uploads/2017/04/El-vengador-fantasma.jpg" type="movie" group-title="PELICULAS", El vengador fantasma movies  | SD
 https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/Lg/RPAuH36A5Rp3KeW1dSWEev53R1OhHueK82sJXXdUk/mgrsov1;/rL/tcca-jg0Xs1voag1DJDd_Ev52-UrdP-xjfYp9q2_M/mgrsov1;/j3/JGUM8tVpCr6o5vMn3k6FrfMionicDrOdHnWQu6kCE/mgrsov1;/3I/wIKkYWD1-myMB9jp0E_W6CzuGO0G9mSXVUVwegzhU/mgrsov1
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" type="movie" group-title="PELICULAS", Aironman 3 movies| HD
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/19/Iron_Man_3_poster.jpg" type="movie" group-title="PELICULAS", Aironman 3 movies  | SD
 https://www-bup37673.ssl0d.com/hls2/ChCNETYAgb-0UuMtDGNXKQ/1675831799/SsldVlMaFwSzCERAq5Mw-ORR--nkrVm9wpglCYOQz1g/master.m3u8            
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/04/07/11/43/1839314.jpg"group-title="PELICULAS",Doctor Strean movies| HD
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/c_310_420/pictures/22/04/07/11/43/1839314.jpg"group-title="PELICULAS",Doctor Strean movies  | SD
 https://www-xrm65778.ssl0d.com/hls2/bE4pdxtJs1th3-cAEODQ7g/1675835152/SsldVlMaFwSzCERAq5Mw-Ol4YOdmmum-0xUSKvvjkZs/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"type=" movie" group-title="PELICULAS",Viuda Negra movies| HD
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"type=" movie" group-title="PELICULAS",Viuda Negra movies  | SD
 https://cloclo58.cloud.mail.ru/videowl/360p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
              
 #EXTINF:-1 tvg-id="HD(HANSEL Y GRETEL).eu" tvg-name="HANSEL Y GRETEL (HD)" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/21/74/20333302.jpg" type="movie" group-title="PELICULAS",Hansel y Grete movies| (HD
