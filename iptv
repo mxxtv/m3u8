@@ -419,6 +419,21 @@ https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
 https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
 
+#EXTINF:-1 group-title="DEPORTES",ʙʀ | ESPN 1 ʜᴅ 
+https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQy 
+
+#EXTINF:-1 group-title="DEPORTES",ʙʀ | ESPN 2 ʜᴅ 
+https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQz 
+
+#EXTINF:-1 group-title="DEPORTES",US: ESPN 3 
+https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQ0 
+
+#EXTINF:-1 group-title="DEPORTES",US: ESPN DEPORTES 
+https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQ1 
+
+#EXTINF:-1 group-title="DEPORTES",US: ESPN NEWS 
+https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQ3
+
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
@@ -2771,9 +2786,62 @@ https://archive.org/download/01_20230513/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg",Linaje Oscuro (2022) 
 https://archive.org/download/01_20230513_202305/01.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg",La madre (2023) 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg",La madre (2023) 
 https://archive.org/download/01_20230512_20230512_2326/01.mp4
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSqV0h_ZK47WmgqofBy4Jq62JtDRc2zAbgMj6lm4vmhA1oNLGM406vrhvAcShDWBXtotzs&usqp=CAU",HOMBRES DE NEGROS 
-https://rr3---sn-q4fl6nz6.c.drive.google.com/videoplayback?expire=1685156303&ei=jzlxZMehLNGApb0PgsKHqAY&ip=45.224.152.74&cp=QVRNV0JfVVNORFhPOmthODhQU29pbmh0MUJaMlN6WFpFSkFOX1FrRFpjODd2NFFvbjBwMGF3LXA&id=21f976f4ec79d7b1&itag=18&source=webdrive&requiressl=yes&sc=yes&ttl=transient&susc=dr&driveid=1D0K-860LHCPwxYaszjU804YlOI2YDacc&app=explorer&mime=video/mp4&vprv=1&prv=1&dur=6624.351&lmt=1660996036437279&subapp=DRIVE_WEB_FILE_VIEWER&txp=0011224&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,vprv,prv,dur,lmt&sig=AOq0QJ8wRQIhAJdE3O46nfapOXVnkgjH1VNIi1xvf53seZeh7TpKs0N6AiBSBWhQdZHAtZIj0Nre29MQ8u9IFveRBkBO9gdxsrb1PQ==&cpn=X07xcigEX0wqDemQ&c=WEB_EMBEDDED_PLAYER&cver=1.20230523.01.00&redirect_counter=1&cm2rm=sn-cvbel7s&req_id=7312cec9dbeb36e2&cms_redirect=yes&cmsv=e&mh=Ie&mm=34&mn=sn-q4fl6nz6&ms=ltu&mt=1685138190&mv=m&mvi=3&pl=24&lsparams=mh,mm,mn,ms,mv,mvi,pl,sc&lsig=AG3C_xAwRgIhAIH89xCcDFSf-kdouXmztlDo4Nq4n1hUYSALUWqSUj-XAiEAnGawc7Gb8ixEFOF8D97ofUzeKSjpxLELt7hLfe-EY6Y%3D
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",Rock dog 3 
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv 
 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicolle 
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie"  tvg-logo="https://image.tmdb.org/t/p/w500//8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El último vagon 
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qué ver 
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv 
+
+#EXTINF:-1group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen 
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir 
+http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater 
+http://208.88.245.81/nuevo/crater.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra 
+http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre 
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",1 La sirenita (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023) 
+https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023) 
+https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicole Smith: Tú no me conoces (2023) 
+https://archive.org/download/01_20230520_20230520_2211/01.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vc87upO8vcAGj9OmgH3AIz6ikKB.jpg",2 Mighty Morphin Power Rangers: Ayer, hoy y siempre 
+https://archive.org/download/01_20230422_20230422_1858/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4EbeUgW9V5X4fabqWejxSZa4wtC.jpg",Crímenes En Chinatown 
+https://archive.org/download/01_20230419_20230419_1553/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",Chupa (2023) 
+https://archive.org/download/01_20230409_20230409/01.mp4
