@@ -36,7 +36,7 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
 #EXTINF:-13 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="COSTA RICA",Teletica | SD
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/TeleticaLiveStream/Stream7live4/chunks_dvr.m3u8?nimblesessionid=217462
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF:-14 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -54,7 +54,7 @@ https://vsrv2.az-streamingserver.com:3352/live/clarovisiontvradiolive.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.ammo.runtime&amp;app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&amp;app_domain=runtime.tv&amp;app_name=runtime&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=runtime&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=https%253A%252F%252Fwww.runtime.tv%252F&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1676561741&amp;id=2964&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=kEJu1%2Bg4igYcXJGirWitAeu2PDryiqCaws%2BdjxoACnQ%3D
 
 #EXTINF:-19 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
-https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/64697c51a08cf_13018905_2305210205_480p.m3u8
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazona ops | FHD
 https://youvideostreaming.club/hls/ecutv4.m3u8
@@ -171,7 +171,7 @@ https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 
 #EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
-https://scl.edge.grupoz.cl/movie/live/chunklist_w248713290.m3u8?WebM3UCL
+https://scl.edge.grupoz.cl/movie/live/chunklist_w248713290.m3u8
 
 #EXTINF:-59 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2016/06/Unicanal-en-vivo-Online.png?resize=696%2C392&amp;ssl=1" group-title="PARAGUAY", Unicanal | SD
 https://streaming.unicanal.com.py/live/unicanal_mid.m3u8
@@ -258,7 +258,7 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w55663209.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-87 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOa1RYjBsvox-Yo2sVktXs-_3Xbg-gM9oyTVQQAGw0WnamOg5l6azg3ynsIKI4X6WGLgD-wgnrf7laIbktlFz2yI7LfppXeuaJ6jC1g6cSfUrMHo1SDR2Y4RbWnT3h2Qm-9gyywG9fO-rjuKVlqf3YkXRs9Y8ck7IaZAAP7Z8NlsoiuPlvx59zBnLG/s200/CANE.jpg" group-title="DEPORTES", Canela Sports | HD
-https://stream.ads.ottera.tv/cl/230516chhh7pvbdllgclmo0j9g/854x480_1310534_2_f.m3u8?i=475_2013
+https://stream.ads.ottera.tv/cl/230605chv6l7p01i2ufjislqn0/854x480_1310534_2_f.m3u8?i=475_2013
 
 #EXTINF:-88 tvg-id="LIM TV .mx" tvg-name="LIM TV  (HD)" tvg-logo="https://www.coolstreaming.us/img/ch/ima32806760957.jpg" group-title="MEXICO",LIM TV  (HD)
 https://live.limplay.ml/limtv.m3u8
@@ -288,7 +288,7 @@ https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
 https://5a2b083e9f360.streamlock.net/bemtv/bemtv.sdp/playlist.m3u8
 
 #EXTINF:-97 group-title="DEPORTES", SPORTS PLUTO FUTBOL
-https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/proxy/63c6e37e636b7e0007ccb635/master.m3u8?advertisingId=&appName=web&appVersion=7.0.0-5be6dadc7535b498a3b3c186a281977403f4d134&app_name=web&clientDeviceType=0&clientID=4c2a1f52-4888-4f00-9d88-21955d651184&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&deviceLat=-0.2910&deviceLon=-76.4083&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=113.0.0&marketingRegion=VE&serverSideAds=true&sessionID=7d2c24e7-fb52-11ed-8819-8ed80e2f5ca6&sid=7d2c24e7-fb52-11ed-8819-8ed80e2f5ca6&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6Ijg1OWFjNTgyLTEwNTgtNGZiYy05NDBmLWI3MGNiOTFiNzQyZiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3ZDJjMjRlNy1mYjUyLTExZWQtODgxOS04ZWQ4MGUyZjVjYTYiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjAuMC01YmU2ZGFkYzc1MzViNDk4YTNiM2MxODZhMjgxOTc3NDAzZjRkMTM0IiwiY2xpZW50SUQiOiI0YzJhMWY1Mi00ODg4LTRmMDAtOWQ4OC0yMTk1NWQ2NTExODQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9HdWF5YXF1aWwiLCJzZXJ2ZXJTaWRlQWRzIjp0cnVlLCJlMmVCZWFjb25zIjpmYWxzZSwiZmVhdHVyZXMiOnsiaXNTdGl0Y2hlckVrcyI6dHJ1ZSwibXVsdGlQb2RBZHMiOnsiZW5hYmxlZCI6dHJ1ZX19LCJkcm0iOnsibmFtZSI6IndpZGV2aW5lIiwibGV2ZWwiOiJMMyJ9LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TkdNeVlURm1OVEl0TkRnNE9DMDBaakF3TFRsa09EZ3RNakU1TlRWa05qVXhNVGcwIiwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY4NTE0MzEyMiwiaWF0IjoxNjg1MDU2NzIyLCJqdGkiOiJmODIwYjg1NS1lYTBiLTQwZGQtYjQxMC1lMTZhMDJmYzJmNjcifQ.Os-reuaES9zIYHE75j-31nxWaDKYEsAP8MgMSfi54oY&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEjFwm1NjVM4AUQTsgD7VYZtaxApwUWwp40tXk57O_SO8u6C_wW7wYwNlz9v43zSkAWI0SoaB1PWaYEypcio9h5VLwoCAi_xbGykn_ACxdNqkkb5HnQgraVXmm0A-8KLLHBrEoSemf8DTDvLSgKWxGc6K4clQ95YUL9vKJSg578l5cfD21YiENef6CSu1qWnKER5QGgfQdys4sR1po8NlJeaSvSaXoSkjC1rf49AEaXvDO2n0VMJRcro6Sd5AO7sh5toEhqPCxDXaeQ9NpGh_lhU2TwfZNAOfo_sz9eQ7PGs07P4v3Jms_2eo_rA_AYR4YZsJBVHIMT1y8UVZ9LTXAKMeHghzTDQ_9AuA6nwbUxR22gpuANcHdrIW0zpsv_57hsGTmLzAoH8bMrtgC2CHXefeA_muB1wZoDer9DAEU4K8Ka_dAg-eBWR_T5oulo2TnIMwKlME96jxhfRqYkfyKm2c0JINw1TcEkBIm2jUgLOk7ZtKyPLOJAUrucIdVz6fVnm6HPxEPMTDVPTNBMpooQ-XD_cIgAcaqT-jTvNHuLVZNFaGfo7GeIWqSr5JyYMEIPaW_Uo3WiDc4XbRl0Py4VjiWORm8tTDGAhiGd_iDdbIWvHv60tdNBrz7NckekCbpmPqgZovuvtSVGubF6Ybd22_CLbpqV5NiL_ddsk_TQuAFHPWMpBJybBBbU9gCZn0PhTvzb5SqacpkE5vPguWU2QAQqoxx3yswr4gRalCLIm6ombDGwQaWZxfBsJPSY3r2K7WxSKPraqKUDZyNWfk-awDjrHTpmgKmmLv7Q3q2LsITOYJSm5hyhmmexoQjSjEEibCykIgkR-TjTI01cyN65loat4XhrKSgbFoefNM91cyfGRyeZDTl39bg0dkfrZEVg9FvAKtttHORKCEr6wmyDZBWrQCjg0UiQU_tXhaspXDXN-K8pC_oQ7qLxkYy0Q9FHCWIMlQWx-nwRuBgm4mpQVP89Su3_H3PzpMH1Cyg3bCmsBKDXDtLzDMtcriV1gcFsE1AXaJnwlMK41Tx0lkh-7x8G1ubQfft-2U0b0X1WASvIxppqnTbBrDW66myHP6Bh6uLFtIwqBfyyNXcWerA-LW9sL6Y5One38AdBOuZeDHcwHGoXq2j8IywVr26OunUj1pmJQEiHFjjwOKTtWi1Geoo6-NuPdHtQrg_WRGYX_4Mi5N9bzntuJDoY9sCGHReAFMYiAl06AQEkO5maB4iFNWqG-VdEeTKiJj5wWly-tl19AKlI8C0yTIVe-hLUAq1VUzraFsf1qKzrsfpVgkHAkV1KhE9ZNSYWsPQ&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%22a5a783fc-e93d-45db-980e-d1ec2cb19218%22%2Csu&startingOffset=0
+https://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/v2/stitch/hls/channel/63c6e37e636b7e0007ccb635/master.m3u8?advertisingId=&appName=web&appVersion=7.2.0-57e9a96fe7f66354de7957efff20f469e6772404&app_name=web&clientDeviceType=0&clientID=4c2a1f52-4888-4f00-9d88-21955d651184&clientModelNumber=1.0.0&country=EC&deviceDNT=false&deviceId=4c2a1f52-4888-4f00-9d88-21955d651184&deviceLat=-0.2910&deviceLon=-76.4083&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=113.0.0&marketingRegion=VE&serverSideAds=false&sessionID=f46c83e7-03f5-11ee-907c-92a0250404c8&sid=f46c83e7-03f5-11ee-907c-92a0250404c8&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjNmYmM5MDE3LTQ4NjYtNDQ1My05ZWE0LTU3MDI4ZmFlYmRjYiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJmNDZjODNlNy0wM2Y1LTExZWUtOTA3Yy05MmEwMjUwNDA0YzgiLCJjbGllbnRJUCI6IjQ1LjIyNC4xNTIuNzQiLCJjaXR5IjoiU2h1c2h1ZmluZGkiLCJwb3N0YWxDb2RlIjoiIiwiY291bnRyeSI6IkVDIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTAuMjkxLCJkZXZpY2VMb24iOi03Ni40MDgzLCJwcmVmZXJyZWRMYW5ndWFnZSI6ImVzIiwiZGV2aWNlVHlwZSI6IndlYiIsImRldmljZVZlcnNpb24iOiIxMTMuMC4wIiwiZGV2aWNlTWFrZSI6ImNocm9tZSIsImRldmljZU1vZGVsIjoid2ViIiwiYXBwTmFtZSI6IndlYiIsImFwcFZlcnNpb24iOiI3LjIuMC01N2U5YTk2ZmU3ZjY2MzU0ZGU3OTU3ZWZmZjIwZjQ2OWU2NzcyNDA0IiwiY2xpZW50SUQiOiI0YzJhMWY1Mi00ODg4LTRmMDAtOWQ4OC0yMTk1NWQ2NTExODQiLCJjbUF1ZGllbmNlSUQiOiIiLCJpc0NsaWVudEROVCI6ZmFsc2UsInVzZXJJRCI6IiIsImxvZ0xldmVsIjoiREVGQVVMVCIsInRpbWVab25lIjoiQW1lcmljYS9HdWF5YXF1aWwiLCJzZXJ2ZXJTaWRlQWRzIjpmYWxzZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7ImlzU3RpdGNoZXJFa3MiOnRydWUsIm11bHRpUG9kQWRzIjp7ImVuYWJsZWQiOnRydWV9fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiaXNzIjoiYm9vdC5wbHV0by50diIsInN1YiI6InByaTp2MTpwbHV0bzpkZXZpY2VzOlZFOk5HTXlZVEZtTlRJdE5EZzRPQzAwWmpBd0xUbGtPRGd0TWpFNU5UVmtOalV4TVRnMCIsImF1ZCI6IioucGx1dG8udHYiLCJleHAiOjE2ODYwOTI5MzksImlhdCI6MTY4NjAwNjUzOSwianRpIjoiZWFmMDRlZDUtZWY4MS00ZDZmLTk0MzEtMzI4NWRiM2M3ODMwIn0.UjAZPQLykUuKse6Okbf3-Gkljgjiy4JpAg8cQJwDRgc&masterJWTPassthrough=true&includeExtendedEvents=true&paln=AQzzBGQEip6coNghELjxXFZ-oT3y8ODQuDHUjeGPEXcgH-X4lXOnFPQJfmRbsjP3nQiHXL8oK5RgG5ePhn9THTE1TcyTZBSsqDqSFLtQokp_cNYaJ7pwvRJWozxapJQByn4ou8ueE9cy0vBmDODvRW2xS7UCsQ3N1Rm5p5kZ4upJbvYI_Cr_97i4x5FuFbuLA0COzFjOzMrRrRkvm-d1udQLy-U_ti7S40EDWPajz2x62xA3HG-0j62z05Mu2JjRCu-y09kiqF4CSi_BVtImZg4fFhSJ4eWaCrqnUajR232CLPz2rIX59EVz3vqX3SB6gMj91a6h2fPRWn1N7-87qorvYB4dBH41z9znBHVzmHgTE4PCI6de6bY8AN6rbHIBafI1iyHZtSBd3LDfKjP7Cl88cgVrnjbYpPleAYroqyBuFJfLdMX7bAe3vOa9_tEiFkEZbgUqlel8gaCsjiuqcha3eLhTy2rYM16oebX-qLQyyCe9sTY5j9E0gz0bU6fYf7ZttoNek8UVSjaIcsKItwAmRfirUSMDESZYCn6L6jEONtw_iQGM6rbJh21HMHy0NRqbTSfkboeEITW0XifgM8XnUhCk14RvvK9CJVFvckoHvw6RQOSQuZQyWaA-wzxftDVOhEatiCdAWnHt2OSRlL79_lL0AlqvxMqEgB_FyPYrvYji9Y7euyfa8grgHLlYuCVN2sxV9OYTqToEl90mtZLPqhVCHd6jAoT_cPy4qo_zPhnx8gXQihBhnHu7BHXjI3mYLnByOlcaPwmEnouohd6rlzGFvA5WrwDZQ_Prw7afNX1bR6884WlRKFdTEAuaPE68gqSzVBhnaaTmGA5IMECrC10c37jpz0VIV5s0Y9OzFRfhzbMLpdnSG9N9zj_FDLMGhYBy-M-9w0tcHNExDyrbppPxxVF7O-5BrbveG23Fa771LwF2Y3JjcZZ54eawDsuK_7cOIxabnYq6g97IT07Nr407Rcxyt2ZWuaXO91MQzCDgVZvrzjKHAc8fAdIbUROSlFVguxt2qPjF_Kj-f2LOm8EIsDo310oQOUjjooDmwHtEE0vAoPN7ulVlSohAwokCKhh8m2c5wfRn6jkYOGfx0PrZvSyCaS8EWY7ZSxEiU9tlkCmhDWJ7I3AZIWmdwayypV-g8DPusW33G90i-T_u-TKCAjwcEcyNgrax1ZpB2WzuDLxRH7EMuOMqpnUsRbuU9B-hd0n8syjrTzsyPitN1tTk2711XfpzlbC2HlRTM3d1qA..&eventVOD=true&CMCD=mtp%3D500%2Cot%3Dm%2Csf%3Dh%2Csid%3D%221c145f57-08d5-43e4-bce9-1ba3a8e4f1b2%22%2Csu
 
 #EXTINF:-98 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="PARAGUAY", ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
@@ -318,7 +318,7 @@ https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
 https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
 
 #EXTINF:-107 tvg-logo="https://img.asmedia.epimg.net/resizer/xjFGduUDe9tcl3j7HgyVNbWq20M=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", N mas GUADALAJARA
-https://channel04dai-notusa.akamaized.net/hls/live/2029754/event01/index.m3u8?hdnea=st=1683255207~exp=1683255507~acl=*~id=393d86a4-2834-4a3e-b967-00c953f481a1~hmac=31c9eddf90bb623641d8ce87da969ad074109c98fceb2bc3c73c7611d28c7f1c&originpath=/linear/hls/pa/event/3UsAIXvJTlG81i3EGHF8ZA/stream/bf113414-a5a6-4499-9fc6-f55258f953e7:CHS/master.m3u8
+https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
 
 #EXTINF:-108 tvg-logo="https://i.postimg.cc/G2vz3nRG/image.png" group-title="COSTA RICA", SARAPIQUÍ TV
 https://lstv.duckdns.org:449/hls/stv.m3u8
@@ -386,7 +386,7 @@ https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 #EXTINF:-129 tvg-logo="https://i.imgur.com/vIFRrCq.png" group-title="GUATEMALA", Canal Plus Guatemala | SD
 http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
 
-#EXTINF:-130 tvg-id="(sin tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7. png" group-title="MEXICO",Jalisco TV
+#EXTINF:-130 tvg-id="(sin tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="MEXICO",Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
 
 #EXTINF:-131 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/animal.png" grupo -title="DOCUMENTALES", Animal Planet
@@ -401,38 +401,86 @@ https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecuador_TV.jpg" group-title="ECUADOR", ECUADOR TV| HD
+#EXTINF:-135 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ecuador_TV.jpg" group-title="ECUADOR", ECUADOR TV| HD
 https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c212680b7/manifest/video.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
+#EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
+#EXTINF:-136 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1488662887.m3u8
 
-#EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
+#EXTINF:-137 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1379090887.m3u8
 
-#EXTINF:-1 group-title="COSTA RICA", Multizonas tv | HD
-https://cloudvideo.servers10.com:8081/8214/tracks-v1a1/mono.m3u8
+#EXTINF:-138 group-title="COSTA RICA", Multizonas tv | HD
+https://cloudvideo.servers10.com:8081/8124/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
+#EXTINF:-139 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
 https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
+ 
+#EXTINF:-140 tvg-shift="-3" group-title="CINE Y SERIES",A y E 
+http:// bgtv.site/play/23-644.php?a=178&token=blackghostthis 
+ 
+#EXTINF:-141 tvg-shift="-3" group-title="DOCUMENTALES",Animal Planet 
+http://bgtv.site/play/23-644.php?a=75&token=blackghostthis  
 
-#EXTINF:-1 group-title="DEPORTES",ʙʀ | ESPN 1 ʜᴅ 
-https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQy 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Azteca Uno 
+http:// bgtv.site/play/23-644.php?a=82&token=blackghostthis 
 
-#EXTINF:-1 group-title="DEPORTES",ʙʀ | ESPN 2 ʜᴅ 
-https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQz 
+#EXTINF:-1 tvg-shift="-3" group-title="INFANTIL",Baby First 
+http://bgtv.site/play /23-644.php?a=150&token=blackghostthis 
+ 
+#EXTINF:-1 tvg-shift="-3" group-title=" COLOMBIA",CO: Caracol 
+http://bgtv.site/play/23-644.php?a=157&token=blackghostthis 
 
-#EXTINF:-1 group-title="DEPORTES",US: ESPN 3 
-https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQ0 
+#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA", CO: Caracol Op2 
+http://bgtv.site/play/23-644.php?a=226&token=blackghostthis 
 
-#EXTINF:-1 group-title="DEPORTES",US: ESPN DEPORTES 
-https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQ1 
+#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Descubrimiento Turbo 
+http://bgtv.site/play/23 -644.php?a=230&token=blackghostthis 
 
-#EXTINF:-1 group-title="DEPORTES",US: ESPN NEWS 
-https://bgtv.site/play/2-600.php?id=L2NhY2FvMjAyMy90djEucGhwP2lkPTQ3
+#EXTINF:-1 tvg-shift="-3" grupo-título="INFANTIL",Discovery Kids 
+http://bgtv.site/play/23-644.php?a=210&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" grupo- title="DOCUMENTALES", Discovery Science 
+http://bgtv.site/play/23-644.php?a=216&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES ",Discovery Theatre 
+http://bgtv.site/play/23-644.php?a=217&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery TLC 
+http ://bgtv.site/play/23-644.php?a=124&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery Turbo OP2 
+http://bgtv .site/play/23-644.php?a=229&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",El Gourmet 
+http://bgtv.site/play/ 23-644.php?a=219&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",ES: Antena 3 
+http://bgtv.site/play/23-644.php?a=96&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="CINEY SERIES",ES: Movistar Drama 
+http://bgtv.site/play/23-644.php?a=146&token=blackghostthis 
+
+#EXTINF: -1 tvg-shift="-3" group-title="DEPORTES",ESPN 2 MX 
+http://bgtv.site/play/23-644.php?a=36&token=blackghostthis 
+
+#EXTINF:-1 tvg- shift="-3" group-title="DEPORTES",FOX (EE. UU.) 
+http://bgtv.site/play/23-644.php?a=168&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift=" -3" group-title="DEPORTES",Fox Deportes 
+http://bgtv.site/play/23-644.php?a=38&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group- title="DEPORTES",Fox Premium 
+http://bgtv.site/play/23-644.php?a=69&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Fox Sport 2 (EE. UU.) 
+http://bgtv.site/play/23-644.php ?a=222&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Fox Sports 1 MX 
+http://bgtv.site/play/23-644.php?a= 40&token=blackghostthis 
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -448,9 +496,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-145 tvg-logo="https://pbs.twimg.com/profile_images/435932640722825216/hgILIL7X_400x400.jpeg" group-title="CINE Y SERIES", CINEMA
 https://stream.ads.ottera.tv/cl/230529chqi9hrmgp5280eqtnmg/854x480_1355200_2_f.m3u8
-
-#EXTINF:-72 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5b/Clic_%28TV_channel%29_logo_2021.png" group-title="DOCUMENTALES", CLIC TV
-https://stream.ads.ottera.tv/cl/230529chqic3rmgp5280equb60/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-72 tvg-logo="https://www.coolstreaming.us/img/ch/image96674211510.jpg" group-title="DEPORTES", Mas23 TV
 https://mediacp.us:8081/mas23tv/index.m3u8
@@ -471,16 +516,13 @@ https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 https://alchimie-mmatv-samsung.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7CQ9T3y1EHhCQ-iIOzVqdc2Urk0x9GEuIaKqLoLA9g&amp;s" group-title="DEPORTES", Las Palmas tv | HD
-https://cdn325.fractalmedia.es/live318/hls/cudtv/high/index.m3u8
+https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VlMzpJH.png" group-title="DEPORTES", Canal 13 España | SD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="DEPORTES", Real Madrid TV | SD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FTLjroU.png" group-title="DEPORTES", Sevilla FC | SD
-https://streamamg-sevil01.akamaized.net/hls/live/2039253/0_wzckw85c/master.m3u8?hdnea=st=1682690802~exp=1682691102~acl=/hls/live/2039253/0_wzckw85c/master.m3u8*~hmac=aaa34c5529c09cda1f730fcb8a95ea525704e2978bc7d95323530a2a1e462f10
 
 #EXTINF:-1 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/America_TV_SAS_logo.jpg" group-title="ESPAÑA", AMERICA TV | HD
 https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w529176325.m3u8
@@ -567,7 +609,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1770429_b182
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w1288573524_b1344100_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="MUSICA", Music Top | HD
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w990778384_b364000_sleng.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1882057401_b364000_sleng.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", Power HD | HD
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
@@ -595,9 +637,6 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/x5jNF2N.png" group-title="DEPORTES", MLB | HD
 https://estv-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-estv-rakuten/CDN/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/MCGNAMK.png" group-title="MUSICA", Music Choice | HD
-https://edge.music-choice-play-chainb1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uFbyigf.png" group-title="MUSICA", M2O TV | SD
 https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/chunklist_b1064000.m3u8
@@ -899,8 +938,8 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1, CORDOVA
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="COLOMBIA", CARACOL
-https://hls.goodgame.ru/manifest/202676_master.m3u8
+#EXTINF:-301 tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="COLOMBIA", CARACOL
+https://pt2.hlsserver.online/static/streaming-playlists/hls/private/38451680-e1c0-42e7-8896-5c385e656a1a/master.m3u8
 
 #EXTINF:-1, ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
@@ -1421,7 +1460,7 @@ http://144.217.70.79/VODS-M/1080P/Max%202%20white%20house%20hero% 202017.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/huRhv4IZDk2ds0DIDkI6uxdmb6J.jpg"group-title="PELICULAS" type="movie", Pelea a puñetazos (2017) 
 http://144.217. 70.79/VODS-M/1080P/Fist%20fight%202017.mp4
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://vader.news/__export/1634893753776/sites/gadgets/img/2021/10/22/hellbound_2.jpg_272509770.jpg",Rumbo al Infierno (2021) 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/Rumbo_al_infierno_Serie_de_TV-617674681-large.jpg",Rumbo al Infierno (2021) 
 https://archive.org/download/06_20211124_202111/01.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022) 
@@ -1627,9 +1666,6 @@ http://144.217.70.79/VODS-M/1080P/Dead%20Man%20Walking%201995.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="PELICULAS" type="movie", Elektra (2005) 
 http://144.217.70.79/VODS-M/1080P/Elektra%202005.mkv 
-
-#EXTINF: -1 tvg-logo="https://image.tmdb.org/t/p/w500/9z8QUU352esv2CKD9QRqTfDLW6n.jpg" group-title="PELICULAS" type="movie" , El extraño y el pistolero (1974) 
-http://144.217.70.79/VODS -M/1080P/El%20Extraño%20y%20el%20Pistolero%201974.mkv
 
 #EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3NTkxMTkzOV5BMl5BanBnXkFtZTcwMTczODIyMQ@@._V1_.jpg" group-title="PELICULAS" type="movie", Tiburón 3-D (1983) 
 http://144.217.70.79/VODS-M/1080P/Jaws%203-D%201983.mkv 
@@ -2621,7 +2657,7 @@ http://144.217.70.79/VODS-M/1080P/The%20man%20who%20killed%20don%20quixote%20201
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg"group-title="PELICULAS" type="movie" , Utoya july 22 (2018) 
 http://144.217.70.79/VODS-M/1080P/Utoya%20july%2022%202018.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"group-title="PELICULAS" type="movie"group-title="PELICULAS" , Batman hush (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"group-title="PELICULAS" type="movie"group-title="PELICULAS", Batman hush (2019) 
 http://144.217.70.79/VODS-M/1080P/Batman%20hush%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bTgd1QQFTKdxESevtffAvIvCnz2.jpg"group-title="PELICULAS" type="movie" , The red sea diving resort (2019) 
@@ -2801,7 +2837,7 @@ http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qué ver 
 http://208.88.245.85/nuevo/nadakver.latino2023.mkv 
 
-#EXTINF:-1group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 
+#EXTINF:-1group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",1 Rápidos y furiosos 10 
 http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen 
