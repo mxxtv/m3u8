@@ -419,49 +419,31 @@ https://cloudvideo.servers10.com:8081/8124/index.m3u8
 #EXTINF:-139 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
 https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
  
+#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",FX 
+http://bgtv.site/play/23-644.php?a=70&token=blackghostthis 
+
+#EXTINF:-1 tvg-shift="-3" group-title="INFANTIL",Discovery Kids 
+http://bgtv.site/play/23-644.php?a=210&token=blackghostthis
+ 
 #EXTINF:-140 tvg-shift="-3" group-title="CINE Y SERIES",A y E 
 http:// bgtv.site/play/23-644.php?a=178&token=blackghostthis 
  
 #EXTINF:-141 tvg-shift="-3" group-title="DOCUMENTALES",Animal Planet 
 http://bgtv.site/play/23-644.php?a=75&token=blackghostthis  
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Azteca Uno 
-http:// bgtv.site/play/23-644.php?a=82&token=blackghostthis 
-
+ 
 #EXTINF:-1 tvg-shift="-3" group-title="INFANTIL",Baby First 
 http://bgtv.site/play /23-644.php?a=150&token=blackghostthis 
  
-#EXTINF:-1 tvg-shift="-3" group-title=" COLOMBIA",CO: Caracol 
+#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CO: Caracol 
 http://bgtv.site/play/23-644.php?a=157&token=blackghostthis 
 
 #EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA", CO: Caracol Op2 
 http://bgtv.site/play/23-644.php?a=226&token=blackghostthis 
 
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Descubrimiento Turbo 
-http://bgtv.site/play/23 -644.php?a=230&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" grupo-título="INFANTIL",Discovery Kids 
-http://bgtv.site/play/23-644.php?a=210&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" grupo- title="DOCUMENTALES", Discovery Science 
-http://bgtv.site/play/23-644.php?a=216&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES ",Discovery Theatre 
-http://bgtv.site/play/23-644.php?a=217&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery TLC 
-http ://bgtv.site/play/23-644.php?a=124&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",Discovery Turbo OP2 
-http://bgtv .site/play/23-644.php?a=229&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DOCUMENTALES",El Gourmet 
-http://bgtv.site/play/ 23-644.php?a=219&token=blackghostthis 
-
 #EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",ES: Antena 3 
 http://bgtv.site/play/23-644.php?a=96&token=blackghostthis 
 
-#EXTINF:-1 tvg-shift="-3" group-title="CINEY SERIES",ES: Movistar Drama 
+#EXTINF:-1 tvg-shift="-3" group-title="CINE SERIES",ES: Movistar Drama 
 http://bgtv.site/play/23-644.php?a=146&token=blackghostthis 
 
 #EXTINF: -1 tvg-shift="-3" group-title="DEPORTES",ESPN 2 MX 
