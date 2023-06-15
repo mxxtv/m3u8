@@ -407,62 +407,20 @@ https://customer-qczi39xffvq35rae.cloudflarestream.com/f41c1d91e17809daf3bc4a6c2
 #EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
 
-#EXTINF:-136 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
+#EXTINF:-137 tvg-logo="https://cdn.vaughnsoft.com/vaughnsoft/vaughn/img_profiles/variedtv_320.jpg" group-title="INFANTIL", Varied Tv | HD
 https://6362ca6f1fc28.streamlock.net/8066/8066/chunklist_w1488662887.m3u8
 
-#EXTINF:-137 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
+#EXTINF:-138 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
 https://scl.edge.grupoz.cl/movie/live/chunklist_w1379090887.m3u8
 
-#EXTINF:-138 group-title="COSTA RICA", Multizonas tv | HD
+#EXTINF:-139 group-title="COSTA RICA", Multizonas tv | HD
 https://cloudvideo.servers10.com:8081/8124/index.m3u8
 
-#EXTINF:-139 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
+#EXTINF:-140tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
 https://nedbolivision.akamaized.net/hls/live/2101283/bolivision/master.m3u8
- 
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",FX 
-http://bgtv.site/play/23-644.php?a=70&token=blackghostthis 
 
-#EXTINF:-1 tvg-shift="-3" group-title="INFANTIL",Discovery Kids 
-http://bgtv.site/play/23-644.php?a=210&token=blackghostthis
- 
-#EXTINF:-140 tvg-shift="-3" group-title="CINE Y SERIES",A y E 
-http:// bgtv.site/play/23-644.php?a=178&token=blackghostthis 
- 
-#EXTINF:-141 tvg-shift="-3" group-title="DOCUMENTALES",Animal Planet 
-http://bgtv.site/play/23-644.php?a=75&token=blackghostthis  
- 
-#EXTINF:-1 tvg-shift="-3" group-title="INFANTIL",Baby First 
-http://bgtv.site/play /23-644.php?a=150&token=blackghostthis 
- 
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA",CO: Caracol 
-http://bgtv.site/play/23-644.php?a=157&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="COLOMBIA", CO: Caracol Op2 
-http://bgtv.site/play/23-644.php?a=226&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="CINE Y SERIES",ES: Antena 3 
-http://bgtv.site/play/23-644.php?a=96&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="CINE SERIES",ES: Movistar Drama 
-http://bgtv.site/play/23-644.php?a=146&token=blackghostthis 
-
-#EXTINF: -1 tvg-shift="-3" group-title="DEPORTES",ESPN 2 MX 
-http://bgtv.site/play/23-644.php?a=36&token=blackghostthis 
-
-#EXTINF:-1 tvg- shift="-3" group-title="DEPORTES",FOX (EE. UU.) 
-http://bgtv.site/play/23-644.php?a=168&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift=" -3" group-title="DEPORTES",Fox Deportes 
-http://bgtv.site/play/23-644.php?a=38&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group- title="DEPORTES",Fox Premium 
-http://bgtv.site/play/23-644.php?a=69&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Fox Sport 2 (EE. UU.) 
-http://bgtv.site/play/23-644.php ?a=222&token=blackghostthis 
-
-#EXTINF:-1 tvg-shift="-3" group-title="DEPORTES",Fox Sports 1 MX 
-http://bgtv.site/play/23-644.php?a= 40&token=blackghostthis 
+#EXTINF:-141 tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", CAPRICO TV | HD
+https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -957,7 +915,7 @@ https://www-bup37673.ssl0d.com/hls2/ChCNETYAgb-0UuMtDGNXKQ/1675831799/SsldVlMaFw
 https://www-xrm65778.ssl0d.com/hls2/bE4pdxtJs1th3-cAEODQ7g/1675835152/SsldVlMaFwSzCERAq5Mw-Ol4YOdmmum-0xUSKvvjkZs/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"type=" movie" group-title="PELICULAS",Viuda Negra movies  | SD
-https://cloclo58.cloud.mail.ru/videowl/360p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
+https://cloclo52.cloud.mail.ru/videowl/720p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
              
 #EXTINF:-1 tvg-id="HD(HANSEL Y GRETEL).eu" tvg-name="HANSEL Y GRETEL (HD)" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/21/74/20333302.jpg" type="movie" group-title="PELICULAS",Hansel y Grete movies| (HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jsaw4vy3/format/applehttp/protocol/https/flavorIds/1_5km6q5i6,1_t72olw41,1_dwilknyq,1_ngdt4ja6,1_vlcpc7up,1_hlhjmtcj/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242841&amp;id=2926&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=oAttZ5UiwSkHsPY8ipnJjFZXv4Y9ETkaFZwKltJbMio%3D&amp;playSessionId=70be76fc-fa33-4fac-fd1d-25f4614f0eef:3a58afe0-e9c1-ae0d-b305-5cf29be74a1c&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2hhbnNlbC15LWdyZXRlbA==&amp;clientTag=html5:v7.56
@@ -995,445 +953,328 @@ https://www-hbg89496.ssl0d.com/hls2/vlKTZ1_VaPzo_H6Cep_29A/1675233596/SsldVlMaFw
 #EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/10/14/noticias/1634197816_237379_1634197975_noticia_normal.jpg" type="movie" group-title="PELICULAS" , VENON 2 movies| HD
 https://cloclo53.cloud.mail.ru/videowl/0p/QXBWVS9BWkUyd0hBRjM=.m3u8?double_encode=1
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/feLMfivbHHla844jWrVnqgzU0Zh.jpg" group-title="PELICULAS" type="movie" , American Ninja 5 (1993) 
-http://144.217.70.79/VODS-M/720P/American%20Ninja%205%201993.mkv 
+#EXTINF:-1  type="movie" group-title="PELICULAS"tvg-logo="https://image.tmdb.org/t/p/w500/jLKdbksOvi5cDqUhwXdIpeLpKki.jpg",El poder del talismán (2003) 
+http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Lq9BYXvUIdytoHQto4grfOJDoo.jpg" group-title="PELICULAS" type="movie" , Animals Are Beautiful People (1974) movies| HD
-http://144.217.70.79/VODS-M/720P/Animals%20Are%20Beautiful%20People%201974.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",Maze Runner 1 (2014) 
+http://vod.tuxchannel.mx/peliculas/720/the%20maze%20runner.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3tKVHAMFTajrSLfU6gUgdubiXBG.jpg" group-title="PELICULAS" type="movie" , Balto III Wings of Change (2004) movies| HD
-http://144.217.70.79/VODS-M/720P/Balto%20III%20Wings%20of%20Change%202004.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/s9t9kliNmv2uc9dVyQLhruk2tXW.jpg",El llanero solitario (2012) 
+http://vod.tuxchannel.mx/peliculas/720/the%20lone%20ranger.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dZ958HnW3JO2pEZeedjmoZCV8Rn.jpg" group-title="PELICULAS" type="movie" , Balto II Wolf Quest (2002) movies| HD
-http://144.217.70.79/VODS-M/720P/Balto%20II%20Wolf%20Quest%202002.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/lsasOSgYI85EHygtT5SvcxtZVYT.jpg",El último samurái (2003) 
+http://vod.tuxchannel.mx/peliculas/720/the%20last%20samurai.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wlbov6pkgySqYZilZcO54f29Dg1.jpg" group-title="PELICULAS" type="movie" , Big Mommas House 2 (2006) movies| HD
-http://144.217.70.79/VODS-M/720P/Big%20Mommas%20House%202%202006.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/lQWtLTy7xBxXx1l89sSQRfplHXm.jpg",El bosque maldito (2019) 
+http://vod.tuxchannel.mx/peliculas/720/the%20hole%20in%20the%20ground%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u21ImPnHHX2SFgkdHIjwlpEwRux.jpg" type="movie" group-title="PELICULAS" , Blood In Blood Out (1993) movies| HD
-http://144.217.70.79/VODS-M/720P/Blood%20In%20Blood%20Out%201993.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/idb1ACZCQAsYJCFMfs9vgyBIbP1.jpg",El incidente (2008) 
+http://vod.tuxchannel.mx/peliculas/720/the%20happening.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/upSpEygKPAFycoZa9huKg5yBq2o.jpg" group-title="PELICULAS" type="movie" , Bus Driver (2016) movies| HD
-http://144.217.70.79/VODS-M/720P/Bus%20Driver%202016.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/uluhlXubGu1VxU63X9VHCLWDAYP.jpg",Qué pasó ayer? 1 (2009) 
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c6fxRpHNdSA3yv8prMo1sNzOcgF.jpg" group-title="PELICULAS" type="movie" , Dennis the Menace Strikes Again (1998) movies| HD
-http://144.217.70.79/VODS-M/720P/Dennis%20the%20Menace%20Strikes%20Again%201998.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/vtxuPWkdllLNLVyGjKYa267ntuH.jpg",Que pasó ayer? 3 (2013) 
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20III.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dfajtvJeqM79W2rdFuDUFiwq7Fe.jpg" group-title="PELICULAS" type="movie" , Drums Along the Mohawk (1939) movies| HD
-http://144.217.70.79/VODS-M/720P/Drums%20Along%20the%20Mohawk%201939.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/jrP9zmdSUpOzzUXpEqPqg3dryUr.jpg",Qué pasó ayer? 2 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/the%20hangover%20part%20II.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gYkyJuB8T8ygZGP2Jy6rPewDcRF.jpg" group-title="PELICULAS" type="movie" , Francis of Assisi (1961) movies| HD
-http://144.217.70.79/VODS-M/720P/Francis%20of%20Assisi%201961.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/8HLQLILZLhDQWO6JDpvY6XJLH75.jpg",Cuatro Fantásticos (2015) 
+http://vod.tuxchannel.mx/peliculas/720/the%20fantastic%20four.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oW4IM0G5fCR68YalmemTGbPK15F.jpg" group-title="PELICULAS" type="movie" , Geronimo An American Legend (1993) movies| HD
-http://144.217.70.79/VODS-M/720P/Geronimo%20An%20American%20Legend%201993.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/tDynwDj3pvexrEQ8wb0uy8EdcGQ.jpg",Los mercenarios 1 (2010) 
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKKej989oVbZahldAkrMVmyB8pU.jpg" group-title="PELICULAS" type="movie" , Goal II Living The Dream (2007) movies| HD
-http://144.217.70.79/VODS-M/720P/Goal%20II%20Living%20The%20Dream%202007.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/d63qz4XeNtbpDC5c70AlSUIbnTQ.jpg",Los mercenarios 3 (2014) 
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables%203.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aMr99UigkMCTSPnLTpkzJeLmpyc.jpg" group-title="PELICULAS" type="movie" , Heartbreak Ridge (1986) movies| HD
-http://144.217.70.79/VODS-M/720P/Heartbreak%20Ridge%201986.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/4EBO8aIeP2bF1jGpwbuRS4CFMca.jpg",Los mercenarios 2 (2012) 
+http://vod.tuxchannel.mx/peliculas/720/the%20expendables%202.mkv 
 
-#EXTINF:-1 tvg-logo="https://images.paramount.tech/uri/mgid:arc:imageassetref:mtv.com:e4550671-dfb8-11ec-a53e-164563049251?quality=0.7&gen=ntrn&legacyStatusCode=true" group-title="PELICULAS" type="movie" , Lady and the tramp-720P2019) movies| HD
-http://144.217.70.79/VODS-M/720P/Lady%20and%20the%20tramp-720P2019).mp4 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/3lBFvzhSkkzVfgjXRcH97NmwbUJ.jpg",El ático (2016) 
+http://vod.tuxchannel.mx/peliculas/720/the%20disappointments%20room.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bOth4QmNyEkalwahfPCfiXjNh1r.jpg" group-title="PELICULAS" type="movie" , Miracle (2004) movies| HD
-http://144.217.70.79/VODS-M/720P/Miracle%202004.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/zPSB6B5duZIjF0QOBsP1aPBjNRg.jpg",Los muertos no mueren (2019) 
+http://vod.tuxchannel.mx/peliculas/720/the%20dead%20dont%20die%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BZWYzNDQyOTYtMDkzNy00N2E4LWJlMGEtNTliZGZlYzhiNGQyXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_.jpg" group-title="PELICULAS" type="movie" , Noelle-720P(2019) movies| HD
-http://144.217.70.79/VODS-M/720P/Noelle-720P(2019).mp4 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/kNKy8eJemg6sCAMBgh4xrD0lleX.jpg",El día después de mañana (2004) 
+http://vod.tuxchannel.mx/peliculas/720/the%20day%20after%20tomorrow%20open%20matte.mkv 
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/only_the_strong-351690647-mmed.jpg" type=" group-title="PELICULAS" type="movie" , Only the Strong1993) movies| HD
-http://144.217.70.79/VODS-M/720P/Only%20the%20Strong1993.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/6sG0kbEvAi3RRLcGGU5h8l3qAPa.jpg",Crónicas de Navidad 2 (2020) 
+http://vod.tuxchannel.mx/peliculas/720/the%20christmas%20chronicles%202%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qN5g3lrljKFEhXAAjAEHQuFfWAo.jpg" group-title="PELICULAS" type="movie" , Pumpkinhead Ashes to Ashes (2006) movies| HD
-http://144.217.70.79/VODS-M/720P/Pumpkinhead%20Ashes%20to%20Ashes%202006.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/uxJJIzw3lDM0RbFQMQsTTRyFO2D.jpg",El niño 1 (2016) 
+http://vod.tuxchannel.mx/peliculas/720/the%20boy.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zgVPIRufWKwIVUVVg7bSXQJty2S.jpg" group-title="PELICULAS" type="movie", Pumpkinhead Blood Feud (2007) movies| HD
-http://144.217.70.79/VODS-M/720P/Pumpkinhead%20Blood%20Feud%202007.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",El libro de Eli (2010) 
+http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q41zGgRXfhvnObJnn1kGIyoAhSu.jpg" group-title="PELICULAS" type="movie" , Replicant (2001) movies| HD
-http://144.217.70.79/VODS-M/720P/Replicant%202001.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 4 (2012) 
+http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6FfCtAuVAW8XJjZ7eWeLibRLWTw.jpg" group-title="PELICULAS" type="movie" , Star Wars Episode IV A New Hope (1977 (Harmys Despecialized Edition) movies| HD
-http://144.217.70.79/VODS-M/720P/Star%20Wars%20Episode%20IV%20A%20New%20Hope%201977%20(Harmys%20Despecialized%20Edition).mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500",Terremoto:la falla de San Andrés (2015) 
+http://vod.tuxchannel.mx/peliculas/720/terretomo%20la%20falla%20de%20san%20andres.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2l05cFWJacyIsTpsqSgH0wQXe4V.jpg" group-title="PELICULAS" type="movie" , Star Wars Episode V The Empire Strikes Back (1980 (Harmys Despecialized Edition)) movies| HD
-http://144.217.70.79/VODS-M/720P/Star%20Wars%20Episode%20V%20The%20Empire%20Strikes%20Back%201980%20(Harmys%20Despecialized%20Edition).mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/aCIFMriQh8rvhxpN1IWGgvH0Tlg.jpg",Tenet (2020) 
+http://vod.tuxchannel.mx/peliculas/720/tenet%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xxCnFmRZ83jHTZsBiceG4IBUGoq.jpg" group-title="PELICULAS" type="movie" , Star wars episode VI return of the jedi (1983 (Harmys Despecialized Edition)) movies| HD
-http://144.217.70.79/VODS-M/720P/Star%20wars%20episode%20VI%20return%20of%20the%20jedi%201983%20(Harmys%20Despecialized%20Edition).mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/sytFL6ALMAesKZoarlp7bIDKnns.jpg",Super 8 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/super%208.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pnLWFKZSvH1fNtjSCdgGP2WOqRu.jpg" group-title="PELICULAS" type="movie" , The Last Outlaw (1993) movies| HD
-http://144.217.70.79/VODS-M/720P/The%20Last%20Outlaw%201993.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/pn51im1JIMJgq9eqRAIvoQ1b1cv.jpg",Saw 9 (2021) 
+http://vod.tuxchannel.mx/peliculas/720/spiral%20from%20the%20book%20of%20saw%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/papDk5x8wmkamSpEm70Ssc6SqQG.jpg" group-title="PELICULAS" type="movie" , The Odyssey (1997) movies| HD
-http://144.217.70.79/VODS-M/720P/The%20Odyssey%201997.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/gh4cZbhZxyTbgxQPxD0dOudNPTn.jpg",El Hombre Araña 1 (2002) 
+http://vod.tuxchannel.mx/peliculas/720/spiderman.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5aOyriWkPec0zUDxmHFP9qMmBaj.jpg" group-title="PELICULAS" type="movie" , The Order (2001)  movies| HD
-http://144.217.70.79/VODS-M/720P/The%20Order%202001.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña un nuevo universo (2018) 
+http://vod.tuxchannel.mx/peliculas/720/spiderman%20un%20nuevo%20universo.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4dz05TygW3MaDPtSzJBM19Bugbf.jpg" group-title="PELICULAS" type="movie" , The Worlds Fastest Indian (2005) movies| HD
-http://144.217.70.79/VODS-M/720P/The%20Worlds%20Fastest%20Indian%202005.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 6 (2019) 
+http://vod.tuxchannel.mx/peliculas/720/spider-man%20far%20from%20home%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg" group-title="PELICULAS" type="movie"  , Timmy Failure Mistakes Were Made (2020) movies| HD
-http://144.217.70.79/VODS-M/720P/Timmy%20Failure%20Mistakes%20Were%20Made%202020.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg",El Hombre Araña 3 (2007) 
+http://vod.tuxchannel.mx/peliculas/720/spiderman%203.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YZ8JKV8i437z6O4YQ2IEzcSlsD.jpg" group-title="PELICULAS" type="movie"  , Togo (2019) movies| HD
-http://144.217.70.79/VODS-M/720P/Togo%202019.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg",El Hombre Araña 2 (2004) 
+http://vod.tuxchannel.mx/peliculas/720/spiderman%202.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qp0xpheiKwK2ASjX3YUwDPVOzHx.jpg" group-title="PELICULAS" type="movie"  , Vacancy 2 The First Cut (2008) movies| HD
-http://144.217.70.79/VODS-M/720P/Vacancy%202%20The%20First%20Cut%202008.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500",El Hombre Araña 5 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xGJSp233k8ru4PfhE0aca3d8TBl.jpg" group-title="PELICULAS" type="movie"  , Warlock (1959) movies| HD
-http://144.217.70.79/VODS-M/720P/Warlock%201959.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",8 Minutos Antes De Morir (2011) 
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e5jzAQ1pyoUnytzCC8X9S4nayBN.jpg" group-title="PELICULAS" type="movie"  , Bridge of Dragons (1999) movies| HD
-http://144.217.70.79/VODS-M/1080P/Bridge%20of%20Dragons%201999.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/AtQDTlj3MFOXJd5C9OopaRo3rRo.jpg",Código Fuente (2011) 
+http://vod.tuxchannel.mx/peliculas/720/source%20code.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pDg8D0jNqmz7RbCBgblWvmPswHE.jpg" group-title="PELICULAS" type="movie"  , Made of Honor (2008) movies| HD
-http://144.217.70.79/VODS-M/1080P/Made%20of%20Honor%202008.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/6DrHO1jr3qVrViUO6s6kFiAGM7.jpg",Sonic la película (2020) 
+http://vod.tuxchannel.mx/peliculas/720/sonic%20the%20hedgehog%202020.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bzJBmh8U5ofExJara4nrdqlW8f3.jpg" group-title="PELICULAS" type="movie"  , Cry Macho (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Cry%20Macho%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500",Silent Hill 1 (2006) 
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg" group-title="PELICULAS" type="movie"  , Venom Let There Be Carnage (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Venom%20Let%20There%20Be%20Carnage%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/xBC7bHZ5UglTw4LMd2lTSgXvQXl.jpg",Silent Hill 2 (2012) 
+http://vod.tuxchannel.mx/peliculas/720/silent%20hill%20revelation.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ki98MXBwD1qDhY3JhMdY16jJucv.jpg" group-title="PELICULAS" type="movie"  , The Change-Up (2011) movies| HD
-http://144.217.70.79/VODS-M/1080P/The%20Change-Up%202011.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/d5uA1DdiWK5KH5yzyMfh1X3uXie.jpg",Nos vemos ayer (2019) 
+http://vod.tuxchannel.mx/peliculas/720/see%20you%20yesterday%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eeoK2gRfAxZyYn9SiBgAlzfTiBI.jpg" group-title="PELICULAS" type="movie"  , American Me (1992) movies| HD
-http://144.217.70.79/VODS-M/1080P/American%20Me%201992.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/9WQ5e3Jxj6Tz1ZZhF9RMXf6Cc7V.jpg",Scream 1 (1996) 
+http://vod.tuxchannel.mx/peliculas/720/scream%20grita%20antes%20de%20morir.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gdQml1N2kysb1wKAGqTu3ZuQADW.jpg" group-title="PELICULAS" type="movie"  , David and the Elves (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/David%20and%20the%20Elves%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/g0YcSd5QpgGXOjg9tl0if0soOkE.jpg",Scream 4 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/scream%204.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9nxs7YlmGERa9dQbRPZXopfcp51.jpg" group-title="PELICULAS" type="movie"  , White Snake (2019) movies| HD
-http://144.217.70.79/VODS-M/1080P/White%20Snake%202019.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/qpH8ToZVlFD1bakL04LkEKodyDI.jpg",Scream 3 (2000) 
+http://vod.tuxchannel.mx/peliculas/720/scream%203%20la%20mascara%20de%20la%20muerte.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/viZ3SvvQi7CRHJxnSKAG2lHU4AK.jpg" group-title="PELICULAS" type="movie"  , Mickey and Minnie Wish Upon a Christmas (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Mickey%20and%20Minnie%20Wish%20Upon%20a%20Christmas%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg",Scream 2 (1997) 
+http://vod.tuxchannel.mx/peliculas/720/scream%202%20grita%20y%20vuelve%20a%20gritar.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o4gwFcm6qRgnC9Gff4giy0POHdF.jpg" group-title="PELICULAS" type="movie"  , The Karate Kid (2010) movies| HD
-http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%202010.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/lRQiJXETkCnVVurHmglNvMXrZOx.jpg",Scary Movie (2000) 
+http://vod.tuxchannel.mx/peliculas/720/scary%20movie.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bPq6x47nEqMZED5PrKelcWWpezM.jpg" group-title="PELICULAS" type="movie" , The Whole Truth (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/The%20Whole%20Truth%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/vC9T3hjrV9jEBIQ5Ce9eZzN1xxJ.jpg",Saw 7 (2010) 
+http://vod.tuxchannel.mx/peliculas/720/saw%20VII.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kEy48iCzGnp0ao1cZbNeWR6yIhC.jpg" group-title="PELICULAS" type="movie" , The Power of the Dog (2021)  movies| HD
-http://144.217.70.79/VODS-M/1080P/The%20Power%20of%20the%20Dog%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/9fFI57FuE9X4pUCIiKZZZCB7caK.jpg",Saw 6 (2009) 
+http://vod.tuxchannel.mx/peliculas/720/saw%20VI.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wRy3SwJFE55iL2bfKqECzP2qyrd.jpg" group-title="PELICULAS" type="movie" , Paranormal Activity Next of Kin (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Paranormal%20Activity%20Next%20of%20Kin%202021.mkv
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dpiS8OcDaTkBdQZkkrdQPPXdJgK.jpg",Saw 5 (2008) 
+http://vod.tuxchannel.mx/peliculas/720/saw%20V.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5dTZylzoBV9qsrub9vYLAZrNkX3.jpg" group-title="PELICULAS" type="movie", Abraham Lincoln Vampire Hunter (2012) movies| HD
-http://144.217.70.79/VODS-M/1080P/Abraham%20Lincoln%20Vampire%20Hunter%202012.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/e3pLI0qN1AKGHwOcMuwTpyI2SLN.jpg",Saw 4 (2007) 
+http://vod.tuxchannel.mx/peliculas/720/saw%20IV.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iowz7MwaTWMYlfLUE6GeM0m3Hze.jpg" group-title="PELICULAS" type="movie", The Summit of the Gods (Le Sommet des Dieux) (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/The%20Summit%20of%20the%20Gods%20(Le%20Sommet%20des%20Dieux)%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/plyiG0xAkrMZWy1kEC5Rz9lSu7s.jpg",Saw 3 (2006) 
+http://vod.tuxchannel.mx/peliculas/720/saw%20III.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bJIq2UwwrrVP033Mk3G5paUwYnp.jpg" group-title="PELICULAS" type="movie" , Zone 414 movie| (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Zone%20414%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/vadsox7kS3dTzODeGdeWg3cbW9z.jpg",Saw 2 (2005) 
+http://vod.tuxchannel.mx/peliculas/720/saw%20II.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqdH1UH0RXKOjeRAwKc8MGMVOfy.jpg" group-title="PELICULAS" type="movie"  , Assault on Precinct 13 (1976) movies| HD
-http://144.217.70.79/VODS-M/1080P/Assault%20on%20Precinct%2013%201976.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/h2x0kRZWvwpw8GvghmQUn1m1jQo.jpg",Saw 1 (2004) 
+http://vod.tuxchannel.mx/peliculas/720/saw%20I.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hKjBQhsnCMt86kPKpPwV4meeFPo.jpg" group-title="PELICULAS" type="movie"  , Dear Evan Hansen (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Dear%20Evan%20Hansen%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/ppLSSwCuC5ERRWbu9H3R8SPL9AM.jpg",RoboCop 3 (1993) 
+http://vod.tuxchannel.mx/peliculas/720/robocop%203.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xhRbfdGRcEv6RUiAfWnER2pOCcU.jpg" group-title="PELICULAS" type="movie"  , A Castle for Christmas (2021)
-http://144.217.70.79/VODS-M/1080P/A%20Castle%20for%20Christmas%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/gM5ql3BKYmHG3WtZ0buKXN7xY8O.jpg",RoboCop 4 (1994) 
+http://vod.tuxchannel.mx/peliculas/720/robocop%202014.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bfZPNzAwUQZ6FZQi1d136KLr3wl.jpg" type="movie" group-title="PELICULAS" , Single All the Way (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Single%20All%20the%20Way%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/bmErS9eMqctVSpNaieU56SLfMEC.jpg",RoboCop 2 (1990) 
+http://vod.tuxchannel.mx/peliculas/720/robocop%202.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1zs5zsQDP5KuWwxIg9EUULLFEV.jpg" group-title="PELICULAS" type="movie"  , White Snake 2 The Tribulation of the Green Snake (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/White%20Snake%202%20The%20Tribulation%20of%20the%20Green%20Snake%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/hHtOgGb3NihlyRATHlKPaFApbrd.jpg",Robocop 1 (1987) 
+http://vod.tuxchannel.mx/peliculas/720/robocop%201.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qGAEBxylayUqsdkYkCjI7bldAtj.jpg" group-title="PELICULAS" type="movie" , Mixtape  movie (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Mixtape%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/3AnlxZ5CZnhKKzjgFyY6EHxmOyl.jpg",Riddick 1 (2013) 
+http://vod.tuxchannel.mx/peliculas/720/riddick.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/89kgeIn5Cz7u8qRtyts3oyXmx8S.jpg" group-title="PELICULAS" type="movie"  , Christmas Again (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Christmas%20Again%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/7uRbWOXxpWDMtnsd2PF3clu65jc.jpg",Resident Evil: Bienvenidos a Raccoon City (2021) 
+http://vod.tuxchannel.mx/peliculas/720/resident%20evil%20welcome%20to%20raccoon%20city%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iW6ixzkrvdrcxk0umiLZMtlSl9L.jpg" group-title="PELICULAS" type="movie"  , Diary of a Wimpy Kid (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Diary%20of%20a%20Wimpy%20Kid%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/sD6LX35RwyDzMDAunn89MBZFnFv.jpg",REC 4 (2014) 
+http://vod.tuxchannel.mx/peliculas/720/rec%204.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gYZAHan5CHPFXORpQMvOjCTug4E.jpg" group-title="PELICULAS" type="movie"  , Jolt (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Jolt%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/tI1534q0Up7PBcLdXdFerLmIXn3.jpg",REC 3 (2012) 
+http://vod.tuxchannel.mx/peliculas/720/rec%203.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/d5NXSklXo0qyIYkgV94XAgMIckC.jpg" group-title="PELICULAS" type="movie" , Dune (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Dune%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/gWmIqmhb6B6bmL6EPX4sVx0jO02.jpg",REC 2 (2009) 
+http://vod.tuxchannel.mx/peliculas/720/rec%202.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rKEm4XPJHTjh3kCtJKw07hda6VQ.jpg" group-title="PELICULAS" type="movie"  , Damage (1992) movies| HD
-http://144.217.70.79/VODS-M/1080P/Damage%201992.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/5XsVGgo8I12v3KlPcD0r1CNHMC6.jpg",REC 1 (2007) 
+http://vod.tuxchannel.mx/peliculas/720/rec%201.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/k8Q9ulyRE8fkvZMkAM9LPYMKctb.jpg" group-title="PELICULAS" type="movie"  , Batman Death in the Family (2020) movies| HD
-http://144.217.70.79/VODS-M/1080P/Batman%20Death%20in%20the%20Family%202020.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/pU1ULUq8D3iRxl1fdX2lZIzdHuI.jpg",Ready Player One (2018) 
+http://vod.tuxchannel.mx/peliculas/720/ready%20player%20one.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/plzgQAXIEHm4Y92ktxU6fedUc0x.jpg" group-title="PELICULAS" type="movie" , Rons Gone Wrong (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Rons%20Gone%20Wrong%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/MGADip4thVSErP34FAAfzFBTZ5.jpg",Rampage (2018) 
+http://vod.tuxchannel.mx/peliculas/720/rampage.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zjrJE0fpzPvX8saJXj8VNfcjBoU.jpg" group-title="PELICULAS" type="movie"  , The Last Duel (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/The%20Last%20Duel%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",Rambo: Last Blood (2019) 
+http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/AmJLuHjxPdIJO6vmymeWADG6jK5.jpg" group-title="PELICULAS" type="movie"  , Chernobyl Abyss (2021)
-http://144.217.70.79/VODS-M/1080P/Chernobyl%20Abyss%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",Quarantine 2 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/quarantine%202%20terminal%202011.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8j9iIwxFal1Nq8NY4MSLC6Y6bLE.jpg" group-title="PELICULAS" type="movie"  , Mickeys Tale of Two Witches (2021)
-http://144.217.70.79/VODS-M/1080P/Mickeys%20Tale%20of%20Two%20Witches%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",Power Rangers (2017) 
+http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tRnPT88iD5zgeUPjHqaZznrxk5m.jpg" group-title="PELICULAS" type="movie"  , Extinct (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Extinct%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",Piratas del caribe 1 (2003) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20the%20curse%20of%20the%20black%20pearl.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/DPmfcuR8fh8ROYXgdjrAjSGA0o.jpg" group-title="PELICULAS" type="movie"  , Tick Tick Boom (2021) movies| HD
-http://144.217.70.79/VODS-M/1080P/Tick%20Tick%20Boom%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",Piratas del Caribe 4 (2011) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg" group-title="PELICULAS" type="movie", Last Night in Soho (2021) movies  | SD
-http://144.217.70.79/VODS-M/1080P/Last%20Night%20in%20Soho%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",Piratas del Caribe 5 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2dfujXrxePtYJPiPHj1HkAFQvpu.jpg"group-title="PELICULAS" type="movie" , King Richard (2021) 
-http://144.217.70.79/VODS-M/1080P/King%20Richard%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",Piratas del Caribe 2 (2006) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20mans%20chest.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg"group-title="PELICULAS" type="movie" , After We Fell (2021) 
-http://144.217.70.79/VODS-M/1080P/After%20We%20Fell%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/jGWpG4YhpQwVmjyHEGkxEkeRf0S.jpg",Piratas del Caribe 3 (2007) 
+http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20at%20worlds%20end.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wmh1likQEetSLIUs5MAvfWjEayY.jpg"group-title="PELICULAS" type="movie" , Motherly (2021) 
-http://144.217.70.79/VODS-M/1080P/Motherly%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/tOOIl9keHUnfeHXPX9S7y3MZgX9.jpg",Pig (2021) 
+http://vod.tuxchannel.mx/peliculas/720/pig%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bKIdlJbd17rrIm4oZzhXTbmqpon.jpg"group-title="PELICULAS" type="movie" , Robin Robin (2021)
-http://144.217.70.79/VODS-M/1080P/Robin%20Robin%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",Pan Viaje a Nunca Jamás (2015) 
+http://vod.tuxchannel.mx/peliculas/720/pan.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1sRejtiHOZGggZd9RcmdqbapLM5.jpg"group-title="PELICULAS" type="movie" , A Boy Called Christmas (2021)
-http://144.217.70.79/VODS-M/1080P/A%20Boy%20Called%20Christmas%202021.mkv
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/cAZk4y7JZswALX6nTf5KXNjPMUE.jpg",Ouija: El origen del mal (2016) 
+http://vod.tuxchannel.mx/peliculas/720/ouija%20%20origin%20of%20evil.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/axibOQF9QnThrr8M37ufAYurP4R.jpg"group-title="PELICULAS" type="movie" , Bruised (2020) 
-http://144.217.70.79/VODS-M/1080P/Bruised%202020.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/gLhYg9NIvIPKVRTtvzCWnp1qJWG.jpg",Máquinas mortales (2018) 
+http://vod.tuxchannel.mx/peliculas/720/mortal%20engines%202018.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5YwaISdOwp8Zu6O7kwBeUn8a7Pu.jpg"group-title="PELICULAS" type="movie" , 8-Bit Christmas (2021) 
-http://144.217.70.79/VODS-M/1080P/8-Bit%20Christmas%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/lq9n07JSzdhK5l1TKxQ9SHawNYn.jpg",Maze Runner 2 (2015) 
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20scorch%20trials.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vRYbjHs129MARMq1VDbnk9Jboen.jpg"group-title="PELICULAS" type="movie" , The Terminal (2004) 
-http://144.217.70.79/VODS-M/1080P/The%20Terminal%202004.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/2zYfzA3TBwrMC8tfFbpiTLODde0.jpg",Maze Runner 3 (2018) 
+http://vod.tuxchannel.mx/peliculas/720/maze%20runner%20the%20death%20cure.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dGv2BWjzwAz6LB8a8JeRIZL8hSz.jpg"group-title="PELICULAS" type="movie" , Malignant (2021) 
-http://144.217.70.79/VODS-M/1080P/Malignant%202021.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/vloNTScJ3w7jwNwtNGoG8DbTThv.jpg",Maléfica 2 (2019) 
+http://vod.tuxchannel.mx/peliculas/720/maleficent%20mistress%20of%20evil%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rjkmN1dniUHVYAtwuV3Tji7FsDO.jpg"group-title="PELICULAS" type="movie" , Venom (2018) 
-http://144.217.70.79/VODS-M/1080P/Venom%202018.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/sNjL6SqErDBE8OUZlrDLkexfsCj.jpg",Looper: asesinos del futuro (2012) 
+http://vod.tuxchannel.mx/peliculas/720/looper.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dgd82hYmpiXDM1G867HqNaWe8wj.jpg"group-title="PELICULAS" type="movie" , Harvey (1950) 
-http://144.217.70.79/VODS-M/1080P/Harvey%201950.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/wztfli5NgYDgurVgShNflvnyA3Z.jpg",Life: vida inteligente (2017) 
+http://vod.tuxchannel.mx/peliculas/720/life%20w.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/86jyzdxtAX8p956rVQDKwGbrYh2.jpg"group-title="PELICULAS" type="movie" , Earwig and the Witch (2020) 
-http://144.217.70.79/VODS-M/1080P/Earwig%20and%20the%20Witch%202020.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/ahbwIJl7T0D34m3sPKlBaCqs2xH.jpg",El misterio de Soho (2021) 
+http://vod.tuxchannel.mx/peliculas/720/last%20night%20in%20soho%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZ9NZh4zB80phMxo5PucFyWagjG.jpg" group-title="PELICULAS" type="movie" , Are We Done Yet (2007) 
-http://144.217.70.79/VODS-M/1080P/Are%20We%20Done%20Yet%202007.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/iSaB7jBgsU6sXqKneZpdeRw5MSV.jpg",Riddick 2 (2004) 
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20riddick%202.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1qwj0wKFsDoC3w2i2kDhXY330TU.jpg"group-title="PELICULAS" type="movie" , Spanglish (2004) 
-http://144.217.70.79/VODS-M/1080P/Spanglish%202004.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/z6LVJXEmY8E6s57uf8cV3RlWvws.jpg",Las crónicas de Narnia 3 (2010) 
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20la%20travesia%20del%20viajero%20del%20alba.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z7MWaPlkKGMrEjbvKOa9rXH4rPg.jpg"group-title="PELICULAS" type="movie" , Are We There Yet (2005) 
-http://144.217.70.79/VODS-M/1080P/Are%20We%20There%20Yet%202005.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/qxz3WIyjZiSKUhaTIEJ3c1GcC9z.jpg",Las crónicas de Narnia 2 (2008) 
+http://vod.tuxchannel.mx/peliculas/720/las%20cronicas%20de%20narnia%20el%20principe%20caspian.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iNybVu4P7DAq5T2ti6Tdo9S7g8j.jpg"group-title="PELICULAS" type="movie" , The Gate 2 Trespassers (1990) 
-http://144.217.70.79/VODS-M/1080P/The%20Gate%202%20Trespassers%201990.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/pH6mHzusE2iHQHWo89cER90s4PH.jpg",Jinete sin cabeza (1999) 
+http://vod.tuxchannel.mx/peliculas/720/la%20leyenda%20del%20jinete%20sin%20cabeza.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/76rLcn53Fjdh4Dji9EIeJ98aYj1.jpg"group-title="PELICULAS" type="movie" , Serpico (1973) 
-http://144.217.70.79/VODS-M/1080P/Serpico%201973.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/nzbwTwSo8aKuvAytaPG6s0xGVE8.jpg",La casa de las flores: la película (2021) 
+http://vod.tuxchannel.mx/peliculas/720/la%20casa%20de%20las%20flores%20la%20pelicula%202021.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cqdH1UH0RXKOjeRAwKc8MGMVOfy.jpg"group-title="PELICULAS" type="movie" , Assault on Precinct 13 (2005) 
-http://144.217.70.79/VODS-M/1080P/Assault%20on%20Precinct%2013%202005.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/r2517Vz9EhDhj88qwbDVj8DCRZN.jpg",Kong: la Isla Calavera (2017) 
+http://vod.tuxchannel.mx/peliculas/720/kong%20skull%20island.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg"group-title="PELICULAS" type="movie" , The Fifth Element (1997) 
-http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Element%201997.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/xn6t1nYJaUMmudnHHiK390AORNu.jpg",Kill Command (2016) 
+http://vod.tuxchannel.mx/peliculas/720/kill%20command.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fTGr7lGtLIpnXM2JZkx3EUyzFIN.jpg"group-title="PELICULAS" type="movie" , The Fifth Commandment (2008) 
-http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Commandment%202008.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg",John Carter (2012) 
+http://vod.tuxchannel.mx/peliculas/720/john%20carter.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3MgwChvi42N1RnhQE9A4pQVHyUY.jpg"group-title="PELICULAS" type="movie" , Superman Shazam The Return of Black Adam (2010) 
-http://144.217.70.79/VODS-M/1080P/Superman%20Shazam%20The%20Return%20of%20Black%20Adam%202010.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/2mUqHJG7ZiGwZYIylczFCsRPbXM.jpg",Saw 8 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/jigsaw.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kynvOlKALNek7s0apLw9ThQzniz.jpg"group-title="PELICULAS" type="movie" , The Sixth Man (1997)
-http://144.217.70.79/VODS-M/1080P/The%20Sixth%20Man%201997.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/dabXVfrAFfhDte8XVemom3mTJog.jpg",IT 2 (2019) 
+http://vod.tuxchannel.mx/peliculas/720/it%20chapter%20two%202019.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oF750ITKUAOaEGmIVkraH9S1Ijm.jpg"group-title="PELICULAS" type="movie" , The Climax (1944) 
-http://144.217.70.79/VODS-M/1080P/The%20Climax%201944.mkv 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg",Invasión a la Tierra (2011) 
+http://vod.tuxchannel.mx/peliculas/720/invancion%20del%20mundo%20batalla%20los%20angeles.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dqoshZPLNsXlC1qtz5n34raUyrE.jpg"group-title="PELICULAS" type="movie" , Candyman (2021) 
-http://144.217.70.79/VODS-M/1080P/Candyman%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",La cura siniestra (2016) 
+http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8tJ4Ya8yEyxCMihDumEyvwvUuLB.jpg"group-title="PELICULAS" type="movie" , Driven (2019) 
-http://144.217.70.79/VODS-M/1080P/Driven%202019.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie"" tvg-logo="https://image.tmdb.org/t/p/w500/96VOJmyoYEj9QvUfYJ1EElRhIjD.jpg",Un cuento de Navidad (1984) 
+http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg"group-title="PELICULAS" type="movie" , Home Sweet Home Alone (2021) 
-http://144.217.70.79/VODS-M/1080P/Home%20Sweet%20Home%20Alone%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",4:44 El último día en la Tierra (2011) 
+http://vod.tuxchannel.mx/peliculas/720/444%20last%20day%20on%20earth.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5svMKCGnR6Yvj8wxldvDvgUi0Jk.jpg"group-title="PELICULAS" type="movie" , 7 Prisoners (2021) 
-http://144.217.70.79/VODS-M/1080P/7%20Prisoners%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007) 
+http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg"group-title="PELICULAS" type="movie" , Shang-Chi and the Legend of the Ten Rings (2021) 
-http://144.217.70.79/VODS-M/1080P/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",28 Dias Exterminio (2012) 
+http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg"group-title="PELICULAS" type="movie" , Red Notice (2021) 
-http://144.217.70.79/VODS-M/1080P/Red%20Notice%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",2001: odisea del espacio (1968) 
+http://vod.tuxchannel.mx/peliculas/720/2001%20a%20space%20odyssey.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jXp6ERnrFdG04Gli3d34GtANsuw.jpg"group-title="PELICULAS" type="movie" , Passing (2021) 
-http://144.217.70.79/VODS-M/1080P/Passing%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/48pWtaTngOHkq2xOc8pFAoro1fU.jpg",Armados y peligrosos (2013) 
+http://vod.tuxchannel.mx/peliculas/720/2%20guns.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6BngDhDNfbBjhVFWDT2yMve32vi.jpg"group-title="PELICULAS" type="movie" , Never Been Kissed (1999) 
-http://144.217.70.79/VODS-M/1080P/Never%20Been%20Kissed%201999.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",1922 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/1922.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9JV0LOcazudqEcz2NNOMqEIzACz.jpg"group-title="PELICULAS" type="movie" , Love Hard (2021) 
-http://144.217.70.79/VODS-M/1080P/Love%20Hard%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022) 
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9a2O1CVhw7L339aSF6lZJhYcP7j.jpg"group-title="PELICULAS" type="movie" , Triggered (2020) 
-http://144.217.70.79/VODS-M/1080P/Triggered%202020.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023) 
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg"group-title="PELICULAS" type="movie" , Finch (2021)
-http://144.217.70.79/VODS-M/1080P/Finch%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un paraíso peligroso (2023) 
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6vA3SbLQ6aH2m3eOKMv2Ki49ypV.jpg"group-title="PELICULAS" type="movie" , The Claus Family (2020) 
-http://144.217.70.79/VODS-M/1080P/The%20Claus%20Family%202020.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023) 
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sKJcrnjngg6rcl9khSBFGCI62VM.jpg"group-title="PELICULAS" type="movie" , Ainbo Spirit of the Amazon (2021) 
-http://144.217.70.79/VODS-M/1080P/Ainbo%20Spirit%20of%20the%20Amazon%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023) 
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pj6UQPrtmC0snzPeU1HUhGWTgz6.jpg"group-title="PELICULAS" type="movie" , The Ice Road (2021) 
-http://144.217.70.79/VODS-M/1080P/The%20Ice%20Road%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El último baile de Magic Mike (2023) 
+http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/szvidvi0Fo4j2gmMtk1sNe1rkzw.jpg"group-title="PELICULAS" type="movie" , Mrs Doubtfire (1993) 
-http://144.217.70.79/VODS-M/1080P/Mrs%20Doubtfire%201993.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023) 
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iUgygt3fscRoKWCV1d0C7FbM9TP.jpg"group-title="PELICULAS" type="movie" , No Time to Die (2021) 
-http://144.217.70.79/VODS-M/1080P/No%20Time%20to%20Die%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lwybGlEEJtXZM3ynY19PNwNlPn9.jpg",Historia de Honor (2022) 
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/17siH6wJRQ2jZiqz9BWUhy1UtZ.jpg"group-title="PELICULAS" type="movie" , Reminiscence (2021) 
-http://144.217.70.79/VODS-M/1080P/Reminiscence%202021.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023) 
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q06saepaXeBdkMibuN4R2fXmgIw.jpg"group-title="PELICULAS" type="movie" , Halloween (1978) 
-http://144.217.70.79/VODS-M/1080P/Halloween%201978.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",The Jack in the Box: El despertar (2022) 
+http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t2wy38iiMpB8WsgJi3lYeDnGh2H.jpg"group-title="PELICULAS" type="movie" , Halloween 2 (1981) 
-http://144.217.70.79/VODS-M/1080P/Halloween%202%201981.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/WABfdeaThFYXCySGIOvRNv2sSW.jpg"group-title="PELICULAS" type="movie" , Halloween 3 Season of the Witch (1983)
-http://144.217.70.79/VODS-M/1080P/Halloween%203%20Season%20of%20the%20Witch%201983.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eFSOkXF9n9hsfGv45MDsPixiOyx.jpg"group-title="PELICULAS" type="movie" , Halloween 4 The Return of Michael Myers (1988) 
-http://144.217.70.79/VODS-M/1080P/Halloween%204%20The%20Return%20of%20Michael%20Myers%201988.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rYvP6yMXCIVHnkVtwGaAXFmpzkB.jpg"group-title="PELICULAS" type="movie" , Halloween 5 The Revenge of Michael Myers (1989)
-http://144.217.70.79/VODS-M/1080P/Halloween%205%20The%20Revenge%20of%20Michael%20Myers%201989.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/noCnM8nEI2bEDSdKHh0RKbwBwbC.jpg"group-title="PELICULAS" type="movie" , Halloween The Curse of Michael Myers (1995) 
-http://144.217.70.79/VODS-M/1080P/Halloween%20The%20Curse%20of%20Michael%20Myers%201995.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lqLXUm3oK59sGJKRH2Zjj2m3iMg.jpg"group-title="PELICULAS" type="movie" , Halloween H20 (20 Years Later (1998)
-http://144.217.70.79/VODS-M/1080P/Halloween%20H20%2020%20Years%20Later%201998.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hMIQiwLpBfTfe3ZbRlNx4225Mgg.jpg"group-title="PELICULAS" type="movie" , Amina (2021) 
-http://144.217.70.79/VODS-M/1080P/Amina%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/poVoLKLxUqsTLSntA40Po2F78dZ.jpg"group-title="PELICULAS" type="movie" , From Paris with Love (2010) 
-http://144.217.70.79/VODS-M/1080P/From%20Paris%20with%20Love%202010.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ucktgbaMSaETUDLUBp1ubGD6aNj.jpg"group-title="PELICULAS" type="movie" , Force of Nature (2020) 
-http://144.217.70.79/VODS-M/1080P/Force%20of%20Nature%202020.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg"group-title="PELICULAS" type="movie" , Blade Runner (2049 (2017) 
-http://144.217.70.79/VODS-M/1080P/Blade%20Runner%202049%202017.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rodqqX8NLe3cdcgBMc4CFTPidTy.jpg"group-title="PELICULAS" type="movie" , Blade Trinity (2004) 
-http://144.217.70.79/VODS-M/1080P/Blade%20Trinity%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rE3dBsEwBAfWoZvGRrBjCbTxNXD.jpg"group-title="PELICULAS" type="movie" , Blade 2 (2002) 
-http://144.217.70.79/VODS-M/1080P/Blade%202%202002.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f6l9rghSHORkWLurUGJhaKAiyjY.jpg"group-title="PELICULAS" type="movie" , The Pursuit of Happyness (2006) 
-http://144.217.70.79/VODS-M/1080P/The%20Pursuit%20of%20Happyness%202006.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ji3ecJphATlVgWNY0B0RVXZizdf.jpg"group-title="PELICULAS" type="movie" , The Revenant (2015) 
-http://144.217.70.79/VODS-M/1080P/The%20Revenant%202015.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ic0intvXZSfBlYPIvWXpU1ivUCO.jpg"group-title="PELICULAS" type="movie" , Paw Patrol The Movie (2021)
-http://144.217.70.79/VODS-M/1080P/Paw%20Patrol%20The%20Movie%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rUgVTCBLnXngVlpOaVWZupxwmHZ.jpg"group-title="PELICULAS" type="movie" , Dracula AD (1972) 
-http://144.217.70.79/VODS-M/1080P/Dracula%20AD%201972.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/su9WzL7lwUZPhjH6eZByAYFx2US.jpg"group-title="PELICULAS" type="movie" , The Harder They Fall (2021) 
-http://144.217.70.79/VODS-M/1080P/The%20Harder%20They%20Fall%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z8DPeAno9IT47gCQBrKqJ9czUyI.jpg"group-title="PELICULAS" type="movie" , The Education of Fredrick Fitzell (Flashback) (2020) 
-http://144.217.70.79/VODS-M/1080P/The%20Education%20of%20Fredrick%20Fitzell%20(Flashback)%202020.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rfQtqLHeisaQ4HlYtNremtUl9oP.jpg"group-title="PELICULAS" type="movie" , Gamer (2009) 
-http://144.217.70.79/VODS-M/1080P/Gamer%202009.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mF2ZYPwhMwRp1rJSCI7KKIkw4fc.jpg"group-title="PELICULAS" type="movie" , The True Adventures of Wolfboy (2019) 
-http://144.217.70.79/VODS-M/1080P/The%20True%20Adventures%20of%20Wolfboy%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/j04Oepj3LGTWSb1ltXm0pcy50Xq.jpg"group-title="PELICULAS" type="movie" , Army of Thieves (2021) 
-http://144.217.70.79/VODS-M/1080P/Army%20of%20Thieves%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iwnQ1JH1wdWrGYkgWySptJ5284A.jpg"group-title="PELICULAS" type="movie" , It Follows (2014)
-http://144.217.70.79/VODS-M/1080P/It%20Follows%202014.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/52E0LGcMKHOO91P4j6hdHKVwITP.jpg"group-title="PELICULAS" type="movie" , The Deep House (2021) 
-http://144.217.70.79/VODS-M/1080P/The%20Deep%20House%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/56As6XEM1flWvprX4LgkPl8ii4K.jpg"group-title="PELICULAS" type="movie" , The Skull (1965) 
-http://144.217.70.79/VODS-M/1080P/The%20Skull%201965.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8GTJwaC2CeNa0Zg6QrPLwrfurpZ.jpg",Mientras Haya Esperanza (2023)
-https://od.lk/s/OTZfNzc3MjU5Nzhf/On%20a%20Wing%20and%20a%20Prayer%20%282023%29%20Online.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/R_I_P_D_2_Rise_of_the_Damned-169387284-mmed.jpg",R.I.P.D. 2 (2022)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fnoviembr%2FVer%20R.I.P.D.%202-%20Rise%20of%20the%20Damned%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/xmbU4JTUm8rsdtn7Y3Fcm30GpeT.jpg",Free Guy (2021)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelissept%2F%E2%96%B7%20Ver%20Free%20Guy-%20Tomando%20el%20Control%20(2021)%20Pel%C3%ADcula%20Online%20Latino.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dU4HfnTEJDf9KvxGS9hgO7BVeju.jpg",After. Almas perdidas (2021)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelisnovi%2F%E2%96%B7%20Ver%20After-%20Almas%20Perdidas%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z8CExJekGrEThbpMXAmCFvvgoJR.jpg",El Ejército de los muertos (2021)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismay%2F%E2%96%B7%20Ver%20El%20Ej%C3%A9rcito%20de%20los%20Muertos%20(2021)%20Pel%C3%ADcula%20Completa%20Online%20Latino.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tnAuB8q5vv7Ax9UAEje5Xi4BXik.jpg",La Liga de la Justicia de Zack Snyder (2021)
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/pelis%2Fpelismarz%2FZack%20Snyders%20Justice%20League%20(2021)%20LAT_2.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fPtlCO1yQtnoLHOwKtWz7db6RGU.jpg"group-title="PELICULAS" type="movie", El quinto elemento (1997) 
-http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Element%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fTGr7lGtLIpnXM2JZkx3EUyzFIN.jpg "group-title="PELICULAS" type="movie" , El quinto mandamiento (2008) 
-http://144.217.70.79/VODS-M/1080P/The%20Fifth%20Commandment%202008.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eGxaRbDfxBWPysoxkOfYgkwflxJ.jpg"group-title="PELICULAS" type="movie", Good Luck Chuck (2007) ) 
-http://144.217.70.79/VODS-M/1080P/Good%20Luck%20Chuck%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://i.redd.it/al0kjt1iy4f91.png"group-title="PELICULAS" tipo="movie" ,The Amazing Spider Man 2 Rise of Electro (2014) 
-http://144.217.70.79/VODS-M/1080P/The%20Amazing%20Spider%20Man%202%20Rise%20of%20Electro%202014.mkv 
- 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg"group-title="PELICULAS" type="movie" , Spider-Man 2 (2004) 
-http://144.217.70.79/VODS-M/1080P/Spider-Man%202%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://i.redd.it/al0kjt1iy4f91.png"group-title="PELICULAS" type="movie", Spider-Man (2002) 
-http://144.217.70.79/VODS-M/1080P/Spider-Man%202002.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wlP25H14OvKoFORIwuKomZzioA5.jpg",¡Corre, Escóndete, Pelea! (2020) 
-https://tgdownloads.dltelegram.workers.dev/1001829780398/59922 
- 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJkkkG4ditqNzlua0oJzoaICGiz.jpg"group-title="PELICULAS" type="movie", Dan en la vida real (2007) 
-http://144.217.70.79/VODS-M/1080P/Dan%20in%20Real%20Life%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/La_carretera_The_Road-417695172-large.jpg"group-title="PELICULAS" type="movie", OPEN ROAD (2021) 
-http://144.217.70.79/VODS-M/1080P/Spirit%20Untamed%202021.mkv
-
-EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/pistolero-828658835-mmed.jpg"group-title="PELICULAS" type="película" ,El pistolero (2015) 
+EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/pistolero-828658835-mmed.jpg"group-title="PELICULAS" type="movie" ,El pistolero (2015) 
 http://144.217.70.79/VODS-M/1080P/The%20gunman%202015.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg"group-title="PELICULAS" type="movie" , Max 2 héroe de la casa blanca (2017) 
@@ -1509,13 +1350,7 @@ https://archive.org/download/04_20220319_20220319/01.mp4
 https://archive.org/download/04_20220319/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",Kimi (2022) 
-https://archive.org/download/01_20220219_20220219_0318/01.mp
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/39/Wolves_at_the_Door_poster.jpg" group-title="PELICULAS" type="movie" , Wolves at the Door2016) 
-http://144.217.70.79/VODS-M/1080P/Wolves%20at%20the%20Door2016.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lxhsdC8wuGgQf0gKCt8wyHHxGcQ.jpg" group-title="PELICULAS" type="movie" , Dragon The Bruce Lee Story (1993) 
-http://144.217.70.79/VODS-M/1080P/Dragon%20The%20Bruce%20Lee%20Story%201993.mkv 
+https://archive.org/download/01_20220219_20220219_0318/01.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jJ07f8DTdeWnCKCwDzB4htLXKBN.jpg",Sneakerella: Cenicienta en zapatillas Disney (2022) 
 https://archive.org/download/01_20220522_20220522_1534/01.mp4
@@ -1544,143 +1379,12 @@ https://archive.org/download/01_20230509_20230509/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar 2023 
 https://archive.org/download/01_20230509_20230509_1915/01.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",Quiero tu vida (2023) 
-http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosted (2023) 
-http://208.88.245.81/nuevo/ghosted.dual.2023.mkv
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hj6NgZS6RIsrGzBIiT7s9yoYA5Z.jpg",La Madrastra (2022) 
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f05c3beffb_48LMNuenro4k_T.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vqc3bNpuDFPiKmWlfkyi5YOIMUT.jpg",Rosalina (2022) 
 https://d1yei2z3i6k35z.cloudfront.net/2104853/634f09af86ee3_50RSLNNumero4k_R.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://i.pinimg.com/originals/08/e9/53/08e95328f7a82f3c58edc7c51d3c547a.jpg",El Hombre Araña 5 (2017) 
-http://vod.tuxchannel.mx/peliculas/720/spider%20man%20homecoming.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg",Rambo: Last Blood (2019) 
-http://vod.tuxchannel.mx/peliculas/720/rambo%20last%20blood%202019.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ouQOquRqqaO8sPAziD4BFoNO1Pb.jpg",Quarantine 2 (2011) 
-http://vod.tuxchannel.mx/peliculas/720/quarantine%202%20terminal%202011.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iRAZIEgfB9N0BObV0QI61Nxh92h.jpg",Power Rangers (2017) 
-http://vod.tuxchannel.mx/peliculas/720/power%20rangers.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/z8onk7LV9Mmw6zKz4hT6pzzvmvl.jpg",Piratas del caribe 1 (2003) 
-http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20the%20curse%20of%20the%20black%20pearl.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/keGfSvCmYj7CvdRx36OdVrAEibE.jpg",Piratas del Caribe 4 (2011) 
-http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20on%20stranger%20tides.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qwoGfcg6YUS55nUweKGujHE54Wy.jpg",Piratas del Caribe 5 (2017) 
-http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20men%20tell%20no%20tales.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uXEqmloGyP7UXAiphJUu2v2pcuE.jpg",Piratas del Caribe 2 (2006) 
-http://vod.tuxchannel.mx/peliculas/720/pirates%20of%20the%20caribbean%20dead%20mans%20chest.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cjcrkPeQkrkEVYrd3lHWJbfBdrv.jpg",Pan Viaje a Nunca Jamás (2015) 
-http://vod.tuxchannel.mx/peliculas/720/pan.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3RtOffRhVHyST1d5BDVu5dnFI04.jpg",El cazador de sueños (2003) 
-http://vod.tuxchannel.mx/peliculas/720/el%20cazador%20de%20suenos.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",Apocalypto (2006) 
-http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hpnuXlKKWznTgbheGe4iQXzkuwJ.jpg",Chappie (2015) 
-http://vod.tuxchannel.mx/peliculas/720/chappie.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zdaU2jx0IS4lPpQs0mDBlLMO2b8.jpg",La rebelión (2019) 
-http://vod.tuxchannel.mx/peliculas/720/captive%20state%202019.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qBcIUgJmDGrcAKbhRwCd6AmO0ZW.jpg",Transformers 6 (2018) 
-http://vod.tuxchannel.mx/peliculas/720/bumblebee%202018.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1TohqCqMbaiuRLJPrPW0vnQP3lE.jpg",El bosque de los suicidios (2016) 
-http://vod.tuxchannel.mx/peliculas/720/el%20bosque%20de%20los%20suicidios.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wLx65gtGVnUFCxceHWGszcruCZj.jpg",Dredd (2012) 
-http://vod.tuxchannel.mx/peliculas/720/dredd.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/m5h3NtZ2ZfryIHl1MvatmANvIqQ.jpg",Drácula: La historia jamás contada (2014) 
-http://vod.tuxchannel.mx/peliculas/720/dracula%20untold.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tuGlQkqLxnodDSk6mp5c2wvxUEd.jpg",Distrito 9 (2009) 
-http://vod.tuxchannel.mx/peliculas/720/distrit%209.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1mXhlQMnlfvJ2frxTjZSQNnA9Vp.jpg",Destino final 1 (2000) 
-http://vod.tuxchannel.mx/peliculas/720/destino%20final.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Akx1Po4ZLetOWfYJhQf75tbhTtK.jpg",Destino final 5 (2011) 
-http://vod.tuxchannel.mx/peliculas/720/destino%20final%205.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5vxXrr1MqGsT4NNeRITpfDnl4Rq.jpg",Destino final 4 (2009) 
-http://vod.tuxchannel.mx/peliculas/720/destino%20final%204.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p7ARuNKUGPGvkBiDtIDvAzYzonX.jpg",Destino final 3 (2006) 
-http://vod.tuxchannel.mx/peliculas/720/destino%20final%203.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sDsdhVmGzh4L56QvtLLinvXjDs3.jpg",Destino final 2 (2003) 
-http://vod.tuxchannel.mx/peliculas/720/destino%20final%202.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jq4TVchWAWac6zGmCuriFhfBSzo.jpg",Demonic (2015) 
-http://vod.tuxchannel.mx/peliculas/720/demonic.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9OkZ94drVlmLfa1uBYaP8yMv7Ow.jpg",Déjame entrar (2008) 
-http://vod.tuxchannel.mx/peliculas/720/dejame%20entrar.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/h6aVbUsiJB3Le1xrhyZXsXZOI3h.jpg",El amanecer de los muertos (2004) 
-http://vod.tuxchannel.mx/peliculas/720/dawn%20of%20the%20dead.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//tBiUXvCqz34GDeuY7jK14QQdtat.jpg",Los Caballeros del Zodiaco (2023) 
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Los%20Caballeros%20del%20Zodiaco-%20Saint%20Seiya%20-%20El%20inicio%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
-
-#EXTINF:-1 tvg-logo="https://2.bp.blogspot.com/-FI3ceQ8zvJA/VZ1T3KrwtMI/AAAAAAAACEY/Ll7SepVRwFk/s1600/g_and_mothra_universe_front.jpg" group-title="PELICULAS" type="movie" , Godzilla contra Mothra (1992) 
-http://144.217.70.79/VODS-M/1080P/Godzilla%20vs%20Mothra%201992.mkv
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8ax79K6TZEnMqSS5ePrNCnrK8R.jpg" group-title="PELICULAS" type="movie", Dreamland (2019) 
-http://144.217.70.79/VODS-M/1080P/Dreamland%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMjA4Mzc4Mjg5OV5BMl5BanBnXkFtZTYwNjg4OTQ5._V1_.jpg" group-title="PELICULAS" type="movie", Dead Man Walking (1995) 
-http://144.217.70.79/VODS-M/1080P/Dead%20Man%20Walking%201995.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Azi1GBNj3gPPwmQWAMcATg7JOl.jpg" group-title="PELICULAS" type="movie", Elektra (2005) 
-http://144.217.70.79/VODS-M/1080P/Elektra%202005.mkv 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc3NTkxMTkzOV5BMl5BanBnXkFtZTcwMTczODIyMQ@@._V1_.jpg" group-title="PELICULAS" type="movie", Tiburón 3-D (1983) 
-http://144.217.70.79/VODS-M/1080P/Jaws%203-D%201983.mkv 
-
-#EXTINF:-1 tvg-logo="https://www.ecured.cu/images/1/1a/Jaws2_poster.jpg" group-title="PELICULAS" type="movie", Tiburón 2 (1978) 
-http://144.217.70.79/VODS-M/1080P/Jaws%202%201978. mkv
-
-#EXTINF:-1 tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/disney/55608B841C178EA12C30A28CF65AE31039A559EA2AFFB92A7376EDDA249C3DC9/scale?width=506&aspectRatio=2.00&format=jpeg" group-title="PELICULAS" type="movie", Nunca me han besado (1999) 
-http://144.217.70.79/VODS-M/1080P/Never%20Been%20Kissed%201999.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iiZZdoQBEYBv6id8su7ImL0oCbD.jpg" group-title="PELICULAS" type="movie" ,Spider-Man en el Spider-Verse (2018) 
-http://144.217.70.79/VODS-M/1080P/Spider-Man%20Into%20the%20Spider-Verse%202018.mkv 
-
-#EXTINF:-1 tvg-logo=" https://image.tmdb.org/t/p/w500/4q2NNj4S5dG2RLF9CpXsej7yXl.jpg" group-title="PELICULAS" type="movie" , Spider-Man Lejos de casa (2019) 
-http://144.217.70.79/VODS-M/1080P/Spider -Man%20Far%20from%20Home%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c24sv2weTHPsmDa7jEMN0m2P3RT.jpg" group-title="PELICULAS" type="movie", Spider- Hombre de regreso a casa (2017) 
-http://144.217.70.79/VODS-M/1080P/Spider-Man%20Homecoming%202017.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023)
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wJkkkG4ditqNzlua0oJzoaICGiz.jpg" group-title="PELICULAS" type="movie", Dan en la vida real (2007) 
-http://144.217.70.79/VODS-M/1080P/Dan%20in%20Real%20Life%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Spirit_Indomable-467863977-large.jpg" group-title="PELICULAS" type="movie", Spirit Untamed (2021) 
-http://144.217.70.79/VODS-M/1080P/Spirit%20Untamed%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5XyuUPoIeEf3guWLQW9lATON84v.jpg" group-title="PELICULAS" type="movie" , El cobrador de deudas (2018) 
-http://144.217.70.79/VODS-M/1080P/The%20Debt%20Collector%202018.mkv
-
-#EXTINF:- 1 tvg-logo="https://image.tmdb.org/t/p/w500/wp6OxE4poJ4G7c0U2ZIXasTSMR7.jpg" group-title="PELICULAS" type="movie", Thor el mundo oscuro (2013) 
-http://144.217.70.79/VODS-M /1080P/Thor%20the%20dark%20world%202013.mkv
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r7HEBkkRN93d3eFBZgPJfRaob5p.jpg" group-title="PELICULAS" type="movie" , Dont breathe (2016) 
 http://144.217.70.79/VODS-M/1080P/Dont%20breathe%202016.mp4 
 
@@ -1699,315 +1403,6 @@ http://144.217.70.79/VODS-M/1080P/The%20stanford%20prison%20experiment%202015.mp
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dlSOgB0UcsU6pr3ttGrYsytDJfC.jpg" group-title="PELICULAS" type="movie" , Tremors 5 bloodlines (2015) 
 http://144.217.70.79/VODS-M/1080P/Tremors%205%20bloodlines%202015.mp4
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Ic99kyJewgPHwl4JftJSwzUmtD.jpg" group-title="PELICULAS" type="movie" , Timmy Failure Mistakes Were Made (2020) 
-http://144.217.70.79/VODS-M/720P/Timmy%20Failure%20Mistakes%20Were%20Made%202020.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fP3VvqUjEBjawxZHL4sYCq2ZdJD.jpg" group-title="PELICULAS" type="movie" , Home Sweet Home Alone (2021) 
-http://144.217.70.79/VODS-M/1080P/Home%20Sweet%20Home%20Alone%202021.mkv 
- 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1BIoJGKbXjdFDAqUEiA2VHqkK1Z.jpg" group-title="PELICULAS" type="movie" , Shang-Chi and the Legend of the Ten Rings (2021) 
-http://144.217.70.79/VODS-M/1080P/Shang-Chi%20and%20the%20Legend%20of%20the%20Ten%20Rings%202021.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lAXONuqg41NwUMuzMiFvicDET9Y.jpg" group-title="PELICULAS" type="movie" , Red Notice (2021) 
-http://144.217.70.79/VODS-M/1080P/Red%20Notice%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jXp6ERnrFdG04Gli3d34GtANsuw.jpg" group-title="PELICULAS" type="movie" , Passing (2021) 
-http://144.217.70.79/VODS-M/1080P/Passing%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6BngDhDNfbBjhVFWDT2yMve32vi.jpg" group-title="PELICULAS" type="movie" , Never Been Kissed (1999) 
-http://144.217.70.79/VODS-M/1080P/Never%20Been%20Kissed%201999.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9JV0LOcazudqEcz2NNOMqEIzACz.jpg" group-title="PELICULAS" type="movie" , Love Hard (2021) 
-http://144.217.70.79/VODS-M/1080P/Love%20Hard%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9a2O1CVhw7L339aSF6lZJhYcP7j.jpg" group-title="PELICULAS" type="movie" , Triggered (2020) 
-http://144.217.70.79/VODS-M/1080P/Triggered%202020.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jKuDyqx7jrjiR9cDzB5pxzhJAdv.jpg" group-title="PELICULAS" type="movie" , Finch (2021) 
-http://144.217.70.79/VODS-M/1080P/Finch%202021.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qFmwhVUoUSXjkKRmca5yGDEXBIj.jpg" group-title="PELICULAS" type="movie" , Spider-Man 3 (2007) 
-http://144.217.70.79/VODS-M/1080P/Spider-Man%203%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/c3e9e18SSlvFd1cQaGmUj5tqL5P.jpg" group-title="PELICULAS" type="movie" , Spider-Man 2 (2004) 
-http://144.217.70.79/VODS-M/1080P/Spider-Man%202%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uJYYizSuA9Y3DCs0qS4qWvHfZg4.jpg" group-title="PELICULAS" type="movie" , Spider-Man (2002) 
-http://144.217.70.79/VODS-M/1080P/Spider-Man%202002.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jIfkQNARYyERqRAq1p1c8xgePp4.jpg" group-title="PELICULAS" type="movie" , The Amazing Spider-Man (2012) 
-http://144.217.70.79/VODS-M/1080P/The%20Amazing%20Spider-Man%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ceGk1VcuI8pSXQhSlnqsqTFCPLD.jpg" group-title="PELICULAS" type="movie" , Tarzan (1999) 
-http://144.217.70.79/VODS-M/1080P/Tarzan%201999.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rdtEIdzqJTVhSLsjuR4U9t1KKxp.jpg" group-title="PELICULAS" type="movie" , Greystoke The Legend of Tarzan Lord of the Apes (1984) 
-http://144.217.70.79/VODS-M/1080P/Greystoke%20The%20Legend%20of%20Tarzan%20Lord%20of%20the%20Apes%201984.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aGBuiirBIQ7o64FmJxO53eYDuro.jpg" group-title="PELICULAS" type="movie" , Jeepers Creepers (2001) 
-http://144.217.70.79/VODS-M/1080P/Jeepers%20Creepers%202001.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/scFDS0U5uYAjcVTyjNc7GmcZw1q.jpg" group-title="PELICULAS" type="movie" , Bram Stokers Dracula (1992) 
-http://144.217.70.79/VODS-M/1080P/Bram%20Stokers%20Dracula%201992.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kNmIJILOW9qF2F1Z0qOXkadaS50.jpg" group-title="PELICULAS" type="movie" , All Dogs Go to Heaven 2 (1996) 
-http://144.217.70.79/VODS-M/1080P/All%20Dogs%20Go%20to%20Heaven%202%201996.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nmWh1NglDinfkHD9zCNqGWyhl7Q.jpg" group-title="PELICULAS" type="movie" , All Dogs Go to Heaven (1989) 
-http://144.217.70.79/VODS-M/1080P/All%20Dogs%20Go%20to%20Heaven%201989.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iGRyPsZF0lfIL3IadmBdoAsYzyn.jpg" group-title="PELICULAS" type="movie" , The Million Dollar Hotel (2000) 
-http://144.217.70.79/VODS-M/1080P/The%20Million%20Dollar%20Hotel%202000.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9lFKBtaVIhP7E2Pk0IY1CwTKTMZ.jpg" group-title="PELICULAS" type="movie" , The Incredibles 2 (2018) 
-http://144.217.70.79/VODS-M/1080P/The%20Incredibles%202%202018.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qs6gz6atyQcAvqC6qZaslOjliUG.jpg" group-title="PELICULAS" type="movie" , Dragonheart Vengeance (2020) 
-http://144.217.70.79/VODS-M/1080P/Dragonheart%20Vengeance%202020.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ygCQnDEqUEIamBpdQdDYnFfxvgM.jpg" group-title="PELICULAS" type="movie" , The Last Days of American Crime (2020) 
-http://144.217.70.79/VODS-M/1080P/The%20Last%20Days%20of%20American%20Crime%202020.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rLOk4z9zL1tTukIYV56P94aZXKk.jpg" group-title="PELICULAS" type="movie" , A Few Good Men (1992) 
-http://144.217.70.79/VODS-M/1080P/A%20Few%20Good%20Men%201992.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eSZfVXa9cDbc0FbkQ0tnSuPRMM9.jpg" group-title="PELICULAS" type="movie" , Husk (2011) 
-http://144.217.70.79/VODS-M/1080P/Husk%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oMWP4cAoy8WBauuKZAVTIfuY3Fw.jpg" group-title="PELICULAS" type="movie" , Kickboxer Retaliation (2018) 
-http://144.217.70.79/VODS-M/1080P/Kickboxer%20Retaliation%202018.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9suFyXDE1MhZ8I8tuhmTd0fJ7G8.jpg" group-title="PELICULAS" type="movie" , Kickboxer Vengeance (2016) 
-http://144.217.70.79/VODS-M/1080P/Kickboxer%20Vengeance%202016.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oPEaXVR6Ji7c8MkvGKuQP3ZKc5e.jpg" group-title="PELICULAS" type="movie" , Kickboxer 5 The Redemption (1995) 
-http://144.217.70.79/VODS-M/1080P/Kickboxer%205%20The%20Redemption%201995.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3MoXMlTDQgpLr54veMT39rCyaTz.jpg" group-title="PELICULAS" type="movie" , American Ninja 4 (1990) 
-http://144.217.70.79/VODS-M/1080P/American%20Ninja%204%201990.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5MttL2NNQzUeR7MnGd5JHjkcNrk.jpg" group-title="PELICULAS" type="movie" , Dr Dolittle Million Dollar Mutts (2009) 
-http://144.217.70.79/VODS-M/1080P/Dr%20Dolittle%20Million%20Dollar%20Mutts%202009.mkv
-
- #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/t9XXivYtzap9TPNQ5CWskzh5agF.jpg" group-title="PELICULAS" type="movie" , Cats (2019) 
-http://144.217.70.79/VODS-M/1080P/Cats%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yCvB5fG5aEPqa1St7ihY6KEAsHD.jpg" group-title="PELICULAS" type="movie" , Bad Boys 2 (2003) 
-http://144.217.70.79/VODS-M/1080P/Bad%20Boys%202%202003.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/y95lQLnuNKdPAzw9F9Ab8kJ80c3.jpg" group-title="PELICULAS" type="movie" , Bad Boys (1995) 
-http://144.217.70.79/VODS-M/1080P/Bad%20Boys%201995.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yn5ihODtZ7ofn8pDYfxCmxh8AXI.jpg" group-title="PELICULAS" type="movie" , Little Women (2019) 
-http://144.217.70.79/VODS-M/1080P/Little%20Women%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/825ohvC4wZ3gCuncCaqkWeQnK8h.jpg" group-title="PELICULAS" type="movie" , Remember the Titans (2000) 
-http://144.217.70.79/VODS-M/1080P/Remember%20the%20Titans%202000.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g0YcSd5QpgGXOjg9tl0if0soOkE.jpg" group-title="PELICULAS" type="movie" , Scream 4 (2011) 
-http://144.217.70.79/VODS-M/1080P/Scream%204%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qpH8ToZVlFD1bakL04LkEKodyDI.jpg" group-title="PELICULAS" type="movie" , Scream 3 (2000) 
-http://144.217.70.79/VODS-M/1080P/Scream%203%202000.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dORlVasiaDkJXTqt9bdH7nFNs6C.jpg"group-title="PELICULAS" type="movie" , Scream 2 (1997) 
-http://144.217.70.79/VODS-M/1080P/Scream%202%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aePBN8ffLCHoUXp8lkA5P29CXdx.jpg"group-title="PELICULAS" type="movie" , Scream (1996) 
-http://144.217.70.79/VODS-M/1080P/Scream%201996.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iH5eExSCOv1kxJXH9npPyM0EAJF.jpg"group-title="PELICULAS" type="movie" , The Crow (1994) 
-http://144.217.70.79/VODS-M/1080P/The%20Crow%201994.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mb7wQv0adK3kjOUr9n93mANHhPJ.jpg"group-title="PELICULAS" type="movie" , The Kissing Booth 2 (2020) 
-http://144.217.70.79/VODS-M/1080P/The%20Kissing%20Booth%202%202020.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7Dktk2ST6aL8h9Oe5rpk903VLhx.jpg"group-title="PELICULAS" type="movie" , The Kissing Booth (2018) 
-http://144.217.70.79/VODS-M/1080P/The%20Kissing%20Booth%202018.mkv
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lCxz1Yus07QCQQCb6I0Dr3Lmqpx.jpg" group-title="PELICULAS" type="movie" , John Carter (2012) 
-http://144.217.70.79/VODS-M/1080P/John%20Carter%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6JPrRC0JPM06y17pUXD6w1xMvKi.jpg" group-title="PELICULAS" type="movie" , Home Alone The Holiday Heist (2012) 
-http://144.217.70.79/VODS-M/1080P/Home%20Alone%20The%20Holiday%20Heist%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uGMIxhhMvQEE0mNlATXpEAG4mgl.jpg" group-title="PELICULAS" type="movie" , Cold blood (2019) 
-http://144.217.70.79/VODS-M/1080P/Cold%20blood%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aiW8TWjIuFveTcA5BCU7KMjPaaW.jpg" group-title="PELICULAS" type="movie" , Paulie (1998) 
-http://144.217.70.79/VODS-M/1080P/Paulie%201998.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kNKy8eJemg6sCAMBgh4xrD0lleX.jpg" group-title="PELICULAS" type="movie" , The Day After Tomorrow (2004) 
-http://144.217.70.79/VODS-M/1080P/The%20Day%20After%20Tomorrow%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iQ5ztdjvteGeboxtmRdXEChJOHh.jpg" group-title="PELICULAS" type="movie" , Scarface (1983) 
-http://144.217.70.79/VODS-M/1080P/Scarface%201983.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q1fXWEoZXogYjAUy32pUc6NL2IH.jpg" group-title="PELICULAS" type="movie" , The Green Hornet (2011) 
-http://144.217.70.79/VODS-M/1080P/The%20Green%20Hornet%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7LEI8ulZzO5gy9Ww2NVCrKmHeDZ.jpg" group-title="PELICULAS" type="movie" , Midsommar (2019) 
-http://144.217.70.79/VODS-M/1080P/Midsommar%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bSxrbVCyWW077zhtpuYlo3zgyug.jpg" group-title="PELICULAS" type="movie" , Alone in the Dark (2005) 
-http://144.217.70.79/VODS-M/1080P/Alone%20in%20the%20Dark%202005.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7K9Nh9ACZfSTn7ngMMAFELiyUr6.jpg" group-title="PELICULAS" type="movie" , The Art of War (2000) 
-http://144.217.70.79/VODS-M/1080P/The%20Art%20of%20War%202000.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/WihoHaU9yvhhdoSqDAhiIlNN8g.jpg" group-title="PELICULAS" type="movie" , Lock Up (1989) 
-http://144.217.70.79/VODS-M/1080P/Lock%20Up%201989.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jPNmQq23eNbKFVPZnY5Kxc63MvW.jpg" group-title="PELICULAS" type="movie" , Chocolat (2016) 
-http://144.217.70.79/VODS-M/1080P/Chocolat%202016.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jloyGeVYZSxM9zsLFvVOWuj2ey4.jpg" group-title="PELICULAS" type="movie" , Battle Los Angeles (2011) 
-http://144.217.70.79/VODS-M/1080P/Battle%20Los%20Angeles%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg" group-title="PELICULAS" type="movie" , The Addams Family (1991) 
-http://144.217.70.79/VODS-M/1080P/The%20Addams%20Family%201991.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ld7YB9vBRp1GM1DT3KmFWSmtBPB.jpg" group-title="PELICULAS" type="movie" , The Addams Family (2019) 
-http://144.217.70.79/VODS-M/1080P/The%20Addams%20Family%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rEV31TbZoC9mBa0fjJVtw94Pnvf.jpg" group-title="PELICULAS" type="movie" , Outlaws And Angels (2016) 
-http://144.217.70.79/VODS-M/1080P/Outlaws%20And%20Angels%202016.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mYDKm9HxImm8PRru3KbkHAe1cmk.jpg" group-title="PELICULAS" type="movie" , Life of Pi (2012) 
-http://144.217.70.79/VODS-M/1080P/Life%20of%20Pi%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jwwVNuGRUBXcudG6wOKP9U60BzU.jpg" group-title="PELICULAS" type="movie" , Solomon Kane (2009) 
-http://144.217.70.79/VODS-M/1080P/Solomon%20Kane%202009.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ldb5M9LOawvaqvY7NSfsB66QLki.jpg" group-title="PELICULAS" type="movie" , The Gods Must Be Crazy II (1989) 
-http://144.217.70.79/VODS-M/1080P/The%20Gods%20Must%20Be%20Crazy%20II%201989.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/IgBfj5LfT7nwpodCZ34QCHp17x.jpg" group-title="PELICULAS" type="movie" , The Gods Must Be Crazy (1980) 
-http://144.217.70.79/VODS-M/1080P/The%20Gods%20Must%20Be%20Crazy%201980.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9V7tl1kIb67ZPRRNlUdy3JvqEiA.jpg" group-title="PELICULAS" type="movie" , Zulu (1964) 
-http://144.217.70.79/VODS-M/1080P/Zulu%201964.mkv 
-
-#EXTINF:-1 tvg-logo="https://img.aullidos.com/imagenes/caratulas/2012-2.jpg" group-title="PELICULAS" type="movie" , (2012 (2009)) 
-http://144.217.70.79/VODS-M/1080P/2012%20(2009).mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8yKdQHaqOo1lkaErmqMuYFespYI.jpg" group-title="PELICULAS" type="movie" , Snow White and the Huntsman (2012)
-http://144.217.70.79/VODS-M/1080P/Snow%20White%20and%20the%20Huntsman%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ufBxs5lpq5XuTazs83A4GMNotc1.jpg" group-title="PELICULAS" type="movie" , Little Big Man (1970) 
-http://144.217.70.79/VODS-M/1080P/Little%20Big%20Man%201970.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jJx8zvW0H2N1WxrjYE8hRxS1N3u.jpg" group-title="PELICULAS" type="movie" , White fang (2018) 
-http://144.217.70.79/VODS-M/1080P/White%20fang%202018.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hxqzVSARXtK4C5PhWTDz3pRJoxz.jpg" group-title="PELICULAS" type="movie" , White Fang 2 Myth of the White Wolf (1994) 
-http://144.217.70.79/VODS-M/1080P/White%20Fang%202%20Myth%20of%20the%20White%20Wolf%201994.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uChjCbOKpoREb3yZrG1p8L3GyC7.jpg" group-title="PELICULAS" type="movie" , Mackennas Gold (1969) 
-http://144.217.70.79/VODS-M/1080P/Mackennas%20Gold%201969.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/f0QqG14SZYYZcV4VWykVc5w13dz.jpg" group-title="PELICULAS" type="movie" , Bruce Almighty (2003) 
-http://144.217.70.79/VODS-M/1080P/Bruce%20Almighty%202003.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ce66ewX8MIZgHy9iqOp86BB8Ogv.jpg" group-title="PELICULAS" type="movie" , Far and Away (1992) 
-http://144.217.70.79/VODS-M/1080P/Far%20and%20Away%201992.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4C1R0LEivLjbv3swAzJfzh0tzXl.jpg" group-title="PELICULAS" type="movie" , The Man Who Shot Liberty Valance (1962) 
-http://144.217.70.79/VODS-M/1080P/The%20Man%20Who%20Shot%20Liberty%20Valance%201962.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrYqdIOF1EOoBQSQbkIU88NJy9n.jpg" group-title="PELICULAS" type="movie" , The Wild Bunch (1969) 
-http://144.217.70.79/VODS-M/1080P/The%20Wild%20Bunch%201969.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/b0WwWRcDiDahkah5vZ0KjB4N9ZZ.jpg" group-title="PELICULAS" type="movie" , Shanghai Noon (2000) 
-http://144.217.70.79/VODS-M/1080P/Shanghai%20Noon%202000.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/izGX7npHEopDQvngYcxMJEfcFbj.jpg" group-title="PELICULAS" type="movie" , Code 8 (2019) 
-http://144.217.70.79/VODS-M/1080P/Code%208%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rVR3uN1yPRqYBBtNFSrEKCpRhaK.jpg" group-title="PELICULAS" type="movie" , Overcomer (2019) 
-http://144.217.70.79/VODS-M/1080P/Overcomer%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qRktvMOO2QaCL7gvNyvZDoxPOZj.jpg" group-title="PELICULAS" type="movie" , Home Alone 4 (2002) 
-http://144.217.70.79/VODS-M/1080P/Home%20Alone%204%202002.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kZHnblqmTBUBgzYBIxWIz9txsEi.jpg" group-title="PELICULAS" type="movie" , The Aeronauts (2019) 
-http://144.217.70.79/VODS-M/1080P/The%20Aeronauts%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7vIpCkgGEfk5LZwm78nMxswLJRH.jpg" group-title="PELICULAS" type="movie" , Beverly Hills Cop 3 (1994) 
-http://144.217.70.79/VODS-M/1080P/Beverly%20Hills%20Cop%203%201994.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/egDakU8O5yUwpUJP9IMAUVtIDll.jpg" group-title="PELICULAS" type="movie" , Beverly Hills Cop 2 (1987) 
-http://144.217.70.79/VODS-M/1080P/Beverly%20Hills%20Cop%202%201987.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4d4mTSfDIFIbUbMLUfaKodvxYXA.jpg" group-title="PELICULAS" type="movie" , The two popes (2019) 
-http://144.217.70.79/VODS-M/1080P/The%20two%20popes%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5vjH8oQFZXJ0gTOPsJKWidVsWmg.jpg" group-title="PELICULAS" type="movie" , Evan Almighty (2007) 
-http://144.217.70.79/VODS-M/1080P/Evan%20Almighty%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/p1habYSdC7oD3WygQ5lynU5G5rV.jpg" group-title="PELICULAS" type="movie" , Liar Liar (1997) 
-http://144.217.70.79/VODS-M/1080P/Liar%20Liar%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vuza0WqY239yBXOadKlGwJsZJFE.jpg" group-title="PELICULAS" type="movie" , The Truman Show (1998) 
-http://144.217.70.79/VODS-M/1080P/The%20Truman%20Show%201998.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8citjdBmjddZjlPsAHEyCKwGVvD.jpg" group-title="PELICULAS" type="movie" , Kick-Ass (2010)
-http://144.217.70.79/VODS-M/1080P/Kick-Ass%202010.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5MwkWH9tYHv3mV9OdYTMR5qreIz.jpg" group-title="PELICULAS" type="movie", Eternal Sunshine of the Spotless Mind (2004) 
-http://144.217.70.79/VODS-M/1080P/Eternal%20Sunshine%20of%20the%20Spotless%20Mind%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gBhLQmpCPoKFMCGsulMbIFzrBID.jpg" group-title="PELICULAS" type="movie" , You Dont Mess with the Zohan (2008) 
-http://144.217.70.79/VODS-M/1080P/You%20Dont%20Mess%20with%20the%20Zohan%202008.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5NxTW4SS6aUKZYnbQzh7UYNivd.jpg" group-title="PELICULAS" type="movie" , 50 First Dates (2004) 
-http://144.217.70.79/VODS-M/1080P/50%20First%20Dates%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oL0k5JA53PyoHSZqKb3cNkhwBCE.jpg" group-title="PELICULAS" type="movie" , Click (2006) 
-http://144.217.70.79/VODS-M/1080P/Click%202006.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lDX5TZxMEnkFDJ05HBJ537xtFab.jpg" group-title="PELICULAS" type="movie" , The Prophecy 2 (1998) 
-http://144.217.70.79/VODS-M/1080P/The%20Prophecy%202%201998.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fMtb5aZoLRNbMnCkatFsTmPRfl5.jpg" group-title="PELICULAS" type="movie" , The Nutty Professor (1996) 
-http://144.217.70.79/VODS-M/1080P/The%20Nutty%20Professor%201996.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uZtNc31LR5Ik3ZVo2jxwOvhkNRC.jpg" group-title="PELICULAS" type="movie" , The Black Stallion (1979) 
-http://144.217.70.79/VODS-M/1080P/The%20Black%20Stallion%201979.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/phUgN8p7O6FNRLovzjuxFaDdVBn.jpg" group-title="PELICULAS" type="movie" , The Black Stallion Returns (1983) 
-http://144.217.70.79/VODS-M/1080P/The%20Black%20Stallion%20Returns%201983.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oRd5Zb2MJEvBBxvyh3gVe6d4cAl.jpg" group-title="PELICULAS" type="movie" , Trinity Is Still My Name (1971) 
-http://144.217.70.79/VODS-M/1080P/Trinity%20Is%20Still%20My%20Name%201971.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/krKnsfvSJM1PL40tLicRhVQ6kuG.jpg" group-title="PELICULAS" type="movie" , The Void (2016) 
-http://144.217.70.79/VODS-M/1080P/The%20Void%202016.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/869qSfiou8ZGBhOGrmAol48K9Vo.jpg" group-title="PELICULAS" type="movie" , Air (2015) 
-http://144.217.70.79/VODS-M/1080P/Air%202015.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iDdGfdNvY1EX0uDdA4Ru77fwMfc.jpg" group-title="PELICULAS" type="movie" , Insidious chapter 3 (2015) 
-http://144.217.70.79/VODS-M/1080P/Insidious%20chapter%203%202015.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/chnxUtTmTRZh5FE7Ha4aUOZ9ahs.jpg" group-title="PELICULAS" type="movie" , Insidious chapter 2 (2013) 
-http://144.217.70.79/VODS-M/1080P/Insidious%20chapter%202%202013.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tmlDFIUpGRKiuWm9Ixc6CYDk4y0.jpg" group-title="PELICULAS" type="movie" , Insidious (2010) 
-http://144.217.70.79/VODS-M/1080P/Insidious%202010.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jji0voa3xDORDgWXezKC5jdx3Q3.jpg" group-title="PELICULAS" type="movie" , Dreamgirls (2006) 
-http://144.217.70.79/VODS-M/1080P/Dreamgirls%202006.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4BoeDiKFqKwq4mfU8ITDLglFyoc.jpg" group-title="PELICULAS" type="movie" , A Thousand Words (2012) 
-http://144.217.70.79/VODS-M/1080P/A%20Thousand%20Words%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/egDakU8O5yUwpUJP9IMAUVtIDll.jpg" group-title="PELICULAS" type="movie" , Beverly Hills Cop (1984) 
-http://144.217.70.79/VODS-M/1080P/Beverly%20Hills%20Cop%201984.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uiey5XUKuPicwpIJMf1OpaOd1jL.jpg" group-title="PELICULAS" type="movie" , Daddy Day Care (2003) 
-http://144.217.70.79/VODS-M/1080P/Daddy%20Day%20Care%202003.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/udDclJoHjfjb8Ekgsd4FDteOkCU.jpg" group-title="PELICULAS" type="movie" , Joker (2019) 
 http://144.217.70.79/VODS-M/1080P/Joker%202019.mp4 
 
@@ -2016,36 +1411,12 @@ http://144.217.70.79/VODS-M/1080P/Wicked%20Flying%20Monkeys%202015.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ofhOB6EGSBqzGHA0MStMx9zWnML.jpg" group-title="PELICULAS" type="movie" , Lucy in the Sky (2019) 
 http://144.217.70.79/VODS-M/1080P/Lucy%20in%20the%20Sky%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nQoZBpLqGydDjVRXILTx06DoLCF.jpg" group-title="PELICULAS" type="movie" , Joe Dirt (2001) 
-http://144.217.70.79/VODS-M/1080P/Joe%20Dirt%202001.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/shi9Fdv2noZXOkGZLjqMBSfbGVW.jpg" group-title="PELICULAS" type="movie" , Hard night falling (2019) 
 http://144.217.70.79/VODS-M/1080P/Hard%20night%20falling%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTQH8fpBPXIPgway7e8AQJ9AKnm.jpg" group-title="PELICULAS" type="movie" , Curly Sue (1991) 
-http://144.217.70.79/VODS-M/1080P/Curly%20Sue%201991.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4RErLw0APt8qQiee0d8VCKasWwl.jpg" group-title="PELICULAS" type="movie" , A christmas prince the royal baby (2019) 
 http://144.217.70.79/VODS-M/1080P/A%20christmas%20prince%20the%20royal%20baby%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eo28MSJ50erE1oPg9XGk8yu9Cn1.jpg" group-title="PELICULAS" type="movie" , Hope Springs Eternal (2018) 
-http://144.217.70.79/VODS-M/1080P/Hope%20Springs%20Eternal%202018.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dcbqyycrWA56HXq5lm41HYuED8Y.jpg" group-title="PELICULAS" type="movie" , Monte Carlo (2011) 
-http://144.217.70.79/VODS-M/1080P/Monte%20Carlo%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/698cbxq0SRwCdOPG5Bwi7JDk12d.jpg" group-title="PELICULAS" type="movie" , Sweet Home Alabama (2002) 
-http://144.217.70.79/VODS-M/1080P/Sweet%20Home%20Alabama%202002.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/csle64zkLObsdRoabreC6bBRxLI.jpg" group-title="PELICULAS" type="movie" , Unstoppable (2010) 
-http://144.217.70.79/VODS-M/1080P/Unstoppable%202010.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iMmMxF6f2OonUrXrHKBLSYAhXly.jpg" group-title="PELICULAS" type="movie" , The Boss (2016) 
-http://144.217.70.79/VODS-M/1080P/The%20Boss%202016.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/maUMIZVGs8g1hYtq4dQ9Lg9FtVF.jpg" group-title="PELICULAS" type="movie" , Second Act (2018) 
-http://144.217.70.79/VODS-M/1080P/Second%20Act%202018.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uNHueGo5TYCTLzoGULse65GC32Q.jpg" group-title="PELICULAS" type="movie" , Dont let go (2019) 
 http://144.217.70.79/VODS-M/1080P/Dont%20let%20go%202019.mp4 
@@ -2058,54 +1429,18 @@ http://144.217.70.79/VODS-M/1080P/Abominable%202019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7qBKs8ziqHEYydJJnRyTo6IGpFC.jpg" group-title="PELICULAS" type="movie" , Patrick (2018) 
 http://144.217.70.79/VODS-M/1080P/Patrick%202018.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pjDGKPiaQ0R8wjO8ygZUdIdvZPK.jpg" group-title="PELICULAS" type="movie" , Mickeys Magical Christmas Snowed in at the House of Mouse (2001) 
-http://144.217.70.79/VODS-M/1080P/Mickeys%20Magical%20Christmas%20Snowed%20in%20at%20the%20House%20of%20Mouse%202001.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pvaWMSRzRwtcxyHKNLX6phiQp8d.jpg" group-title="PELICULAS" type="movie" , The Santa Clause 3 The Escape Clause (2006) 
-http://144.217.70.79/VODS-M/1080P/The%20Santa%20Clause%203%20The%20Escape%20Clause%202006.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lyfnB5xf3JeVkLQQTz5yZK8Q90C.jpg" group-title="PELICULAS" type="movie" , The Santa Clause 2 (2002) 
-http://144.217.70.79/VODS-M/1080P/The%20Santa%20Clause%202%202002.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hvV2rI60qOYELT7tHHLpxtafnBZ.jpg" group-title="PELICULAS" type="movie" , The Santa Clause (1994) 
-http://144.217.70.79/VODS-M/1080P/The%20Santa%20Clause%201994.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lobNOBHuJQCP9ZYAf86MBMwRrmZ.jpg" group-title="PELICULAS" type="movie" , Hot Pursuit (2015) 
-http://144.217.70.79/VODS-M/1080P/Hot%20Pursuit%202015.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zPQzLZnfVw9fbXyxxglyOsmQBlu.jpg" group-title="PELICULAS" type="movie" , Playmobil the movie (2019) 
 http://144.217.70.79/VODS-M/1080P/Playmobil%20the%20movie%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="PELICULAS" type="movie" , Rambo Last Blood (2019) 
-http://144.217.70.79/VODS-M/1080P/Rambo%20Last%20Blood%202019.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg" group-title="PELICULAS" type="movie" , Ad Astra (2019) 
 http://144.217.70.79/VODS-M/1080P/Ad%20Astra%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6uOadrCfle0n2LOOxHbgWEdnrm2.jpg" group-title="PELICULAS" type="movie" , Home Alone 3 (1997) 
-http://144.217.70.79/VODS-M/1080P/Home%20Alone%203%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nrUDsisIxwAB9s5caM5SE0HJEHe.jpg" group-title="PELICULAS" type="movie" , The Beach (2000) 
-http://144.217.70.79/VODS-M/1080P/The%20Beach%202000.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg" group-title="PELICULAS" type="movie" , 101 Dalmatians (1961)) 
-http://144.217.70.79/VODS-M/1080P/101%20Dalmatians%20(1961).mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r9FiDSdBwNHdRwN0NMRrqfEHJGO.jpg" group-title="PELICULAS" type="movie" , Lady and the Tramp (1955) 
-http://144.217.70.79/VODS-M/1080P/Lady%20and%20the%20Tramp%201955.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/dSxnIika9yWwTvEbpsmoGdeh65E.jpg" group-title="PELICULAS" type="movie" , 102 Dalmatians (2000) 
 http://144.217.70.79/VODS-M/1080P/102%20Dalmatians%202000.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iBmKN7zS8fl0rhgtOr9T8BM90k8.jpg" group-title="PELICULAS" type="movie" , Mickeys Once Upon a Christmas (1999) 
 http://144.217.70.79/VODS-M/1080P/Mickeys%20Once%20Upon%20a%20Christmas%201999.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8o2ADoAyG796UwTjwBFjPyBz0yG.jpg" group-title="PELICULAS" type="movie" , 101 Dalmatians (1996) 
-http://144.217.70.79/VODS-M/1080P/101%20Dalmatians%201996.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yXdQ4UGDFCsPrynJOdIk20AYLus.jpg" group-title="PELICULAS" type="movie" , Deuce Bigalow European Gigolo (2005) 
-http://144.217.70.79/VODS-M/1080P/Deuce%20Bigalow%20European%20Gigolo%202005.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2JRyCKaRKyJAVpsIHeLvPw5nHmw.jpg" group-title="PELICULAS" type="movie" , Marriage story (2019) 
 http://144.217.70.79/VODS-M/1080P/Marriage%20story%202019.mp4 
@@ -2119,62 +1454,17 @@ http://144.217.70.79/VODS-M/1080P/Django%201966.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8iJPxfZUIXEBCioJGvNyohyW8Uw.jpg" group-title="PELICULAS" type="movie" , Diablo (2015) 
 http://144.217.70.79/VODS-M/1080P/Diablo%202015.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5VQVzYzTCsKrtGgcqLNTDJmsqjK.jpg" group-title="PELICULAS" type="movie" , Anacondas Trail Of Blood (2009) 
-http://144.217.70.79/VODS-M/1080P/Anacondas%20Trail%20Of%20Blood%202009.mkv
- 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ce2z5H6gS6mc54kpnFj9G0xjH4G.jpg" group-title="PELICULAS" type="movie" , Anaconda 3 Offspring (2008) 
-http://144.217.70.79/VODS-M/1080P/Anaconda%203%20Offspring%202008.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ueB7Kxq2GObp5aDw6rsdzVefzP.jpg" group-title="PELICULAS" type="movie" , Stray (2019) 
 http://144.217.70.79/VODS-M/1080P/Stray%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/33NysOnLpLZY0ewHTcfpalzAsRG.jpg" group-title="PELICULAS" type="movie" , Anaconda (1997) 
-http://144.217.70.79/VODS-M/1080P/Anaconda%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gTlVy3wUApAanIAPdx3yz0YOROD.jpg" group-title="PELICULAS" type="movie" , Anacondas The Hunt for the Blood Orchid (2004) 
-http://144.217.70.79/VODS-M/1080P/Anacondas%20The%20Hunt%20for%20the%20Blood%20Orchid%202004.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg" group-title="PELICULAS" type="movie" , Hustlers (2019) 
 http://144.217.70.79/VODS-M/1080P/Hustlers%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/meIuuXHhuDg1iUVOp8fr14XOXR1.jpg" group-title="PELICULAS" type="movie" , Tremors 2 Aftershocks (1996) 
-http://144.217.70.79/VODS-M/1080P/Tremors%202%20Aftershocks%201996.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cA4ggkZ3r1d5r9hOAUWC8x5ul2i.jpg" group-title="PELICULAS" type="movie" , Tremors (1990) 
-http://144.217.70.79/VODS-M/1080P/Tremors%201990.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2dpgRy7ekDUNNk2FxYPkxBcG8li.jpg"group-title="PELICULAS" type="movie" , Tremors 3 Back to Perfection (2001) 
-http://144.217.70.79/VODS-M/1080P/Tremors%203%20Back%20to%20Perfection%202001.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iPDkaSdKk2jRLTM65UOEoKtsIZ8.jpg"group-title="PELICULAS" type="movie" , I Am Legend (2007) 
-http://144.217.70.79/VODS-M/1080P/I%20Am%20Legend%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yhh1zMGoy6nYSXMgrsYoNRbclJn.jpg"group-title="PELICULAS" type="movie" , Tremors 4 The Legend Begins (2004) 
-http://144.217.70.79/VODS-M/1080P/Tremors%204%20The%20Legend%20Begins%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nyCA6UfqEPsH1lqL6YVtVf0KwwN.jpg"group-title="PELICULAS" type="movie" , Waterworld (1995) 
-http://144.217.70.79/VODS-M/1080P/Waterworld%201995.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2FHbwL1RZCeAsBRSBVuxYRj9Mhl.jpg"group-title="PELICULAS" type="movie" , The Last Wagon (1956) 
-http://144.217.70.79/VODS-M/1080P/The%20Last%20Wagon%201956.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oU7Oq2kFAAlGqbU4VoAE36g4hoI.jpg"group-title="PELICULAS" type="movie" , Jurassic Park (1993) 
-http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%201993.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oQXj4NUfS3r3gHXtDOzcJgj1lLc.jpg"group-title="PELICULAS" type="movie" , Jurassic Park III (2001) 
-http://144.217.70.79/VODS-M/1080P/Jurassic%20Park%20III%202001.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jElpCJkSaRPYwIMwZY28gOKV7BK.jpg" group-title="PELICULAS" type="movie" , Jurassic park II the lost world (1997) 
-http://144.217.70.79/VODS-M/1080P/Jurassic%20park%20II%20the%20lost%20world%201997.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg" group-title="PELICULAS" type="movie" , Aliens (1986) 
 http://144.217.70.79/VODS-M/1080P/Aliens%201986.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8j58iEBw9pOXFD2L0nt0ZXeHviB.jpg"group-title="PELICULAS" type="movie" , Once Upon a Time in Hollywood (2019) 
 http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20Hollywood%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1CxZWytSiCzZiZA5k0AiLUFtQNA.jpg" group-title="PELICULAS" type="movie" , Look Whos Back (2015) 
-http://144.217.70.79/VODS-M/1080P/Look%20Whos%20Back%202015.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zfE0R94v1E8cuKAerbskfD3VfUt.jpg" group-title="PELICULAS" type="movie" , It Chapter Two (2019) 
 http://144.217.70.79/VODS-M/1080P/It%20Chapter%20Two%202019.mp4 
@@ -2184,51 +1474,7 @@ http://144.217.70.79/VODS-M/1080P/The%20irishman%202019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg" group-title="PELICULAS" type="movie" , Bird box (2018) 
 http://144.217.70.79/VODS-M/1080P/Bird%20box%202018.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/r8LPeldxskHrGJTPfhICguCip2H.jpg" group-title="PELICULAS" type="movie" , Rambo 4 (2008) 
-http://144.217.70.79/VODS-M/1080P/Rambo%204%202008.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mpjoqXS4AvXkHqxFpqpHIkIYLSR.jpg" group-title="PELICULAS" type="movie" , Rambo 3 (1988) 
-http://144.217.70.79/VODS-M/1080P/Rambo%203%201988.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pzPdwOitmTleVE3YPMfIQgLh84p.jpg" group-title="PELICULAS" type="movie" , Rambo 2 (1985) 
-http://144.217.70.79/VODS-M/1080P/Rambo%202%201985.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kTQ3J8oTTKofAVLYnds2cHUz9KO.jpg" group-title="PELICULAS" type="movie" , Rambo (1982) 
-http://144.217.70.79/VODS-M/1080P/Rambo%201982.mkv 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wGSv9mfHocleVwH4Q8d38SkwQP.jpg" group-title="PELICULAS" type="movie" , The war wagon (1967) 
-http://144.217.70.79/VODS-M/1080P/The%20war%20wagon%201967.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qY7iV4BJD5IXJU4iXlcZxKN8s9w.jpg" group-title="PELICULAS" type="movie" , They Call Me Trinity (1970) 
-http://144.217.70.79/VODS-M/1080P/They%20Call%20Me%20Trinity%201970.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/szvuG051LtheWv94QBcqldE4Wsu.jpg"group-title="PELICULAS" type="movie" , The White Buffalo (1977) 
-http://144.217.70.79/VODS-M/1080P/The%20White%20Buffalo%201977.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/boUXx3KWFkhYe8OllT1VCfI2kpu.jpg"group-title="PELICULAS" type="movie" , Manou The Swift-Birds of a Feather (2019) 
-http://144.217.70.79/VODS-M/1080P/Manou%20The%20Swift-Birds%20of%20a%20Feather%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9sbrwzKHMrwDqbjtwjzUGkwDS58.jpg"group-title="PELICULAS" type="movie" , Neighbors (2014) 
-http://144.217.70.79/VODS-M/1080P/Neighbors%202014.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vZloFAK7NmvMGKE7VkF5UHaz0I.jpg"group-title="PELICULAS" type="movie" , John Wick (2014) 
-http://144.217.70.79/VODS-M/1080P/John%20Wick%202014.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ik8PugpL41s137RAWEGTAWu0dPo.jpg"group-title="PELICULAS" type="movie" , Maleficent (2014) 
-http://144.217.70.79/VODS-M/1080P/Maleficent%202014.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iLWsLVrfkFvOXOG9PbUAYg7AK3E.jpg"group-title="PELICULAS" type="movie" , Sleepless in Seattle (1993) 
-http://144.217.70.79/VODS-M/1080P/Sleepless%20in%20Seattle%201993.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/twJ0drKCHXcYJjJRdTWF14TzxGe.jpg"group-title="PELICULAS" type="movie" , Monster (2003) 
-http://144.217.70.79/VODS-M/1080P/Monster%202003.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ip5FmurIOdOyI1wFY2nXVMze3lC.jpg"group-title="PELICULAS" type="movie" , The 13th Warrior (1999) 
-http://144.217.70.79/VODS-M/1080P/The%2013th%20Warrior%201999.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/v8gI95Eio7kAjixyqYHxNKmJTmm.jpg"group-title="PELICULAS" type="movie" , Nutty Professor 2 The Klumps (2000) 
-http://144.217.70.79/VODS-M/1080P/Nutty%20Professor%202%20The%20Klumps%202000.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pSMcNOpihv6U4JlNAaxfbl2qUj7.jpg"group-title="PELICULAS" type="movie" , We the animals (2018) 
 http://144.217.70.79/VODS-M/1080P/We%20the%20animals%202018.mp4 
 
@@ -2236,10 +1482,7 @@ http://144.217.70.79/VODS-M/1080P/We%20the%20animals%202018.mp4
 http://144.217.70.79/VODS-M/1080P/101%20Dalmatians%202%20Patchs%20London%20Adventure%202003.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vOl6shtL0wknjaIs6JdKCpcHvg8.jpg"group-title="PELICULAS" type="movie" , Ready or not (2019) 
-http://144.217.70.79/VODS-M/1080P/Ready%20or%20not%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9wLBYgIEqkEyObJukAt4aodOqWr.jpg"group-title="PELICULAS" type="movie" , Horns (2013) 
-http://144.217.70.79/VODS-M/1080P/Horns%202013.mkv 
+http://144.217.70.79/VODS-M/1080P/Ready%20or%20not%202019.mp4  
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ivymBQYzYqZoLhvgYg77gSzXKsA.jpg"group-title="PELICULAS" type="movie" , The knight before christmas (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20knight%20before%20christmas%202019.mp4 
@@ -2249,22 +1492,13 @@ http://144.217.70.79/VODS-M/1080P/The%20Goldfinch%202019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rip0qOXFhHepelTfqkLAK6cKKje.jpg"group-title="PELICULAS" type="movie" , Let it snow (2019) 
 http://144.217.70.79/VODS-M/1080P/Let%20it%20snow%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ezitJY9RTk3ReXc1nWhXjmU9cz0.jpg"group-title="PELICULAS" type="movie" , Anger Management (2003) 
-http://144.217.70.79/VODS-M/1080P/Anger%20Management%202003.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iSFtZ7m3y7VE2AsOE4ICprOo5o8.jpg"group-title="PELICULAS" type="movie" , House Arrest (2019) 
 http://144.217.70.79/VODS-M/1080P/House%20Arrest%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg"group-title="PELICULAS" type="movie" , Alvin and the Chipmunks Chipwrecked (2011) 
 http://144.217.70.79/VODS-M/1080P/Alvin%20and%20the%20Chipmunks%20Chipwrecked%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8mdPqOga5fty15nXmaNcK1fsNMa.jpg"group-title="PELICULAS" type="movie" , Alvin and the Chipmunks The Squeakquel (2009) 
-http://144.217.70.79/VODS-M/1080P/Alvin%20and%20the%20Chipmunks%20The%20Squeakquel%202009.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wEssFe5LCywsLfAcwELVXE38Fbj.jpg"group-title="PELICULAS" type="movie" , Alvin and the Chipmunks (2007) 
-http://144.217.70.79/VODS-M/1080P/Alvin%20and%20the%20Chipmunks%202007.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"group-title="PELICULAS" type="movie" , Klaus (2019) 
 http://144.217.70.79/VODS-M/1080P/Klaus%202019.mp4 
 
@@ -2289,9 +1523,6 @@ http://144.217.70.79/VODS-M/1080P/A%20private%20war%202018.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zSuJ3r5zr5T26tTxyygHhgkUAIM.jpg"group-title="PELICULAS" type="movie" , Extremely wicked shockingly evil and vile (2019) 
 http://144.217.70.79/VODS-M/1080P/Extremely%20wicked%20shockingly%20evil%20and%20vile%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pgfFJw7mqAmJdZizrJ6oOK0ejOZ.jpg"group-title="PELICULAS" type="movie" , Killing Me Softly (2002) 
-http://144.217.70.79/VODS-M/1080P/Killing%20Me%20Softly%202002.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wpFabJf2J82j4qJyYIMFexmJ8BT.jpg"group-title="PELICULAS" type="movie" , Killers anonymous (2019) 
 http://144.217.70.79/VODS-M/1080P/Killers%20anonymous%202019.mp4 
 
@@ -2300,10 +1531,7 @@ http://144.217.70.79/VODS-M/1080P/The%20Ladybug%202018.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kNjEmQGBm9cYqTB03r6yECozQyW.jpg"group-title="PELICULAS" type="movie" , Scary stories to tell in the dark (2019) 
 http://144.217.70.79/VODS-M/1080P/Scary%20stories%20to%20tell%20in%20the%20dark%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e2VNohx5jb7I6HUamCuGhKvzXDR.jpg"group-title="PELICULAS" type="movie" , Mystic River (2003) 
-http://144.217.70.79/VODS-M/1080P/Mystic%20River%202003.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4YrVrPfMEqtFsLmN4HdzERjbveo.jpg"group-title="PELICULAS" type="movie" , Lying and Stealing (2019) 
 http://144.217.70.79/VODS-M/1080P/Lying%20and%20Stealing%20%202019.mp4 
 
@@ -2388,21 +1616,12 @@ http://144.217.70.79/VODS-M/1080P/Teen%20titans%20go%20vs%20teen%20titans%202019
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qdEhhPYsfIeWSNTfzHShHOkDfDD.jpg" type="movie"group-title="PELICULAS" , The death and return of superman (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20death%20and%20return%20of%20superman%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ve7xmUK167YZloN8LnSyhKmmNgE.jpg" type="movie"group-title="PELICULAS" , Air Strike (2018) 
-http://144.217.70.79/VODS-M/1080P/Air%20Strike%202018.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1dHaWQxkm8gmdTuuignUOg5kmx9.jpg" type="movie"group-title="PELICULAS" , The Prophecy (1995) 
-http://144.217.70.79/VODS-M/1080P/The%20Prophecy%201995.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/5DSVYlKwEzGBxTkS95L73c3oxLs.jpg" type="movie"group-title="PELICULAS" , In the shadow of the moon (2019) 
 http://144.217.70.79/VODS-M/1080P/In%20the%20shadow%20of%20the%20moon%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xmFOjB5bGvFqNzsX5TbIWzdvpGd.jpg" type="movie"group-title="PELICULAS" , Vox lux (2018) 
 http://144.217.70.79/VODS-M/1080P/Vox%20lux%202018.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iCvgemXf2Kpr2LvpDmt5J9NhjKM.jpg" type="movie"group-title="PELICULAS" , Devil (2010) 
-http://144.217.70.79/VODS-M/1080P/Devil%202010.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eQslonPBRWB9kV3ZwdgAwDDT8b.jpg" type="movie"group-title="PELICULAS" , Teen spirit (2018) 
 http://144.217.70.79/VODS-M/1080P/Teen%20spirit%202018.mp4 
 
@@ -2421,23 +1640,14 @@ http://144.217.70.79/VODS-M/1080P/Before%20the%20Devil%20Knows%20Youre%20Dead%20
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/A4FBEaJsdu5n4srYJyCI7v32lLY.jpg" type="movie"group-title="PELICULAS" , Anna (2019) 
 http://144.217.70.79/VODS-M/1080P/Anna%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uQkUwgyFHAm0jGQERPG6Z9o9Zbj.jpg" type="movie"group-title="PELICULAS" , Horrible Bosses (2011) 
-http://144.217.70.79/VODS-M/1080P/Horrible%20Bosses%202011.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qWsHMrbg9DsBY3bCMk9jyYCRVRs.jpg" type="movie"group-title="PELICULAS" , Annabelle comes home (2019) 
 http://144.217.70.79/VODS-M/1080P/Annabelle%20comes%20home%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4k5jiZTofTErlkhtIGjC7NfNDv5.jpg" type="movie"group-title="PELICULAS" , Yesterday (2019) 
 http://144.217.70.79/VODS-M/1080P/Yesterday%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jCKvbH3a4V5IPoRAG85eDaniNqO.jpg" type="movie"group-title="PELICULAS" , The Shadow (1994) 
-http://144.217.70.79/VODS-M/1080P/The%20Shadow%201994.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7jrOhGtRh6YK7sMfvH1E1f36aVx.jpg" type="movie"group-title="PELICULAS" , Childs play (2019) 
 http://144.217.70.79/VODS-M/1080P/Childs%20play%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lrsPIRkKZWTKbd3C0sSj7a3lMES.jpg" type="movie"group-title="PELICULAS" , Rust Creek (2018) 
-http://144.217.70.79/VODS-M/1080P/Rust%20Creek%202018.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xTCduzgBJ57ZzMM9MOyBPpauB9t.jpg" type="movie"group-title="PELICULAS" , Greta (2018) 
 http://144.217.70.79/VODS-M/1080P/Greta%202018.mp4 
@@ -2460,61 +1670,26 @@ http://144.217.70.79/VODS-M/1080P/Falling%20inn%20love%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zE58VthFwD9vKy1vEDnSYR6loqm.jpg" type="movie"group-title="PELICULAS" , The Karate Kid Part 3 (1989) 
 http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%20Part%203%201989.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9asnrgm2oloHsTKj8NW0Tl7FKG5.jpg" type="movie"group-title="PELICULAS" , The Next Karate Kid (1994) 
-http://144.217.70.79/VODS-M/1080P/The%20Next%20Karate%20Kid%201994.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7wxJmFqTMcdE05sfWedB6458US1.jpg" type="movie"group-title="PELICULAS" , Chasing Mavericks (2012) 
-http://144.217.70.79/VODS-M/1080P/Chasing%20Mavericks%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/urLCQDCOITabAud39ZwLbNFBrc4.jpg" type="movie"group-title="PELICULAS" , Soul Surfer (2011) 
-http://144.217.70.79/VODS-M/1080P/Soul%20Surfer%202011.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/czynIdEiHjpGhUWMnoax7Q3lMAE.jpg" type="movie"group-title="PELICULAS" , The Car Road to Revenge (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20Car%20Road%20to%20Revenge%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bmXBT2uL4HQGimyfy5iu4ESnEaJ.jpg" type="movie"group-title="PELICULAS" , Ideal home (2018) 
-http://144.217.70.79/VODS-M/1080P/Ideal%20home%202018.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kZv92eTc0Gg3mKxqjjDAM73z9cy.jpg" type="movie"group-title="PELICULAS" , X-men dark phoenix (2019) 
-http://144.217.70.79/VODS-M/1080P/X-men%20dark%20phoenix%202019.mkv 
+http://144.217.70.79/VODS-M/1080P/Ideal%20home%202018.mp4  
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/h2ZZCMf0aNMOmRK7P7ZuaVyBis6.jpg" type="movie"group-title="PELICULAS" , Ma ROSA (2019) 
 http://144.217.70.79/VODS-M/1080P/Ma%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/E9rJ8G6RepClgFZ9DR0GsKO3n6.jpg" type="movie"group-title="PELICULAS" , Beats (2019) 
-http://144.217.70.79/VODS-M/1080P/Beats%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7KHz6JlJhrFAPesmUkgdnLrSr8Y.jpg" type="movie"group-title="PELICULAS" , War Horse (2011) 
-http://144.217.70.79/VODS-M/1080P/War%20Horse%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fJRt3mmZEvf8gQzoNLzjPtWpc9o.jpg" type="movie"group-title="PELICULAS" , The Salvation (2014) 
-http://144.217.70.79/VODS-M/1080P/The%20Salvation%202014.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tFiA48c0pqDAv34r9TB4OVGntZz.jpg" type="movie"group-title="PELICULAS" , Jeremiah Johnson (1972) 
-http://144.217.70.79/VODS-M/1080P/Jeremiah%20Johnson
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/beDWEWxgFlt1UWvf2al9cjDol2i.jpg" type="movie"group-title="PELICULAS" , Mission to Mars (2000) 
-http://144.217.70.79/VODS-M/1080P/Mission%20to%20Mars%202000.mkv 
+http://144.217.70.79/VODS-M/1080P/Beats%202019.mp4  
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/waaPtmhVFgieG021OwoEPTkbltI.jpg" type="movie"group-title="PELICULAS" , Invader zim enter the florpus (2019) 
 http://144.217.70.79/VODS-M/1080P/Invader%20zim%20enter%20the%20florpus%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7IRy0iHdaS0JI3ng4ZYlk5gLSFn.jpg" type="movie"group-title="PELICULAS" , Descendants 3 (2019) 
-http://144.217.70.79/VODS-M/1080P/Descendants%203%202019.mp4 
+http://144.217.70.79/VODS-M/1080P/Descendants%203%202019.mp4
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fgGzTEoNxptCRtEOpOPvIEdlxAq.jpg" type="movie"group-title="PELICULAS" , The dead dont die (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20dead%20dont%20die%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/e5ToxOyJwuZD4VOfI0qEn5uIjeJ.jpg" type="movie"group-title="PELICULAS" , The Magnificent Seven (1960) 
-http://144.217.70.79/VODS-M/1080P/The%20Magnificent%20Seven%201960.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qNt29HzxwZ4jGTgSRxdA34ino9Q.jpg" type="movie"group-title="PELICULAS" , Westworld (1973) 
-http://144.217.70.79/VODS-M/1080P/Westworld%201973.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cvaBVpS0GzKqBd63pFT8f1E8OKv.jpg" type="movie"group-title="PELICULAS" , Dances with Wolves (1990) 
-http://144.217.70.79/VODS-M/1080P/Dances%20with%20Wolves%201990.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gFmmykF1Ym3OGzENo50nZQaD1dx.jpg" type="movie"group-title="PELICULAS" , Butch Cassidy and the Sundance Kid (1969) 
-http://144.217.70.79/VODS-M/1080P/Butch%20Cassidy%20and%20the%20Sundance%20Kid%201969.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kowo9E1e1JcWLXj9cCvAOFZcy5n.jpg" type="movie"group-title="PELICULAS" , Poms (2019) 
 http://144.217.70.79/VODS-M/1080P/Poms%202019.mp4 
@@ -2524,36 +1699,9 @@ http://144.217.70.79/VODS-M/1080P/A%20dark%20place%202018.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jXYjgPad6IIfZfCtzLuWTnJdijo.jpg" type="movie"group-title="PELICULAS" , River of No Return (1954) 
 http://144.217.70.79/VODS-M/1080P/River%20of%20No%20Return%201954.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qbYgqOczabWNn2XKwgMtVrntD6P.jpg" type="movie"group-title="PELICULAS" , Once Upon a Time in the West (1968) 
-http://144.217.70.79/VODS-M/1080P/Once%20Upon%20a%20Time%20in%20the%20West%201968.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/syPX53LuGYrQSPYc8NjsiCZgfsi.jpg" type="movie"group-title="PELICULAS" , Open Season Scared Silly (2016) 
-http://144.217.70.79/VODS-M/1080P/Open%20Season%20Scared%20Silly%202016.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9Tw0Y3DK5kGIU9X1yw3Q9gCkOlb.jpg" type="movie"group-title="PELICULAS" , Mid90s (2018) 
 http://144.217.70.79/VODS-M/1080P/Mid90s%202018.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4kHzXHRJGcRxxRvkCvb5yTxZwml.jpg" type="movie"group-title="PELICULAS" , Days of Thunder (1990) 
-http://144.217.70.79/VODS-M/1080P/Days%20of%20Thunder%201990.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pf4FoUr2phn5WyZjU7rLXSiW1Ve.jpg"group-title="PELICULAS" type="movie" , Lets Be Cops (2014) 
-http://144.217.70.79/VODS-M/1080P/Lets%20Be%20Cops%202014.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jiORLnBsGcVcqIibkGBE213zAyh.jpg"group-title="PELICULAS" type="movie" , Red Tails (2012) 
-http://144.217.70.79/VODS-M/1080P/Red%20Tails%202012.mkv 
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1189214892684918785/O_Y2ux30_400x400.jpg"group-title="PELICULAS" type="movie" , Extra) 
-http://144.217.70.79/VODS-M/1080P/E.T.%20the%20Extra-Terrestrial%201982.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uLOmOF5IzWoyrgIF5MfUnh5pa1X.jpg"group-title="PELICULAS" type="movie" , Men In Black (1997) 
-http://144.217.70.79/VODS-M/1080P/Men%20In%20Black%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/enA22EPyzc2WQ1VVyY7zxresQQr.jpg"group-title="PELICULAS" type="movie" , Men In Black II (2002) 
-http://144.217.70.79/VODS-M/1080P/Men%20In%20Black%20II%202002.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/90DdoEStzeObs96fsYf4GG544iN.jpg"group-title="PELICULAS" type="movie" , Men in Black 3 (2012) 
-http://144.217.70.79/VODS-M/1080P/Men%20in%20Black%203%202012.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/52NXkgvzRYjRnqRPpqjpiwsIgRG.jpg"group-title="PELICULAS" type="movie" , Hitman agent 47 (2015) 
 http://144.217.70.79/VODS-M/1080P/Hitman%20agent%2047%202015.mp4 
@@ -2575,18 +1723,12 @@ http://144.217.70.79/VODS-M/1080P/The%20hustle%202019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fQ40gmFM4p03tXwMxQQKh2cCBW4.jpg"group-title="PELICULAS" type="movie" , Godzilla king of the monsters (2019) 
 http://144.217.70.79/VODS-M/1080P/Godzilla%20king%20of%20the%20monsters%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tFC5uFGmmbLu3QqrtoMAvw7RtM4.jpg"group-title="PELICULAS" type="movie" , The Secret Life of Pets 2 (2019) 
-http://144.217.70.79/VODS-M/1080P/The%20Secret%20Life%20of%20Pets%202%202019.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ziEuG1essDuWuC5lpWUaw1uXY2O.jpg"group-title="PELICULAS" type="movie" , John wick chapter 3 parabellum (2019) 
 http://144.217.70.79/VODS-M/1080P/John%20wick%20chapter%203%20parabellum%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cXJYFEIGNxiNTCekP1A68ICzJen.jpg"group-title="PELICULAS" type="movie" , Revolver (2005) 
 http://144.217.70.79/VODS-M/1080P/Revolver%202005.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/nS3nhUZUSY8dWEsRmKILfiOC3F0.jpg"group-title="PELICULAS" type="movie" , Lady and The Tramp 2 Scamps Adventure (2001) 
-http://144.217.70.79/VODS-M/1080P/Lady%20and%20The%20Tramp%202%20Scamps%20Adventure%202001.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wquJChp0NpoqthYdE3YjXNNxvVC.jpg"group-title="PELICULAS" type="movie" , A dogs journey (2019) 
 http://144.217.70.79/VODS-M/1080P/A%20dogs%20journey%202019.mp4 
@@ -2594,26 +1736,8 @@ http://144.217.70.79/VODS-M/1080P/A%20dogs%20journey%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lU2Cx5lbSNMxgeKQPDOhAUdw91y.jpg"group-title="PELICULAS" type="movie" , Marnies Welt (Spy Cat) (2019) 
 http://144.217.70.79/VODS-M/1080P/Marnies%20Welt%20(Spy%20Cat)%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/oMRyQniB5ESA4DoyJVLVJifSExB.jpg"group-title="PELICULAS" type="movie" , Dragonfly (2002) 
-http://144.217.70.79/VODS-M/1080P/Dragonfly%202002.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wPdlrMbdxt4lct9gO43KxUvfENw.jpg"group-title="PELICULAS" type="movie" , Lego batman family matters (2019) 
-http://144.217.70.79/VODS-M/1080P/Lego%20batman%20family%20matters%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7SC793qtORB6YL4mu0F5o3hfjDQ.jpg"group-title="PELICULAS" type="movie" , The Return Of Jafar (1994) 
-http://144.217.70.79/VODS-M/1080P/The%20Return%20Of%20Jafar%201994.mkv 
-
-#EXTINF:-1 tvg-logo="https://m.media-amazon.com/images/M/MV5BMTM1Njk5OTc4N15BMl5BanBnXkFtZTYwMTc0NDM5._V1_.jpg"group-title="PELICULAS" type="movie" , Born In East L) 
-http://144.217.70.79/VODS-M/1080P/Born%20In%20East%20L.A.%201987.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kTH7qEyvdDYMoQraQZm3LFKCge3.jpg"group-title="PELICULAS" type="movie" , Aladdin And The King Of Thieves (1996) 
-http://144.217.70.79/VODS-M/1080P/Aladdin%20And%20The%20King%20Of%20Thieves%201996.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/sJWwkYc9ajwnPRSkqj8Aue5JbKz.jpg"group-title="PELICULAS" type="movie" , Brightburn (2019) 
 http://144.217.70.79/VODS-M/1080P/Brightburn%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg"group-title="PELICULAS" type="movie" , Aladdin (2019) 
-http://144.217.70.79/VODS-M/1080P/Aladdin%202019.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/ioj2FMnMgD0eHgYfd31HtWOtBWU.jpg"group-title="PELICULAS" type="movie" , Destination wedding (2018) 
 http://144.217.70.79/VODS-M/1080P/Destination%20wedding%202018.mp4 
@@ -2629,118 +1753,28 @@ http://144.217.70.79/VODS-M/1080P/Unplanned%202019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2qVErJgfMcg3TzfYcrbaXBcrXV9.jpg"group-title="PELICULAS" type="movie" , Otherhood (2019) 
 http://144.217.70.79/VODS-M/1080P/Otherhood%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4kqH4d9FBQv5Sel39Ns7TMd13RT.jpg"group-title="PELICULAS" type="movie" , Cinderella (1950) 
-http://144.217.70.79/VODS-M/1080P/Cinderella%201950.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4o4zw2c9sfHvszIb5xpuFagnouR.jpg"group-title="PELICULAS" type="movie" , The man who killed don quixote (2018) 
 http://144.217.70.79/VODS-M/1080P/The%20man%20who%20killed%20don%20quixote%202018.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bpa91Opnvl4XxUCycyNGvhwRWqC.jpg"group-title="PELICULAS" type="movie" , Utoya july 22 (2018) 
-http://144.217.70.79/VODS-M/1080P/Utoya%20july%2022%202018.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"group-title="PELICULAS" type="movie"group-title="PELICULAS", Batman hush (2019) 
 http://144.217.70.79/VODS-M/1080P/Batman%20hush%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bTgd1QQFTKdxESevtffAvIvCnz2.jpg"group-title="PELICULAS" type="movie" , The red sea diving resort (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20red%20sea%20diving%20resort%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/or06FN3Dka5tukK1e9sl16pB3iy.jpg"group-title="PELICULAS" type="movie" , Avengers Endgame (2019) 
-http://144.217.70.79/VODS-M/1080P/Avengers%20Endgame%202019.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/toYs3tZrHbSKJS1hmiTY1fJnPjm.jpg"group-title="PELICULAS" type="movie" , A prayer before dawn (2017) 
 http://144.217.70.79/VODS-M/1080P/A%20prayer%20before%20dawn%202017.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/g10YPJa9ePy1kKmTusAeDXBTeAl.jpg"group-title="PELICULAS" type="movie" , Kidnapping stella (2019) 
-http://144.217.70.79/VODS-M/1080P/Kidnapping%20stella%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/9xjZS2rlVxm8SFx8kPC3aIGCOYQ.jpg"group-title="PELICULAS" type="movie" , Titanic (1997) 
-http://144.217.70.79/VODS-M/1080P/Titanic%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/srb1XnrlDZHcdpjBKqUu4qAzxKU.jpg"group-title="PELICULAS" type="movie" , A Knights Tale (2001) 
-http://144.217.70.79/VODS-M/1080P/A%20Knights%20Tale%202001.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/quJ0kXiQmP7rOg1m6WGmallQiJQ.jpg"group-title="PELICULAS" type="movie" , Assassination Games (2011) 
-http://144.217.70.79/VODS-M/1080P/Assassination%20Games%202011.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4M5fkXYzhjLZdY28ob2iVlh8FgW.jpg"group-title="PELICULAS" type="movie" , Double Team (1997) 
-http://144.217.70.79/VODS-M/1080P/Double%20Team%201997.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/3MlHO10nWkQkzO7B5BE9OCKjC7Z.jpg"group-title="PELICULAS" type="movie" , Second in Command (2006) 
-http://144.217.70.79/VODS-M/1080P/Second%20in%20Command%202006.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7DMRJzH9AwpSN5D19cExAB9vDZW.jpg"group-title="PELICULAS" type="movie" , The hole in the ground (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20hole%20in%20the%20ground%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jrFtbuUMDMnJtlSVg5DWHFhMMGp.jpg"group-title="PELICULAS" type="movie" , The Hard Corps (2006) 
-http://144.217.70.79/VODS-M/1080P/The%20Hard%20Corps%202006.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/qDjne2UffjOpZAg9cFmzteWqhd3.jpg"group-title="PELICULAS" type="movie" , Timecop (1994) 
-http://144.217.70.79/VODS-M/1080P/Timecop%201994.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eBaUVUNAWSOg70TMl7o9K3qSgYO.jpg"group-title="PELICULAS" type="movie" , Cyborg (1989) 
-http://144.217.70.79/VODS-M/1080P/Cyborg%201989.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fR49hZdFJ6ZtRS23JW79VYmZgI7.jpg"group-title="PELICULAS" type="movie" , The Quest (1996) 
-http://144.217.70.79/VODS-M/1080P/The%20Quest%201996.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/vfDVpBus7BaUiT6UsjpiedyPtnX.jpg"group-title="PELICULAS" type="movie" , Wake Of Death (2004) 
-http://144.217.70.79/VODS-M/1080P/Wake%20Of%20Death%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gMyMOsF1vo2gKAM06UkjS2unqpU.jpg"group-title="PELICULAS" type="movie" , In Hell (2003) 
-http://144.217.70.79/VODS-M/1080P/In%20Hell%202003.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/18HVWwyLihWJPzGpSVl3omRRMyL.jpg"group-title="PELICULAS" type="movie" , Maximum Risk (1996) 
-http://144.217.70.79/VODS-M/1080P/Maximum%20Risk%201996.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/tmzwvSqoMC37Tgqwj4mA2dHNSmw.jpg"group-title="PELICULAS" type="movie" , Double Impact (1991) 
-http://144.217.70.79/VODS-M/1080P/Double%20Impact%201991.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7Ch8iOwNlqgJYQcqSxOvPIwj5S4.jpg"group-title="PELICULAS" type="movie" , Lionheart (1990) 
-http://144.217.70.79/VODS-M/1080P/Lionheart%201990.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hMm9hIhErPcgONWknYBgfQP2Z00.jpg"group-title="PELICULAS" type="movie" , Black Eagle (1988) 
-http://144.217.70.79/VODS-M/1080P/Black%20Eagle%201988.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/95mcKAcTgvonhx3BS5psLguyEVu.jpg"group-title="PELICULAS" type="movie" , Death Warrant (1990) 
-http://144.217.70.79/VODS-M/1080P/Death%20Warrant%201990.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/lLxgyIuENnjPLeNIoqwIg3XBwJ1.jpg"group-title="PELICULAS" type="movie" , Pound of Flesh (2015) 
-http://144.217.70.79/VODS-M/1080P/Pound%20of%20Flesh%202015.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/Nkgaj3X0W2jHQ1TzHEgWFpN3kJ.jpg"group-title="PELICULAS" type="movie" , Non Stop (2014) 
-http://144.217.70.79/VODS-M/1080P/Non%20Stop%202014.mkv 
-
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/m2ttWZ8rMRwIMT7zA48Jo6mTkDS.jpg"group-title="PELICULAS" type="movie" , Long shot (2019) 
 http://144.217.70.79/VODS-M/1080P/Long%20shot%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/uORr2GXQnyqgBOg6tVsRCJD2qxc.jpg"group-title="PELICULAS" type="movie" , Escape from Alcatraz (1979) 
-http://144.217.70.79/VODS-M/1080P/Escape%20from%20Alcatraz%201979.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1II9kMjOuho3pnEvxkpx7e3ozOO.jpg" group-title="PELICULAS" type="movie" , A Perfect World (1993) 
-http://144.217.70.79/VODS-M/1080P/A%20Perfect%20World%201993.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/cVhe15rJLRjolunSWLBN6xQLyGU.jpg"group-title="PELICULAS" type="movie" , Fighting with my family (2019) 
-http://144.217.70.79/VODS-M/1080P/Fighting%20with%20my%20family%202019.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jhTVNBVkdS4Wf6NXYA9kRKQU3YM.jpg"group-title="PELICULAS" type="movie" , Shrek (2001) 
-http://144.217.70.79/VODS-M/1080P/Shrek%202001.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/2yYP0PQjG8zVqturh1BAqu2Tixl.jpg" type="movie" ,group-title="PELICULAS" Shrek 2 (2004) 
-http://144.217.70.79/VODS-M/1080P/Shrek%202%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n4SexGGQzI26E269tfpa80MZaGV.jpg" type="movie" ,group-title="PELICULAS" Shrek The Third (2007) 
-http://144.217.70.79/VODS-M/1080P/Shrek%20The%20Third%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/6HrfPZtKcGmX2tUWW3cnciZTaSD.jpg" type="movie" ,group-title="PELICULAS" Shrek 4 (2010) 
-http://144.217.70.79/VODS-M/1080P/Shrek%204%202010.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wgQ7APnFpf1TuviKHXeEe3KnsTV.jpg" type="movie" ,group-title="PELICULAS" Pokemon detective pikachu (2019) 
 http://144.217.70.79/VODS-M/1080P/Pokemon%20detective%20pikachu%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/o4gwFcm6qRgnC9Gff4giy0POHdF.jpg" type="movie" ,group-title="PELICULAS" The Karate Kid (1984) 
-http://144.217.70.79/VODS-M/1080P/The%20Karate%20Kid%201984.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jhZlXSnFUpNiLAek9EkPrtLEWQI.jpg"group-title="PELICULAS" type="movie" , The curse of la llorona (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20curse%20of%20la%20llorona%202019.mp4 
 
@@ -2755,21 +1789,9 @@ http://144.217.70.79/VODS-M/1080P/A%20vigilante%202018.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg"group-title="PELICULAS" type="movie" , Hellboy (2019) 
 http://144.217.70.79/VODS-M/1080P/Hellboy%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/w5oxV6MDEfL48FMK9BmYTD2wQRm.jpg"group-title="PELICULAS" type="movie" , Creep (2004) 
-http://144.217.70.79/VODS-M/1080P/Creep%202004.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"group-title="PELICULAS" type="movie" , After (2019) 
 http://144.217.70.79/VODS-M/1080P/After%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/yE9MCW7ZNxSw5SC1TMqm51pMBIV.jpg"group-title="PELICULAS" type="movie" , 1408 (2007) 
-http://144.217.70.79/VODS-M/1080P/1408%202007.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kjFDIlUCJkcpFxYKtE6OsGcAfQQ.jpg"group-title="PELICULAS" type="movie" , 47 Ronin (2013) 
-http://144.217.70.79/VODS-M/1080P/47%20Ronin%202013.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/aQ7ZUDxcSf8U4ynCstNCMLgdhrD.jpg"group-title="PELICULAS" type="movie" , Glory (1989) 
-http://144.217.70.79/VODS-M/1080P/Glory%201989.mkv 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xLXKYcmqJAdacWZy7enpMpiI4zw.jpg"group-title="PELICULAS" type="movie" , Point blank (2019) 
 http://144.217.70.79/VODS-M/1080P/Point%20blank%202019.mp4 
@@ -2779,16 +1801,7 @@ http://144.217.70.79/VODS-M/1080P/Hide%20and%20Seek%202005.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg" group-title="PELICULAS" type="movie" , Wildlife (2018) 
 http://144.217.70.79/VODS-M/1080P/Wildlife%202018.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1VEyORoLcD22oP7cTch8k7fNjw1.jpg" group-title="PELICULAS" type="movie" , The Merchant of Venice (2004) 
-http://144.217.70.79/VODS-M/1080P/The%20Merchant%20of%20Venice%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg" group-title="PELICULAS" type="movie" , Hellboy (2004) 
-http://144.217.70.79/VODS-M/1080P/Hellboy%202004.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/fGQAO4RgUzspO7L4u5KXirIn34s.jpg" group-title="PELICULAS" type="movie" , Hellboy The Golden Army (2008) 
-http://144.217.70.79/VODS-M/1080P/Hellboy%20The%20Golden%20Army%202008.mkv 
-
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="PELICULAS" type="movie" , Alita battle angel (2019) 
 http://144.217.70.79/VODS-M/1080P/Alita%20battle%20angel%202019.mp4 
 
@@ -2806,36 +1819,6 @@ https://archive.org/download/01_20230513_202305/01.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg",La madre (2023) 
 https://archive.org/download/01_20230512_20230512_2326/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",Rock dog 3 
-http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicolle 
-http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie"  tvg-logo="https://image.tmdb.org/t/p/w500//8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El último vagon 
-http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qué ver 
-http://208.88.245.85/nuevo/nadakver.latino2023.mkv 
-
-#EXTINF:-1group-title="PELICULAS" type="movie" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",1 Rápidos y furiosos 10 
-http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen 
-http://208.88.245.85/nuevo/marlowe.2023.dual.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir 
-http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater 
-http://208.88.245.81/nuevo/crater.dual.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra 
-http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre 
-http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",1 La sirenita (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
@@ -2861,5 +1844,20 @@ https://archive.org/download/01_20230422_20230422_1858/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4EbeUgW9V5X4fabqWejxSZa4wtC.jpg",Crímenes En Chinatown 
 https://archive.org/download/01_20230419_20230419_1553/01.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ra3xm8KFAkwK0CdbPRkfYADJYTB.jpg",Chupa (2023) 
-https://archive.org/download/01_20230409_20230409/01.mp4
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: A través del Spider-Verso (2023) 
+https://archive.org/download/01_20230602_20230602/01.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
+https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo=",El último vagón ",El último vagón (2023) 
+https://archive.org/download/01_20230602_20230602_2139/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
+https://archive.org/download/01_20230602_20230602_2101/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg", 0 Transformers: El despertar de las bestias 
+https://archive.org/download/01_20230609_202306/01.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM) 
+h
