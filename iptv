@@ -1754,7 +1754,7 @@ http://144.217.70.79/VODS-M/1080P/Otherhood%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4o4zw2c9sfHvszIb5xpuFagnouR.jpg"group-title="PELICULAS" type="movie" , The man who killed don quixote (2018) 
 http://144.217.70.79/VODS-M/1080P/The%20man%20who%20killed%20don%20quixote%202018.mp4 
  
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"group-title="PELICULAS" type="movie"group-title="PELICULAS", Batman hush (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"group-title="PELICULAS" type="movie", Batman hush (2019) 
 http://144.217.70.79/VODS-M/1080P/Batman%20hush%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bTgd1QQFTKdxESevtffAvIvCnz2.jpg"group-title="PELICULAS" type="movie" , The red sea diving resort (2019) 
@@ -1901,12 +1901,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos 10 (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//k5mQ2G1jS47fuxCjmkzFDeaNYvj.jpg",Transformers: El despertar de las bestias (2023) 
-https://867319955.tapecontent.net/radosgw/8PeD1pkzx0HoqxD/uE8gqTIB-oDsUGKC38ntJyV2GniGzGmMwQjKOT7eIkpXhyOTjkB3huUHpsvnEPjIMmfhs5sHyQvCKpWMXLgqd5Wwpxuxo_R7zzt9FXUji0fTdK4z_vpNs-8DbwZXSAdvcPtRKqZYuW19nS2MmSQWyZbOtCycOSYGe1q5hPHcFdlq2lSh3-0ql6-1eEVKxwWpkOFF7Up1DGzUFEspi9zRZFK1dnZo5JMBiiLmBROmkIWGm0lJuMu5lJKli4wBvTKpwsP5o_Iyp6tC3TBXpBLUJIu02fm2jztVGwi3Tw/TransformersDespertar.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM) 
-http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
 http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv 
 
@@ -1928,16 +1922,12 @@ https://archive.org/download/01_20230609_20230609_2029/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gA2emLQTNb8XS1646Nmhp91NNgv.jpg",Ricos de Amor 2 2023 
 https://archive.org/download/01_20230609_20230609/01.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg", La sirenita (2023) 
-https://archive.org/download/01_20230602_20230602_1628/01.mp4 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: A través del Spider-Verso (2023) 
 https://archive.org/download/01_20230602_20230602/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Spider-Man-%20Cruzando%20el%20multiverso%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
  
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman a través del spiderverso 
 http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv 
 
@@ -1957,12 +1947,90 @@ http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",La niña de la comunión 
 http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv 
+ 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Tyler%20Rake%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="",Mounstruos 
-http://208.88.245.85:80/nuevo/monstruos.2023dual.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//nygOUcBKPHFTbxsYRFZVePqgPK6.jpg",Misión de rescate 1 (2020) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Misi%C3%B3n%20de%20rescate%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="",Mounstruos 
-http://208.88.245.85:80/nuevo/monstruos.2023dual.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",Flash (2023) (CAM) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Flash%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos 10 (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM) 
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic (2023) (CAM) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Hypnotic%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
+https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jNO8smUkyNbL2t6HU6EBnJCSf6r.jpg",Un Año Inolvidable – Verano 2023 
+https://archive.org/download/01_20230609_20230609_2029/01.mp4 
+ 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//dAyJqJ8KoglZysttC6BfVmDFQUt.jpg",A través del mar (2023) 
+https://archive.org/download/01_20230623_20230623_1813/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de Rescate 2 (2023) 
+https://archive.org/download/01_20230623_20230623_1839/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8fk4l8PvGGjHYCUpA4gGbyIoS3S.jpg",Sé tu misma (2023) 
+https://archive.org/download/01_20230623_20230623_2021/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//w46Vw536HwNnEzOa7J24YH9DPRS.jpg",Culpa mía 
+https://archive.org/download/01_20230623_20230623_2005/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",Black Clover: La espada del rey mago 
+https://archive.org/download/01_20230623_20230623_1910/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9YEGawvjaRgnyW6QVcUhFJPFDco.jpg",The Black clover la espada del rey 
+http://208.88.245.81/nuevo/blacklover.espadadelreymago.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya 
+http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto 
+http://208.88.245.81/nuevo/el.pacto.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental 
+http://208.88.245.81/nuevo/elemental.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",The flash 
+http://208.88.245.81/nuevo/the.flash.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers despertar de las bestias 
+http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman a través del spiderverso 
+http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//sjfCWn5OG1KneAZ3gqVrS46WDzW.jpg",Lego friends 
+http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9aYflMUqFZo5zEbquNmVSQpFfby.jpg",Los blancos no saben saltar 
+http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//40UPlmnQcG71KSmjijksZjbsH2q.jpg",La usurpadora 
+http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 
+http://208.88.245.85/nuevo/extraction.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//kL4GDXHnwknt5oyD9eyyi693gbB.jpg",Taz odisea por las hamburguesas 
+http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",La niña de la comunión 
+http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",Flaminhot 
 http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv 
@@ -1980,10 +2048,7 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//k5mQ2G1jS47fuxCjmkzFDeaNYvj.jpg",Transformers: El despertar de las bestias (2023) 
-https://867319955.tapecontent.net/radosgw/8PeD1pkzx0HoqxD/5dxDS_XmHPoFHEogn_H9Xj0rqltXv9B0p7uTRWkthJdHP2qE2Isc8Liq-Spg7ABArg1olGmg6qSf3lSWZeJqIEjwgceGgilov3un0LXAyYr8k1pYqFrOo0Li5V4cAqhgzfgeXFJlvaPn61u-Y0_-6rByqIHrfgcWSrAdqG2xYFAPg0NFqpUhmAmPj5V9Sydys1qzo9km1GkXngmvbj5loBayNnkC9XCah1BnyapP9LaZXdbHvY51r-Dpn84R9HHTf-0g0OfOiSQi5NVUyUZQF6Qk4adwFBwPR8V08g/TransformersDespertar.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM) 
-http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv 
+https://main.cinedecalidad.xyz/mexicanas/TransformersDespertar.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
 http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv 
@@ -2002,3 +2067,155 @@ https://archive.org/download/01_20230609_202306/01.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jNO8smUkyNbL2t6HU6EBnJCSf6r.jpg",Un Año Inolvidable – Verano 2023 
 https://archive.org/download/01_20230609_20230609_2029/01.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gA2emLQTNb8XS1646Nmhp91NNgv.jpg",Ricos de Amor 2 2023 
+https://archive.org/download/01_20230609_20230609/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023) 
+https://archive.org/download/01_20230602_20230602_1628/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne 
+http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Ellas quieren más 
+http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters 
+http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y tina 
+http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita 
+http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El último vagón (2023) 
+https://archive.org/download/01_20230602_20230602_2139/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
+https://archive.org/download/01_20230602_20230602_2101/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic 
+https://archive.org/download/01_20230602_20230602_2054/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//snkWwY1gEk7n1azAZi4WPW6PZ3h.jpg",El año en que empecé a masturbarme 
+https://archive.org/download/01_20230602_20230602_2114/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita Suegra (2023) 
+https://archive.org/download/01_20230602_20230602_1653/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//j741ip55NOzabrllOXHJv2vpag7.jpg",Día de la Madre (2023) 
+https://archive.org/download/01_20230602_20230602_1709/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lXoeOcWWhPpLH1wzTIhOx8jydBo.jpg",Book Club: Ahora Italia (2023) 
+https://archive.org/download/01_20230602_20230602_1723/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//4rS1rcaeIJd2zdTn2G8RMfTNeiV.jpg",Reality (2023) 
+https://archive.org/download/01_20230602_20230602_1730/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//39Hr1FKfqqvx0umS60PCCWtBOKd.jpg",Rock dog 3 
+http://208.88.245.85/nuevo/rockdog3.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicolle 
+http://208.88.245.85/nuevo/annanicolle.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8Tf7bBXpLQjgFI0a5KJ1eHrxHTw.jpg",El último vagon 
+http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qué ver 
+http://208.88.245.85/nuevo/nadakver.latino2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 
+http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen 
+http://208.88.245.85/nuevo/marlowe.2023.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir 
+http://208.88.245.85/nuevo/unoparamorir.latino.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater 
+http://208.88.245.81/nuevo/crater.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5xupm2thQic5GzYi6nim6URMZOY.jpg",Bendita suegra 
+http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre 
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023) https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023) https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023) 
+https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023) 
+https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/mybL2Hd3PvsY7Qyjf7W6BKsoECu.jpg",Anna Nicole Smith: Tú no me conoces (2023) 
+https://archive.org/download/01_20230520_20230520_2211/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kY13qAaWf5BOzdN15LkM89vDiNY.jpg",Fanfik (2023) 
+https://archive.org/download/01_20230520_20230520_2157/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rdtgGyd1HEkODzm7he8TVlAwSob.jpg",Air: La historia detrás del logo (2023) 
+https://archive.org/download/01_20230520_20230520_2013/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023) 
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmayo%2F8yjrxajwxw~clOrKvTtTh.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iKcnbqhKvlwfF4CnMVlRrYlOvM5.jpg",Air (2023) http://208.88.245.85/nuevo/air.2023.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Cr%C3%A1ter%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vnRthEZz16Q9VWcP5homkHxyHoy.jpg",La madre (2023) 
+http://208.88.245.85/nuevo/la.madre.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar (2023) 
+http://208.88.245.85/nuevo/evildead.eldespertar.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos X (2023) 
+https://archive.org/download/01_20230519_20230519_2125/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/78W8tIM3PgIO6OIMfugi6p1GHNT.jpg",Black Knight (2023) 
+https://archive.org/download/01_20230514_20230514_2127/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater (2023) 
+https://archive.org/download/01_20230514_20230514_2220/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2gkKRFDiuSvBB57glAMBsdRGeWk.jpg",Royalteen: Princess Margrethe (2023) 
+https://archive.org/download/01_20230514_20230514_2224/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen (2023) 
+https://archive.org/download/01_20230513/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p1hH2FXEUHuY5kzm9bEBxEmdD8D.jpg",Linaje Oscuro (2022) 
+https://archive.org/download/01_20230513_202305/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNYtkngatCVyDvbSkaYV2ZOr0lS.jpg",La madre (2023) 
+https://archive.org/download/01_20230512_20230512_2326/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yMeKoe3ui4Pad8FUOJwCby3SOWe.jpg",Uno para morir (2023) 
+https://archive.org/download/01_20230509_202305/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/u3M1bVxEbIe3BVkFJWwMi8DIea1.jpg",Sustitutos (2023) 
+https://archive.org/download/01_20230509_20230509/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar (2023) 
+https://archive.org/download/01_20230509_20230509_1915/01.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hk2kW6uwTEa8cxDeF1UPfIpEYkF.jpg",Quiero tu vida (2023) 
+http://208.88.245.85/nuevo/quiero.tuvida.latino2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/liLN69YgoovHVgmlHJ876PKi5Yi.jpg",Ghosted (2023) 
+http://208.88.245.81/nuevo/ghosted.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",Renfield: Asistente de vampiro (2023) 
+http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol. 3 (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Guardianes%20de%20la%20Galaxia-%20Volumen%203%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/9JBEPLTPSm0d1mbEcLxULjJq9Eh.jpg",El exorcista del papa (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fabril%2FVer%20El%20exorcista%20del%20papa%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
