@@ -126,7 +126,7 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-720p.m3u8
 
 #EXTINF:-43 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/PAT_Logotype.png" group-title="BOLIVIA", Pat tv | HD
-https://master.tucableip.com/pat/tracks-v1a1/mono.m3u8
+https://w8.redpat.tv:7777/play/120/index.m3u8
 
 #EXTINF:-44,Telemundo Opcion 1
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -183,7 +183,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&amp;avod=1&amp;coppa=1
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4211&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;dnt=1&amp;us_privacy=1---&amp;did=00000000-0000-0000-0000-000000000000&amp;app_bundle=com.imps.smurfs&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=smurfs&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=smurfs&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=0&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-62 tvg-logo="https://www-storage.13.cl/t13/_images/t13-push-notification-logo.jpg" group-title="CHILE", Canal T13 | HD
-https://dai.google.com/linear/hls/pa/event/bFL1IVq9RNGlWQaqgiFuNw/stream/a0278a6f-f75d-4718-8345-222840500fba:BRU/master.m3u8
+https://redirector.rudo.video/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/t13/t13.smil/playlist.m3u8
 
 #EXTINF:-63 tvg-logo="https://i.blogs.es/8e6ced/angry-birds/1366_2000.webp" group-title="INFANTIL", Angry Birrds tv | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&dnt=1&us_privacy=1---&did=00000000-0000-0000-0000-000000000000&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=0&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=en&site_page=https%253A%252F%252Fwww.toongoggles.com%252F&preroll_duration=30&preroll=1&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1684083203&id=266911&ip=45.224.152.74&override_expiration=1500&sign=pEoOkGAZcjg7b8uJ%2FKu0ivcA2Ig9Xu816%2FXsWu2Ykws%3D
@@ -221,8 +221,8 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-74 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Docu | HD
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-75 tvg-logo="https://www.coolstreaming.us/img/ch/image15300933504.jpg" group-title="ECUADOR", DURAN TV | HD
-https://cloudvideo.servers10.com:8081/8074/index.m3u8
+#EXTINF:-42 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="ECUADOR",Canal uno Ecuador
+https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-76 group-title="PERU",TV COSMOS | HD
 https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1278620925.m3u8
@@ -258,7 +258,7 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w55663209.m3u8
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
 #EXTINF:-87 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOa1RYjBsvox-Yo2sVktXs-_3Xbg-gM9oyTVQQAGw0WnamOg5l6azg3ynsIKI4X6WGLgD-wgnrf7laIbktlFz2yI7LfppXeuaJ6jC1g6cSfUrMHo1SDR2Y4RbWnT3h2Qm-9gyywG9fO-rjuKVlqf3YkXRs9Y8ck7IaZAAP7Z8NlsoiuPlvx59zBnLG/s200/CANE.jpg" group-title="DEPORTES", Canela Sports | HD
-https://stream.ads.ottera.tv/cl/230605chv6l7p01i2ufjislqn0/854x480_1310534_2_f.m3u8?i=475_2013
+https://stream.ads.ottera.tv/cl/230724ciuspq0v7e9bkb3mj9mg/854x480_1310534_2_f.m3u8
 
 #EXTINF:-88 tvg-id="LIM TV .mx" tvg-name="LIM TV  (HD)" tvg-logo="https://www.coolstreaming.us/img/ch/ima32806760957.jpg" group-title="MEXICO",LIM TV  (HD)
 https://live.limplay.ml/limtv.m3u8
@@ -338,7 +338,7 @@ https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-113 tvg-logo="https://i.imgur.com/Q2WEX34.png" group-title="NOTICIAS", Deutsche Welle | SD
 https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
 
-#EXTINF:-114 tvg-logo="https://cdn.sescoops.com/wp-content/uploads/2017/03/fight.jpg" group-title="DEPORTES", FIGHT NETWORK
+#EXTINF:-114 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1200px-Fight_network_logo.svg.png" group-title="DEPORTES", FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
 #EXTINF:-115, RUNTIME CINE | HD
@@ -347,7 +347,7 @@ https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 #EXTINF:-116 tvg-logo="https://www.repretel.com/wp-content/themes/albavision-theme/img/logo.png" group-title="COSTA RICA", REPRETEL | HD
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
 
-#EXTINF:-117, Guaymote tv | HD
+#EXTINF:-117 group-title="VENEZUELA", Guaymote tv | HD
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w510038118.m3u8
 
 #EXTINF:-118 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Discovery_kids_logo.png" group-title="INFANTIL", DISCOVERY KIDS | HD
@@ -467,8 +467,8 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 #EXTINF:-156 tvg-logo="https://i.imgur.com/bNXH4cj.png" group-title="DEPORTES", Real Madrid TV | SD
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
-#EXTINF:-157 tvg-logo="https://digitaltv.prensariozone.com/wp-content/uploads/2021/03/America_TV_SAS_logo.jpg" group-title="ESPAÑA", AMERICA TV | HD
-https://uni01rtmp.tulix.tv/americateve1/americateve1/chunklist_w529176325.m3u8
+#EXTINF:-157 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91ce8a6df9674a7ff01fa203cdca71c9.webp" group-title="VENEZUELA", VEPACO TV
+https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
 
 #EXTINF:-158 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="INFANTIL", YU-GI-OH!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
@@ -593,8 +593,8 @@ https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1746248369_b75
 #EXTINF:-197 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="MUSICA", RETRO PLUS | HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w267082591.m3u8
 
-#EXTINF:-198  group-title="CINE Y SERIES", PUNTACANAL TV | SD
-https://rdn.essastream.com:3544/live/puntacanatvlive.m3u8
+#EXTINF:-198 https://canalesdominicanos.live/template/images/radios/xtrata-tv.jpg group-title="REPUBLICA DOMINICANA", XTRA TV | SD
+https://cnn.essastream.com:3387/live/xtratvlive.m3u8
 
 #EXTINF:-199 tvg-logo="https://cdn.webrad.io/images/logos/radios-com-ec/planeta-tv.png" group-title="ECUADOR", Planeta Radio HD | HD
 https://cdnhd.iblups.com/hls/RbO1PiXI7m.m3u8
@@ -650,8 +650,8 @@ https://60ed5b6d0df78.streamlock.net:1936/telemax/telemax/chunklist_w718095270.m
 #EXTINF:-216 tvg-name="RCC TV" tvg-logo="https://1.bp.blogspot.com/-TFCLCbyzLJg/YTX7J_MP0VI/AAAAAAAAQYU/NmDse7rND7MbfbhJvdimrzRhZ8HAFBXGgCLcBGAsYHQ/w172-h172/RCC%2BTV%2BEn%2Bvivo.png" group-title="PARAGUAY",RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
 
-#EXTINF:-217, Ñanduti tv
-https://tvdatta.com:3839/live/nandutitvlive.m3u8
+#EXTINF:-217 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/77d833a2eee802ccf3a11495ecd0074c.webp" group-title="VENEZUELA" ,Sun Channel 
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/sun-channel/5c237ea3-c92d-4ac4-a817-16fdcc7eb591/1.m3u8
 
 #EXTINF:-218 tvg-logo="https://lasuperdiscotecatv.com/wp-content/uploads/2021/04/LOGO2.png" group-title="MUSICA", SUPER DISCOTECA TV
 https://canal.lasuperdiscotecatv.com:3020/live/lasuperdiscotecatvlive.m3u8
@@ -662,7 +662,7 @@ https://amg00090-blueantllc-naturetimeemea-samsungspain-y1v3n.amagi.tv/playlist/
 #EXTINF:-220 tvg-logo="https://www.multicanalcatamayo.com/wp-content/uploads/2023/01/Sin-titulo-1.png" group-title="ECUADOR" , Multicanal Catamayo
 https://multicanal.streamseguro.com/hls/streaming.m3u8
 
-#EXTINF:-221, KONFU MOVIES
+#EXTINF:-221 group-title="CINE Y SERIES" , KONFU MOVIES
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545
 
 #EXTINF:-222 group-title="CINE Y SERIES", TODO MOVIES
@@ -815,7 +815,7 @@ https://spt-novelas-1-us.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1, Universal tv  HD
 https://cloud3.streaminglivehd.com:1936/universfaller/universfaller/chunklist_w363910197.m3u8
 
-#EXTINF:-1 group-title="COLOMBIA" , Multizona tv  HD
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8snrz6a7tTcg29UUpirGBQIRVZkYCqAfToF9fdEVvEbDf6NlD0AFU44qqZfJf_mXoXI&usqp=CAU" group-title="COLOMBIA" , Multizona tv  HD
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1, RTQ TV Mexico
@@ -851,13 +851,16 @@ https://mdstrm.com/live-stream-playlist/5f2d9d6ff17144074bd8a284.m3u8
 #EXTINF:-1, CRONICAS Tv
 https://g1.mc-hor.transport.edge-access.net/a10/ngrp:cronicatv_video1-100044_all/cronicatv_video1-100044_540p.m3u8
 
-#EXTINF:-1, Novelismas Tv HD
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/41c870183ed012aa991e0986fc3b561a.webp" group-title="VENEZUELA" ,TELE SUR
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/cf12839a5db76743a7c2448b9bd68337.webp" group-title="VENEZUELA" , Novelismas Tv HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=2380&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1yn-&amp;did=061513a5c89470bb73b80acf56298707&amp;app_bundle=com.canela.ott&amp;app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&amp;app_domain=canela.tv&amp;app_name=canelatv&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=canelatv&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=en&amp;consent=1&amp;gdpr=0&amp;site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanalesepg&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1668800459&amp;id=29260&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;deliveryProfileId=23762&amp;sign=ktwR1dR1KmcCwcOFlOK5RDzUWH8EGwWExRFSUQ6%2F7K8%3D
 
-#EXTINF:-1, PlUTO ACCION SD
+#EXTINF:-1 group-title="CINE Y SERIES" , PlUTO ACCION SD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7049fb30-f0dc-11ec-991f-0242ac110003&sid=7049fb30-f0dc-11ec-991f-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3MDQ5ZmIzMC1mMGRjLTExZWMtOTkxZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4NzgxMCwianRpIjoiMGJmNGMwMWQtYTVjMS00YmFkLTg4YzQtOTBhMTkzNGQ2NjJkIiwiaWF0IjoxNjU1NzU5MDEwLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.qUlJJg03pqctHnPJwifhTh-tiq5Y8cuEX-zR4zGmDCw&masterJWTPassthrough=true
 
-#EXTINF:-1, Pluto Estelar
+#EXTINF:-1 group-title="CINE Y SERIES" , Pluto Estelar
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=4845bff9-f0dd-11ec-817d-0242ac110003&sid=4845bff9-f0dd-11ec-817d-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI0ODQ1YmZmOS1mMGRkLTExZWMtODE3ZC0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODE3MywianRpIjoiNGVjMTk2NmEtZjQ3Mi00MGZiLWI4ZmYtZWEwZTZmMmNlZDdkIiwiaWF0IjoxNjU1NzU5MzczLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.wFMlybh5cvb5J0SMSEti-_5v66-TYo8PkL5ph3HUIZI&masterJWTPassthrough=true
 
 #EXTINF:-1, MEGA TV PARAGUAY
@@ -887,7 +890,7 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 #EXTINF:-1 group-title="MEXICO", Wowtv mx
 https://player-api.new.livestream.com/accounts/2776288/events/7741151/broadcasts/236677164.secure.m3u8
 
-#EXTINF:-1, CORDOVA
+#EXTINF:-1 tvg-logo="https://ar.dawahskills.com/wp-content/uploads/2014/04/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%B1%D8%B7%D8%A8%D8%A9.jpg" group-title="COLOMBIA", CORDOVA TV
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 
 #EXTINF:-301 tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="COLOMBIA", CARACOL
@@ -902,10 +905,20 @@ https://streamer1.streamhost.org/salive/logosH/master.m3u8
 #EXTINF:-1, IBEROAMERICA TV
 https://limited39.todostreaming.es/live/salome-livestream.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3cd5a38936b50ea78212770473565ee6.webp
+" group-title="VENEZUELA" ,MOVIE FE
+https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w306402727.m3u8
+
 #EXTINF:-1,Miami Tv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1804858925_b1896000.m3u8
 
-#EXTINF:-298 tvg-chno="294" tvg-id="Bolivia tv .es" tvg-name="Bolivia tv .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="BOLIVIA"  tvg-logo="https://www.boliviatv.bo/principal/images/icons/logos/logo_defecto.jpg" audio-track="es",Bolivia tv | SD 
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="VENEZUELA" ,OXIGENO TV
+https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w265821761.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a5b75e43e4ae2c4c2b44a34ee9045d9.webp" group-title="VENEZUELA" ,TVO
+https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
+
+#EXTINF:-298 tvg-chno="294" tvg-id="Bolivia tv .es" tvg-name="Bolivia tv .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="BOLIVIA"  tvg-logo="https://abi.bo/images/Noticias/Deportes/dic-21/btv.jpg" audio-track="es",Bolivia tv | SD 
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://cdn.mitvstatic.com/channels/5c29bef8-5e12-4d4d-a09e-3c2907ba9ee6_m.jpg" group-title="Lista 2",A&E 
@@ -2358,7 +2371,10 @@ http://208.88.245.81/nuevo/crater.dual.2023.mkv
 http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre 
-http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023) https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023) https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
+http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023) https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023) 
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4 
