@@ -89,8 +89,8 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-30 tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="INFANTIL", Cartunito | HD
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-31 tvg-logo="https://latinamedios.com/wp-content/uploads/2019/09/LOGO-LATINA-TV-300-300x200.png" group-title="PERU", Latina tv | SD
-https://live-edge01.telecentro.net.ar/live/rltn.smil/chunklist_w1505668438_b1428000_sleng.m3u8
+#EXTINF:-31 tvg-logo="https://latinamedios.com/wp-content/uploads/2019/09/LOGO-LATINA-TV-300-300x200.png" group-title="PERU", VISION TV MUSICAL | SD
+https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1867208587.m3u8
 
 #EXTINF:-32 tvg-logo="https://www.elnuevodia.com/resizer/jcjrG7WrqrRHRvwwDcwX4LoVEt8=/829x0/filters:quality(75):format(jpeg):focal(781x419:791x409)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/5GAYARXGYVDPRMG4Q3MOXQGOW4.jpg" group-title="PUERTO RICO", Mega tv | HD
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
@@ -110,8 +110,8 @@ https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-37 tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg" group-title="INFANTIL", Planeta kids
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-38 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg/640px-Segundo_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg.png" group-title="PERU", Panamericana
-https://cdnh71.iblups.com/hls/ptv2.m3u8
+#EXTINF:-38 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/3c619eb44474af2dc9df71538979c2f9.webp" group-title="PERU", ONDA DIGITAL
+https://v4.tustreaming.cl/odtvgo/index.m3u8
 
 #EXTINF:-39 tvg-logo="https://apksos.com/storage/images/extrema/radiotv/extrema.radiotv_1.png" group-title="CINE Y SERIES", Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
@@ -221,7 +221,7 @@ https://rt-rtd.rttv.com/dvr/rtdoc/playlist_1600Kb.m3u8
 #EXTINF:-74 tvg-logo="https://i.imgur.com/KFKktei.png" group-title="NOTICIAS", RT Docu | HD
 https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 
-#EXTINF:-42 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="ECUADOR",Canal uno Ecuador
+#EXTINF:-75 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="ECUADOR",Canal uno Ecuador
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-76 group-title="PERU",TV COSMOS | HD
@@ -557,9 +557,6 @@ https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-186 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", Power HD | HD
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
 
-#EXTINF:-186 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93afff6e61610492622e115373367f15.webp" group-title="ARGENTINA", MULTIVISION CANAL 9 | SD
-https://panel.dattalive.com/8250/8250/chunklist_w1439458226.m3u8
-
 #EXTINF:-187 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/Logo-latina-peliculas.png" group-title="RADIOS", LATINA TV | HD
 https://vxlive.cdn.antel.net.uy/auth_V_Latina_Tv,vxttoken=cGF0aFVSST0lMkZhdXRoX1ZfTGF0aW5hX1R2JTJGdnhmbXQlM0RobHMlMkYlMkEmZXhwaXJ5PTE2ODg4NDMyMDEmcmFuZG9tPTlMMlpMcDNaU3EmYy1pcD00NS4yMjQuMTUyLjc0JmlkX3JlZmVyZW5jaWE9JmlkX2Rpc3Bvc2l0aXZvPTAmaWRfZnJvbnRlbmQ9MTE5NiZwdWJsaWNfaWQ9MnM2cmQsNzlhZTNiYzY5NDI2ZGYwYjNmZmYyMzM2NDMxNjE2NDlkNmE1YjA0M2Y2NTU0ZTdmYmFhNjNmYmRhZWZmM2ZhMg==/vxfmt=hls/h_6fe564270334da7f7f2a1d6c5eec008e/var3950000/playlist.m3u8
 
@@ -576,7 +573,7 @@ https://eu1.servers10.com:19360/8056/8056.m3u8
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 
 #EXTINF:-192 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/242a984be1c5648aa385a0c7712ed38f.webp" group-title="PERU", TV DIGITAL | SD
-https://atvperu.akamaized.net/hls/live/2100630/atv/master.m3u8
+https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
 
 #EXTINF:-193 group-title="DEPORTES", TENIS CHANNEL | SD
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
@@ -665,8 +662,11 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 #EXTINF:-221 group-title="CINE Y SERIES" , KONFU MOVIES
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545
 
-#EXTINF:-222 group-title="CINE Y SERIES", TODO MOVIES
-https://stream.ads.ottera.tv/cl/230717ciqceeggv6th3bvvj5mg/960x540_2048000_4_f.m3u8
+#EXTINF:-222 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb8c01f83f28e273af1edd823437795d.webp" group-title="CINE Y SERIES", TODO CINE
+https://stream.ads.ottera.tv/cl/230724ciuvul6bb1fp1mgk61qg/960x540_2048000_4_f.m3u8
+
+#EXTINF:-223 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93afff6e61610492622e115373367f15.webp" group-title="ARGENTINA", MULTIVISION CANAL 9 | SD
+https://panel.dattalive.com/8250/8250/chunklist_w1439458226.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/TeleSUR.jpg" group-title="CHILE", TELE SUR
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
@@ -679,6 +679,12 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/06/logo.png" group-title="CHILE" , UesTV
 https://tls-cl.cdnz.cl/uestv/live/chunklist_w1188481689.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="ECUADOR" , NOVELAS INOLVIDABLES
+https://ov.ottera.tv/channels/cnm_niv/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d361f1f51796136d9f931586c45f4a33.webp" group-title="PERU" , TVPE INTERNACIONAL
+https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d8520391d9008e9c84d39705b8b6364bfb5fa7dafa7c65c90b3f77bd5f1495d5.png" group-title="MUSICA" , Panavision tv
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w2136190586.m3u8
@@ -922,236 +928,246 @@ https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://cdn.mitvstatic.com/channels/5c29bef8-5e12-4d4d-a09e-3c2907ba9ee6_m.jpg" group-title="Lista 2",A&E 
-http://bgtv.site/play/23-720.php?a=178&token=fg
+http://bgtv.site/play/23-740.php?a=178&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://thumbs.dreamstime.com/z/m%C3%A1s-el-gran-grado-del-top-de-la-reacci%C3%B3n-de-la-cuenta-del-grado-35557012.jpg" group-title="Lista 2",A+ 
-http://bgtv.site/play/23-720.php?a=113&token=fg 
+http://bgtv.site/play/23-740.php?a=113&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ea/ABC_logo_1968.png" group-title="Lista 2",ABC (USA) 
-http://bgtv.site/play/23-720.php?a=159&token=fg 
+http://bgtv.site/play/23-740.php?a=159&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://s.abcnews.com/images/US/2021_ABCNews_ShareTips_A_v01_KS_1632411223106_hpMain_16x9_1600.jpg" group-title="Lista 2",ABC News 
-http://bgtv.site/play/23-720.php?a=110&token=fg 
+http://bgtv.site/play/23-740.php?a=110&token=ertr  
 
-#EXTINF:-1 tvg-shift="-3"tvg-logo=" group-title="Lista 2",Adrenalina Sport 
-http://bgtv.site/play/23-720.php?a=140&token=fg 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Adrenalina Sport 
+http://bgtv.site/play/23-740.php?a=140&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Animal Planet 
-http://bgtv.site/play/23-720.php?a=75&token=fg 
+http://bgtv.site/play/23-740.php?a=75&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",AZ Corazon 
-http://bgtv.site/play/23-720.php?a=117&token=fg 
+http://bgtv.site/play/23-740.php?a=117&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Baby First 
-http://bgtv.site/play/23-720.php?a=150&token=fg
+http://bgtv.site/play/23-740.php?a=150&token=ertr 
+
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Baby TV 
-http://bgtv.site/play/23-720.php?a=60&token=fg 
+http://bgtv.site/play/23-740.php?a=60&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",BBC America (USA) 
-http://bgtv.site/play/23-720.php?a=166&token=fg 
+http://bgtv.site/play/23-740.php?a=166&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Bein Sports Esp 
-http://bgtv.site/play/23-720.php?a=176&token=fg 
+http://bgtv.site/play/23-740.php?a=176&token=ertr 
 
-#EXTINF:-1 tvg-shift="-3"tvg-logo=" https://www.adweek.com/wp-content/uploads/files/news_article/e-bravo-usa-logo-hed-2015.jpg" group-title="Lista 2",Bravo (USA) 
-http://bgtv.site/play/23-720.php?a=192&token=fg 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Bravo (USA) 
+http://bgtv.site/play/23-740.php?a=192&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CBS Sports Network (USA) 
-http://bgtv.site/play/23-720.php?a=161&token=fg 
+http://bgtv.site/play/23-740.php?a=161&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CNN Internacional 
-http://bgtv.site/play/23-720.php?a=92&token=fg 
-
-#EXTINF:-1 tvg-shift="-3"tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="Lista 2",CO:Caracol 
-http://bgtv.site/play/23-720.php?a=157&token=fg 
+http://bgtv.site/play/23-740.php?a=92&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CO: Caracol 
-http://bgtv.site/play/23-720.php?a=226&token=fg 
+http://bgtv.site/play/23-740.php?a=157&token=ertr 
 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CO: Caracol 
+http://bgtv.site/play/23-740.php?a=226&token=ertr 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DAZN 3 
-http://bgtv.site/play/23-720.php?a=205&token=fg 
+http://bgtv.site/play/23-740.php?a=205&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DAZN 4 
-http://bgtv.site/play/23-720.php?a=211&token=fg 
+http://bgtv.site/play/23-740.php?a=211&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Dicovery Turbo 
-http://bgtv.site/play/23-720.php?a=230&token=fg 
+http://bgtv.site/play/23-740.php?a=230&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Kids 
-http://bgtv.site/play/23-720.php?a=210&token=fg 
-
+http://bgtv.site/play/23-740.php?a=210&token=ertr 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Science 
-http://bgtv.site/play/23-720.php?a=216&token=fg 
+http://bgtv.site/play/23-740.php?a=216&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Theater 
-http://bgtv.site/play/23-720.php?a=217&token=fg 
+http://bgtv.site/play/23-740.php?a=217&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery TLC 
-http://bgtv.site/play/23-720.php?a=124&token=fg 
+http://bgtv.site/play/23-740.php?a=124&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Turbo 
-http://bgtv.site/play/23-720.php?a=229&token=fg 
+http://bgtv.site/play/23-740.php?a=229&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",El Gourmet 
-http://bgtv.site/play/23-720.php?a=219&token=fg 
-
+http://bgtv.site/play/23-740.php?a=219&token=ertr 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ES: Antena 3 
-http://bgtv.site/play/23-720.php?a=96&token=fg 
+http://bgtv.site/play/23-740.php?a=96&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ES: Movistar Drama 
-http://bgtv.site/play/23-720.php?a=146&token=fg 
+http://bgtv.site/play/23-740.php?
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN (USA)
-http://bgtv.site/play/23-720.php?a=167&token=fg 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN (USA) 
+http://bgtv.site/play/23-740.php?a=167&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 
-http://bgtv.site/play/23-720.php?a=35&token=fg 
+http://bgtv.site/play/23-740.php?a=35&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 2 
-http://bgtv.site/play/23-720.php?a=36&token=fg 
+http://bgtv.site/play/23-740.php?a=36&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 2 US 
-http://bgtv.site/play/23-720.php?a=37&token=fg 
+http://bgtv.site/play/23-740.php?a=37&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Eurosport 2 
-http://bgtv.site/play/23-720.php?a=141&token=fg 
+http://bgtv.site/play/23-740.php?a=141&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Eurosports 
-http://bgtv.site/play/23-720.php?a=206&token=fg 
+http://bgtv.site/play/23-740.php?a=206&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",FOX (USA) 
-http://bgtv.site/play/23-720.php?a=168&token=fg 
+http://bgtv.site/play/23-740.php?a=168&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Deportes 
-http://bgtv.site/play/23-720.php?a=38&token=fg 
+http://bgtv.site/play/23-740.php?a=38&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sports Premium 
-http://bgtv.site/play/23-720.php?
+http://bgtv.site/play/23-740.php?a=69&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sport (USA) 
-http://bgtv.site/play/23-720.php?a=221&token=fg 
+http://bgtv.site/play/23-740.php?a=221&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sport 2 (USA) 
-http://bgtv.site/play/23-720.php?a=222&token=fg 
+http://bgtv.site/play/23-740.php?a=222&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sports 
-http://bgtv.site/play/23-720.php?a=40&token=fg 
+http://bgtv.site/play/23-740.php?a=40&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sports 
-http://bgtv.site/play/23-720.php?a=42&token=fg 
+http://bgtv.site/play/23-740.php?a=42&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",FX 
-http://bgtv.site/play/23-720.php?a=70&token=fg 
+http://bgtv.site/play/23-740.php?a=70&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Galavision (USA) 
-http://bgtv.site/play/23-720.php?a=174&token=fg 
+http://bgtv.site/play/23-740.php?a=174&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Garage TV 
-http://bgtv.site/play/23-720.php?a=184&token=fg 
+http://bgtv.site/play/23-740.php?a=184&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Golden 
-http://bgtv.site/play/23-720.php?a=181&token=fg 
+http://bgtv.site/play/23-740.php?a=181&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",GolTV 
-http://bgtv.site/play/23-720.php?a=208&token=fg 
+http://bgtv.site/play/23-740.php?a=208&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 
-http://bgtv.site/play/23-720.php?a=72&token=fg 
+http://bgtv.site/play/23-740.php?a=72&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 (USA) 
-http://bgtv.site/play/23-720.php?a=223&token=fg 
+http://bgtv.site/play/23-740.php?a=223&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Family 
-http://bgtv.site/play/23-720.php?a=73&token=fg 
+http://bgtv.site/play/23-740.php?a=73&token=ertr 
+
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Family (USA) 
-http://bgtv.site/play/23-720.php?a=224&token=fg 
+http://bgtv.site/play/23-740.php?a=224&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Plus 
-https://bgtv.site/play/23-720.php?a=215&token=fg 
+http://bgtv.site/play/23-740.php?a=215&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Signature 
-http://bgtv.site/play/23-720.php?a=182&token=fg 
+http://bgtv.site/play/23-740.php?a=182&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HGTV (USA) 
-http://bgtv.site/play/23-720.php?a=225&token=fg 
+http://bgtv.site/play/23-740.php?a=225&token=ertr 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Investigation Discoviry
-http://bgtv.site/play/23-720.php?a=220&token=fg 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Investigation Discovery 
+http://bgtv.site/play/23-740.php?a=220&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",IZZI Afizzionados 
-http://bgtv.site/play/23-720.php?a=43&token=fg 
+http://bgtv.site/play/23-740.php?a=43&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Lifetime (USA) 
-http://bgtv.site/play/23-720.php?a=193&token=fg 
+http://bgtv.site/play/23-740.php?a=193&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Milenio TV 
-http://bgtv.site/play/23-720.php?a=88&token=fg 
+http://bgtv.site/play/23-740.php?a=88&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MLB NETWORK (USA) 
-http://bgtv.site/play/23-720.php?a=188&token=fg 
+http://bgtv.site/play/23-740.php?a=188&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MTV Hits 
-http://bgtv.site/play/23-720.php?a=94&token=fg 
+http://bgtv.site/play/23-740.php?a=94&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MTV Live 
-http://bgtv.site/play/23-720.php?a=108&token=fg 
+http://bgtv.site/play/23-740.php?a=108&token=ertr 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Multimedios MTY 
+http://bgtv.site/play/23-740.php?a=89&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",NBC NY (USA) 
-http://bgtv.site/play/23-720.php?a=164&token=fg 
+http://bgtv.site/play/23-740.php?a=164&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",NBC Universo (USA) 
-http://bgtv.site/play/23-720.php?a=165&token=fg 
+http://bgtv.site/play/23-740.php?a=165&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Nick Jr 
-http://bgtv.site/play/23-720.php?a=64&token=fg 
+http://bgtv.site/play/23-740.php?a=64&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Once TV 
-http://bgtv.site/play/23-720.php?a=111&token=fg 
+http://bgtv.site/play/23-740.php?a=111&token=ertr 
+
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Showtime (USA) 
-http://bgtv.site/play/23-720.php?a=189&token=fg 
+http://bgtv.site/play/23-740.php?a=189&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Sony 
-http://bgtv.site/play/23-720.php?a=53&token=fg 
+http://bgtv.site/play/23-740.php?a=53&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Starz (USA) 
-http://bgtv.site/play/23-720.php?a=190&token=fg 
+http://bgtv.site/play/23-740.php?a=190&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",SYFY 
-http://bgtv.site/play/23-720.php?a=80&token=fg 
- 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telehit 
-http://bgtv.site/play/23-720.php?a=95&token=fg 
+http://bgtv.site/play/23-740.php?a=80&token=ertr 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telecinco 
+http://bgtv.site/play/23-740.php?a=203&token=ertr 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telecinco 2 
+http://bgtv.site/play/23-740.php?a=207&token=ertr
+
+ #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telehit 
+
+http://bgtv.site/play/23-740.php?a=95&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telemundo 
-http://bgtv.site/play/23-720.php?a=155&token=fg 
+http://bgtv.site/play/23-740.php?a=155&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Televisa MTY 
-http://bgtv.site/play/23-720.php?a=143&token=fg 
+http://bgtv.site/play/23-740.php?a=143&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Tennis Channel (USA) 
-http://bgtv.site/play/23-720.php?a=171&token=fg 
+http://bgtv.site/play/23-740.php?a=171&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT 
-http://bgtv.site/play/23-720.php?a=57&token=fg 
+http://bgtv.site/play/23-740.php?a=57&token=ertr #
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT (USA) 
-http://bgtv.site/play/23-720.php?a=172&token=fg 
+EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT (USA) 
+http://bgtv.site/play/23-740.php?a=172&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Toros TV 
-http://bgtv.site/play/23-720.php?a=46&token=fg 
+http://bgtv.site/play/23-740.php?a=46&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",UFC TV 
-http://bgtv.site/play/23-720.php?a=47&token=fg 
+http://bgtv.site/play/23-740.php?a=47&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Univision (USA) 
-http://bgtv.site/play/23-720.php?a=173&token=fg
+http://bgtv.site/play/23-740.php?a=173&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",USA Network (USA) 
-http://bgtv.site/play/23-720.php?a=191&token=fg 
+http://bgtv.site/play/23-740.php?a=191&token=ertr 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Warner Channel 
-http://bgtv.site/play/23-720.php?a=59&token=fg
+http://bgtv.site/play/23-740.php?a=59&token=ertr
 
 #EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico movies| HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
