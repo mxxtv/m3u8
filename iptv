@@ -931,17 +931,17 @@ https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 http://bgtv. site/play/23-752.php?a=178&token=tyetew  
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://thumbs.dreamstime.com/z/m%C3%A1s-el-gran-grado-del-top-de-la-reacci%C3%B3n-de-la-cuenta-del-grado-35557012.jpg" group-title="Lista 2",A+ 
-http://bgtv.site/play/23- 752.php?a=113&token=tyetew  
+http://bgtv.site/play/23- 752.php?a=113&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ea/ABC_logo_1968.png" group-title="Lista 2",ABC (USA) 
-http://bgtv.site/play/23-752.php ?a=159&token=tyetew
+http://bgtv.site/play/23-752.php ?a=159&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3"tvg-logo="https://s.abcnews.com/images/US/2021_ABCNews_ShareTips_A_v01_KS_1632411223106_hpMain_16x9_1600.jpg" group-title="Lista 2",ABC News 
-http://bgtv.site/play/23-752.php?a=110&token=tyetew 
+http://bgtv.site/play/23-752.php?a=110&token=tyetew
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Adrenalina Sport 
 http://bgtv.site/play/23 -752.php?a=140&token=tyetew 
-
+ 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Animal Planet 
 http://bgtv.site/play/23-752.php? a=75&token=tyetew 
 
@@ -966,7 +966,7 @@ http://bgtv.site/play/23-752.php?a=192&token=tyetew
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CBS Sports Network (EE. UU.) 
 http://bgtv.site/play/23-752.php?a=161&token=tyetew 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CNN Internacional 
+# EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CNN Internacional 
 http://bgtv.site/play/23-752.php?a=92&token=tyetew 
 
 #EXTINF:-1 tvg -shift="-3" group-title="Lista 2",CO: Caracol 
@@ -990,7 +990,7 @@ http://bgtv.site/play/23-752.php?a=210&token=tyetew
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Discovery Science 
 http://bgtv.site/play/23-752.php?a=216&token=tyetew 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Discovery Theatre 
+#EXTINF:-1 tvg-shift="-3" group-title=" Lista 2", Discovery Theatre 
 http://bgtv.site/play/23-752.php?a=217&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery TLC 
@@ -1012,13 +1012,13 @@ http://bgtv.site/play/23-752.php?a=146&token=tyetew
 http://bgtv.site/play/23-752.php?a=167&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2", ESPN 
-http://bgtv.site/play/23-752.php?a=35&token=tyetew 
+http://bgtv.site/play/23-752.php?a=35&token=tyetew
 
 #EXTINF:-1 tvg-shift= "-3" grupo-título="Lista 2",ESPN 2 
 http://bgtv.site/play/23-752.php?a=36&token=tyetew 
 
-#EXTINF:-1 tvg-shift="-3" grupo -title="Lista 2", ESPN 2 EE. UU. 
-http://bgtv.site/play/23-752.php?a=37&token=tyetew 
+#EXTINF:-1 tvg-shift="-3" grupo -title="Lista 2", 
+ESPN 2 EE. UU. http://bgtv.site/play/23-752.php?a=37&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Eurosport 2 
 http://bgtv.site/play/23-752.php?a=141&token=tyetew 
@@ -1065,7 +1065,7 @@ http://bgtv.site/play/23-752.php?a=208&token=tyetew
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 
 http://bgtv.site/play/23-752.php?a=72&token=tyetew 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", HBO 2 (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title=" Lista 2", HBO 2 (EE. UU.) 
 http://bgtv.site/play/23-752.php?a=223&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Familia HBO 
@@ -1080,7 +1080,7 @@ http://bgtv.site/play/23-752.php?a=215&token=tyetew
 #EXTINF:-1 tvg-shift="-3" grupo- title="Lista 2", Firma de HBO 
 http://bgtv.site/play/23-752.php?a=182&token=tyetew 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HGTV (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2 ",HGTV (EE. UU.) 
 http://bgtv.site/play/23-752.php?a=225&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Investigación Descubrimiento 
@@ -1131,7 +1131,7 @@ http://bgtv.site/play/23-752.php?a=190&token=tyetew
 #EXTINF:-1 tvg-shift="-3 " título-grupo="Lista 2",SYFY 
 http://bgtv.site/play/23-752.php?a=80&token=tyetew 
 
-#EXTINF:-1 tvg-shift="-3" título-grupo=" Lista 2",Telecinco 
+#EXTINF:-1 tvg-shift="-3" título-grupo="Lista 2",Telecinco 
 http://bgtv.site/play/23-752.php?a=203&token=tyetew 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telecinco 2 
@@ -1168,7 +1168,7 @@ http://bgtv.site/play/23-752.php?a =173&token=tyetew
 http://bgtv.site/play/23-752.php?a=191&token =tyetew 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Warner Channel 
-https://bgtv.site/play/23-752.php?a=59&token=tyetew
+http://bgtv.site/play/23-752.php?a=59&token=tyetew
 
 #EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico movies| HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
