@@ -6,7 +6,7 @@ https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encod
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR", RTS TV | SD
-https://d1qovwsteln4u.cloudfront.net/hls/rts_480.m3u8
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
 #EXTINF:-4 tvg-logo="https://dnqt2wx2urq99.cloudfront.net/ondirectv/LOGOS/Canales/EC/182.png" group-title="ECUADOR", ECUAVISA 1
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
@@ -24,7 +24,7 @@ https://envivo.telerama.ec/stream.m3u8
 https://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
 
 #EXTINF:-9 tvg-logo="https://pbs.twimg.com/profile_images/1625521156521426950/Wy9hRShi_400x400.jpg" group-title="ECUADOR", TVC ec | HD
-https://d1qovwsteln4u.cloudfront.net/hls/tvc_480.m3u8
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/chunks.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
@@ -35,8 +35,8 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 #EXTINF:-12 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcYoJoTcl2wVDMYyE3FST-8WX0kIkHtTFuA3UKZScXKDjn6c9tZMrH7oIiZRohieSF54UrYue891lKfGov2uMLZINBO-Q1C1V1zo6lXoGJmvSoEp-o-lAMZ2BZ4L13O34vQP1V7VAClFc4AR-Y4WV3QDTLlSiLeMnoQrnziWaw2SPMVr46jlixCRpR/s1600/asomavision.png" group-title="ECUADOR", Asomavision | SD
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
-#EXTINF:-13 tvg-logo="https://i.imgur.com/eFfX2fC.jpg" group-title="COSTA RICA",Teletica | SD
-https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
+#EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA",CANAL 4 | SD
+https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
 
 #EXTINF:-14 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -165,7 +165,7 @@ https://mitv.getstreamhosting.com:30443/live/livestream123/chunks.m3u8
 https://d25v5vivhcrrh5.cloudfront.net/hls/canal2_360.m3u8
 
 #EXTINF:-56 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="COSTA RICA", REPRETEL 11 | HD
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal11_720.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Canal11CR/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/640px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", ECUAVISA 3 costa HD
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
@@ -224,11 +224,11 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 #EXTINF:-75 tvg-logo="https://blixtv.com/wp-content/uploads/2015/03/canal-uno.jpg" group-title="ECUADOR",Canal uno Ecuador
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
-#EXTINF:-76 group-title="PERU",TV COSMOS | HD
-https://5790d294af2dc.streamlock.net/8134/8134/chunklist_w1278620925.m3u8
+#EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg/1200px-Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg.png" group-title="PERU",PANAMERICANA| HD
+https://cdnh74.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-77 tvg-logo="https://www.coolstreaming.us/img/ch/image92391202925.jpg" group-title="CINE Y SERIES", San Isidro tv | HD
-https://cdn4.hostlagarto.com:8081/static/sanisidrotv/chunks.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=1187
 
 #EXTINF:-78 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46140fd597ed896d58f12c7e794d5f06.webp" group-title="PARAGUAY",Jazmín Tv En Vivo
 https://tvdatta.com:3957/stream/play.m3u8
@@ -312,7 +312,7 @@ https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
 https://video20.klm99.com:3558/live/teleredlive.m3u8
 
 #EXTINF:-105 tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA", TELESUR
-https://59ef525c24caa.streamlock.net/telesur/telesur/playlist.m3u8
+https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-106 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="DEPORTES", BEIN SPORTS XTRA
 https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
@@ -345,7 +345,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
 #EXTINF:-116 tvg-logo="https://www.repretel.com/wp-content/themes/albavision-theme/img/logo.png" group-title="COSTA RICA", REPRETEL | HD
-https://d25v5vivhcrrh5.cloudfront.net/hls/canal6_720.m3u8
+https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
 
 #EXTINF:-117 group-title="VENEZUELA", Guaymote tv | HD
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w510038118.m3u8
@@ -543,13 +543,13 @@ https://hvtraficonew.ddns.net/cncmedellin720/canalcncmedellin.stream_720p/index.
 https://video2.makrodigital.com/wuanplus/wuanplus/playlist.m3u8
 
 #EXTINF:-182 tvg-logo="https://i.imgur.com/m504ZL8.png" group-title="ARGENTINA", Canal 26 | HD
-https://streamcasthd.com:1936/tecnovisioncanal2tv/tecnovisioncanal2tv/chunklist_w1071187630.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1004694588_b1264000_sleng.m3u8
 
 #EXTINF:-183 tvg-logo="https://i.imgur.com/xu8lnw9.png" group-title="ARGENTINA", Telemax | HD
-https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1095109692_b1828000_sleng.m3u8
 
 #EXTINF:-184 tvg-logo="https://i.imgur.com/8nCB06w.png" group-title="ARGENTINA", Telpin Canal 2 | SD
-https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/chunklist_w1288573524_b1344100_sleng.m3u8
+https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
 
 #EXTINF:-185 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="MUSICA", Music Top | HD
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
@@ -663,7 +663,7 @@ https://multicanal.streamseguro.com/hls/streaming.m3u8
 https://917ebd53b511440f9669a926b4ba9153.mediatailor.us-east-1.amazonaws.com/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/npplayout-VivaLive/PULBTK6FMBFU4URFHHMI/hls3/now_-1m_15s/m.m3u8?ads.vast_id=651545
 
 #EXTINF:-222 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/fb8c01f83f28e273af1edd823437795d.webp" group-title="CINE Y SERIES", TODO CINE
-https://stream.ads.ottera.tv/cl/230724ciuvul6bb1fp1mgk61qg/960x540_2048000_4_f.m3u8
+https://stream.ads.ottera.tv/cl/230801cj45r38gv6tv7dh5tts0/384x216_196608_2_f.m3u8
 
 #EXTINF:-223 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/93afff6e61610492622e115373367f15.webp" group-title="ARGENTINA", MULTIVISION CANAL 9 | SD
 https://panel.dattalive.com/8250/8250/chunklist_w1439458226.m3u8
@@ -717,7 +717,7 @@ https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
 https://tvdatta.com:3957/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="PUERTO RICO",Telemundo Noticias
-https://nbculocallive.akamaized.net/hls/live/2037084/losangeles/stream6/master.m3u8
+https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/899385012801470464/akSvNCqE_200x200.jpg" group-title="ESPAÑA",La1.TV
 https://ztnr.rtve.es/ztnr/1688877.m3u8
@@ -737,8 +737,8 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w105937
 #EXTINF:-1, TELEUNIVERSO
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
-#EXTINF:-81 tvg-logo="https://i.postimg.cc/zXPvBDYW/SONY_COMEDIAS.png" group-title="CINE Y SERIES", SONY CANAL COMEDIAS
-https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+#EXTINF:-81 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="MEXICO", AZT UNO
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
 
 #EXTINF:-61 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="CINE Y SERIES", PARAMUNT+ PRESENTA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -948,7 +948,10 @@ http://bgtv.site/play/23-777.php?a=140&token=kjhdkjads
 http://bgtv.site/play/23-777.php?a=75&token=kjhdkjads 
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3sJyIQGAqEySHiAKToGFePN0kYVB1GenjGadibVMvwPoHpa2WGvBvUiHkmAynPjfzIk&usqp=CAU"  group-title="Lista 2",AZ Corazon 
-http://bgtv.site/play/23-777.php?a=117&token=kjhdkjads
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
+
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/3b72aa2/2147483647/strip/true/crop/996x478+0+0/resize/928x445!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F3a%2F97274f9d42e89c1f5028ac7f5bab%2Fded.jpg" group-title="Lista 2", AZTC UNO
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Baby First 
 http://bgtv.site/play/23-777.php?a=150&token=kjhdkjads 
