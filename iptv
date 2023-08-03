@@ -101,7 +101,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3
 #EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 
-#EXTINF:-35 tvg-logo="https://blixtv.com/images/teleamazonas.png" group-title="ECUADOR", Teleamazonas | SD
+#EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEp3YNOktvpW5JaMqt5GRakV265-VI-sw34Mpy6Eb2ZkCX2qvYHA_Tw0CGdaXEkbc7f5I&usqp=CAU" group-title="ECUADOR",TELEAMAZONAS sierra | SD
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
 #EXTINF:-36 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&amp;h=108&amp;tok=6aa67b&amp;media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Frakutenaccion.png" group-title="CINE Y SERIES", Rakuten ACCION | HD
@@ -683,6 +683,9 @@ https://tls-cl.cdnz.cl/uestv/live/chunklist_w1188481689.m3u8
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="ECUADOR" , NOVELAS INOLVIDABLES
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
 
+#EXTINF:-56 group-title="CINE Y SERIES", CINE ESPANTO | HD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691084212&id=6813&ip=45.224.152.74&override_expiration=1500&sign=6aote%2FsxHrM%2FGd07KYygmatUqUgMav7yelfQpm%2FuYIo%3D
+
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d361f1f51796136d9f931586c45f4a33.webp" group-title="PERU" , TVPE INTERNACIONAL
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
 
@@ -953,6 +956,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/3b72aa2/2147483647/strip/true/crop/996x478+0+0/resize/928x445!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F3a%2F97274f9d42e89c1f5028ac7f5bab%2Fded.jpg" group-title="Lista 2", AZTC UNO
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
 
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptiJ7L2lAI176KMj-imwNQQSBSoGhTxozEiLiO2gyRs8YbAq_Md4cFIPHDGSv11W0iPrXeLSBbfMgXO9Zbx8JopwWImyJSVh1LppIN42X0pwsKhVpHxAZOLsXpsVc5RFrsLUH68nhKzX8n_z3epFapWQnU4wYsNkKMjulpVltiXi5mD8l-7xF3ZCj/s640/tvain.png" group-title="Lista 2", AZTCA INTERNACIONAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691083049&id=10411&ip=45.224.152.74&override_expiration=1500&sign=zK1PIBs6E13FQXc%2BgxeY9vC8IBdfXx0eJlxNxUmh2Vw%3D
+
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Baby First 
 http://bgtv.site/play/23-777.php?a=150&token=ssdasdsd
 
@@ -995,7 +1001,7 @@ http://bgtv.site/play/23-777.php?a=210&token=ssdasdsd
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Discovery Science 
 http://bgtv.site/play/23-777.php?a=216&token=ssdasdsd 
 
-#EXTINF:-1 tvg-shift="-3" group-title=" Lista 2", Discovery Theatre 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Discovery Theatre 
 http://bgtv.site/play/23-777.php?a=217&token=ssdasdsd 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery TLC 
@@ -1049,7 +1055,7 @@ http://bgtv.site/play/23-777.php?a=222&token=ssdasdsd
 #EXTINF:-1 tvg-shift="-3" grupo- title="Lista 2", Fox Sports 
 http://bgtv.site/play/23-777.php?a=40&token=ssdasdsd 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2 "Fox Sports 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2"Fox Sports 
 http://bgtv.site/play/23-777.php?a=42&token=ssdasdsd 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",FX 
@@ -1151,7 +1157,7 @@ http://bgtv.site/play/23-777.php?a=155&token=ssdasdsd
 #EXTINF:-1 tvg-shift="-3" grupo- title="Lista 2",Televisa MTY 
 http://bgtv.site/play/23-777.php?a=143&token=ssdasdsd 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2 "Tennis Channel (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2"Tennis Channel (EE. UU.) 
 http://bgtv.site/play/23-777.php?a=171&token=ssdasdsd 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2", TNT 
@@ -1193,15 +1199,6 @@ http://bgtv.site/play/23-777.php?a=59&token=ssdasdsd
 #EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico movies| HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
 
-#EXTINF:-1 tvg-logo="https://galocisnerosblog.com/wp-content/uploads/2021/09/Resumen-de-que-pasaria-si-el-capitan-Carter-fuera-el-primer-vengador.jpg.webp" type="movies" group-title="PELICULAS", El Capitán Carter lucha contra Hydra en una aventura retro de Marvel| HD
-https://1omgtestbucket.s3.amazonaws.com/user_2599%2Fvideos%2F6441e26b5fc29.mp4
-
-#EXTINF:-1 tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/6044193f82e19c7a3b57bef8abbccd8734d5149ab30982387cd800ff70155217._RI_V_TTW_.jpg" type="movie" group-title="PELICULAS", Gigante de piedra movies  | SD
-https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/OA/XbQTHRlkvfBh_3k7lJAqH7huyht4qFtIvzt1rX2j8/megdpi1;/6m/phwUaIQk1kCbW-Wq5j8L9gfvcnEo4JkyJA6qnzmhk/megdpi1;/Li/lhz3YwVCUAbeGeTgVDWNQ_l1efPX7o0Egt_fE4jlk/megdpi1;/r9/evC8pnUH6PGAHo9CNwJ8_Hz0pbd_a-gof4CpJJWj8/megdpi1
-
-#EXTINF:-1 tvg-logo="https://televen.com/wp-content/uploads/2017/04/El-vengador-fantasma.jpg" type="movie" group-title="PELICULAS", El vengador fantasma movies  | SD
-https://olympusato-mmd-cust.lldns.net/stream.ismd/manifest.m3u8?stream=/Lg/RPAuH36A5Rp3KeW1dSWEev53R1OhHueK82sJXXdUk/mgrsov1;/rL/tcca-jg0Xs1voag1DJDd_Ev52-UrdP-xjfYp9q2_M/mgrsov1;/j3/JGUM8tVpCr6o5vMn3k6FrfMionicDrOdHnWQu6kCE/mgrsov1;/3I/wIKkYWD1-myMB9jp0E_W6CzuGO0G9mSXVUVwegzhU/mgrsov1
-
 #EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/3d5Enbpx7sMOp8cM7J4chyjk8SM=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11614195/InfinityWar5aabd55fed5fa.jpg" type="movie" group-title="PELÍCULAS", Vengadores: Endgame | Dakota del Sur
 https://cloclo56.cloud.mail.ru/videowl/view/nNuxpkVn1wmi6j1tg9E_dde379f95ee91e17dd3f8fa6063b912b/g/no/0p/M3lxRi9FdWpHM3pMS0Y=.m3u8?double_encode=1
 
@@ -1209,7 +1206,7 @@ https://cloclo56.cloud.mail.ru/videowl/view/nNuxpkVn1wmi6j1tg9E_dde379f95ee91e17
 https://is.gd/fDEYM2
 
 #EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"type=" movie" group-title="PELICULAS",Viuda Negra movies  | SD
-https://cloclo52.cloud.mail.ru/videowl/720p_1/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
+https://cloclo21.cloud.mail.ru/videowl/view/2pN16Js68cAXNjepSxZC_af5d4b6abaa50bab61177f2a46502cf4/g/no/0p/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
              
 #EXTINF:-1 tvg-id="HD(HANSEL Y GRETEL).eu" tvg-name="HANSEL Y GRETEL (HD)" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/21/74/20333302.jpg" type="movie" group-title="PELICULAS",Hansel y Grete movies| (HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jsaw4vy3/format/applehttp/protocol/https/flavorIds/1_5km6q5i6,1_t72olw41,1_dwilknyq,1_ngdt4ja6,1_vlcpc7up,1_hlhjmtcj/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242841&amp;id=2926&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=oAttZ5UiwSkHsPY8ipnJjFZXv4Y9ETkaFZwKltJbMio%3D&amp;playSessionId=70be76fc-fa33-4fac-fd1d-25f4614f0eef:3a58afe0-e9c1-ae0d-b305-5cf29be74a1c&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2hhbnNlbC15LWdyZXRlbA==&amp;clientTag=html5:v7.56
@@ -1240,9 +1237,6 @@ https://cloclo58.cloud.mail.ru/videowl/0p/d1paZC9xZzgyNTJZaUw=.m3u8?double_encod
 
 #EXTINF:-1 tvg-id="Gato con Botas.eu" tvg-name="Gato con Botas (HD)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe190e33b1a80b175f28715aac47fcddbc10c2ebbff1cc5c9d7b5d5bf1b3a472._RI_V_TTW_.jpg" type="movie" group-title="PELICULAS" ,Gato con Botas movies| HD
 https://xppmla.sn.files.1drv.com/y4mBn_0yrZP8uTP9A1Nq7uhVH3pY3Iua3dptTu8zsV88hvvbiTBW1RXRJSB6K61wIjm4Nb4-usz0aG9rNeHNmgng4bRwp5gWBwmlxLmmECq4gvdnUxHjo4It1-NyNPWLb_Gtx0qxkswx-tFYpiSzLltD9gtB4YtzLFeS3-MB05h_gpG-DvMNZ7EnEXZ_f1_MAjgKDSm4crC9_90tcr0pdmXSQ?
-
-#EXTINF:-1 tvg-id="Megan.mx" tvg-name="Megan (HD)" tvg-logo="https://www.loslunesseriefilos.com/wp-content/uploads/2023/01/critica-megan-peli.jpg" type="movie" group-title="PELICULAS" ,Megan movies| HD
-https://www-hbg89496.ssl0d.com/hls2/vlKTZ1_VaPzo_H6Cep_29A/1675233596/SsldVlMaFwSzCERAq5Mw-BaNDAKA6LE3v4NSp_L9_7g/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/10/14/noticias/1634197816_237379_1634197975_noticia_normal.jpg" type="movie" group-title="PELICULAS" , VENON 2 movies| HD
 https://cloclo53.cloud.mail.ru/videowl/0p/QXBWVS9BWkUyd0hBRjM=.m3u8?double_encode=1
@@ -1304,7 +1298,7 @@ http://vod.tuxchannel.mx/peliculas/720/the%20boy.mkv
 #EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/1H1y9ZiqNFaLgQiRDDZLA55PviW.jpg",El libro de Eli (2010) 
 http://vod.tuxchannel.mx/peliculas/720/the%20book%20ok%20eli.mkv 
 
-#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://static.wikia.nocookie.net/marvelfanon/images/1/1f/SM4.png",El Hombre Araña 4 (2012) 
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://www.cinemascomics.com/wp-content/uploads/2022/01/spider-man-4-960x720.jpg",El Hombre Araña 4 (2012) 
 http://vod.tuxchannel.mx/peliculas/720/the%20amazing%20spiderman.mkv 
 
 #EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://d5ip5p2ldkpmf.cloudfront.net/cinema/DB_Photos/MoviePosters/AllMADPhotos/10975274/10975274_v2_cmd1.jpg",Terremoto:la falla de San Andrés (2015) 
@@ -2044,10 +2038,7 @@ http://144.217.70.79/VODS-M/1080P/The%20man%20who%20killed%20don%20quixote%20201
  
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/eiVQORVyVuNNZHPAELuWtlXoQsD.jpg"group-title="PELICULAS" type="movie", Batman hush (2019) 
 http://144.217.70.79/VODS-M/1080P/Batman%20hush%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bTgd1QQFTKdxESevtffAvIvCnz2.jpg"group-title="PELICULAS" type="movie" , The red sea diving resort (2019) 
-http://144.217.70.79/VODS-M/1080P/The%20red%20sea%20diving%20resort%202019.mp4 
-   
+ 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iKMeE6oYzBVzhA6xLGb8PPWEruF.jpg"group-title="PELICULAS" type="movie" , Secret obsession (2019) 
 http://144.217.70.79/VODS-M/1080P/Secret%20obsession%202019.mp4 
 
@@ -2057,9 +2048,6 @@ http://144.217.70.79/VODS-M/1080P/Breakthrough%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/53QtZhtuw0aKu14DukYTtVtcrES.jpg"group-title="PELICULAS" type="movie" , A vigilante (2018) 
 http://144.217.70.79/VODS-M/1080P/A%20vigilante%202018.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/bk8LyaMqUtaQ9hUShuvFznQYQKR.jpg"group-title="PELICULAS" type="movie" , Hellboy (2019) 
-http://144.217.70.79/VODS-M/1080P/Hellboy%202019.mp4 
- 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/u3B2YKUjWABcxXZ6Nm9h10hLUbh.jpg"group-title="PELICULAS" type="movie" , After (2019) 
 http://144.217.70.79/VODS-M/1080P/After%202019.mp4 
 
@@ -2068,9 +2056,6 @@ http://144.217.70.79/VODS-M/1080P/Point%20blank%202019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/z11Dd1r8BQhCLhLfRh1x5QuzMRw.jpg" group-title="PELICULAS" type="movie" , Hide and Seek (2005) 
 http://144.217.70.79/VODS-M/1080P/Hide%20and%20Seek%202005.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/hQSUwjSSRtWCA5EBoY22gGzaE8Y.jpg" group-title="PELICULAS" type="movie" , Wildlife (2018) 
-http://144.217.70.79/VODS-M/1080P/Wildlife%202018.mp4 
  
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/xRWht48C2V8XNfzvPehyClOvDni.jpg" group-title="PELICULAS" type="movie" , Alita battle angel (2019) 
 http://144.217.70.79/VODS-M/1080P/Alita%20battle%20angel%202019.mp4 
@@ -2180,9 +2165,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
 https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers: El despertar de las bestias 
-https://archive.org/download/01_20230609_202306/01.mp4 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jNO8smUkyNbL2t6HU6EBnJCSf6r.jpg",Un Año Inolvidable – Verano 2023 
 https://archive.org/download/01_20230609_20230609_2029/01.mp4 
 
@@ -2236,9 +2218,6 @@ http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic (2023) (CAM) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Hypnotic%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM) 
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
 https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv 
 
@@ -2276,7 +2255,7 @@ http://208.88.245.81/nuevo/elemental.dual2023.mkv
 http://208.88.245.81/nuevo/the.flash.2023dual.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers despertar de las bestias 
-http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv 
+http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spiderman a través del spiderverso 
 http://208.88.245.85:80/nuevo/spiderm.atravesdelspiderverso.2023dual.mkv 
@@ -2582,5 +2561,17 @@ https://archive.org/download/01_20230718_20230718_1843/01.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental (2023)CINE 
 https://archive.org/download/01_20230629_20230629_2318/01.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer: el dilema de la bomba atómica (2023) 
+https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fjulio%2FVer%20Oppenheimer-%20el%20dilema%20de%20la%20bomba%20at%C3%B3mica%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Gxv8gSFCU0XGDykEGv7zR1n2ua.jpg",Oppenheimer (2023) (CAM) 
+https://axa4wow3dcia.objectstorage.us-phoenix-1.oci.customer-oci.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjulio%2FVer%20Oppenheimer%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie (2023) (CAM) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjulio%2FVer%20Barbie%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie (2023) (CAM) 
+https://main.cinedecalidad.xyz/mexicanas/barbie.mp4
 
 
