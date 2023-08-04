@@ -248,11 +248,11 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-83 tvg-id="Rcg media 3 TV.mx" tvg-name="Rcg media 3 TV (HD)" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png" group-title="MEXICO",Rcg media 3 | HD
 https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
 
-#EXTINF:-84 tvg-id="Canal TRC Televisión.mx" tvg-name="Canal TRC Televisión (HD)" tvg-logo="https://1.bp.blogspot.com/-wAmRmrlBT0c/YR_Ab1IIH8I/AAAAAAAAQMg/bt1CULo3BPQ9fJCtLqMsfi6G7qP-9-G7gCLcBGAsYHQ/w213-h160/TRC%2BTelevisi%25C3%25B3n%2Ben%2Bvivo.png" group-title="MEXICO",Canal TRC Televisión | HD
-https://stream.oursnetworktv.com/latin/SRTC/chunklist_w14117985.m3u8
+#EXTINF:-84 tvg-id="Galavision Televisión.mx" tvg-name="GALAVISION (HD)" tvg-logo="https://w7.pngwing.com/pngs/37/3/png-transparent-galavision-hd-logo.png" group-title="MEXICO",Galavisión | HD
+https://dcs-live.mp.lura.live/server/play/pjNRQRKsWY2kxcxj/manifest.m3u8?encp=vBUXpDeb9-WhY6LYcpM2Og:2gD6J0YM3mIQpa9tptoFWOYosoFE3HbhSim0TJNPCKAlVbwDf0Ir03EutORCxqZYwS2MqoVmJAU7RjL9wQ-wZeI8HxEsUpMHfRJop1K6VqxdVgQVOPMvO4hWiXldyrylgPlCbkyrCwQK9WQXKn07cF4yMgnt74Y5s3qNSTX5BlbTIO-ZR_lkHsAoUcTRL_1S2PwR2wsF0bOqz6yLAVeTiBE6kofkjX6wbT3Zf_JEHttIkLhLGq-fWkYFXI75h2nYcqez2Xy_buZcDYAFCzXXEllRQM5FyTYV-8O--I8AOPXbrv9KaKjb3ChtXpS05OFPhCDzcNbAFYBeC-GJzAx5ekxdMJPOTZooPAxOn6iWjbQxjSIfD4X-Q3Hi0FmRdySdRk915eewFgJv1g7_flvJRRxLnD6_HVqJMeEmsntIpBNJekh9EuDHki365gaetOqNGZyk5fXqrY2NNaI-aiq4RlHLHNm3PjDVrVloIjK3CEtqdjRVQQBIh-SFXDv8Br1FKXu_sBbD3964vTZgLrbboN4eu-h63gz5QL1J3dSGdqJUi14Wb_ovI5xORs89GVZL8Wv4bvtv0n5-oF9i8d_YHpE_A06leaPDFrPaRI3AU8uOXhBY-jd-Cd_uOLNTYZpX9FVkNr_Bq0Y_BYQKLx65lNxoXCVToeoX3NLQQKz6ouk&anvtrid=a98454e33a92ba1597dd8df9a1616d0d&anvauth=tb=0~te=1691120456~sgn=7e0c87650dc3f3ead0d4c12c48599f6b2361a98b03ab5aca966a38835f57cafa&t=1691120366
 
 #EXTINF:-85 tvg-id="Lobo tv.mx" tvg-name="Lobo tv (HD)" tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",Lobo tv | HD
-https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w55663209.m3u8
+https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w55663209.m3u8 
 
 #EXTINF:-86 tvg-id="Tv Lobo.mx" tvg-name="Tv Lobo (HD)" tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",TV Lobo | HD
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
@@ -785,11 +785,11 @@ https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live
 #EXTINF:-1 group-title="PUERTO RICO", TELEMUNDO HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
 
-#EXTINF:-1, MEXICO:Canal Once
+#EXTINF:-1 group-title="MEXICO",Canal Once
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",MOVISTAR BEIN SPORT
-https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8
+#EXTINF:-1 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2015/09/movistar-plus-bein-sports.jpg" group-title="DEPORTES",MOVISTAR BEIN SPORT
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 #EXTINF:-1 group-title="CINE Y SERIES",TU CINE HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ftu-cine%2F&amp;genre=&amp;ic=&amp;us_privacy=2021&amp;coppa=0&amp;user_id=&amp;ip=157.100.59.47&amp;ipv6=&amp;c_duration=3600&amp;c_producer=tucine&amp;c_lang=es&amp;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&amp;hls_marker=1&amp;content_channel=Tu+Cine&amp;content_title=&amp;content_genre=&amp;gdpr=0&amp;player_height=1080&amp;player_width=1920&amp;min_ad_duration=6&amp;max_ad_duration=120
@@ -812,7 +812,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009
 #EXTINF:-1 group-title="CINE Y SERIES", Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
 
-#EXTINF:-1, Pluto Cartoon HD
+#EXTINF:-1 group-title="INFANTIL", Pluto Cartoon HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7a236036-f0de-11ec-884e-0242ac110003&sid=7a236036-f0de-11ec-884e-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3YTIzNjAzNi1mMGRlLTExZWMtODg0ZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODY4NiwianRpIjoiOTU4MDJhYjAtYjgxOS00YmVmLWJjMTgtMDE4ZmU3YTkxYjY0IiwiaWF0IjoxNjU1NzU5ODg2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.QVtzw0AeT2Cowcuere2sMTDHcipfpA-Bx3MJ8dh_tWY&masterJWTPassthrough=true
 
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/92/Bob_esponja_logotipo.png" group-title="INFANTIL", BOB ESPONJA
@@ -893,11 +893,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU" group-title="COSTA RICA", CANAL 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
-#EXTINF:-1 group-title="MEXICO", Adn40
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/adn-40-m.png" group-title="MEXICO", Adn40
 https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
-#EXTINF:-1 group-title="MEXICO", Wowtv mx
-https://player-api.new.livestream.com/accounts/2776288/events/7741151/broadcasts/236677164.secure.m3u8
 
 #EXTINF:-1 tvg-logo="https://ar.dawahskills.com/wp-content/uploads/2014/04/%D8%B4%D8%B9%D8%A7%D8%B1-%D9%82%D9%86%D8%A7%D8%A9-%D9%82%D8%B1%D8%B7%D8%A8%D8%A9.jpg" group-title="COLOMBIA", CORDOVA TV
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
@@ -922,6 +920,43 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w306402727.m3u8
 
 #EXTINF:-1,Miami Tv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1804858925_b1896000.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png"group-title="MEXICO" ,ESTRELLA TV
+https://estrellatv-oando.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://selectra.mx/sites/selectra.mx/files/styles/_default/public/images/logos/unicable-350x183.png"group-title="MEXICO" ,UNICABLE
+https://dcs3-live.mp.lura.live/server/podserve/7OKQKkTYayzqH5J7/manifest.m3u8?gam_stream_id=[[STREAMID]]&encp=Lrp_ONTsZqO-bGus0TL9Ug:ema98dfRW6ZxTaShwOcDw1_LM6e9RExA2oacXu_kl--KkDzD-IWC_g53JFVu8bHBBUAoyo-obkpNP60-ZBa1ye418n_oNOdAJ8VPCFcgINfYp9OWyEIcGTTypq7yfNGX_C6W3FdKB06j7oyjvDAv-cwlkW6vxIyx4zTJXAFna6YV-zM5eSGKLo8IAEeqwqejN747vVGZTKJd-d0AjHV26phMaOmKdHTFyQxWXz4Ux2uJZIYEUDKuA6VJtx2eYyMI45uIyJlOGNBFjJfAWD_SLXlzSd_G4gjJAZ2SxYhODBcD-CgEoaGC9VssIN3vQ-7OYkZ7zD3wBv1nnosjAjqmzIyZCJUL75tw0nLvd14M2ae4XDhNsdt-1QynMlJCTlyBFZKs_F01iKSh9nOj6f4bTzoGH66sLWY2aXjActSw0l05OeRCx0SILDTp1oJ5saJnlPT5DPQFwpIvAuI9EGcw5aNBvnmFW_9GPLrD84_kzMTX2wpyAJ0BkbDqg2wjFYZXGxRnicJZoO9Rmrb6wo4RkK3QTtI1_LIMzVQRBWpQ_GNwT4PUpLyLSjWM-t7KNOr9uS-OnWqw-X2J3A1Nc5yQ2zLXy48k0ovsX_zDN7kpUs_za5Vb6QO39avFoFAqtIUdksmzKdE0wBXv3hfal5kfMOG0XcVTasiNDgsZEJ0Jotf4q5GfnrR3GLP9XSgQGtFSbm7U9BVX3mTnrdlNFrGQGBiaBeo2bxFvPWMBGtKNlc9xtK2dsoxV-0zuiG4ewEpkpTXx6vxsrvaYBHQR7FQnPj03DLRQuuJ8Z1pCACuBqHnP0ekKwa9RX2Da0flgYp04YBX2NsADlEMz7OJYn2HhhRun6WZ12kt00cHZeU1geAjH8lTlZb0DOe_T21eq6rK5iUqHYGj2fl-Xcq7i2PeqYOFgZjfekh73vPrpsG0Q06kvcFWyszdnKvuy8VJBgFRCWet2srEgjBrL-jIer9vtWn_ie_2w7-XpWXHTAB7RUG4&anvtrid=377a2356acb74e288a60f8ed010ae1ed&anvauth=tb=0~te=1691122273~sgn=58304f027a382ff620e68eab703bb964aeaf8185062f94ade700b9b0cb609d75&t=1691122183
+
+#EXTINF:-1 tvg-logo="https://cdnimg.spectrum.net/imageserver/image/default?providerId=UNIMAS&productId=LMOD&sourceType=colorHybrid"group-title="MEXICO" ,UNIMAS
+https://dcs-live-ue4.mp.lura.live/server/play/WAg5p5mFWlJP8cM7/rendition.m3u8?track=video-4&anvsid=m177635101-nee4f73a74069cc0960a8ee992ee80841&ts=1691121912&anvtrid=e1dffad5547e3cfeb8470e2875b769e5
+
+#EXTINF:-1 tvg-logo="https://img.favpng.com/25/22/9/eurosport-1-eurosport-2-television-channel-png-favpng-gMXxGm1gYY4zkEyQu98F5xywW.jpg"group-title="DEPORTES" ,EUROSPORTS2
+https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/c6442c168e174812a2c88abe29ccbb8e/hdntl=exp=1691155141~acl=/primary/2/c6442c168e174812a2c88abe29ccbb8e/*~data=hdntl~hmac=f6e5104c41f432f7be4e14c8ef42efa68c4ee89fb087784f0aeb24fa1bc28981/start/1691099959/index_13_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe0zmkf-1qJMRuVcqii0iuZhtGZcwVfAXxuA&usqp=CAU"group-title="DEPORTES" ,EUROSPORTS1
+https://eurosport-live-prod.akamai.prod-live.h264.io/primary/2/768d16962342470596daa635f458dd02/hdntl=exp=1691155134~acl=/primary/2/768d16962342470596daa635f458dd02/*~data=hdntl~hmac=01425c9d83e4967c2aaaa142de7a9251f4b65d8e705843fd7e6d04055517b770/start/1691100300/index_13_0.m3u8
+
+#EXTINF:-1 tvg-logo="https://corporate.univision.com/newco/wp-content/uploads/2019/05/TUDN_LOGO_COLOR.png"group-title="DEPORTES" ,TUDN
+https://dcs-live-uc1.mp.lura.live/server/play/p0d5L5aFqyXYNTGA/rendition.m3u8?track=video-5&anvsid=m177626901-ne65f3b945ab7254e99ce75314557fa15&ts=1691118610&anvtrid=0d4af82fb4555503e8652587fcea5274
+
+#EXTINF:-1 tvg-logo="https://telefullenvivo.live/wp-content/uploads/2022/09/Distrito-Comedia.png"group-title="MEXICO" ,DISTRITO COMEDIA
+https://dcs3-live.mp.lura.live/server/podserve/jKR5RvsVJk34t5MA/rendition.m3u8?track=video-4&ts=1691117766&psi=91d03cb8d885d8af88a48c57084dca53&encp=GvB-7Zg653HFYKjpsK7bRA:xhPOUUOIIWbkCL6RBQxxFOLfALOvjUU2qYg58MxFQCwE2oI3aORUegbdUCw7D74a5H2kvSq1ek9TkRQuzxy9Q3jwiGh-p0I9XVTLyJUqgf48SKd6ubF9efcatgWJRBVYyaAPLqItzrVUJJdY08hA_8_zxXAf_Ufo5TDyL3FDQVmUmPzAKOvpMCnIj0fZcYK16gCpCX9hwVTMrfjwQ5H7fh0MxwApmjzmNACEgEgllFsPUNeV0-NYrJ7guN_wJx0CuuRg0IGQiOPgCCsAEQDNmP-1pWSo_5QZi5RBCydYr1HTMT-gUvuFF-rDEETViuOWqMBNGqUNUF9P-zbmlb59dhkJ2NB7KBhkAlqC1TKFikcACwlKEzjSgWP0Q_WiB0_m1aG1-jGmHdU3p7vo1CS8Abi6Lth0n_1cXzUCCWltdyHHSEiVveaP72h0BQyb2v4TKSR11BdWLC3s3tbt1Y8SfGwy8nkCSzuDzq1uaSO7u9b7cZ6oF3O85yRqompv9F9m43NH2eyKsXN5OheUnXHwTWdAXpW9HOFDli_RZsVwB91rcguV3qr2gMr_DIEnEhYoRLNq4zp67NM6IZj5oRzg9dB6lmwtPFGpkJmjyUS7VJ71wnNqcoF0HjkbS4O4kFsc2ty8YCvQeDNUp_zIgeziGxqf4vV0KaW1UevUOrl3wTMFUpHahnxcBKIC_ZsesUMXLjrftY8lyvT5sRUh7_HN3K8Gns92HdY52xuFmHpyNKxdFlCZwsfr1s9DQmUAxM2qF6iscZnHOLqNBAawnL279glTQraXStKoP0Qu476P516n6oOkBeifanEVQBYqyCgGEslZabKD97QacqitCLzTg7bB3Tgx7u9nTOkyXQyzZBcDDdNYE7aeDw-ZXfbpzZHCkHjyYNzlpKv4xiKGNg5rOmM5fxcE8pVJ-Rvyy-HNkpv6iuo62-OO3ScAh517fVCyUxeUODCuZvyO7qqLSxEHfzxPf8QPQpOOWyfAEMUkNwZhoT5LLfRwZ5S4Q25mvolw&pcqx=2d99d6f3292c53f90e8d97e4b9017d71&sid=[[STREAMID]]
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png"group-title="MEXICO" ,GOLDEN edge
+https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNI1N0/rendition.m3u8?track=video-3&ts=1691117538&psi=0010ba2fa824057537c995694de0835e&encp=lCo2pJX9qPExvVfXEu14Gw:zX668hnxOjkCoMh1H3WZ-HchqZidc78TBSaQ_ZYuAsf1naQ4qv18s50m5wcIFJGg95wX_K3JOR3ToZoEdr8ozrNls_jY-667WUnqZxC10Zm3iFLZYsafwhuCFWtA7-Y86a-g7PhBndnr8QBPF5ZaLYqzjKd70pHAWwosZD1ETASZRUOibHnjZlha7mK7hGp8tSDfHpvimKP6cmZusSUtqS8nHxaY1HYVRy1zJS4TAX-gxC9UYmMDggtaXH2hGH3iyF1EpqtmVi95uAlK91d1AxgKlengpk6RlOjptgX18EO5lo2aWcRBayd_v0e0Csvza50mDGqTA9Qq8LU65_S_S61IKi99gnjM_41xxzyEawosm5S1rFNb3D_1onE0yOJJX7jdsLqAinm-vyIDbOXIkKrpWkjD2zLk-JWJvSacmlt2A6XRFUzX0W5y_JvYm-zlBchcu2nCvZKzEGjTIwb8aO6o_MkrLSfCho4MwT8K4LkAGWM1gwZ2Bj5eHQDui8sugYmjNjb1KqLcjSxHWsQfJ8lPbk6rPMcczR0WBfmNo-RIP01x1JVdfs6mg-62ZZD5qfkzrln6Gnjah3G50MiD89zRgBFH5exqhGJ85frjNwHEk7mbYKdE8chmuqxZUEbQ6d7YgTq1baUGbDsFWe0Q7nZ-6NqeE6Jt5Eqs3hHWZMuyXNv4zgQLgtOJWbK_3ocXhOZsBKQPxpNjLueTNyH9ivP7aedMht0XjjueLEmEmDsjOqToxRchGQawgpS2BPsAzj5B0wcSRb-y0WWdYukG0zC9NoFEig-DwSakOhktDPqPh0CwUeLGO_n-srnPrjwBKhaBxO2D3Os72-Ft2gEb-3I7Iukf5RMF_MbInem1t_Bdgi68XrECeWg0fJ4NZxnK0rsd_rbz2RE7JB2JdA5_ZxvhRYORTAOr9657vr0eELsjto3C4irC6Up9KpZqiyMOZuS_t1kt31OE11YujVsFrsj4JhX5D3o6h1SnPsrydSM&pcqx=7dc272d053fa72ccf85af51b4d0480f1&sid=[[STREAMID]]
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg"group-title="MEXICO" ,TLnovelas
+https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsMR0/rendition.m3u8?track=video-3&ts=1691117326&psi=37d7b20b9f282c6137bb98263afd0e80&encp=gWwq-Dv1OUjLaqs2zx1zGQ:ULJseYOoI9PfLU1H02E8oNnLDH8JTdM9w5uu8MLJabm-pUov0ajUePbxzLLu3c5n6FOCN20u3D8kiKrvVfIYaJS2sEvl0MQgISPNAKRfFrK86clj7ObPZat_bG_mH4YgHmdsVOf7tu4MfKcjYOoigssfRfHbrihLWxVs11vIcdsarFMnWz74-UjItZ6xegTsgO407QZ8qN8I0lyoP7ApcfDdoGAxcUrdRkNWxy-YxHUPo1Q8nE7RhdSSX-qsIfNnDok4jHlM7qj_d7KDghGaIYyZlkWKoUWG3ny4YekQWkUkowR00WOTN7ub_dRtpBn0Wu0sv9fWBg-aI8Agp3Cdu6Zi-RMwMRN4fGTQQAa9sM9KkIFo_ccyXl0LvOdHTY02P-srGgTtYH81gMmTJd8waCHlDmgtEUOcBtdzVqo2b7IvVQkavISwY9uvWtSSw-p9qn0G_mNo9PyAOCjOfXVK2xDTmKOCuFNZkcG648z0OUaNlN12ljCdbC0rzR7qAfmxUHQRxqIdSrDNTyoqaKyFMzYDgU37oH4AnJhAs7avtGXhpI2ehbEyQ6sgqP9UjLpFnsPF2wXLFyhdMBiRxmvubwdhsjJkS81Ja0ct0lKm0V50bcvZ4U7Wo2IqBEtsX6xCzZ7ZmnkdNuu3-htsGYDgwVHie6ZvnWHCx7GDuU0pDs2kKfIMSU1B9n6MK8TFI-uSVONVdPoihadwi1teTtpgHczgdRhmmGcMrMIwJJyFz_iiP-AXfsxryaHhWhKDdvCyY2LrWGZcoRfb2WVz9_bUGug-j4-wG6TU08uY9ozXtnCR1yYOPtXTExuyHY-wNj6Wpdpde7nDK_aJZ4rdXUJP2jsVdjC1PQ7H3wo92OGg3_QkjnGYt6GpuZILLRnLm2Ep_UpsqJuX28D4z5A4jACnyNWdi06jE5mrmQjgf6l2I6aL17GS2n-QMC6zAZbVzCucnxVY1OJJWmSm_SIadW9XuJAC1VNne7RYBadXd3qbK5s&pcqx=3c85969d941f0cd00bb3f83b962a996c&sid=[[STREAMID]]
+
+#EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png"group-title="MEXICO" ,LAS ESTRELLAS
+https://dcs3-live.mp.lura.live/server/podserve/APXEX2TzBgrvUaRA/rendition.m3u8?track=video-2&ts=1691116789&psi=2342ec7dd834c47a5c1db070dbf1ae54&encp=HzdldeJHZ0kFlmwPfth2qg:em80G6zFc9tzeh37poLRfZL4ppBA6dX2u9fHFvQDucYrrWYBxtn7j4TMbzYR4NJap09oxjbA7FnYj29qs5DjUTZkt1l_zkbTW52foH37EKEG22-zseFmj8S_eLP-afHTs4zDuf6_cqnOPGvZ_Ym1tosiLSz2ZlHc6eQFSmU3Pq22mQUl_kO3JROGkAeEEvrNk9CntIDVZBNxcQhKxJZqNMcgvYwEq77Qoj8Y6npHC_EHFuRzf-Uot9SRQWtTMyfSxn_R8rZpKyme4LZjLXPwtvA1JXOTK1WiX2RpIgd1zyCoQPKjNjDNd1ZjXP_sKghmEsaPW0LYfND81dRWIcUWr25t2IVhA0vIjuQ-n2Ec2UTzc5gaJsYoCAQZSo0dYbWJ7Mham_3vmlA4wvhK0NCUFiJ5yHiC00a6vVW6j7NMEzHOZG53BY3cincIcnA1dwhHRWX_4fGYLSFwiRVbp5g3IF7H-dS33m4paNEYFH75gQAPNikTvExvelN--M4qipwLT3NlyoYLO8hG26GItGPYNOXOw77m31LNAvvW7vi3WZDw5w9AMe33VQaoSUHBzY8x77FTozEP5m7DPQ4SpEEFimILEmgNhqu9dQZUAAMZHUOIzCTVDJ-HDPp0Xl2UIhWMrs0zVkJfy_3EyoLVEDrvQB1bn_8F0F0xEp5Je8c7a1uvWn0HO2p8_v8AsJuY7Tluq3nRGl1wC67KNn2JmAJUhhPQ4pLFFZNY1LCHNrdzZYWKiciT8RGiPOc--OtcRl5vA94CW07-Mi4b5NXFNqLBVLSE7FMsSNKlSPULvSikxU6RobD8yXaGvF_7a4pFpEtS1ZfzYCkWqSTYL3Q7eUFvwdZ1gvzlbMM6zpdY0aWSKIYe5VVvakK1Fecd6XkVXlFq0R_FZpzb8wWUpU3XfgTfI_1-_QNHU_OamG8llk9wpWn3AZ7ncnaSaFmqKdAQKuYgkg3h_7Krip6BFk5Q2spCv7dt3vN1KLzKs8ZPynGnLPzN8aiEBP9c34bHPo-DoOh7&pcqx=9e6ec0ac74d017ae2f52cb5a9640b76f&sid=[[STREAMID]]
+
+#EXTINF:-1 tvg-logo="https://www.cineestrella.cl/assets/images/logo.png" group-title="MEXICO" ,CINESTRELLA
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.cineestrella.cl/assets/images/logo.png" group-title="CINE Y SERIES" ,CINESTRELLA
+https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="VENEZUELA" ,OXIGENO TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w265821761.m3u8
