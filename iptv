@@ -794,7 +794,7 @@ https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="CINE Y SERIES",TU CINE HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ftu-cine%2F&amp;genre=&amp;ic=&amp;us_privacy=2021&amp;coppa=0&amp;user_id=&amp;ip=157.100.59.47&amp;ipv6=&amp;c_duration=3600&amp;c_producer=tucine&amp;c_lang=es&amp;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&amp;hls_marker=1&amp;content_channel=Tu+Cine&amp;content_title=&amp;content_genre=&amp;gdpr=0&amp;player_height=1080&amp;player_width=1920&amp;min_ad_duration=6&amp;max_ad_duration=120
 
-#EXTINF:-1, Wow TV
+#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Wow-TV-en-vivo-Online.png", Wow TV
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/60/Orbitlogo.jpg" group-title="ECUADOR", ORBIT TV
@@ -890,6 +890,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009
 #EXTINF:-72 group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
+#EXTINF:-72 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2022/09/TeleOnce-en-vivo.png" group-title="PUERTO RICO",TELEONCE
+https://univision-live.cdn.vustreams.com/live/ce88b839-6376-4494-a2ee-83d66bc7cfc1/live.isml/ce88b839-6376-4494-a2ee-83d66bc7cfc1.m3u8
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVQk_61t9XARvuvV2KkbmQxp3Kxgm0zc34dW2gk-_ZZEAD9Aw7Dh2yaWV12Wt17nEdzcA&usqp=CAU" group-title="COSTA RICA", CANAL 8
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 
@@ -925,16 +928,16 @@ https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1804858925_b1896
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://telefullenvivo.live/wp-content/uploads/2022/09/Distrito-Comedia.png" group-title="MEXICO" ,DISTRITO COMEDIA
-https://dcs3-live.mp.lura.live/server/podserve/jKR5RvsVJk34t5MA/rendition.m3u8?track=video-4&ts=1691258903&psi=2ea74a5ce8efc2f045f53909b4244116&encp=99kgncbn2OLZ02WY8oNC2w:galSEtyVpzQvHt5MMN5-gSV1A_RIRxeMytcCP4MrknbO40WJzL4UAA7qediyfDspJ1VnoyDRFUr2Lrj-WZkvdNynvQJi2ZbJ533bYM05ujnRlntXXakZ34XQfCvUknnt45ttGsxepnlyqz3qlfRSlZ-e9QGT3FnnhH1T6uyfczx29J0HKnAhYdq5TWFh1Puk1TyWfICVSDci6l89Fl2iIfeeRVNXGqJ1hehT8TvsWStSkq2b8X8_5vXUitZmekGaFYSgVehC80gk_-3Pf75Eyrzwlq8PGGrACxDcQA3ddMBYdDRyy65Wx4C7s1QvTC2fHN7BeCDRI4bRc4UrUM0Rbw06R7uZyU-UWpRZuqkUX6hXl1r6dbVU3p4Lf1fGMkFGnq6lMlDPiQ4uTAo8ic6xH5PqPo-d9Ig4_ml0UM0q-7wzEa-sh-2VYFiyZQvI9E69d6Ki1uLAl6OJwppdiL-fUHAzOhjf46GcpySbGWA-CFKOoFDMOHDDoUsLh531UGJyG0uvvu-5tM-fulDqxUTirDmEJ2esAYDKOghZz6YrC_m5Mb9RZg5ywZaEXAA3tfcREhZrxfIypxbhtsiJijKmqLb35Cqf_6iACq8YZGf4AYR0gVrfu5yaQGVNNHwdUVKy4sSQ9g_ojDaavp6yWNyZOfS2S652Q1Z_CFVewpH3yscP4Yr1XWKz4MyCZ_jM8DmXLECZ4zpSc9mxWibCQMfyfGExLrwY4XiLEUNNhW94TQk8DPMKdR90W4F1kLWLJk-4Z1Q7AIwCxBQ_o4_5FaYIjDN9rahTLmW7oDfAH8ZXCNb-eSOy1fvpG0bQvowJHSNLuKAvly9nIs7iphW4x1aHbNoKVS8myO5QjJI8jXSZNmVH2ifxSyic4qOUpE8HmmmymkjPP7mJftPOSQbx9b1tVdMF4D_CCdrU-9m3Z1pccmIhwF_KwD9bH9IlzwDJXKHHj8FSx31nBWNbZMI6MIgFSWheQ5E0SX-GJGv-gnIntm4DmkAdQ2Wq_WNooNuHiwyM&pcqx=2d99d6f3292c53f90e8d97e4b9017d71&sid=[[STREAMID]]
+https://dcs3-live.mp.lura.live/server/podserve/jKR5RvsVJk34t5MA/rendition.m3u8?track=video-4&ts=1691280072&psi=60b0e23d5e75df62a3da0d90fa4ee4f6&encp=zPUOn5D6tRATf1emT0WGHQ:5HCPzl1a3hjeHkEA5-ooMpZAdoRO3j3l-KLMZmIWBlqwgSXf9Z2urt_IFp2V_lWl27icMLAWJGAjTbWPE9W8eDBIg5udG7lIqXKY0wpjKz4ChU9-FU6qfQ3wiMhvfxwFUJrCgHOVFTLRKaQ4_Q-ln1LwxNlCFKkLc3oNjGIM5oCt-5sfcYLi6u0E8Ttp_QU-JED1CJZrwc3GA4Nc4QpJR1BE9DOH0q5vRznFpf0E6xiT8Ri8dOYGNrVSR7qei31D_dPMBJysXzmYpRWhQGasnX_q0U8YgknHdSxavKVTf8GGAyQJhqjpFkB3gZzuUm3tQmIwQpn8EDhtH1vvRS7_-wAknjkths6HRzVhdt-E5mvrY-zfS5tTbUBSdJHgdcxc80Kj7rBpz4Ihel1_VQqfIwDja4xvnBrGj6oBZrK7FqRLEvDJNLsD31sPrzSnA3dJ1rx3CoeAWSbb9msVxkJvMiASEHCs9LrDEoh-XGrnVXD_osboLhljQOMC6ZfwswL9SMERJuhaKQsg6eZAKrMlzRfD3NvjEDOzi2S0dP85FalRh6ZFAPaEBR6ZWFtrzL4hIwTZMEOYWN4-nG2AK2WpLCFqDtSvpAAtkWwO5sG655VKsn-yoZMxwdXcOnnQTJHl17C6bHZ5zJCHyZ7mseUEn4ucJobuQQST2jV3RHnFXWJF-VwBfQtXdC7yZ5WnMcBSrwPv93vp-79qFJyZPbeWS5BZcxYqS037LJJMzna6fgy1XwhlEhGrN9T2MlzmLc1X64xA2dFme-CAAILjoJORyhaPgVykIR0M06Ccm3zqgIolfNPjbbpH1f0Ja1trtFKxJJO49PtbYF8n-yNIs9xr_gmEHbpRPzeIFRgDt-cyRvsPhAAa0-n9RPlVdXp1kS7MjCzGs6EfCl_uyak4NKjcoCMRgBdVKg_hOBWog-irMWLIhagBkRoxoJpuITXMbFRMyHwgmjUncW2p_DLwl3AoN2c8DCUrYIJCczXV0mJyLIu6Y3oKkPkaXCYTY6LHGrIR&pcqx=2d99d6f3292c53f90e8d97e4b9017d71&sid=[[STREAMID]]
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="MEXICO" ,GOLDEN edge
-https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNI1N0/rendition.m3u8?track=video-3&ts=1691258831&psi=3d7f00dcf58d6023c1edef1e818961ad&encp=CLtvbkpshB163jGg-WQWyg:QStnd6CcaSBhj8iGB0dpdXvFl6HIOgVT2sc62ZWG8ZZoEu5_pVD7GKiLkfK3YeSvp-kC7ukhJaq1N1w7Q5Q_qUmcCqgP6E_sVDd40fAFC8dPfK-WPvhIRslz0psKoxxKCj7i99s3tXQqA0P_xUc1kMLAyo4Fjr3AvaiFJbqQs0GN5DICxcZyHwBoKpdjcon9YhGlDp49IxXSFg5PbnNsa1nzz0o7uSi5-j2KNccLLSHe8BazfwzSYUM0PDQOjn2ud1judqE0cNWC_KoHQuT5hhgBCZWYAY1cy7j8L1afFtHwwBrZMsAiWpx7vvEIYqt-VT5vdT4E5DWDTSSQ9t7QohOb1dT38TcsMuy1HGD_nZApVlix_guh3qCL5n4KYfMyv7OOe1OtwfKwbcQIUTIjDpvfGq0aPLjzGuOLnDiidOF8jnScI0eoNgc6jDvc3Cl_Wg772tjE5KHbQfjsgCJ69pfeN_6Lb_6vIzXek-yWpWveQPeJlp0xlbGroucQJkUct5i3t9KhdRZoirDlkbbUpfulMy0BD0UT_HxWUUaZ1ToRYXBrfZ0wE4_i1yFpZ_imOUV6hnbDlv2biADJCYWcySpkL6g-83yIqcRvDAiHhBWjv8CikfEU_dvEMXZwvBenxMA-3DFUlGsLSb6ADVW1GD5fupMS9rFZ1ttJ7cUN1mdEYVVhfv3UV6SzaAkKyAyd4yqYwtdZxUqVD4W1wrJ56Z8abInuJ8opsU3mjzho8W__RbI3OF9bEuxE-SoWv7_ALazohQlus7YCjJa6vp9I8zz9HCfE5FLukyfGEEglx3zfieFCUAeU8hlgaG-ABHjyi1G1mwsaEn_lrQ87dG514N8RTm97bcmZ6jLxbsi2jNz0vPr3Ew4Tj2cMPPedfUHDFM_6LTdMOyKSAkGTlfqyYuKnrRqBH7pSyEoX9nKxrf9TOomdiOlCBpE_ObDrmSBExLbjQpLgRPoXDlqsYW3QqETIE3sCgQ_VEdB5j3vWYtg&pcqx=7dc272d053fa72ccf85af51b4d0480f1&sid=[[STREAMID]]
+https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNI1N0/rendition.m3u8?track=video-3&ts=1691280027&psi=3380d98caa115b557597b851c45ca416&encp=i8wl39BXH46A14Kd3a4J7Q:6TETrbccW_3dxus1dl1AHAXBAHWwCSNRx288MCIR7nzHTtLPTu0D9q1Dkw7Gl2yDfal4kwCRxyuCYmLWNisNuDtAZ2dhuRmme9sT8vKV1yweiPc4nR8BWYH9AnK7QQSzHJeU_5CYIHBvxRuM_ty_HQWdhV4QC48HHsZ7UVv6_nSifzjUf879ogaxiu2iN4GcS8U6OpgO3OPtWCjpBrRZWwOpl1qmGMVU2-b3PmVg-U6HQPPq_AzSol9B7IK7TLkubk4WM6N9kOUAhFSqW1QeDp6Ufq5bIZpauinbQLIJ8He7Opq9VMOqlbUvOCxiHvAn42Fe0Bk1sqe25aAGEub3y_ZQ89-i-qi8jHZV7PYJlac3FJX0uM5e1w7ODsWoRMh0gZJIyvNJCIDjS38fGio0Y5BOkRokrI--TI8_AbQ5xHQ4hAx6_OrRT0IAESdonZEQ899MXKtPDsYTwi2_qW2o0XG04izsPRh_zGq1ztnNHllTX-sScCSq69DIwAZwnXh-jmrjJiIe_yDgd6vYXYEcFM8dW2_HAfpvGp8TElfvF9ZIpq0R6QFfrcH2morkAQvwWQ6PqodFr-W-qjsBkQHSPH_YAfPGsD84n4UejpcM1BHAIalFD4DWMJpkTXsSTeMqECmIAGHRIGi1MNdpB76JXH-dftAcRL7XafjdUjCOl_IVcgSgBCps1QW653m4KGJmTlOYp6Nbg_0nXXqybYAwv65XtVelnTZ74ybee2Dz8tp4v-tpIT99-PiT9q23CdFQRrGInrOISCR1WLYE_fjP2Kr5U0XCdfIL408rmcscPjsiJNsnkz2jamTbixBt_uoxRp0P4KgAOhIqmfrOaPpvL-LVVjDgFuNORwr0lh7Rwv88UOM5uaOdF48kc4n2CYFsO_x-lXtraDnq9UFFRcEHkAt06FsbQhN_qw4ZTsIc8MeACCVDIF--FSHSIO-QXyF6cEPndHicmB35XF0Qiw8jedU5ETqAW0fR8xs0KQ8rtL0&pcqx=7dc272d053fa72ccf85af51b4d0480f1&sid=[[STREAMID]]
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg" group-title=" ,TLnovelas
-https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsMR0/rendition.m3u8?track=video-3&ts=1691258697&psi=4318a49b51f8a0311f194b72f7f33c82&encp=hWoUl6qRxIKl3CZDXqPnng:PUU3nzI9n_BsM0UsTV3UqZeeGzuMccuYutLuWI4Yl_SlY-8z11u0CCxPkDRJVT8vf2y8UEuxYtzw7TRWt4FgUYZ2tNq5yRlvcJBFpN2j06Uieb_hI60nLsTITj8vH_W2mnJjR7d76K3MkKTJfT8gpABfud_V0yJEVFKyg07MJB__-HtHCQRWT_ldZRMFdVCevfYr-C9OUglJm9C7PJ4J9PrrPzwYYYIzMO6TyZz2TB5BzVZNq-xroHkyd_j9loNngYlQLA-o4xAcJaO6K8QhmoVwq-9JkRNclQ6cIcwIUk5SU3liCvwFf21XJeXVDWoESBIzCdeA4VlDrXjRiLNtfGprrthooH-Yt6fIIBb3dNCisDBys2vg5lqpr06p1JDdgZhsyL-8LvgRc5dpAf_IVcI3ADluPGnEsofSQy9fN0zh9pKKnqB2X_bjvs9crXc5uL0UFTTTJ704vGIFwAOftDXcCm2fhX936M4s5KyGhgRBtLik7wc69_S58LVzAdIJhurxU-IOZh8E5I4l0yDsPo59nXLFDMOX-dzAFIZobPGk97B4YfDfp_88AkylCU4LHKh7JseCXgzFiTr0vNPKOBzUMLLMRhLiXy0GYElbHprILuACgAeoyJTJ5I4gdAI6OBg-gepzkM-2hR8bm58U9VbCeoanoraR1x0ZtoTOKGYsKZBfIjBbbT6Ks6kTTvchOTsGV59Pr_PmU6YJOl_ErsvqY7ReioH0sdZTB64zKGaQ2HoKusFSSWIVQf0rCBgfi7tpNnqlEz9Edd9Ht321O8JQs1qsZ2XSOcQKs1ETV3SbAFS5Xdy4Zg9ISmkMDRh9ph6RV-aW32jRoUc2ruf5bKULqpnPSUIJP3pAoobCY8qmCUov3d3Dnh5P9AfzvwboLxw9zc3gWMJrdJjWXhG1DkQF61PctY0V0nLG-a_ifytz4UX_Nyo7CkndbUFWnIpTOsobSXAGZlR_xmSesyGI4266VJUWd4YJD5BY5gPTPt0&pcqx=3c85969d941f0cd00bb3f83b962a996c&sid=[[STREAMID]]
+https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsMR0/rendition.m3u8?track=video-3&ts=1691274462&psi=db7f2da87b01fb390759f854cd58bbfc&encp=_-2InsyfGfkDRdRO7tecNQ:brXN-ySQbpdnB_Xz2JrEPxdbjA68qm3WyvK072F3bFISbS37Znv0r6bMbS7-ZXiBpZRDQMLWNRz6oFezxcpdEosJJdpq9A18zAhHxQ6MwvaMgiA9jVJpdXOmHMIZpVvjsUR2cbXY5AodShOZn3bYF_dCb1Sh3dOROYg-h6iFuovv_jfWLetVPqDKv_v_n6OxA1dfdb8Rnn4LTgwbf55Q3JLiTF-IfvB7GTfKXV10xxjF91Vu8CSWyoEJwP2WnScoaj7fjcpJrYKmW6JfDmW9jbtxyINzklv3SCUCh3Hk_-uFxPPOtpiS_tUGVqIO7kVJkePThLDQKkOz-7SeEqbv0Ha4i-HxG7gf3-7Xz2yYo5bBUKmlv2t6i55sB3gMEAVCkwiNNekSSVz7f4SqWQJbdaXIdR1_FzYgwhQybBadGXOLGKjFAU74IzV03vDApMeNO1xhJLCB1NfU8PPbpGS_bF3Svtxx6XpWKSBh8C6b8jWzgvZahyeyN9ztJHrEf83TjghW8EIPZMEDwZmJIYV4S7dazIQDhu7mtMMGC32fhJvWb5s8bNNqVlCEXt-lnsSccEuz4PEzVTACQ9fGKv-_YZudVnCZUR7AArIg98t_9ScgJkcE0jMqfPcFIH3dYXto5px6VeGdAvvR8_fWoIPVfGwEOANQ_mn1avx80rG7k2eL4nC5iZOnwwO-Q4XwucqjPVjxxyvSGwYpzOfGEysvCCU61w7XHfIIFxBRO_Y61NGexJOxJwM3WYkClnnGhsme4aDtkMO-r2XSKOMIM4e1K9MoNKb6PmrfJ4T-K5orSruZSOzeNUex9jGyDbhC1gyjWS9Dnlv8-YPmEN4iMU6hzm5bx6LC2ISyQxyvtHlK4RGLCXW7y3Y_Igm-mIYq_5reRFTLwW_dZdmlIVBalzVm8WjI1fUUPoNs1O9Z4RoXzHH19R6JYPxFc6EyzZPDFFBI_LTBF4sDbSLpSOUbMF2k-eVj0We9IWjILrVQEtzY2P8&pcqx=3c85969d941f0cd00bb3f83b962a996c&sid=[[STREAMID]]
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/las-estrellas-m.png" group-title="MEXICO",LAS ESTRELLAS
-https://dcs3-live.mp.lura.live/server/podserve/APXEX2TzBgrvUaRA/rendition.m3u8?track=video-2&ts=1691258554&psi=c63852aab776099c0746af6cadd170fd&encp=eH0R2dLBfNjmw-c0X41pZQ:1kI1XxiXAWQGUe_Y-cKxJmMNbsaYKuAGRREZLyvVTKxzhv2c43x-kEE48WmtS4IAaPdTi9-U_D2ubkhsU7WuuONRjxVT5A4_DiwYaNp-vf1zTnfTAefszR4VgDxB3R1dAIJAKKPR-E0g77l3oLFiXbEIQ_lwwY-AjLfLVLF_7c0C80hbyysj3psdyAUuQhEP4lqvGd7_5WNZw-Y2ewHkH9zMF0D58jPkv81dPBe8O1jwtM-FzWkSuh0IuTBBH6VipOaWgSpl6ITIX5tJ30TdQ2J3XqIV-GiLX-dvWRil63TlOEQLVMfhKz2TQH9qIkZQPH1Btag4Tm6V-vTGxmRbwnISZLEU3KeplnHkWj-hL2FvsH3ZY07B_yq1NMe4mmfJLfBsOApmJQ0xC6B9y1LxXCbqFIeLig6912igI-NWw-yj2Fjv1069E0_1RCnz8pjVoWWgmsKB27jAousm44T8cUnXH1I0g5xV_VaYPeSEvyprTy3c60YIQHFClikPvOabeBJ2In8PzQ9UnMd5kdpKfPiiUygqqeeZLVjMWcz0eoIMmZPyuGPEQM6RVIERVahwtUD_hqWed2_SKLk7WPJDEo38jxswypm6Vq7WFRa5dELUtoQJNXGhS-aI6JjBwrTeD-57p_0OO8hk8FarZeZL9VeT9CXfQYw59Xat0enB0Opjg7nAkEof47MVKMayifouYaZgmTyp61Z4J4oTVQUOlMoJ2joCQxpw_JySWLub8wX6F3N1UTpOpGt8qGRZjqTB2EJxXiIShgwQA2I7uYv2KxBXokpVH4jHRfn7JpKwov7h_xSzmO3GMeQ3HIu3eYOXVCQnns6CIHLeqWLZQvc3vC47YeFbvBV9pug9EfOPA5HQcQYIERltF49zvlkogjG-hiTjW8_xzAUaqlWHDlBYQh9kfXMPaSe7UEWwCXNvTfdERw8pIArcFio5dqeqYgcbMhWvMpkdp-UQ6Lpz6uAA89zS8Fgjf65_XLDwuF9xde0&pcqx=9e6ec0ac74d017ae2f52cb5a9640b76f&sid=[[STREAMID]]
+https://dcs3-live.mp.lura.live/server/podserve/APXEX2TzBgrvUaRA/rendition.m3u8?track=video-1&ts=1691279962&psi=b2dbf17ef99dd31f0c500ae5e9d269ac&encp=M1zQsC6tn__3aPLmcl9lQQ:AXbT0BjKGzgMgtO8XfvoFyzjo1x1gFbipgPiAQBIDkT7h_kSTIIg8Af9Hhplf1WQlsoTwETJf9u9oSwtOVWEd-TUBvMfr1KgOvZSeg73qpYeN8fztTrly6OAeYU9W0a--RApSQjf0bFlm8xlbPaZkvo9f0BysQfUVGR51kisz2LUypPoERHbFP15uGgp0_8F4M35E0cvq0tVGjF1pHDiI1TUJNYec_40_Igwu0v1-si5u2rijmBwBgl01PF7TfeQ7BIVShVdtzv0PPZoMmK_-7gnU_AlogonPZ0e74BcPRpRtbJKmplF7hfFeXrkq_CD1M9xzXrdvaa80QCszNiEGOKZsZwREmG5EcPgDnfkkcXsxsWXfleXkB5Z2doNO81_wvxzvCHBJBk0FeKFeDqMAJlmYRVPRgZNsbqdenEN5i_yEwIzsMzrQwiEavMHPLmUKojbXuXj256DtVJzKg5tb3_RdkcftcNaRFehIq-XU0uP50h-XoDX6uVXoBV4ueXgpClyyQ6-F0E5ZSnh3ui-XHiIBevVyIi7qKgn3Iik4uS18VuuyqpU-iohr_sIHDT7DH36ejUmBCs0TPdzhCFU_oHYYxXdBIZb9JWr5q6vVE7iggSCki_oq-zN-IL2TQ8KE8663pZy2DDeYa1zZ9_UsP2KyQNcsGY0M4-dxXrLj642DubWSqGQ8qK_lnTeLFJHO1oNpv4gluszj3ArNLb7T44YoGkTs2MmLgEX-p_OdpqTEfobnAlERVQFX1gdz-jyit4udijk2rEfyNTglJ9Rj__Q390gJX68bjIB99oQrACb1kHi4yEG1ZLRvqhys5xWpWyzZbdb-I7Ve2x65sNd9IDMO9-o08sAwygsPZchOyeWWso1jjxIjd97b8ZfcChv0Nb6DFT1S7POKqg6014iCQ-kAhv2tngxxCXj9QYg7HQH9_K1FfEzbBGkaVFRoHaExPmSdWiwZCqOGOimSAFMvuEv84vE1KI9AG8EH7vD1KSf65yrywfp4w73QGfcVCQm&pcqx=9e6ec0ac74d017ae2f52cb5a9640b76f&sid=[[STREAMID]]
 
 #EXTINF:-1 tvg-logo="https://www.cineestrella.cl/assets/images/logo.png" group-title="MEXICO" ,CINESTRELLA
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
@@ -943,7 +946,7 @@ https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg0056
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MEXICO",Las estrellas
-https://dcs3-live.mp.lura.live/server/podserve/APXEX2TzBgrvUaRA/rendition.m3u8?track=video-2&ts=1691254940&psi=a4b1f27e3aebda1cf52b6544c19e1281&encp=gsWHwKUvmuwyWETKrUkJ-w:XzBr8vdacfmD7QwH63RxCROgKzmRvoIVKf7tz7q2i4VeKHikTI5aWeNBaiBzAMKiaB992LEq0m0Xp7zq1bD5rGvwp6sXeMotxfHv-94Ln74o2KMn-D5I7UIK2HhXGOVRo2EiGPj8SUvSQi7Y8r40qHT521wxdvz8ajbaVNfmn79pfUnj09WuWzORstn2SkVzID4JGmbTwKkzqhF8egQHHulWXCNjnEf3KN0dXP_hcyr9X56lkCn8GyKP4kXV8p7l4UCj9l7focx3EVkrDgm1u-y4GwdkqxnYY2NpI5WRrI1-RA8RRT9ohCOyJxTJNKZhiTT5dWvIO53O545U8D2GFqmYUr3d8Fyr9yFGmscSj0728Z_DMM8t-DaLDU2W98IXmzvyYIp8V1I_9H8H5p1Z45ZBWbsmyvE95tJR58eQNoeZLhiueQgN8lQnfyrc9uYzeUayq6O7462mQeuwQiU92nF9P9nHfs_8IrMLTC3AbZigITP4PmPZaaE3RWqRQn1GlOCcpeXxvyy-JhFQpZmHewKp8bq41oj7zTx5w4VMxQ38sTrylvk1SPZVmUxuzHLA0-6dZemndqsWe2bYmvzfDJSVfLb1sN3ZA8h3Kk_1fP3srORMUOOGIxRFzHKEFSbKoEdhwW4Zk24a0jjRkfnUdgDAmDbed2TYZvsCKjYvIiGqVuQwFZyK6rHL3pM-GO4cT7TgoD9_29dTMV3TIfhJ-Qr9UYleGEIR3CO_mqbtZA28InqXnHc2kDYoS3sx8zSTKf_j13cChR9M4iwteb6iXGsZNlBIJi_rYWkrtYeq3Es9YJ-uYYWilBqpyEwg2jBRX9QHGJS405iopgGecqZpMXnIgyAG_EpENAY-xOTyc8mbONRkS9aKRp6A5v3mhc5COWJyo67utXax8b-gO12LI4GC5AMIU-k3FoBuHRrgzp8L9Fm9HgfC-R12Iaj3zcz9iOTraEPIPPZNejhmmst5eLsbCDGKvZ5OYHTUmWdXn17zS15AVdGKUD1Dxsq0Re4B&pcqx=9e6ec0ac74d017ae2f52cb5a9640b76f&sid=[[STREAMID]]
+https://dcs3-live.mp.lura.live/server/podserve/jKR5RvsVJk34t5MA/rendition.m3u8?track=video-4&ts=1691280157&psi=9dd5bd4ca7acf41fa2fac6b5184bb220&encp=zPUOn5D6tRATf1emT0WGHQ:5HCPzl1a3hjeHkEA5-ooMpZAdoRO3j3l-KLMZmIWBlqwgSXf9Z2urt_IFp2V_lWl27icMLAWJGAjTbWPE9W8eDBIg5udG7lIqXKY0wpjKz4ChU9-FU6qfQ3wiMhvfxwFUJrCgHOVFTLRKaQ4_Q-ln1LwxNlCFKkLc3oNjGIM5oCt-5sfcYLi6u0E8Ttp_QU-JED1CJZrwc3GA4Nc4QpJR1BE9DOH0q5vRznFpf0E6xiT8Ri8dOYGNrVSR7qei31D_dPMBJysXzmYpRWhQGasnX_q0U8YgknHdSxavKVTf8GGAyQJhqjpFkB3gZzuUm3tQmIwQpn8EDhtH1vvRS7_-wAknjkths6HRzVhdt-E5mvrY-zfS5tTbUBSdJHgdcxc80Kj7rBpz4Ihel1_VQqfIwDja4xvnBrGj6oBZrK7FqRLEvDJNLsD31sPrzSnA3dJ1rx3CoeAWSbb9msVxkJvMiASEHCs9LrDEoh-XGrnVXD_osboLhljQOMC6ZfwswL9SMERJuhaKQsg6eZAKrMlzRfD3NvjEDOzi2S0dP85FalRh6ZFAPaEBR6ZWFtrzL4hIwTZMEOYWN4-nG2AK2WpLCFqDtSvpAAtkWwO5sG655VKsn-yoZMxwdXcOnnQTJHl17C6bHZ5zJCHyZ7mseUEn4ucJobuQQST2jV3RHnFXWJF-VwBfQtXdC7yZ5WnMcBSrwPv93vp-79qFJyZPbeWS5BZcxYqS037LJJMzna6fgy1XwhlEhGrN9T2MlzmLc1X64xA2dFme-CAAILjoJORyhaPgVykIR0M06Ccm3zqgIolfNPjbbpH1f0Ja1trtFKxJJO49PtbYF8n-yNIs9xr_gmEHbpRPzeIFRgDt-cyRvsPhAAa0-n9RPlVdXp1kS7MjCzGs6EfCl_uyak4NKjcoCMRgBdVKg_hOBWog-irMWLIhagBkRoxoJpuITXMbFRMyHwgmjUncW2p_DLwl3AoN2c8DCUrYIJCczXV0mJyLIu6Y3oKkPkaXCYTY6LHGrIR&pcqx=2d99d6f3292c53f90e8d97e4b9017d71&sid=[[STREAMID]]
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="VENEZUELA" ,OXIGENO TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w265821761.m3u8
@@ -955,22 +958,22 @@ https://cloud.streamingconnect.tv/hls/tvo/tvo.m3u8
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://cdn.mitvstatic.com/channels/5c29bef8-5e12-4d4d-a09e-3c2907ba9ee6_m.jpg" group-title="Lista 2",A&E 
-http://bgtv.site/play/23-800.php?a=178&token=unwell  
+http://bgtv. site/play/23-800.php?a=178&token=onebyone   
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://thumbs.dreamstime.com/z/m%C3%A1s-el-gran-grado-del-top-de-la-reacci%C3%B3n-de-la-cuenta-del-grado-35557012.jpg" group-title="Lista 2",A+ 
-http://bgtv.site/play/23-800.php?a=113&token=unwell
+http://bgtv.site/play/23- 800.php?a=113&token=onebyone
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ea/ABC_logo_1968.png" group-title="Lista 2",ABC (USA) 
-http://bgtv.site/play/23-800.php?a=159&token=unwell 
+http://bgtv.site/play/23-800.php?a=159&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://s.abcnews.com/images/US/2021_ABCNews_ShareTips_A_v01_KS_1632411223106_hpMain_16x9_1600.jpg" group-title="Lista 2",ABC News 
-http://bgtv.site/play/23-800.php?a=110&token=unwell
+http://bgtv.site/play/23-800.php?a=110&token=onebyone
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6RDfr3bUCRUPAl0O6c2uojvjp2srkzAIex-K1C7UD22eISOMAEE9gVXGcBDvU6VVJyw&usqp=CAU" group-title="Lista 2",Adrenalina Sport 
-http://bgtv.site/play/23-800.php?a=140&token=unwell  
+http://bgtv.site/play/23 -800.php?a=140&token=onebyone  
  
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2560px-Animal_Planet_logo.svg.png" group-title="Lista 2",Animal Planet 
-http://bgtv.site/play/23-800.php?a=75&token=unwell
+http://bgtv.site/play/23-800.php? a=75&token=onebyone
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3sJyIQGAqEySHiAKToGFePN0kYVB1GenjGadibVMvwPoHpa2WGvBvUiHkmAynPjfzIk&usqp=CAU"  group-title="Lista 2",AZ Corazon 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
@@ -981,227 +984,239 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhptiJ7L2lAI176KMj-imwNQQSBSoGhTxozEiLiO2gyRs8YbAq_Md4cFIPHDGSv11W0iPrXeLSBbfMgXO9Zbx8JopwWImyJSVh1LppIN42X0pwsKhVpHxAZOLsXpsVc5RFrsLUH68nhKzX8n_z3epFapWQnU4wYsNkKMjulpVltiXi5mD8l-7xF3ZCj/s640/tvain.png" group-title="Lista 2", AZTCA INTERNACIONAL
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691083049&id=10411&ip=45.224.152.74&override_expiration=1500&sign=zK1PIBs6E13FQXc%2BgxeY9vC8IBdfXx0eJlxNxUmh2Vw%3D
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Baby First 
-http://bgtv.site/play/23-800.php?a=150&token=unwell 
-
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="Lista 2",Baby TV 
-http://bgtv.site/play/23-800.php?a=60&token=unwell  
+http://bgtv.site/play/23-800.php?a=60&token=onebyone  
  
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",BBC America (USA) 
-http://bgtv.site/play/23-800.php?a=166&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Baby First 
+http://bgtv.site/play/23-800.php?a=150&token=onebyone 
+ 
+#EXTINF:-1 tvg-shift=" -3" group-title="Lista 2",BBC América (EE.UU.) 
+http://bgtv.site/play/23-800.php?a=166&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Bein Sports Esp 
-http://bgtv.site/play/23-800.php?a=176&token=unwell 
+http://bgtv.site/play/23-800.php?a= 176&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Bravo (USA) 
-http://bgtv.site/play/23-800.php?a=192&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Bravo (EE.UU.) 
+http://bgtv.site/play/23-800.php?a=192&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CBS Sports Network (USA) 
-http://bgtv.site/play/23-800.php?a=161&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CBS Sports Network (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=161&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CNN Internacional 
-http://bgtv.site/play/23-800.php?a=92&token=unwell 
+http://bgtv.site/play/23-800.php?a=92&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CO: Caracol 
-http://bgtv.site/play/23-800.php?a=157&token=unwell 
+#EXTINF:-1 tvg -shift="-3" group-title="Lista 2",CO: Caracol 
+http://bgtv.site/play/23-800.php?a=157&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CO: Caracol 
-http://bgtv.site/play/23-800.php?a=226&token=unwell 
+#EXTINF:-1 tvg-shift=" -3" group-title="Lista 2",CO: Caracol 
+http://bgtv.site/play/23-800.php?a=226&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DAZN 3 
-http://bgtv.site/play/23-800.php?a=205&token=unwell 
+http://bgtv.site/play/23-800.php?a=205&token =onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DAZN 4 
-http://bgtv.site/play/23-800.php?a=211&token=unwell 
+http://bgtv.site/play/23-800.php?a=211&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Dicovery Turbo 
-http://bgtv.site/play/23-800.php?a=230&token=unwell 
+#EXTINF: -1 tvg-shift="-3" group-title="Lista 2",Descubrimiento Turbo 
+http://bgtv.site/play/23-800.php?a=230&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Kids 
-http://bgtv.site/play/23-800.php?a=210&token=unwell 
+#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Discovery Kids 
+http://bgtv.site/play/23-800.php?a=210&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Science 
-http://bgtv.site/play/23-800.php?a=216&token=unwell
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Discovery Science 
+http://bgtv.site/play/23-800.php?a=216&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Theater 
-http://bgtv.site/play/23-800.php?a=217&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title=" Lista 2", Discovery Theatre 
+http://bgtv.site/play/23-800.php?a=217&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery TLC 
-http://bgtv.site/play/23-800.php?a=124&token=unwell 
+http://bgtv.site/play/23-800.php?a=124&token =onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Turbo 
-http://bgtv.site/play/23-800.php?a=229&token=unwell 
+http://bgtv.site/play/23-800.php?a=229&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",El Gourmet 
-http://bgtv.site/play/23-800.php?a=219&token=unwell 
+#EXTINF: -1 tvg-shift="-3" group-title="Lista 2",El Gourmet 
+http://bgtv.site/play/23-800.php?a=219&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ES: Antena 3 
-http://bgtv.site/play/23-800.php?a=96&token=unwell 
+#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",ES: Antena 3 
+http://bgtv.site/play/23-800.php?a=96&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ES: Movistar Drama 
-http://bgtv.site/play/23-800.php?a=146&token=unwell 
+#EXTINF:-1 tvg-shift="- 3" group-title="Lista 2",ES: Movistar Drama 
+http://bgtv.site/play/23-800.php?a=146&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN (USA) 
-http://bgtv.site/play/23-800.php?a=167&token=unwell 
+#EXTINF:-1 tvg-shift="-3" grupo -title="Lista 2",ESPN (EE.UU.) 
+http://bgtv.site/play/23-800.php?a=167&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 
-http://bgtv.site/play/23-800.php?a=35&token=unwell 
+http://bgtv.site/play/23-800.php?a=35&token= onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 2 
-http://bgtv.site/play/23-800.php?a=36&token=unwell 
+http://bgtv.site/play/23-800.php?a=36&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 2 US 
-http://bgtv.site/play/23-800.php?a=37&token=unwell 
+#EXTINF:- 1 tvg-shift="-3" group-title="Lista 2", ESPN 2 EE. UU. 
+http://bgtv.site/play/23-800.php?a=37&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Eurosport 2 
-http://bgtv.site/play/23-800.php?a=141&token=unwell 
+#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Eurosport 2 
+http://bgtv.site/play/23-800.php?a=141&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Eurosports 
-http://bgtv.site/play/23-800.php?a=206&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Eurosports 
+http://bgtv.site/play/23-800.php?a=206&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",FOX (USA) 
-http://bgtv.site/play/23-800.php?a=168&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", FOX (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=168&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Deportes 
-http://bgtv.site/play/23-800.php?a=38&token=unwell 
+http://bgtv.site/play/23-800.php?a=38&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sports Premium 
-http://bgtv.site/play/23-800.php?a=69&token=unwell 
+#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Fox Sports Premium 
+http://bgtv.site/play/23-800.php?a=69&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sport (USA) 
-http://bgtv.site/play/23-800.php?a=221&token=unwell 
+#EXTINF:-1 tvg-shift="-3 " group-title="Lista 2",Fox Sport (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=221&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sport 2 (USA) 
-http://bgtv.site/play/23-800.php?a=222&token=unwell 
+#EXTINF:-1 tvg-shift="-3" grupo -title="Lista 2",Fox Sport 2 (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=222&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sports 
-http://bgtv.site/play/23-800.php?a=40&token=unwell 
+#EXTINF:-1 tvg-shift="-3" grupo- title="Lista 2",Fox Sports 
+http://bgtv.site/play/23-800.php?a=40&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Sports 
-http://bgtv.site/play/23-800.php?a=42&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2 "Fox Sports 
+http://bgtv.site/play/23-800.php?a=42&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",FX 
-http://bgtv.site/play/23-800.php?a=70&token=unwell 
+http://bgtv.site/play/23-800.php?a=70&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Galavision (USA) 
-http://bgtv.site/play/23-800.php?a=174&token=unwell 
+#EXTINF:-1 tvg-shift= "-3" group-title="Lista 2",Galavision (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=174&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Garage TV 
-http://bgtv.site/play/23-800.php?a=184&token=unwell 
+#EXTINF:-1 tvg-shift="-3 " group-title="Lista 2",Garage TV 
+http://bgtv.site/play/23-800.php?a=184&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Golden 
-http://bgtv.site/play/23-800.php?a=181&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title= "Lista 2", Golden 
+http://bgtv.site/play/23-800.php?a=181&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",GolTV 
-http://bgtv.site/play/23-800.php?a=208&token=unwell 
+http://bgtv.site/play/23-800.php?a=208&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 
-http://bgtv.site/play/23-800.php?a=72&token=unwell 
+http://bgtv .site/play/23-800.php?a=72&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 (USA) 
-http://bgtv.site/play/23-800.php?a=223&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=223&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Family 
-http://bgtv.site/play/23-800.php?a=73&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Familia HBO 
+http://bgtv.site/play/23-800.php?a=73&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Family (USA) 
-http://bgtv.site/play/23-800.php?a=224&token=unwell 
+#EXTINF:-1 tvg-shift=" -3" group-title="Lista 2",HBO Family (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=224&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Plus 
-http://bgtv.site/play/23-800.php?a=215&token=unwell 
+#EXTINF:-1 tvg-shift="-3 " group-title="Lista 2",HBO Plus 
+http://bgtv.site/play/23-800.php?a=215&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Signature 
-http://bgtv.site/play/23-800.php?a=182&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title= "Lista 2", Firma de HBO 
+http://bgtv.site/play/23-800.php?a=182&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HGTV (USA) 
-http://bgtv.site/play/23-800.php?a=225&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", HGTV (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=225&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Investigation Discovery 
-http://bgtv.site/play/23-800.php?a=220&token=unwell 
+http://bgtv.site/play/23-800.php?a=220&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",IZZI Afizzionados 
-http://bgtv.site/play/23-800.php?a=43&token=unwell 
+#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",IZZI Aficionados 
+http://bgtv.site/play/23-800.php?a=43&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Lifetime (USA) 
-http://bgtv.site/play/23-800.php?a=193&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Lifetime (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=193&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Milenio TV 
-http://bgtv.site/play/23-800.php?a=88&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title ="Lista 2",Milenio TV 
+http://bgtv.site/play/23-800.php?a=88&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MLB NETWORK (USA) 
-http://bgtv.site/play/23-800.php?a=188&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2" ,MLB NETWORK (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=188&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MTV Hits 
-http://bgtv.site/play/23-800.php?a=94&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MTV Visita 
+http://bgtv.site/play/23-800.php?a=94&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MTV Live 
-http://bgtv.site/play/23-800.php?a=108&token=unwell 
+http://bgtv.site/play/23-800.php?a=108&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Multimedios MTY 
-http://bgtv.site/play/23-800.php?a=89&token=unwell 
+#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Multimedios MTY 
+http://bgtv.site/play/23-800.php?a=89&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",NBC NY (USA) 
-http://bgtv.site/play/23-800.php?a=164&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",NBC NY (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=164&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",NBC Universo (USA) 
-http://bgtv.site/play/23-800.php?a=165&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group- title="Lista 2",NBC Universo (EE.UU.) 
+http://bgtv.site/play/23-800.php?a=165&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Nick Jr 
-http://bgtv.site/play/23-800.php?a=64&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title= "Lista 2", Nick Jr 
+http://bgtv.site/play/23-800.php?a=64&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Once TV 
-http://bgtv.site/play/23-800.php?a=111&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Once TV 
+http://bgtv.site/play/23-800.php?a=111&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Showtime (USA) 
-http://bgtv.site/play/23-800.php?a=189&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Showtime (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=189&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Sony 
-http://bgtv.site/play/23-800.php?a=53&token=unwell 
+#EXTINF:-1 tvg -shift="-3" group-title="Lista 2", Sony 
+http://bgtv.site/play/23-800.php?a=53&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Starz (USA) 
-http://bgtv.site/play/23-800.php?a=190&token=unwell 
+#EXTINF:-1 tvg-shift="-3 " group-title="Lista 2",Starz (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=190&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",SYFY 
-http://bgtv.site/play/23-800.php?a=80&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group- title="Lista 2",SYFY 
+http://bgtv.site/play/23-800.php?a=80&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telecinco 
-http://bgtv.site/play/23-800.php?a=203&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2" ,Telecinco 
+http://bgtv.site/play/23-800.php?a=203&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telecinco 2 
-http://bgtv.site/play/23-800.php?a=207&token=unwell 
+http:/ /bgtv.site/play/23-800.php?a=207&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telehit 
-http://bgtv.site/play/23-800.php?a=95&token=unwell 
+http://bgtv.site/play/23-800.php?a=95&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telemundo 
-http://bgtv.site/play/23-800.php?a=155&token=unwell 
+#EXTINF:-1 tvg-shift= "-3" grupo-title="Lista 2",Telemundo 
+http://bgtv.site/play/23-800.php?a=155&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Televisa MTY 
-http://bgtv.site/play/23-800.php?a=143&token=unwell 
+#EXTINF:-1 tvg-shift="-3" grupo- title="Lista 2",Televisa MTY 
+http://bgtv.site/play/23-800.php?a=143&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Tennis Channel (USA) 
-http://bgtv.site/play/23-800.php?a=171&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2 ", Tennis Channel (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=171&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT 
-http://bgtv.site/play/23-800.php?a=57&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", TNT 
+http://bgtv.site/play/23-800.php?a=57&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT (USA) 
-http://bgtv.site/play/23-800.php?a=172&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",TNT (EE. UU.) 
+http: //bgtv.site/play/23-800.php?a=172&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Toros TV 
-http://bgtv.site/play/23-800.php?a=46&token=unwell 
+http://bgtv.site/play/23-800.php?a=46&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",UFC TV 
-http://bgtv.site/play/23-800.php?a=47&token=unwell 
+#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",UFC TV 
+http://bgtv.site/play/23-800.php?a=47&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Univision (USA) 
-http://bgtv.site/play/23-800.php?a=173&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Univision (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=173&token=onebyone 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",USA Network (USA) 
-http://bgtv.site/play/23-800.php?a=191&token=unwell 
+#EXTINF:-1 tvg-shift="-3" group-title ="Lista 2",Red de EE. UU. (EE. UU.) 
+http://bgtv.site/play/23-800.php?a=191&token=onebyone 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Univision (EE.UU.) 
+http://bgtv.site/play /23-800.php?a=173&token=onebyone 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",USA Network (EE.UU.) 
+http://bgtv.site/play/23 -800.php?a=191&token=onebyone 
+ 
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Univision (EE.UU.) 
+http://bgtv.site/play /23-800.php?a=173&token=onebyone 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",USA Network (EE.UU.) 
+http://bgtv.site/play/23 -800.php?a=191&token=onebyone 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Warner Channel 
-http://bgtv.site/play/23-800.php?a=59&token=unwell
+http://bgtv.site/play/23-800.php?a=59&token=onebyone
 
 #EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico movies| HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
