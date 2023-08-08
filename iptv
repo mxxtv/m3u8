@@ -56,7 +56,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&amp;avod=1&amp;coppa=
 #EXTINF:-19 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR", Teleamazona ops | FHD
+#EXTINF:-20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" https://2.bp.blogspot.com/-iumObiCGDOg/V9gRUPCJSeI/AAAAAAAAB2Y/QXqs7qzb2bkiuqRYtsa7BeHSfdxk2P8uACLcB/w1200-h630-p-k-no-nu/rts-en-vivo-online-por-internet.png, Teleamazona ops | FHD
 https://youvideostreaming.club/hls/ecutv4.m3u8
 
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PUERTO RICO", Telemundo | SD
@@ -71,11 +71,11 @@ https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 #EXTINF:-24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Ecuavisa_Logo_2019.png/240px-Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuavisa 2 | SD
 https://youvideostreaming.club/hls/ecutv1.m3u8
 
-#EXTINF:-25,RTS
+#EXTINF:-25 tvg-logo="https://2.bp.blogspot.com/-iumObiCGDOg/V9gRUPCJSeI/AAAAAAAAB2Y/QXqs7qzb2bkiuqRYtsa7BeHSfdxk2P8uACLcB/w1200-h630-p-k-no-nu/rts-en-vivo-online-por-internet.png" group-title="ECUADOR",Rts | SD
 https://youvideostreaming.club/hls/ecutv2.m3u8
 
-#EXTINF:-26,La Red Tv
-https://d5jxn18we1fqw.cloudfront.net/hls/live.m3u8
+#EXTINF:-26 tvg-logo="https://redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" ,La Red Tv
+https://stm1.rootuy.xyz:19360/sdredtv/sdredtv.m3u8
 
 #EXTINF:-27,Canal 3 TV
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w457950439.m3u8
@@ -89,7 +89,7 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 #EXTINF:-30 tvg-logo="https://logowik.com/content/uploads/images/7354-cartoonito.webp" group-title="INFANTIL", Cartunito | HD
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
-#EXTINF:-31 tvg-logo="https://latinamedios.com/wp-content/uploads/2019/09/LOGO-LATINA-TV-300-300x200.png" group-title="PERU", VISION TV MUSICAL | SD
+#EXTINF:-31 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b8197406117e6654ab034d1e2573108.webp" group-title="PERU", VISION TV MUSICAL | SD
 https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1867208587.m3u8
 
 #EXTINF:-32 tvg-logo="https://www.elnuevodia.com/resizer/jcjrG7WrqrRHRvwwDcwX4LoVEt8=/829x0/filters:quality(75):format(jpeg):focal(781x419:791x409)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/5GAYARXGYVDPRMG4Q3MOXQGOW4.jpg" group-title="PUERTO RICO", Mega tv | HD
@@ -375,7 +375,7 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
 #EXTINF:-126 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="PERU", ATV | SD
-https://d22ast2s6i1kcc.cloudfront.net/hls/atv_480.m3u8
+https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
 #EXTINF:-127 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/LOGO-CVP_COLORES-2.png" group-title="PERU", Cablevision TV Peru | HD
 https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m3u8
@@ -383,8 +383,8 @@ https://multimedia.tmcreativos.com:1936/visionnoticias/visionnoticias/playlist.m
 #EXTINF:-128 tvg-logo="https://i.imgur.com/Eqpww5i.png" group-title="PERU", Turbo Mix Radio TV | SD
 https://7.innovatestream.pe:19360/turbomixoficial/turbomixoficial.m3u8
 
-#EXTINF:-129 tvg-logo="https://i.imgur.com/vIFRrCq.png" group-title="GUATEMALA", Canal Plus Guatemala | SD
-http://streaminglivehd.com:1935/8098/8098/chunklist.m3u8
+#EXTINF:-129 tvg-logo="https://i.imgur.com/vIFRrCq.png", Canal Plus Guatemala | SD
+https://59ce1298bfb98.streamlock.net/mastv/mastv/playlist.m3u8
 
 #EXTINF:-130 tvg-id="(sin tvg-id)" tvg-name="Jalisco TV" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/c7.png" group-title="MEXICO",Jalisco TV
 https://5fa5de1a545ae.streamlock.net/sisjalisciense/sisjalisciense/playlist.m3u8
@@ -396,7 +396,7 @@ http://208.88.246.11:3473/transco9/9489APL/chunk_Auth=ix08x%C2%A0Z6Q7r567Z5%5E@9
 https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
 
 #EXTINF:-133 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6_130x130.webp" group-title="ECUADOR", Recuerdos Retro | HD
-https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8?WebM3UCL
+https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8
 
 #EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
@@ -741,7 +741,7 @@ https://wowza.telpin.com.ar:1935/telpintv/smil:ttv.stream.smil/chunklist_w105937
 https://teleuniversotv.streamgato.us:3110/live/teleuniversotvlive.m3u8
 
 #EXTINF:-81 tvg-logo="https://mexico.mom-gmr.org/uploads/tx_lfrogmom/media/11514-1329_import.png" group-title="MEXICO", AZT UNO
-https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
+https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3u8
 
 #EXTINF:-61 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="CINE Y SERIES", PARAMUNT+ PRESENTA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -900,7 +900,7 @@ https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
 #EXTINF:-301 tvg-logo="https://e7.pngegg.com/pngimages/604/575/png-clipart-logo-caracol-television-colombia-caracol-tv-internacional-television-fecula-de-maiz-television-logo.png" group-title="COLOMBIA", CARACOL
 https://kjt7fwcmhthbyafn.cdnexpress23.net:8443/hls/0bvzyejjlh.m3u8?s=NROzABzadMueK9_O0_kGhA&e=1687576292
 
-#EXTINF:-1, ABC TV
+#EXTINF:-1tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzW0ze2U_FN_z2IcLH9setG_IEXUGFHowVEw&usqp=CAU" , ABC TV
 https://abc-color.cdn.vustreams.com/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:-1, LOGOS TV
@@ -921,20 +921,14 @@ https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1804858925_b1896
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MEXICO" ,ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/85/Telehit_M%C3%BAsica_Plus_2020.png/revision/latest?cb=20201012210842&path-prefix=es" group-title="MEXICO" ,TELE HIT PLUS
-https://dcs3-live.mp.lura.live/server/podserve/7EPqPwsx1reohKYj/rendition.m3u8?track=video-4&ts=1691442879&psi=5c5fbef11d6592a4f9c85231524e0f13&encp=1b9Kvx2attsziTH-uX-Aiw:48S-wPY3dRn5njz6_wCZLMVs-dpYKlDbfI8Mqk_w69mjYywbcF5XiXiE9tY-Xb_pLyMuQ8LppGHnhNXcPIxZsZLSa0v5wJ4Ydgys19Kh1xX4oBvzPvbRdbJne8t6R7NGMxdCXJVf2uXmRXldQjW10xe3AKkUWc2h9d9VNSabE1lnCc2YaVRQx0oiMNFz-ghiJIv5ccRf9_v23tKE9cAf18mvRBRG7d9emiASHtC1hyjbHGAri581vGVHrH1HYXB4GWPHrzitHm6-4s2CpKjXTsZbwdU3xptYZzGgjqMPunYzlen6TgnVTTyWCu9V4qYq2-c4DP9mJwPs-f_S4DcVwpYozUKtjrHBHbEVNzo-yXQTdsiNh8Cm0yaUkL4jX0WS4QcLITFqo_ZO1BOSfq1obRczRwdsKv3d-LRg1JwuBhBzAVgE_7ucwBUTRST7Pk7Y5XiOShrJnkU9GmBiZD4Cq8S1yjGgQXVPsPAsQhWtcJ7I2EXPrtDp19gGymxj565mhVWOZ6LQjVnvlvouTm8BLjUGGPIabQh1SRO3dS5Qkl74LJVCxGHEWyqQf8PMAKGoKIHQNXfRX2LU89TgX5qNgSsRQg_wem5T6KWPRd0aVZVUf6U58LPKM1IORnUii1egqfkuxvTYeD9yt47TiG1wQykLnOk9_hDwodrD5LTt6lliM6uELSJvhNl1cq5JJkhwBNDPuLWE7Oe_SNRuiDsQwRmW7csX1KlXFwW4s-Bh7zq0A_z7jJmZTDgF5PrPQmIwcFSVwp1X1jmZZTAHKoxgSXtDfxX39-93IGZCUxCVsCiI_KqSnl4ld_dEFjjEdlU5iHYZSVzFOr5o2ckX8zwM5XgEQLyXrW3MkutPNqtUf9F3MRT__3X68c52gm8ekTJFR3lr76JEQo4EIDHgrTuNjr9n5PwqzSTBYHjDkFmmEu6aRSi7IA981rI_WcXfWgsGVcKtY-y9U9cfrJ_u-wg6aj0dRK3SVg0GNZy_Zg0HXuTOCnEmSiTMkILdzUYqRm4I&pcqx=900660852a5404fe482b352b764d7cbe&sid=[[STREAMID]]
-
-#EXTINF:-1 tvg-logo="https://telefullenvivo.live/wp-content/uploads/2022/09/Distrito-Comedia.png" group-title="MEXICO" ,DISTRITO COMEDIA
-https://dcs3-live.mp.lura.live/server/podserve/jKR5RvsVJk34t5MA/rendition.m3u8?track=video-4&ts=1691442924&psi=d4500512c88cb06ec9595946294771a7&encp=5cSu8-JPcUdJBAZraun8Dg:IP2hU78xsAcgoSmcQZtWO1uzBR8FP7ehMYazzJtCWMEfefExotkGTeA8CnghbB80IPyWcLql-tVfeDfDw2MWoRx9H41h-2kcnMv2BD-PK9D9v8SL_YAzpRTonBcg_xY2OlzDZ99bRDcuNUQ8BCV8SDf1b4a3deuRPR6vZmvEQo0YpScV9l0yr5llOP4WzCugpD3UhObqgPClr0cIa4TSv-8EygghbTh48Xlz_Rh7Z7qUcfwPVI_JMuSD1-Fz53-w1l1UQBAOF76BnnCObCnRY8Y9ZdgkBI5_-1ppJY4F2E7-_pwwJS1i2OsIJyjCquJANjpdlsdWrp7AZZVMaqH2658hujvZp98xarW0WIPnyZXxHLUTHAW2LBaIIqKXA1VJAV8qVTLZ4otC23POClxe2nI6ioKK_fixoOC1X8eV-RLQewbgR1Ioo0FN8LDu-K0Fygc9uXUTpbXvQd5X4OVKMkH1m7or--KuXzPTDIg3_n2Icwd9QXnTPzmzNkvS24iavyKGdfaiV9_uohOMXA2uBO480qkgPfpTXfP_Irx7Q3A6z7woSpVsJaRCHV_LdGhRDXDzvNRpz2Plt5Hr2QAZLyfYO82CT0EKWzUTeRd-kGMGo86tPR_GfxzzQZfV2xQTMVuZ_MLUSZFsAC1nmSDZHLZHbjWqlN5VSj-rTjorh2BPh7iK82HMmPOAIjHsF5rUKrv_D4ywBvXMzLXhV_xNFAiKgE3l1NgCvH9VQrjTB6TEEuHYO_OgJ1Vt-TI6A7Mae7JIU_x0vd072mVj3yvNYTf9ZNwJU5BSxPnUohw3WRa9bHaRPx8P8R0yj8LYhSX0g1yUVAYvSJHPs68Hz2tFrAPozB-a2vp7UESehmx5Ppt4Ns-J_FXKn_nP9PVpYzD1-yurRC2FeqIvFUDGvcgbs7Iej5zUImAjlZkGMVkXorVlcpCHUO1Tr7OzYU9j6kgd71qXRYHzqkSrVbjtcbXioTuAd5FBz1-5EssJPVcTO8Z1m84UP7q1_giCgTfxJMnz&pcqx=2d99d6f3292c53f90e8d97e4b9017d71&sid=[[STREAMID]]
-
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/mx_golden-edge_m.png" group-title="MEXICO" ,GOLDEN edge
-https://dcs3-live.mp.lura.live/server/podserve/0MqnqghkvXVNI1N0/rendition.m3u8?track=video-3&ts=1691443173&psi=ddd2b2db2df7ad553b395dfdff839583&encp=7Yajnni-ZY8DNfUrO7ZjOg:21QwKzDdLweWaHmxJoNtb5-Fe8bBHU9R4g3L_PBWZqL-OWdrsh2KwMsu5E3gBEnv6Lt6kYwoJfkhKaerlkxnxUC46UZxZ_NuuKPXRfQBMCksddlcqUt9_cKpg1WBxUO33u12jRPk5OaZTd5w7QaCT8wrtjIbO9Xpf-l7VQId4Y4FmtrVCOb_N_rukF0DsySuo4MicojkDeDXOwU3dMCoavR2rctqWn5yYuZOvgqQ71i09-kAGalbao7I98Iem16PWHCrKYBfsMz9zFSP8Z9B4BBz6JB9MhbVbkPbD-JBkD5MhDqFBQjidTyTm5btUZftGPmiO26znBv-oGt0kEvI4Iak_V_BpQ1Q4WLYP6136hv0VFfaPBLL6abEXPH-nkXH_FBu8G2SO6aQ8iiaLmdADahA_pYrviPjoQYlCRveZ2QfruC0hYl2yxCKNiuTqNqutZvD64HNLIkviTxThNA-XSMj8VD7zDCJMuZsFc-Q0B0nKypyBlA-xH95pQBbfj2dRCv40glQLHkdaylbYu5xnFcHDyM_2xDPc0Yz9SNits6kKNz5wzxjhUsGVVKJQgEGKUyRmRk7iFcoCNS8k9vuD06LLpJHAyve_8xM4i1r5UVJoEQO7QeCxxRTDYU7DMSUyZLf5LmWbNRaHV34EW66uHE7am85AofchduTcKKeq0V0fGrzik_wlmcJxrvMAKdXT0w4VhN4NxamZCgxHbUm_Df_NKk8tL45GFxYKWzNm8BcgM0bn_G86Z_jcgdPFemvy_DjRdhxPG4ao9BiToVtx1d1Z-NKpX1AO41ei4Zy9aW-MDYOO62oBIOaJfDU7VUrkEeEJrUycMwIqY9mWSE_oDYVUbIr1DROj93wykZMllWbx9ZMrT3Rsx3Jiuyntochz2olRxTYBFaIrHIixnsPlS9fpx-cq6zy0Rsbts8xjZ43fuOaSXfYHlKpHofJCycu-0yKDy7_Fy0guoY9qEEAHE1erjQwliZWC5Imm6fAjQ4&pcqx=7dc272d053fa72ccf85af51b4d0480f1&sid=[[STREAMID]]
+https://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdmid.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.mitvstatic.com/channels/6b9cacbc-43d6-4117-8f85-2f39cf26eaf1_m.jpg" group-title="MEXICO" ,TLnovelas
-https://dcs3-live.mp.lura.live/server/podserve/0yQkQ2Tr5awnsMR0/rendition.m3u8?track=video-2&ts=1691375953&psi=20f276efa8c08bfe8fb1802476d6a187&encp=zuAhK3tQB3cqTcOISe_uIQ:F4r92ddpOVpqfNMAXseFwyZRYQ41HLRJtTvzYTzbwawCSF9vSdHR37GJ24dL5_-8YhTjapEmcsDJhRk96FMTmvujcYf6_cTvsMsxeFmUbsFbjqDnJ0HbqC12EEosb5XkBdLt_M4q1YR2kV5Ite7X5GvZtnfEFao8CyJuUmeMfBa2FZfMDzRtSJII8jsDzRtOIjpjXF4112TQmBVt4giMVAP0gvb0u7n2wc1J--KpI1rWy3NEr_VVY1FHmrVXCl2o2npZ53OUjrmydJ0AAYBUSqs6qwSshnM0Kr4SsH4kLXVT8r7bCaKvOmwHQWyIcR_ki-vyKDkHQ0ZZB05zOvoduqBzIrlSMji6xm8C1DjwaXBwUXMswMUKzJv25P3bA_SiAvjL8RyOlYtBst6O4i7oIY44NE7D68ZInVF4b7ZOMZvJ6fqJ6RfQeVvW3Hs_20JCF8tmG9AF65ApP02yuigjd6GzwTQGcMyb3Svtp7V1_WGuXtfCnHlXPuFRkWRpn22Pu03bhWEEIMQa0QSVKytHerI7GCTp9Rztx8QdOUTwbSCdPf4ZA95TgkAmDZ9Nyzo6D1bFRZcC3wykyWpqBrSnK-sWw9h3xNOyAN6AiPZtCBh2IY6j4pM6x1bg6MN32jAYyErFUZyTSPx-XVan0iheYpGWry76bJrbxqKPNvBW7klU9A774w0NnS7WMqipPAjOhzevDSdzsu-ZcxuVf5kJGkS2QxuORQNNIv5Y9SOdSvhwKy8GNqpfIlMs-HojUDyMIK7275mmed7ZFiwWGfvhFYXIKIdN-RwDaEMhYx3W87mjIc_J6fzT9lfWtW70GSB30HMNwodE3Gpvu5fVPDgUKTeueIo1fmbKcMn6uhKeXqB5tizon8PGoLX51eUFQ--LdCpWeWC2qvbSYJR0Xa48KeuA9yL0aO2Z_V3klk8aEn1nWhzrfAHowtUkNK-iHRIqDd1QIu1WWhHdeZm0s49SEoiPyHozdrAgKQ02Kk8Hbv4&pcqx=3c85969d941f0cd00bb3f83b962a996c&sid=[[STREAMID]]
+https://cm.hostlagarto.com/hits360tv/hits360HD.myStream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQvW74rcELI6po3gwGcnjerWk_PZXL9GDA1YwN27MKwkRJt7vmcBb5JW-HFzqqooeGKMo8&usqp=CAU" group-title="MEXICO",LAS ESTRELLAS
-https://dcs3-live.mp.lura.live/server/podserve/APXEX2TzBgrvUaRA/rendition.m3u8?track=video-2&ts=1691443548&psi=797c269b2d5ebcfb64748d4829a3add8&encp=MF6i7z2CzXFWgfsuJ6mk5g:pJ6UDPMDBek3VEmQR0O_tefOkv-4Ey-1ZQz-W7VOojUllTT-2-6D6SwgP_iALvb6rna_Yn1ZOjNp6mF3KUM8zy7uOwyjLPcfhAEbtOxbU10yGUeG3mMd72z-Z8_aHS6L4h5Sit8F8DP1d_RtfQtvDakL7RuEKuHEDhW9FVR65tv3RQtFQmwM257D7XX-EMggV6mFsyxK4UGZvaqQ-djiECvhGHnrfgyZ3CnnZaD3cvx-kwYufI0x-Ty38fkxA-eBi406PVSQbed0ZJHqaSYiu2sYqKqFUR7mhY0elBSwSF92rwxsYv2_58PjBOqB95VglDgSgzEyi9xQerED1sUt0fRz5AjW2pkpj7MaBSzi6_BuofxFbwlfEaqlsQ4uDtM95KY2xizay2dXd-ohIDiNLUSTZNOnTXzsgaAT07rabIWXjlYO_ANgWbSQsxWOgOatema_SGbKYmjh2JOb0AUXp9y8-inB3gdHfg_iVx4nayHMmDz9hnmZO39ld0MW0OIOEqka1ZvotfP7JIjcqY6x9w-BpTbw29WnI2e62JxMI7K7019G9eQzy_uyhNEY9Y6h0913ymGzKMxtTJwTEyz6vM4Kuik_VXa_-0focS7Qdzc6UAI0nTlJLavSJxnPIsmFqX-f5luo8arHdNmqCgqFR5H6FhU0Ng33ew-2j_gSWrTq6Ox4aM3b_7B-xN0qGYHtSKex3DZ5lon3uZN_2jqkaFCyXSzlG75mGADUnjq0uf1UIDqi6C2oxNpr-PLoqaqD86olbuslzTkI91N9ROPGtVpDUffLaL1ECVhH55ftEKgZeXpAhnyqiHMjEWyJXpLVbbBLR2sIirlkVY9WeNvyV2foAWKzE8wik4gfq2Y_Pre0WG6tuhiCxzgsgQTyiK9s-jLFG-PtVSk8wVG-S_KL6L0qn49InV70YhPUpwteQ64Ycp7uIwdZvfvJADM7E4Rqn-Y26J3DTwRr2j2WRgrrg02mM-flQSfqT01Rl7yCYSo&pcqx=9e6ec0ac74d017ae2f52cb5a9640b76f&sid=[[STREAMID]]
+https://stmv1.zcasthn.com.br/canal74hd/canal74hd/chunklist_w547422122.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cineestrella.cl/assets/images/logo.png" group-title="MEXICO" ,CINESTRELLA
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
@@ -943,7 +937,7 @@ https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg0056
 https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg00567-estrellamedia-cineestrella-lgus/cb57381b6570678a84cb3a64cef64482847b3dcb0e6c886470af4a9765d97800dbe8ae84ae5b910c4c9e1fc061017d360439cd1dd56c49c1da63b820743c4b21fdcde00080dd0d0cb1df11292ca36265299a7369cc350f7bd2ec5a2f803ebe764c53cb017c593f88f258ac734cc59e0a957f39e8fc8b307b24455a9c5a43e6a64cb7f8e258468969f7e2014b972810fa83439c8101ead181538341d727f5459a91f68edb43d1e4fa598b6f18f1b639581fbca33bf4ec5ea3db9e662bee0942242d74966d17632c46eb744c49ecf78b9e68fa01c78a24fb007ddb52df27d641f4ac2221e97ed17fd4bf737f6a919bf7fb2b5681e8a598f23632f241eea3f0dc626990fa2eb526a362f52d31319cf1ca5bd18d45d6fe148cba6d122fd3d16bafdde3d3a1e0d60aab2cc491a0c37d5a18374d42a74db29668ec2cdf53a1da5c740f1a0afecc158cadf16a1d4e03c68c57df165b9ede8888d0477be9680955e565960a54398264222cab7db9a93d6a883403ca606eac1666d63089d246c2aed5e1092ca69e96128d08c1814a83a64cf9177f336494fd2358494907a0cd6e1f3f74c605a993fde8790d0ffbe48f99e4562b0c2d184206e9b5be5e98557efc9481ea0bfef0ac1551d51a/79/1280x720_2657019/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MEXICO",Las estrellas
-https://dcs3-live.mp.lura.live/server/podserve/APXEX2TzBgrvUaRA/rendition.m3u8?track=video-3&ts=1691442376&psi=ed116f45ba8a8919c80a3bcba1b8f427&encp=8D31NBzdrwmyo0w3hvEDvw:Ss8e2nSl_xcvfdEcdrlLum8Bs6CDME8KlhOEqTUwNvytgkyoReES6LlpYKULIrIYgVLf92x6TwaHFq9yrqd3CpA7e5C86mXWGiMN07HxMA_eAzjbB-lG1y0_uCvVr6xbnfnbcyOYF9ElEsg03UkwKxFWRNbu3ktigIl4Xbw8DM1ZyvZNAYz2x6G3_fIOXx5CpMr-zAJ0PmI2sHyoJ4yM6ArtkRmggHYC24ALb3-9b2qLHFe7KArwe3cnlX__Bd_kG-f8ZdcNpiNTsoXFyYZmOcPHvX-X9rcJ-ooJeMeWMCQObteLCO4gtvvO3VsXim_pu7lfhF2MESSevgTRxdBTnaIDLZbo27mlcHsKftfy2k99SNY-5grOHtrYQ4RwsEtVD0WzHql-VxMqraQZd8BPZ9pXzUlFX9MUaftGqJWL6PCOBYVNCp0CUpKBlf5_Z-_PLsScISWE7zi93X3uMvKuGNZEcpCR662sCvwIczXi9skgTLgK2KjJMn4KVKxmC09dQq9oeZUBiWTxQVQFjkFuMKEQ_C1IA6enfzHRpO7-no27OGOUzXLezBGKKaRXieZMTG7-2lejIYRQ3X08VYMqLmDGi_C7K9e91ll-FqK0qAILqvOXjD5jJZy_liklvWOrUoI7G-m_-Fw1FqYSrsiMoV5SpM1ShpsPSIuOfpTlXnsu43fK22SJza1t1p3Y2wVBgSENq8CcuNw8Hq2BnN0g6O-jZyFNmghZi45u_OQ-EpPkCCNGMoGOEQWHuPdInYhxzpODQCHwLs_K0dcACCUiATtQ03wezhScf7ZpZNidBGsXFdaaewlRWVKdfeZsBkIT5MAuMO8r-qAsyP_6dv6aHuKivYNTbpGbIp59XXTO5GLxEfNUKjGTibxcWa9umA5XVHeK3U7Hxpu1RQLcZfnYvaTh5a7JFRGC3jRYw6_Z_fFc3jN24pBfHgK_aKTGQ5nX0iC0zsCsZa39Scrn-eHGJkPNmJ1ck02umzuuq-kJN7WIeKnIe5cfXCUWDn44xuyK&pcqx=9e6ec0ac74d017ae2f52cb5a9640b76f&sid=[[STREAMID]]
+https://cloudvideo.servers10.com:8081/8138/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="VENEZUELA" ,OXIGENO TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w265821761.m3u8
