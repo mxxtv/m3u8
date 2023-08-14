@@ -36,7 +36,7 @@ https://video1.makrodigital.com/rtu/rtu/playlist.m3u8
 https://asomatv.duckdns.org/livestream/stream.m3u8
 
 #EXTINF:-13 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Repretel_4_logo.png/150px-Repretel_4_logo.png" group-title="COSTA RICA",CANAL 4 | SD
-https://d2t46xrpai3it5.cloudfront.net/Canal4CR/e78ef5ae92191a83ba896fbe4bfda83e.sdp/playlist.m3u8
+https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/chunklist_w1976056133.m3u8
 
 #EXTINF:-14 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d9/Canal_7_San_Salvador_de_Jujuy_%28Logo_2007%29.png" group-title="ARGENTINA", Canal 7 jujuyuy | SD
 https://stream.arcast.live/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
@@ -56,7 +56,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=2154&amp;avod=1&amp;coppa=
 #EXTINF:-19 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/c9586bb20d5d3b912d6a1d7ee4aca0e8.webp" group-title="MUSICA", Deluxe Music Tv | HD
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
-#EXTINF:-20 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" https://2.bp.blogspot.com/-iumObiCGDOg/V9gRUPCJSeI/AAAAAAAAB2Y/QXqs7qzb2bkiuqRYtsa7BeHSfdxk2P8uACLcB/w1200-h630-p-k-no-nu/rts-en-vivo-online-por-internet.png, Teleamazona ops | FHD
+#EXTINF:-20 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b3/Teleamazonas2021.png" group-title="ECUADOR", Teleamazona ops | FHD
 https://youvideostreaming.club/hls/ecutv4.m3u8
 
 #EXTINF:-21 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/84/Telemundo-nuevo-logo.png" group-title="PUERTO RICO", Telemundo | SD
@@ -90,7 +90,7 @@ https://video2.makrodigital.com/zaracay/zaracay/playlist.m3u8
 https://playout.cdn.cartoonnetwork.com.br/playout_04/playlist-720p.m3u8
 
 #EXTINF:-31 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/9b8197406117e6654ab034d1e2573108.webp" group-title="PERU", VISION TV MUSICAL | SD
-https://multimedia.tmcreativos.com:1936/visionmusica/visionmusica/chunklist_w1867208587.m3u8
+https://2-fss-1.streamhoster.com/pl_122/205510-3150738-1/playlist.m3u8
 
 #EXTINF:-32 tvg-logo="https://www.elnuevodia.com/resizer/jcjrG7WrqrRHRvwwDcwX4LoVEt8=/829x0/filters:quality(75):format(jpeg):focal(781x419:791x409)/cloudfront-us-east-1.images.arcpublishing.com/gfrmedia/5GAYARXGYVDPRMG4Q3MOXQGOW4.jpg" group-title="PUERTO RICO", Mega tv | HD
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
@@ -101,10 +101,10 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3
 #EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 
-#EXTINF:-35 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEp3YNOktvpW5JaMqt5GRakV265-VI-sw34Mpy6Eb2ZkCX2qvYHA_Tw0CGdaXEkbc7f5I&usqp=CAU" group-title="ECUADOR",TELEAMAZONAS sierra | SD
+#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra | SD
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
-#EXTINF:-36 tvg-logo="https://www.mundoplus.tv/wiki/lib/exe/fetch.php?w=144&amp;h=108&amp;tok=6aa67b&amp;media=https%3A%2F%2Fwww.mundoplus.tv%2Fwiki%2F_media%2Flogos%2Frakutenaccion.png" group-title="CINE Y SERIES", Rakuten ACCION | HD
+#EXTINF:-36 tvg-logo="https://blog.phonehouse.es/wp-content/uploads/2022/04/peliculas-de-accion-rakuten-tv-1621956288.png" group-title="CINE Y SERIES", Rakuten ACCION | HD
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
 
 #EXTINF:-37 tvg-logo="https://pbs.twimg.com/profile_images/378800000434082297/25d4f35a417c1d203876858175f18d09_400x400.jpeg" group-title="INFANTIL", Planeta kids
@@ -225,7 +225,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-76 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg/1200px-Tercer_Logotipo_de_Panamericana_Televisi%C3%B3n_%282009%29.svg.png" group-title="PERU",PANAMERICANA| HD
-https://cdnh74.iblups.com/hls/ptv2.m3u8
+https://cdn74.iblups.com/hls/ptv2.m3u8
 
 #EXTINF:-77 tvg-logo="https://www.coolstreaming.us/img/ch/image92391202925.jpg" group-title="CINE Y SERIES", San Isidro tv | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=1187
@@ -245,8 +245,8 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 #EXTINF:-82 tvg-id="Rcg media 2 TV.mx" tvg-name="Rcg media 2 TV (HD)" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png" group-title="MEXICO",Rcg media 2 | HD
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
-#EXTINF:-83 tvg-id="Rcg media 3 TV.mx" tvg-name="Rcg media 3 TV (HD)" tvg-logo="https://api.rcgmedia.mx/uploads/thumbnail_logo_rcg_media_250_1_69610a5309.png" group-title="MEXICO",Rcg media 3 | HD
-https://5caf24a595d94.streamlock.net:1937/stream56/stream56/playlist.m3u8
+#EXTINF:-83 tvg-id="AZT CLIC TV.mx" tvg-name="AZT CLIC TV (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Az_Clic_2014.png/revision/latest?cb=20191211180120&path-prefix=es" group-title="MEXICO",AZT CLIC| HD
+https://stream.ads.ottera.tv/cl/230814cjcsjitos1o3t9i4vg30/1280x720_3071200_0_f.m3u8
 
 #EXTINF:-84 group-title="PUERTO RICO", TELEMUNDO HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
@@ -257,8 +257,8 @@ https://5ca3e84a76d30.streamlock.net/tvlobo/videotvlobo/chunklist_w55663209.m3u8
 #EXTINF:-86 tvg-id="Tv Lobo.mx" tvg-name="Tv Lobo (HD)" tvg-logo="https://www.lobotv.com.mx/images/lobo.png" group-title="MUSICA",TV Lobo | HD
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
 
-#EXTINF:-87 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOa1RYjBsvox-Yo2sVktXs-_3Xbg-gM9oyTVQQAGw0WnamOg5l6azg3ynsIKI4X6WGLgD-wgnrf7laIbktlFz2yI7LfppXeuaJ6jC1g6cSfUrMHo1SDR2Y4RbWnT3h2Qm-9gyywG9fO-rjuKVlqf3YkXRs9Y8ck7IaZAAP7Z8NlsoiuPlvx59zBnLG/s200/CANE.jpg" group-title="DEPORTES", Canela Sports | HD
-https://stream.ads.ottera.tv/cl/230724ciuspq0v7e9bkb3mj9mg/854x480_1310534_2_f.m3u8
+#EXTINF:-87 tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/626c22fd7b9b6a6a5e704c6c/900" group-title="DEPORTES", BIEN Sports | HD
+https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
 
 #EXTINF:-88 tvg-id="LIM TV .mx" tvg-name="LIM TV  (HD)" tvg-logo="https://www.coolstreaming.us/img/ch/ima32806760957.jpg" group-title="MEXICO",LIM TV  (HD)
 https://live.limplay.ml/limtv.m3u8
@@ -303,10 +303,10 @@ https://video2.makrodigital.com/fmmundo/fmmundo/playlist.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
 
 #EXTINF:-102 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/655f7192ce580c733dda2fd1fc4f202b.webp" group-title="CINE Y SERIES", RETRO PLUS TV CINE
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-103 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="CINE Y SERIES", ACS NETWORK
-https://vdo2.streamgato.us:3273/live/acsnetworktvlive.m3u8
+https://5790d294af2dc.streamlock.net/acsnetwork/acsnetwork/chunklist_w400746241.m3u8
 
 #EXTINF:-104 tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="COSTA RICA", TELERED
 https://video20.klm99.com:3558/live/teleredlive.m3u8
@@ -374,7 +374,7 @@ https://d6vls0u25arys.cloudfront.net/out/v1/777b4d4cc0984575a7d14f6ee57dbcaf/ind
 #EXTINF:-125 tvg-logo="https://i.imgur.com/eGvLDVR.png" group-title="MEXICO", Canal 10 Chetumal | HD
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 
-#EXTINF:-126 tvg-logo="https://www.atv.pe/wp-content/themes/albavision-theme/img/logo.png" group-title="PERU", ATV | SD
+#EXTINF:-126 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d0/ATV_HD_2014.svg/revision/latest/scale-to-width-down/279?cb=20210519153124&path-prefix=es" group-title="PERU", ATV |HD
 https://d3krdjs7is1y42.cloudfront.net/ATVpe/df13ed57843877b21ad969184ab6888f.sdp/playlist.m3u8
 
 #EXTINF:-127 tvg-logo="https://www.cablevisionperu.pe/wp-content/uploads/LOGO-CVP_COLORES-2.png" group-title="PERU", Cablevision TV Peru | HD
@@ -423,7 +423,7 @@ https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
 
 #EXTINF:-142 tvg-logo="https://i.imgur.com/63s1k43.png" group-title="MUSICA", Portal FoxMix | HD
-https://panel.tvstream.cl:1936/8040/8040/chunklist_w1797192962.m3u8
+https://panel.tvstream.cl:1936/8040/8040/chunklist_w563476461.m3u8
 
 #EXTINF:-143 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
@@ -456,7 +456,7 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-480.m3u8
 
 #EXTINF:-153 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-betis-tv-872.png" group-title="DEPORTES",Betis Sport | HD
-https://betistv-live.flumotion.com/KEhRMZoD_QnvAX9bS9w91Q/1688840292/betistv/live_all/playlist.m3u8
+https://betistv-live.flumotion.com/peWGv8jDyCnn_UP8nvWyiQ/1692008436/betistv/live_all/betistv/live_source/chunks.m3u8
 
 #EXTINF:-154 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSf7CQ9T3y1EHhCQ-iIOzVqdc2Urk0x9GEuIaKqLoLA9g&amp;s" group-title="DEPORTES", Las Palmas tv | HD
 https://cdn318.fractalmedia.es/live319/hls/cudtv/high/index.m3u8
@@ -476,8 +476,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080
 #EXTINF:-159 tvg-logo="https://i.imgur.com/tio3Wpw.png" group-title="ESPAÑA", 324 | SD
 https://directes-tv-int.ccma.cat/live-origin/canal324-hls/master.m3u8
 
-#EXTINF:-160 tvg-logo="https://www.radioladooscurotv.cl/wp-content/uploads/2021/05/cropped-logoweb-238x79.png" group-title="MUSICA",Radio Lado Oscuro TV | SD
-https://5cf4a2c2512a2.streamlock.net/8066/8066/chunklist_w347817601.m3u8
+#EXTINF:-160 tvg-logo="https://www.super949.com/Imagenes/Noticias/63/641b713105407_EL-LADO-OSCURO-DE-LA-LUNA-4.jpg" group-title="MUSICA",Radio Lado Oscuro TV | SD
+https://stmv2.zcasthn.com.br/cattotv/cattotv/chunklist_w416318859.m3u8
 
 #EXTINF:-161 tvg-logo="https://i2.paste.pics/dd681ddc5d29baacd3d2c2935b51e8ef.png" group-title="MUSICA",House music TV  | SD
 https://stmv2.zcasthn.com.br/cattotv/cattotv/playlist.m3u8
@@ -552,7 +552,7 @@ https://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1095109692_b
 https://wowza.telpin.com.ar:1935/telpintv/ttv.stream.smil/.m3u8
 
 #EXTINF:-185 tvg-logo="https://i.imgur.com/oAdVLb8.png" group-title="MUSICA", Music Top | HD
-https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
+https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w957425886_b964000_sleng.m3u8
 
 #EXTINF:-186 tvg-logo="https://i.imgur.com/rZuWrF8.png" group-title="ARGENTINA", Power HD | HD
 https://live2.tensila.com/1-1-1.power-tv/hls/live/mystream.m3u8
@@ -588,7 +588,7 @@ https://streamcdnc2-4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uh
 https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w1746248369_b750000.m3u8
 
 #EXTINF:-197 tvg-logo="https://i.imgur.com/xZSz9Yt.png" group-title="MUSICA", RETRO PLUS | HD
-https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w267082591.m3u8
+https://video06.logicahost.com.br/retroplussenal2/retroplussenal2/playlist.m3u8
 
 #EXTINF:-198 https://canalesdominicanos.live/template/images/radios/xtrata-tv.jpg group-title="REPUBLICA DOMINICANA", XTRA TV | SD
 https://cnn.essastream.com:3387/live/xtratvlive.m3u8
@@ -630,7 +630,7 @@ https://cloud7.streamingcnt.net/cnt/educa/playlist.m3u8
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
 #EXTINF:-211 tvg-logo="https://canalesdominicanos.live/template/images/radios/teve-musica.png" group-title="MUSICA",TU MUSICA HD
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+https://vdo2.streamgato.us:3886/stream/play.m3u8
 
 #EXTINF:-212 tvg-name="CHILE" tvg-logo="https://i.imgur.com/5WJjTY5.png" group-title="ARGENTINA",T13 | SD
 https://livetrx01.vodgc.net/eltrecetv/index.m3u8
@@ -678,7 +678,10 @@ https://rds3gen.desdeparaguay.net/unicanal/unicanal_baja/playlist.m3u8?k=ad2155e
 https://mitv.getstreamhosting.com:30443/live/livestream123/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.uestv.cl/wp-content/uploads/2018/06/logo.png" group-title="CHILE" , UesTV
-https://tls-cl.cdnz.cl/uestv/live/chunklist_w1188481689.m3u8
+https://tls-cl.cdnz.cl/uestv/live/chunklist_w1398232195.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="MUSICA" , PlanetaTV Music
+https://scl.edge.grupoz.cl/music/live/chunklist_w262960935.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="ECUADOR" , NOVELAS INOLVIDABLES
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
@@ -690,7 +693,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&avod=1&coppa=0&is_lat
 https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
 
 #EXTINF:-1 tvg-logo="https://image.roku.com/developer_channels/prod/d8520391d9008e9c84d39705b8b6364bfb5fa7dafa7c65c90b3f77bd5f1495d5.png" group-title="MUSICA" , Panavision tv
-https://vcp.myplaytv.com/panavision/panavision/chunklist_w2136190586.m3u8
+https://vcp.myplaytv.com/panavision/panavision/chunklist_w1472037853.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.googleusercontent.com/ytc/AGIKgqPkLTP-OsKtVYyuf9h2B3lSo60bvLfSFSf7RE_W=s176-c-k-c0x00ffffff-no-rj" group-title="INFANTIL" , CINE KIDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3506&amp;avod=1&amp;coppa=1&amp;is_lat=1&amp;dnt=1&amp;us_privacy=1---&amp;did=00000000-0000-0000-0000-000000000000&amp;app_bundle=com.canela.ott&amp;app_store_url=https%3A%2F%2Fwww.canela.tv%2Fdevices&amp;app_domain=canela.tv&amp;app_name=canelatv&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=canelatv&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=en&amp;consent=1&amp;gdpr=0&amp;site_page=https%253a%252f%252fwww.canela.tv%252f%253fsection%253dcanelakids&amp;livestream=1&amp;custom_param_0=&amp;custom_param_1=desktop&amp;custom_param_2=&amp;custom_param_3=&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%2520America&amp;timestamp=1668801950&amp;id=38022&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;deliveryProfileId=23762&amp;sign=nBorcNW3BC27mjTSRrEJKYjD5DtGQPsXrkZIv6Nt4a8%3D
@@ -711,7 +714,7 @@ http://stream.zeno.fm/64nxbrzhsuhvv
 https://vdo.grupolimalive.com:3976/live/fuegotvlive.m3u8
 
 #EXTINF:-1  group-title="CHILE" , INT Hispantv
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b394100_slen.m3u8
+https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b720000.m3u8
 
 #EXTINF:-1 group-title="CHILE" , VIVA MOVIL 2 TV
 https://5d8d85cf2c308.streamlock.net:1936/AlcalaTV/endirecto/playlist.m3u8
@@ -978,261 +981,70 @@ http://bgtv.site/play/23-847.php? a=75&token=ninguno
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3sJyIQGAqEySHiAKToGFePN0kYVB1GenjGadibVMvwPoHpa2WGvBvUiHkmAynPjfzIk&usqp=CAU"  group-title="Lista 2",AZ Corazon 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
+#EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/3b72aa2/2147483647/strip/true/crop/996x478+0+0/resize/928x445!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F3a%2F97274f9d42e89c1f5028ac7f5bab%2Fded.jpg" group-title="Lista 2", AZTC UNO
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
 
 #EXTINF:-1 tvg-shift="-3" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="Lista 2",Baby TV 
 http://bgtv.site/play/23-847.php?a=60&token=ninguno   
  
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Baby First 
-http://bgtv.site/play/23-847.php?a=150&token=ninguno 
-
-#EXTINF:-1 tvg-shift=" -3" group-title="Lista 2",BBC América (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=166&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Bein Sports Esp 
-http://bgtv.site/play/23-847.php?a= 176&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Bravo (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=192&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CBS Sports Network (EE. UU.) 
-http://bgtv.site/play/23-847.php?a=161&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",CNN Internacional 
-http://bgtv.site/play/23-847.php?a=92&token=ninguno 
-
-#EXTINF:-1 tvg -shift="-3" group-title="Lista 2",CO: Caracol 
-http://bgtv.site/play/23-847.php?a=157&token=ninguno 
-
-#EXTINF:-1 tvg-shift=" -3" group-title="Lista 2",CO: Caracol 
-http://bgtv.site/play/23-847.php?a=226&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DAZN 3 
-http://bgtv.site/play/23-847.php?a=205&token =ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",DAZN 4 
-http://bgtv.site/play/23-847.php?a=211&token=ninguno 
-
-#EXTINF: -1 tvg-shift="-3" group-title="Lista 2",Descubrimiento Turbo 
-http://bgtv.site/play/23-847.php?a=230&token=ninguno 
-
-#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Discovery Kids 
-http://bgtv.site/play/23-847.php?a=210&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Discovery Science 
-http://bgtv.site/play/23-847.php?a=216&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Discovery Theatre 
-http://bgtv.site/play/23-847.php?a=217&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery TLC 
-http://bgtv.site/play/23-847.php?a=124&token =ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Discovery Turbo 
-http://bgtv.site/play/23-847.php?a=229&token=ninguno 
-
-#EXTINF: -1 tvg-shift="-3" group-title="Lista 2",El Gourmet 
-http://bgtv.site/play/23-847.php?a=219&token=ninguno 
-
-#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",ES: Antena 3 
-http://bgtv.site/play/23-847.php?a=96&token=ninguno 
-
-#EXTINF:-1 tvg-shift="- 3" group-title="Lista 2",ES: Movistar Drama 
-http://bgtv.site/play/23-847.php?a=146&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group -title="Lista 2", ESPN (EE. UU.) 
-http://bgtv.site/play/23-847.php?a=167&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 
-http://bgtv.site/play/23-847.php?a=35&token= ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",ESPN 2 
-http://bgtv.site/play/23-847.php?a=36&token=ninguno 
-
-#EXTINF:- 1 tvg-shift="-3" group-title="Lista 2", ESPN 2 US 
-http://bgtv.site/play/23-847.php?a=37&token=ninguno 
-
-#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Eurosport 2 
-http://bgtv.site/play/23-847.php?a=141&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Eurosports 
-http://bgtv.site/play/23-847.php?a=206&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", FOX (EE. UU.) 
-http://bgtv.site/play/23-847.php?a=168&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Fox Deportes 
-http://bgtv.site/play/23-847.php?a=38&token=ninguno 
-
-#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Fox Sports Premium 
-http://bgtv.site/play/23-847.php?a=69&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3 " group-title="Lista 2",Fox Sport (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=221&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" grupo -title="Lista 2",Fox Sport 2 (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=222&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" grupo- title="Lista 2",Fox Sports 
-http://bgtv.site/play/23-847.php?a=40&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2 "Fox Sports 
-http://bgtv.site/play/23-847.php?a=42&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",FX 
-http://bgtv.site/play/23-847.php?a=70&token=ninguno 
-
-#EXTINF:-1 tvg-shift= "-3" group-title="Lista 2",Galavision (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=174&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3 " group-title="Lista 2",Garage TV 
-http://bgtv.site/play/23-847.php?a=184&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title= "Lista 2", Golden 
-http://bgtv.site/play/23-847.php?a=181&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",GolTV 
-http://bgtv.site/play/23-847.php?a=208&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 
-http://bgtv .site/play/23-847.php?a=72&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO 2 (EE. UU.) 
-http://bgtv.site/play/23-847.php?a=223&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Family 
-http://bgtv.site/play/23-847.php?a=73&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Family (EE. UU.) 
-http: //bgtv.site/play/23-847.php?a=224&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Plus 
-http://bgtv.site /play/23-847.php?a=215&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HBO Signature 
-http://bgtv.site/play/23- 847.php?a=182&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",HGTV (EE.UU.) 
-http://bgtv.site/play/23-847.php ?a=225&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Investigation Discovery 
-http://bgtv.site/play/23-847.php?a=220&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",IZZI Aficionados 
-http://bgtv.site/play/23 -847.php?a=43&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Lifetime (USA) 
-http://bgtv.site/play/23-847. php?a=193&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Milenio TV 
-http://bgtv.site/play/23-847.php?a=88&token =ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MLB NETWORK (EE. UU.) 
-http://bgtv.site/play/23-847.php?a=188&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MTV Hits 
-http://bgtv.site/play/23-847.php?a=94&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",MTV Live 
-http://bgtv.site/play/23-847.php?a=108&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Multimedios MTY 
-http://bgtv.site/play/23-847.php?a=89&token =ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",NBC NY (EE. UU.) 
-http://bgtv.site/play/23-847.php?a=164&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",NBC Universo (USA) 
-http://bgtv.site/play/23-847.php?a=165&token=ninguno 
-
-#EXTINF :-1 tvg-shift="-3" group-title="Lista 2",Nick Jr 
-http://bgtv.site/play/23-847.php?a=64&token=ninguno 
-
-#EXTINF:-1 tvg- shift="-3" group-title="Lista 2",Once TV 
-http://bgtv.site/play/23-847.php?a=111&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3 " group-title="Lista 2",Showtime (EE. UU.) 
-http://bgtv.site/play/23-847.php?a=189&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Sony 
-http://bgtv.site/play/23-847.php?a=53&token= ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Starz (USA) 
-http://bgtv.site/play/23-847.php?a=190&token=ninguno 
-
-#EXTINF :-1 tvg-shift="-3" group-title="Lista 2",SYFY 
-http://bgtv.site/play/23-847.php?a=80&token=ninguno 
-
-#EXTINF:-1 tvg-shift ="-3" grupo-title="Lista 2",Telecinco 
-http://bgtv.site/play/23-847.php?a=203&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" grupo -title="Lista 2",Telecinco 2 
-http://bgtv.site/play/23-847.php?a=207&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" grupo-title="Lista 2", Telehit 
-http://bgtv.site/play/23-847.php?a=95&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Telemundo 
-http://bgtv.site/play/23-847.php?a=155&token=ninguno 
-#EXTINF:-1 tvg-shift= "-3" grupo-titulo="Lista 2",Televisa MTY 
-http://bgtv.site/play/23-847.php?a=143&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" grupo -title="Lista 2",Tennis Channel (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=171&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title ="Lista 2",TNT 
-http://bgtv.site/play/23-847.php?a=57&token=ninguno 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", TNT (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=172&token=ninguno 
- 
 #EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Toros TV 
 https://nodo-01.streaming.eltorotv.com:8081/streaming-web-eltorotv/index.m3u8 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",UFC TV 
-http://bgtv.site/play/23-847.php?a=47&token=ninguno 
+#EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
+https://canal.mediaserver.com.co:8088/live/telemusica.m3u8
 
-#EXTINF:-1 tvg-shift ="-3" group-title="Lista 2",Univision (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=173&token=ninguno 
+#EXTINF:-1 group-title="MUSICA" tvg-id="22" tvg-name="Video Tour Channel" tvg-logo="https://lh3.googleusercontent.com/-QUz4UviUPiE/X3YnewzIm7I/AAAAAAAA6Ho/xpUvyAvSX6Qj0Lvl8qhuZnDdz9VPZWy4QCK8BGAsYHg/s0/2020-10-01.png", Video Tour Channel
+https://59ef525c24caa.streamlock.net/videotour/videotour/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="- 3" group-title="Lista 2",USA Network (EE.UU.) 
-http://bgtv.site/play/23-847.php?a=191&token=ninguno 
+#EXTINF:-1 group-title="MUSICA" tvg-id="19" tvg-name="TV Exitos" tvg-logo="https://lh3.googleusercontent.com/-BET4REPGZKQ/X96Yzr-NKCI/AAAAAAAA8Wo/jNg4hNxYQP0gmIeRnv8mBt4_GfNyGkGnQCK8BGAsYHg/s0/2020-12-19.png", TV Exitos
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2", Canal Warner 
-http://bgtv.site/play/23-847.php?a=59&token=ninguno
+#EXTINF:-1 group-title="MUSICA" tvg-id="42" tvg-name="RadioTV.pro" tvg-logo="https://lh3.googleusercontent.com/-wwOQH4WvSZI/X5jEE-BBCmI/AAAAAAAA6y4/RgkfOZHscEIH9ceLQR6UPtuXQQUw0FXCACK8BGAsYHg/s0/2020-10-27.png", RadioTV.pro
+https://paneltv.online:1936/radiotv/radiotv/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Warner Channel 
-http://bgtv.site /play/23-847.php?a=59&token=ninguno
+#EXTINF:-1 group-title="MUSICA" tvg-id="30" tvg-name="Ibiza Global TV" tvg-logo="https://lh3.googleusercontent.com/-7rDHdedeWvo/Xmr-CC8Pa2I/AAAAAAAAwyI/X8CvdyCJtdQZutdQi2clULPfWJH0c8S3QCK8BGAsYHg/s0/2020-03-12.png", Ibiza Global TV
+https://nodo04-cloud01.streaming-pro.com/ibgrtv/hls/ibgrlive_2.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-id="21" tvg-name="Retro Music Television" tvg-logo="https://lh3.googleusercontent.com/-z4SQcFR0bIs/Xs_MlInCKMI/AAAAAAAA1QM/T2RR2owl_CYpymBiQ8lOi1ykYZVAwI6NACK8BGAsYHg/s0/2020-05-28.png", Retro Music Television
+https://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Mariavision.mx" tvg-name="María Visión" tvg-logo="https://platcon.tv/img/p/3/6/6/366-thickbox_default.jpg" group-title="RELIGIÓN",María Visión
+https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="MEXICO",Canal Catorce
+https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
 
-#EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico movies| HD
+#EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico | HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
 
-#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/3d5Enbpx7sMOp8cM7J4chyjk8SM=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11614195/InfinityWar5aabd55fed5fa.jpg" type="movie" group-title="PELÍCULAS", Vengadores: Endgame | Dakota del Sur
-https://cloclo56.cloud.mail.ru/videowl/view/nNuxpkVn1wmi6j1tg9E_dde379f95ee91e17dd3f8fa6063b912b/g/no/0p/M3lxRi9FdWpHM3pMS0Y=.m3u8?double_encode=1
+#EXTINF:-1 tvg-logo="https://cdn.vox-cdn.com/thumbor/3d5Enbpx7sMOp8cM7J4chyjk8SM=/1400x0/filters:no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11614195/InfinityWar5aabd55fed5fa.jpg" type="movie" group-title="PELICULAS", Vengadores: Endgame | 2022
+https://cloclo61.cloud.mail.ru/videowl/view/T6248PxA12RqzoJx5fo_4a4651c466a4ee016dfb6ffb8c7523cf/g/no/240p_1/M3lxRi9FdWpHM3pMS0Y=.m3u8?double_encode=1
 
 #EXTINF:-1 tvg-logo="https://play-lh.googleusercontent.com/zQdv0iWzcTsQaX83Kn-63dUlxHmWfa-xG584_eHk3SYoZMwodsV_VYz8Y6aFjLAnrwoq"group-title="PELICULAS",CHUCKY  | SD
 https://is.gd/fDEYM2
 
-#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"type=" movie" group-title="PELICULAS",Viuda Negra movies  | SD
-https://cloclo21.cloud.mail.ru/videowl/view/2pN16Js68cAXNjepSxZC_af5d4b6abaa50bab61177f2a46502cf4/g/no/0p/NW9rci9GaFFOUEExOHI=.m3u8?double_encode=1            
+#EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/Viuda_negra-372790622-large.jpg"type=" movie" group-title="PELICULAS",Viuda Negra  | SD
+https://cloclo50.cloud.mail.ru/videowl/view/26Ebdkmp355pN7RvC2zu_8770a3cfc7df1f26871f102e59d79db8/g/no/240p_1/d1paZC9xZzgyNTJZaUw=.m3u8?double_encode=1
              
-#EXTINF:-1 tvg-id="HD(HANSEL Y GRETEL).eu" tvg-name="HANSEL Y GRETEL (HD)" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/21/74/20333302.jpg" type="movie" group-title="PELICULAS",Hansel y Grete movies| (HD
+#EXTINF:-1 tvg-id="HD(HANSEL Y GRETEL).eu" tvg-name="HANSEL Y GRETEL (HD)" tvg-logo="https://es.web.img3.acsta.net/c_310_420/medias/nmedia/18/93/21/74/20333302.jpg" type="movie" group-title="PELICULAS",Hansel y Grete| (HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_jsaw4vy3/format/applehttp/protocol/https/flavorIds/1_5km6q5i6,1_t72olw41,1_dwilknyq,1_ngdt4ja6,1_vlcpc7up,1_hlhjmtcj/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242841&amp;id=2926&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=oAttZ5UiwSkHsPY8ipnJjFZXv4Y9ETkaFZwKltJbMio%3D&amp;playSessionId=70be76fc-fa33-4fac-fd1d-25f4614f0eef:3a58afe0-e9c1-ae0d-b305-5cf29be74a1c&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2hhbnNlbC15LWdyZXRlbA==&amp;clientTag=html5:v7.56
 
-#EXTINF:-1 tvg-id="LasEstrellas.mx" tvg-name=" Policia del Futuro (HD)" tvg-logo="https://pics.filmaffinity.com/Timecop_Polic_a_del_futuro-852894609-large.jpg" type="movie" group-title="PELICULAS",Policia del Futuro movies| (HD
+#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/medias/nmedia/18/68/02/35/20420666.jpg " type="movie" group-title="PELICULAS",Policia del Futuro| (HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_lrkxtsg6/format/applehttp/protocol/https/flavorIds/1_8gsovft3,1_269qrewm,1_eheoi1wy,1_967x5hrg,1_ascptzrh,1_gxsqmml7,1_c0iwqrtn/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672159646&amp;id=6310&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=8ufm%2BRJ7r5pDOKMx9PDSpadG6Mhty68l4o%2BTSKwHQRU%3D&amp;playSessionId=e2c4ca47-69ba-6ff7-21c1-abf6337dd44e:cfe59012-9926-add8-f9d3-8a418ff494da&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RpbWVjb3AtcG9saWNpYS1kZWwtZnV0dXJv&amp;clientTag=html5:v7.56
 
-#EXTINF:-1 tvg-id="El Cuervo 3.eu" tvg-name="El Cuervo 3 (HD)" tvg-logo="https://m.media-amazon.com/images/I/71Eu7KRRdTL._SL1226_.jpg" type="movie" group-title="PELICULAS",El Cuervo 3 movies| (HD)
+#EXTINF:-1 tvg-id="El Cuervo 3.eu" tvg-name="El Cuervo 3 (HD)" tvg-logo="https://m.media-amazon.com/images/I/71Eu7KRRdTL._SL1226_.jpg" type="movie" group-title="PELICULAS",El Cuervo 3| (HD)
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_pdd1dvc6/format/applehttp/protocol/https/flavorIds/1_e441qelm,1_nkwd1fs4,1_d8gae1n7,1_7jf8uf7f,1_6bkuqw1s,1_48hcg0kw,1_u4fhmrie/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672160559&amp;id=5943&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=sLzPd1Al4FTwFsrQ%2BBGSHQfaYMsv4249Ja8%2B5AZ0yO0%3D&amp;playSessionId=b51f3a58-edce-009c-4f26-f053e4f8ec97:6461a2d4-5c03-3f12-a9d3-88fb77f3d882&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2VsLWN1ZXJ2by0z&amp;clientTag=html5:v7.56
 
-#EXTINF:-1 tvg-id="El monje.eu" tvg-name="El monje (HD)" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/02/13/35/020996.jpg" type="movie" group-title="PELICULAS",El monje movies| HD
+#EXTINF:-1 tvg-id="El monje.eu" tvg-name="El monje (HD)" tvg-logo="https://es.web.img2.acsta.net/pictures/14/04/02/13/35/020996.jpg" type="movie" group-title="PELICULAS",El monje| HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_osi3zij8/format/applehttp/protocol/https/flavorIds/1_ze0hewb0,1_yoe7r29m,1_loycjvqn,1_jt2n7gk3,1_n2n2xqey,1_j1rlhl3f,1_5qq4wr2a/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672242951&amp;id=6282&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=SP0thSxR97yeaStM3VwxFZIK0f9tp%2BzWX8ZeEylbRCo%3D&amp;playSessionId=f04e79e3-c867-99d7-4061-d236e4bad6d4:2a771962-4e90-4d88-8793-5881a47594b8&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL2VsLW1vbmpl&amp;clientTag=html5:v7.56
 
-#EXTINF:-1 tvg-id="Trinidad.eu" tvg-name="Trinidad (HD)" tvg-logo="https://www.pantalla90.es/wp-content/uploads/2017/01/gchgkMYAVH2GiEQUYO1Wq6sN4mt.jpg" type="movie" group-title="PELICULAS",TRINIDAD movies| HD
+#EXTINF:-1 tvg-id="Trinidad.eu" tvg-name="Trinidad (HD)" tvg-logo="https://www.pantalla90.es/wp-content/uploads/2017/01/gchgkMYAVH2GiEQUYO1Wq6sN4mt.jpg" type="movie" group-title="PELICULAS",TRINIDAD | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z3E0ei9TTjhxRmNqVEY=.m3u8?double_encode=1
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/15/03/17/13/02/022315.jpg" type="movie" group-title="PELICULAS",Zapatero su Zapatos | (HD)
@@ -1241,7 +1053,7 @@ https://ia802802.us.archive.org/11/items/pwpwddsndbxbxjdklzbzkskxjzxncjcnfjxjdjh
 #EXTINF:-1 tvg-id="Zona 414.eu" tvg-name="Zona 414 (HD)" tvg-logo="https://www.lavanguardia.com/peliculas-series/images/movie/poster/2021/9/w1280/tTuduA578eoIwwztWsLJJYZr6E5.jpg" type="movie" group-title="PELICULAS",Zona 414 | (HD)
 https://wvpmla.sn.files.1drv.com/y4m_w_wuU9SUT7qhhBz_AAm_QJD-nyACppTmrheR3WnzMnmxfaoL58zkz7qRzoliBaSodtemhdQFcZangmAld9QQuiBZvfzDCewFFyB_6CWJaoB1TIHUkjF2x_rAACVbHwzuRlmGI_MQM3JHs3yCMdIsk3HMwTKarMJT6XZQDiqFNEmU-TEiHG1b3CNkuQVKPPRXEJaXS3ZqlQc-8A6BEBhYg?
 
-#EXTINF:-1 tvg-id="Zunbecia.eu" tvg-name="Zunbecia (HD)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/27d69bceca3d9008c136834fb45f7a179acd6a4bc5d5d6092cf05c003438789f._RI_V_TTW_.jpg" group-title="PELICULAS",Zunbecia movies| HD
+#EXTINF:-1 tvg-id="Zunbecia.eu" tvg-name="Zunbecia (HD)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/27d69bceca3d9008c136834fb45f7a179acd6a4bc5d5d6092cf05c003438789f._RI_V_TTW_.jpg" group-title="PELICULAS",Zunbecia | HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_9n1wt2hq/format/applehttp/protocol/https/flavorIds/1_6mdbd9qx,1_y4ttoqk1,1_zunkew17,1_szuam83z,1_yz7mc9kp,1_hjkkwivn,1_j3rp0818/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1672067281&amp;id=621&amp;ip=157.100.59.47&amp;override_expiration=1500&amp;sign=PNyFyEhHLntkRdW1wnhmJgLSYZwOABCi%2BxzGVvnMY6w%3D&amp;playSessionId=b5870f77-a06a-fae6-f9cd-8cb140eddc1d:a67ab137-8d64-6004-fef8-a8c687369ded&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3phbWJlemlh&amp;clientTag=html5:v7.56
 
 #EXTINF:-1 tvg-id="Alerta Roja.eu" tvg-name="Alerta Roja (HD)" tvg-logo="https://www.mujerde10.com/wp-content/uploads/2021/11/portada-m10-9.jpg" type="movie" group-title="PELICULAS",Alerta Roja movies| HD
@@ -1250,10 +1062,10 @@ https://cloclo58.cloud.mail.ru/videowl/0p/d1paZC9xZzgyNTJZaUw=.m3u8?double_encod
 #EXTINF:-1 tvg-id="Gato con Botas.eu" tvg-name="Gato con Botas (HD)" tvg-logo="https://images-na.ssl-images-amazon.com/images/S/pv-target-images/fe190e33b1a80b175f28715aac47fcddbc10c2ebbff1cc5c9d7b5d5bf1b3a472._RI_V_TTW_.jpg" type="movie" group-title="PELICULAS" ,Gato con Botas movies| HD
 https://xppmla.sn.files.1drv.com/y4mBn_0yrZP8uTP9A1Nq7uhVH3pY3Iua3dptTu8zsV88hvvbiTBW1RXRJSB6K61wIjm4Nb4-usz0aG9rNeHNmgng4bRwp5gWBwmlxLmmECq4gvdnUxHjo4It1-NyNPWLb_Gtx0qxkswx-tFYpiSzLltD9gtB4YtzLFeS3-MB05h_gpG-DvMNZ7EnEXZ_f1_MAjgKDSm4crC9_90tcr0pdmXSQ?
 
-#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/10/14/noticias/1634197816_237379_1634197975_noticia_normal.jpg" type="movie" group-title="PELICULAS" , VENON 2 movies| HD
+#EXTINF:-1 tvg-logo="https://as01.epimg.net/meristation/imagenes/2021/10/14/noticias/1634197816_237379_1634197975_noticia_normal.jpg" type="movie" group-title="PELICULAS" , VENON 2| HD
 https://cloclo53.cloud.mail.ru/videowl/0p/QXBWVS9BWkUyd0hBRjM=.m3u8?double_encode=1
 
-#EXTINF:-1  type="movie" group-title="PELICULAS"tvg-logo="https://image.tmdb.org/t/p/w500/jLKdbksOvi5cDqUhwXdIpeLpKki.jpg",El poder del talismán (2003) 
+#EXTINF:-1  type="movie" group-title="PELICULAS"tvg-logo="https://prod-ripcut-delivery.disney-plus.net/v1/variant/star/6DB508D11D0235D7B92C60495DE9AFB7E0EE7C16CDF0464AFC68F65164AD193A/scale?width=506&aspectRatio=2.00&format=jpeg",El poder del talismán (2003) 
 http://vod.tuxchannel.mx/peliculas/720/the%20medallion.mkv 
 
 #EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://image.tmdb.org/t/p/w500/ode14q7WtDugFDp78fo9lCsmay9.jpg",Maze Runner 1 (2014) 
@@ -1753,12 +1565,6 @@ http://144.217.70.79/VODS-M/1080P/Django%201966.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8iJPxfZUIXEBCioJGvNyohyW8Uw.jpg" group-title="PELICULAS" type="movie" , Diablo (2015) 
 http://144.217.70.79/VODS-M/1080P/Diablo%202015.mkv 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/7ueB7Kxq2GObp5aDw6rsdzVefzP.jpg" group-title="PELICULAS" type="movie" , Stray (2019) 
-http://144.217.70.79/VODS-M/1080P/Stray%202019.mp4 
- 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/zBhv8rsLOfpFW2M5b6wW78Uoojs.jpg" group-title="PELICULAS" type="movie" , Hustlers (2019) 
-http://144.217.70.79/VODS-M/1080P/Hustlers%202019.mp4 
  
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/wQ53sO5n9LCFbssV3oQ4CuajL1L.jpg" group-title="PELICULAS" type="movie" , Aliens (1986) 
 http://144.217.70.79/VODS-M/1080P/Aliens%201986.mp4 
@@ -1771,10 +1577,7 @@ http://144.217.70.79/VODS-M/1080P/It%20Chapter%20Two%202019.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mbm8k3GFhXS0ROd9AD1gqYbIFbM.jpg" group-title="PELICULAS" type="movie" , The irishman (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20irishman%202019.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg" group-title="PELICULAS" type="movie" , Bird box (2018) 
-http://144.217.70.79/VODS-M/1080P/Bird%20box%202018.mp4 
- 
+  
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/pSMcNOpihv6U4JlNAaxfbl2qUj7.jpg"group-title="PELICULAS" type="movie" , We the animals (2018) 
 http://144.217.70.79/VODS-M/1080P/We%20the%20animals%202018.mp4 
 
@@ -1790,15 +1593,9 @@ http://144.217.70.79/VODS-M/1080P/The%20knight%20before%20christmas%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/8NwONmcJmPr0w9A176JorJ3tbJx.jpg"group-title="PELICULAS" type="movie" , The Goldfinch (2019) 
 http://144.217.70.79/VODS-M/1080P/The%20Goldfinch%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rip0qOXFhHepelTfqkLAK6cKKje.jpg"group-title="PELICULAS" type="movie" , Let it snow (2019) 
-http://144.217.70.79/VODS-M/1080P/Let%20it%20snow%202019.mp4 
- 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/iSFtZ7m3y7VE2AsOE4ICprOo5o8.jpg"group-title="PELICULAS" type="movie" , House Arrest (2019) 
 http://144.217.70.79/VODS-M/1080P/House%20Arrest%202019.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/npOXWVoZyl8UrF2wtByHtfmsWSX.jpg"group-title="PELICULAS" type="movie" , Alvin and the Chipmunks Chipwrecked (2011) 
-http://144.217.70.79/VODS-M/1080P/Alvin%20and%20the%20Chipmunks%20Chipwrecked%202011.mkv 
- 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/q125RHUDgR4gjwh1QkfYuJLYkL.jpg"group-title="PELICULAS" type="movie" , Klaus (2019) 
 http://144.217.70.79/VODS-M/1080P/Klaus%202019.mp4 
 
@@ -1829,9 +1626,6 @@ http://144.217.70.79/VODS-M/1080P/Killers%20anonymous%202019.mp4
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/jazoSkOHR1H5X4ILIJBN1UfcEyA.jpg"group-title="PELICULAS" type="movie" , The Ladybug (2018) 
 http://144.217.70.79/VODS-M/1080P/The%20Ladybug%202018.mp4 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/kNjEmQGBm9cYqTB03r6yECozQyW.jpg"group-title="PELICULAS" type="movie" , Scary stories to tell in the dark (2019) 
-http://144.217.70.79/VODS-M/1080P/Scary%20stories%20to%20tell%20in%20the%20dark%202019.mp4 
- 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/4YrVrPfMEqtFsLmN4HdzERjbveo.jpg"group-title="PELICULAS" type="movie" , Lying and Stealing (2019) 
 http://144.217.70.79/VODS-M/1080P/Lying%20and%20Stealing%20%202019.mp4 
 
@@ -1901,7 +1695,7 @@ http://144.217.70.79/VODS-M/1080P/Street%20Fighter%201994.mkv
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/rEqrwFt5xTsJozD2avYeprzYXVf.jpg"group-title="PELICULAS" type="movie" , The Prophecy 3 The Ascent (2000) 
 http://144.217.70.79/VODS-M/1080P/The%20Prophecy%203%20The%20Ascent%202000.mkv 
 
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1RxhzwFkAUqMt215Brb06u8P8pn.jpg" type="movie"group-title="PELICULAS" , In the tall grass (2019) 
+#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/1RxhzwFkAUqMt215Brb06u8P8pn.jpg" type="movie"group-title="PELICULAS" , En la hierba alta (2019) 
 http://144.217.70.79/VODS-M/1080P/In%20the%20tall%20grass%202019.mp4 
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/mKxpYRIrCZLxZjNqpocJ2RdQW8v.jpg" type="movie"group-title="PELICULAS" , Crawl (2019) 
@@ -2111,14 +1905,11 @@ https://archive.org/download/01_20230602_20230602/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
 https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo=",El último vagón ",El último vagón (2023) 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/El_aultimo_vagaon-705048407-large.jpg ",El último vagón (2023) 
 https://archive.org/download/01_20230602_20230602_2139/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
 https://archive.org/download/01_20230602_20230602_2101/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg", 0 Transformers: El despertar de las bestias 
-https://archive.org/download/01_20230609_202306/01.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4
@@ -2146,10 +1937,7 @@ http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://www.hellofriki.com/wp-content/uploads/2022/04/tw-37159.jpg",Mounstruos 
 http://208.88.245.85:80/nuevo/monstruos.2023dual.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://www.hellofriki.com/wp-content/uploads/2022/04/tw-37159.jpg",Mounstruos 
-http://208.88.245.85:80/nuevo/monstruos.2023dual.mkv 
-
+ 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//a7KyFMPXj0iY4EoLq1PIGU1WJPw.jpg",Flaminhot 
 http://208.88.245.85:80/nuevo/flaminhot.2023dual.mkv 
 
@@ -2220,18 +2008,13 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Rápidos y furiosos 10 (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20R%C3%A1pidos%20y%20furiosos%20X%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) (CAM) 
-http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv 
-
+ 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y Tina (2023) 
 http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//3IhGkkalwXguTlceGSl8XUJZOVI.jpg",Hypnotic (2023) (CAM) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Hypnotic%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
-https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jNO8smUkyNbL2t6HU6EBnJCSf6r.jpg",Un Año Inolvidable – Verano 2023 
 https://archive.org/download/01_20230609_20230609_2029/01.mp4 
@@ -2277,13 +2060,7 @@ http://208.88.245.85/nuevo/legofriends.nextchapter.dual2023.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//9aYflMUqFZo5zEbquNmVSQpFfby.jpg",Los blancos no saben saltar 
 http://208.88.245.85/nuevo/losblancos.nosabensaltar.dual2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//40UPlmnQcG71KSmjijksZjbsH2q.jpg",La usurpadora 
-http://208.88.245.85/nuevo/la.usurpadora2023.latino.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 
-http://208.88.245.85/nuevo/extraction.dual.2023.mkv 
-
+ 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//kL4GDXHnwknt5oyD9eyyi693gbB.jpg",Taz odisea por las hamburguesas 
 http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv 
 
@@ -2317,17 +2094,9 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8Vt6mWEReuy4Of61Lnj5Xj704m8.jpg",Spider-Man: Cruzando el Multiverso (2023) (CAM) 
-https://main.cinedecalidad.xyz/mexicanas/spiderverse.mkv 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers: El despertar de las bestias 
 https://archive.org/download/01_20230609_202306/01.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jNO8smUkyNbL2t6HU6EBnJCSf6r.jpg",Un Año Inolvidable – Verano 2023 
-https://archive.org/download/01_20230609_20230609_2029/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gA2emLQTNb8XS1646Nmhp91NNgv.jpg",Ricos de Amor 2 2023 
-https://archive.org/download/01_20230609_20230609/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023) 
 https://archive.org/download/01_20230602_20230602_1628/01.mp4 
@@ -2340,9 +2109,6 @@ http://208.88.245.85/nuevo/cuando.ellasquierenmas.2023dual.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//nRVnpz4dzRvknK0BANjJ76dP0D3.jpg",Big Mack gangsters 
 http://208.88.245.85/nuevo/bigmack.gangstersyoro.2023dual.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gwVAb3hMYl5F68mvKGl2eqDOj0G.jpg",Tin y tina 
-http://208.88.245.85/nuevo/tin.tina.2023.cast.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita 
 http://208.88.245.81/nuevo/la.sirenita.2023dual.mkv 
@@ -2383,9 +2149,6 @@ http://208.88.245.85/nuevo/ultimo.vagon.latino2023.mkv
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ofnOwcG9l1DuGl7vB45JHsfSlR6.jpg",Nada qué ver 
 http://208.88.245.85/nuevo/nadakver.latino2023.mkv 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 
-http://208.88.245.85/nuevo/fastfuriusx.dual.2023.mkv 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vjAMj81oYBryzGBhJk4gcK0M636.jpg",Sombras de un crimen 
 http://208.88.245.85/nuevo/marlowe.2023.dual.mkv 
 
@@ -2401,15 +2164,9 @@ http://208.88.245.81/nuevo/benditasuegra.latino.2023.mkv
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//j741ip55NOzabrllOXHJv2vpag7.jpg",Hasta la madre 
 http://208.88.245.85/nuevo/hastalam.dldia.dlamadre.latino.2023.mkv 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023) 
-https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 #EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//vZloFAK7NmvMGKE7VkF5UHaz0I.jpg",John Wick 4 (2023) https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20John%20Wick%204%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol_2.mp4 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//qNBAXBIQlnOThrVvA6mA2B5ggV6.jpg",Super Mario Bros: La película (2023) 
 https://od.lk/s/NV8xODUzNTIxNDZf/Super%20Mario%20Bros.%20La%20pel%C3%ADcula%20online%202023%20HD.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023) 
-https://od.lk/s/NV8xODU0MTg5MjBf/R%C3%A1pidos%20y%20furiosos%20X%20%282023%29%20Online.mp4 
-
+ 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La Sirenita (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20La%20sirenita%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
 
@@ -2425,7 +2182,8 @@ https://archive.org/download/01_20230520_20230520_2013/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1E5baAaEse26fej7uHcjOgEE2t2.jpg",Rápidos y furiosos 10 (2023) 
 https://objectstorage.sa-saopaulo-1.oraclecloud.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fmayo%2F8yjrxajwxw~clOrKvTtTh.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iKcnbqhKvlwfF4CnMVlRrYlOvM5.jpg",Air (2023) http://208.88.245.85/nuevo/air.2023.dual.mkv 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iKcnbqhKvlwfF4CnMVlRrYlOvM5.jpg",Air (2023) 
+http://208.88.245.85/nuevo/air.2023.dual.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/n8ZpMwYT02XjpQHpSxn1eJw5Zpz.jpg",Crater (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Cr%C3%A1ter%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
@@ -2586,7 +2344,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie (2023) (CAM) 
 https://main.cinedecalidad.xyz/mexicanas/barbie.mp4
 
-
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/21sRRZZ5lAYe1aLl9O0oz2qtXe0.jpg", Barbie (2023) 
 https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmFyYmllLTIwMjM= 
 
@@ -2602,7 +2359,14 @@ https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGE
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/sJsEfDT6OiG9FWmeVb9HWkAoJue.jpg", Man on the Edge (2022) 
 https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbWFuLW9uLXRoZS1lZGdl 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/vekDYxWUxuHPDrrVD2BtTOOyTFn.jpg", Girl With Iron Arms 3 (2022) https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZ2lybC13aXRoLWlyb24tYXJtcy0z #EXTINF:-1 group-title="Pelis 2" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/DDpLKrJahb6wexz4ssAOWLZMK6.jpg", Historias para no contar (2022) https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaGlzdG9yaWFzLXBhcmEtbm8tY29udGFy #EXTINF:-1 group-title="Pelis 2" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg", Amigos hasta la muerte (2023) https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYW1pZ29zLWhhc3RhLWxhLW11ZXJ0ZQ== 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/vekDYxWUxuHPDrrVD2BtTOOyTFn.jpg", Girl With Iron Arms 3 (2022) 
+https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvZ2lybC13aXRoLWlyb24tYXJtcy0z 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/DDpLKrJahb6wexz4ssAOWLZMK6.jpg", Historias para no contar (2022) 
+https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaGlzdG9yaWFzLXBhcmEtbm8tY29udGFy 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/jqSNWHKAmVudHhMDhUuV8qhSJLt.jpg", Amigos hasta la muerte (2023) 
+https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYW1pZ29zLWhhc3RhLWxhLW11ZXJ0ZQ== 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/irDu0rnlzTpl8RkOEl7XG2B88tJ.jpg", Lo desconocido La cueva de los huesos (2023) 
 https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG8tZGVzY29ub2NpZG8tbGEtY3VldmEtZGUtbG9zLWh1ZXNvcw== 
@@ -2660,3 +2424,149 @@ https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGE
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/p4aB6hbrH1Aqim2UkXlb6Jy4A6.jpg", Los futboleros (2007) 
 https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvbG9zLWZ1dGJvbGVyb3M= 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",Megalodón 2: La fosa (2023) 
+https://main.cinedecalidad.xyz/mexicanas/megalodon2.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1BNLHd8oKsy76FzvR9s3E5v8KO9.jpg",Hablame (2023) 
+https://main.cinedecalidad.xyz/mexicanas/talktome.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jUjg01KWd11nycbtXhJKghZFD7V.jpg",Mansion encantada (2023) 
+https://main.cinedecalidad.xyz/mexicanas/mansionencantada.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/NNxYkU70HPurnNCSiCjYAmacwm.jpg",Mision: Imposible - Sentencia mortal parte uno (2023) 
+https://main.cinedecalidad.xyz/mexicanas/mision7.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kSf9svfL2WrKeuK8W08xeR5lTn8.jpg",El sonido de la libertad (2023) 
+https://main.cinedecalidad.xyz/mexicanas/sonidodelibertad.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones y el dial del destino (2023) 
+https://main.cinedecalidad.xyz/mexicanas/indianajones.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pYwZdnXVnVxAr7dx4MEK7tTK9gI.jpg",Boogeyman: Tu miedo es real (2023) 
+https://main.cinedecalidad.xyz/mexicanas/boogeyman.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fiVW06jE7z9YnO4trhaMEdclSiC.jpg",Fast X (Rapidos y furiosos X) (2023) 
+https://main.cinedecalidad.xyz/mexicanas/fastx.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//4m1Au3YkjqsxF8iwQy0fPYSxE0h.jpg",Megalodón 2: El gran abismo (2023) 
+https://archive.org/download/01_20230804_20230804_1500/01.mp4
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/zdaU2jx0IS4lPpQs0mDBlLMO2b8.jpg",La rebelión (2019) 
+http://vod.tuxchannel.mx/peliculas/720/captive%20state%202019.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qBcIUgJmDGrcAKbhRwCd6AmO0ZW.jpg",Transformers 6 (2018) 
+http://vod.tuxchannel.mx/peliculas/720/bumblebee%202018.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tIpGQ9uuII7QVFF0GHCFTJFfXve.jpg",El niño 2 (2020) 
+http://vod.tuxchannel.mx/peliculas/720/brahms%20the%20boy%20II%202020.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gajva2L0rPYkEWjzgFlBXCAVBE5.jpg",Blade Runner 2049 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/blade%20runner%202049.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kt9nqD0uOar8IVE9191HXhWOXKI.jpg",Misión Babilonia (2008) 
+http://vod.tuxchannel.mx/peliculas/720/babylon%20a.d.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rmnQ9jKW72bHu8uKlMjPIb2VLMI.jpg",Baby Driver (2017) 
+http://vod.tuxchannel.mx/peliculas/720/baby%20driver.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/jRXYjXNq0Cs2TcJjLkki24MLp7u.jpg",Avatar 1 (2009) 
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",Avatar (2009) 
+http://vod.tuxchannel.mx/peliculas/720/avatar.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/nUEIwqzTWYvEJEcMkHZ8BAi2rL0.jpg",Autómata (2014) 
+http://vod.tuxchannel.mx/peliculas/720/automata.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7mlA2czXUhiB53huT9qu2vRJ36w.jpg",Attraction (2017) 
+http://vod.tuxchannel.mx/peliculas/720/attraction.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kV9R5h0Yct1kR8Hf8sJ1nX0Vz4x.jpg",Atomic Blonde (2017) 
+http://vod.tuxchannel.mx/peliculas/720/atomic%20blonde.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tI8ocADh22GtQFV28vGHaBZVb0U.jpg",Artemis Fowl (2020) 
+http://vod.tuxchannel.mx/peliculas/720/artemis%20fowl%202020.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/eTM3qtGhDU8cvjpoa6KEt5E2auU.jpg",Armageddon (1998) 
+http://vod.tuxchannel.mx/peliculas/720/armageddon.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cBFQsU1LDBEOl0Ik0cygeB6wCLE.jpg",Apocalypto (2006) 
+http://vod.tuxchannel.mx/peliculas/720/apocalypto.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/c9Nyu8YZfLsWWbze4DEGPbnwCcT.jpg",Amityville: El despertar (2017) 
+http://vod.tuxchannel.mx/peliculas/720/amityville%20the%20awakening.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ux4J06xWPuA1ALXzQD6mNalljTJ.jpg",Emboscada (2022) 
+http://vod.tuxchannel.mx/peliculas/720/american%20siege%202022.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rJOj0T5DyChfECevDg0xpEGznsl.jpg",Alien Warfare (2019) 
+http://vod.tuxchannel.mx/peliculas/720/alien_warfare_2019.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pe9mSStpQC2doKtYY3VDJdBEBHr.jpg",Alien Abduction (2014) 
+http://vod.tuxchannel.mx/peliculas/720/alien%20abduction.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fhyun1mja3WwQsYr1a3x1x9BttP.jpg",Aladdin (2019) 
+http://vod.tuxchannel.mx/peliculas/720/aladdin%202019.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/2Zn9yHhNlZmqfuKpBovQJ9RWIOr.jpg",Mas allá de la muerte (2009) 
+http://vod.tuxchannel.mx/peliculas/720/after%20life%202009.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iXMvYIlzzJBs352CfeiQcBvovZt.jpg",Después de la Tierra (2013) 
+http://vod.tuxchannel.mx/peliculas/720/after%20earth.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/4q2hz2m8hubgvijz8Ez0T2Os2Yv.jpg",Un lugar en silencio 2 (2021) 
+http://vod.tuxchannel.mx/peliculas/720/a%20quiet%20place%20part%20II%202021.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/d4fXuJS3zZcAZfz2HYDtnwqtnwn.jpg",La cura siniestra (2016) 
+http://vod.tuxchannel.mx/peliculas/720/a%20cure%20for%20wellness.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/96VOJmyoYEj9QvUfYJ1EElRhIjD.jpg",Un cuento de Navidad (1984) 
+http://vod.tuxchannel.mx/peliculas/720/a%20christmas%20carol%201984.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/7LwSrvFA0gz1KAlcrGcinoQPene.jpg",30 Días de oscuridad (2007) 
+http://vod.tuxchannel.mx/peliculas/720/30%20days%20of%20night.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sQckQRt17VaWbo39GIu0TMOiszq.jpg",28 Dias Exterminio (2012) 
+http://vod.tuxchannel.mx/peliculas/720/28%20days%20later.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ve72VxNqjGM69Uky4WTo2bK6rfq.jpg",2001: odisea del espacio (1968) 
+http://vod.tuxchannel.mx/peliculas/720/2001%20a%20space%20odyssey.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/48pWtaTngOHkq2xOc8pFAoro1fU.jpg",Armados y peligrosos (2013) 
+http://vod.tuxchannel.mx/peliculas/720/2%20guns.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",1922 (2017) 
+http://vod.tuxchannel.mx/peliculas/720/1922.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022) 
+http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023) 
+http://208.88.245.85/nuevo/sharper.2023.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un paraíso peligroso (2023) 
+http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023) 
+http://208.88.245.85/nuevo/narvik.2023.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023) 
+http://208.88.245.85/nuevo/malcriados.2023.latino.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El último baile de Magic Mike (2023) 
+http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023) 
+http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lwybGlEEJtXZM3ynY19PNwNlPn9.jpg",Historia de Honor (2022) 
+http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023) 
+http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",The Jack in the Box: El despertar (2022) 
+http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv 
+
+
