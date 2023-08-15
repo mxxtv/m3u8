@@ -945,9 +945,6 @@ https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg0056
 #EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="MEXICO",Las estrellas
 https://stream.ads.ottera.tv/cl/230811cjarmkhem6d29uvblttg/1280x720_3071200_0_f.m3u8?i=475_4827
 
-#EXTINF:-1 tvg-logo="https://www.televisiongratishd.com/img/distritocomedia.png" group-title="MEXICO" ,DISTRITO COMWDIA
-https://s01.castamp.com/live/Cleft7153/chunklist.m3u8?h=kVDgW8nZ-gYwP-xT7ZlxQA&e=1691757593&u=1ddaf8d31eb469afb51feebb18a64b8b&d=45_224_152_74
-
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/17cd416cd79c36ae1fafeacffa785512.webp" group-title="VENEZUELA" ,OXIGENO TV
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/chunklist_w265821761.m3u8
 
@@ -960,37 +957,16 @@ https://mdstrm.com/live-stream-playlist/636bd70b44680408872dbfc6.m3u8
 #EXTINF:-298 tvg-chno="294" tvg-id="Bolivia tv .es" tvg-name="Bolivia tv .ES" tvg-country="ES" tvg-lenguaje="spanish" group-title="BOLIVIA"  tvg-logo="https://abi.bo/images/Noticias/Deportes/dic-21/btv.jpg" audio-track="es",Bolivia tv | SD 
 https://5f2c1b0d880e5.streamlock.net/boliviatv2/videoboliviatv2/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://cdn.mitvstatic.com/channels/5c29bef8-5e12-4d4d-a09e-3c2907ba9ee6_m.jpg" group-title="Lista 2",A&E 
-http://bgtv. site/play/23-847.php?a=178&token=ninguno  
-
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://thumbs.dreamstime.com/z/m%C3%A1s-el-gran-grado-del-top-de-la-reacci%C3%B3n-de-la-cuenta-del-grado-35557012.jpg" group-title="Lista 2",A+ 
-http://bgtv.site/play/23- 847.php?a=113&token=ninguno
-
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/e/ea/ABC_logo_1968.png" group-title="Lista 2",ABC (USA) 
-http://bgtv.site/play/23-847.php ?a=159&token=ninguno
-
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://s.abcnews.com/images/US/2021_ABCNews_ShareTips_A_v01_KS_1632411223106_hpMain_16x9_1600.jpg" group-title="Lista 2",ABC News 
-http://bgtv.site/play/23-847.php?a=110&token=ninguno
-
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRK6RDfr3bUCRUPAl0O6c2uojvjp2srkzAIex-K1C7UD22eISOMAEE9gVXGcBDvU6VVJyw&usqp=CAU" group-title="Lista 2",Adrenalina Sport 
-http://bgtv.site/play/23 -847.php?a=140&token=ninguno  
- 
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Animal_Planet_logo.svg/2560px-Animal_Planet_logo.svg.png" group-title="Lista 2",Animal Planet 
-http://bgtv.site/play/23-847.php? a=75&token=ninguno
-
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3sJyIQGAqEySHiAKToGFePN0kYVB1GenjGadibVMvwPoHpa2WGvBvUiHkmAynPjfzIk&usqp=CAU"  group-title="Lista 2",AZ Corazon 
+#EXTINF:-1 tvg-shift="-3" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRN3sJyIQGAqEySHiAKToGFePN0kYVB1GenjGadibVMvwPoHpa2WGvBvUiHkmAynPjfzIk&usqp=CAU"  group-title="MEXICO",AZ Corazon 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-1 tvg-id="EWTN.mx" tvg-name="EWTN" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/ewtn.png" group-title="RELIGIÓN",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/3b72aa2/2147483647/strip/true/crop/996x478+0+0/resize/928x445!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F3a%2F97274f9d42e89c1f5028ac7f5bab%2Fded.jpg" group-title="Lista 2", AZTC UNO
+#EXTINF:-1 tvg-logo="https://tvazteca.brightspotcdn.com/dims4/default/3b72aa2/2147483647/strip/true/crop/996x478+0+0/resize/928x445!/format/jpg/quality/80/?url=http%3A%2F%2Ftv-azteca-brightspot.s3.amazonaws.com%2F02%2F3a%2F97274f9d42e89c1f5028ac7f5bab%2Fded.jpg" group-title="Mundo", AZTC UNO
 https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index_5.m3u8
 
-#EXTINF:-1 tvg-shift="-3" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png" group-title="Lista 2",Baby TV 
-http://bgtv.site/play/23-847.php?a=60&token=ninguno   
- 
-#EXTINF:-1 tvg-shift="-3" group-title="Lista 2",Toros TV 
+#EXTINF:-1 tvg-shift="-3" group-title="Mundo",Toros TV 
 https://nodo-01.streaming.eltorotv.com:8081/streaming-web-eltorotv/index.m3u8 
 
 #EXTINF:-1 group-title="MUSICA" tvg-id="36" tvg-name="Telemusica" tvg-logo="https://lh3.googleusercontent.com/-i9WwagfKEd0/Xkyj43nNFOI/AAAAAAAAwIM/KdtEMa1z7fIoleKmbrXFEU3N9ASWoq5IwCK8BGAsYHg/s0/2020-02-18.png", Telemusica
@@ -1016,6 +992,498 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Canal14.mx" tvg-name="Canal Catorce" tvg-logo="https://raw.githubusercontent.com/ivantapia882804/rasta12/main/Emblems/opma.png" group-title="MEXICO",Canal Catorce
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 01 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_01/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 02 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_02/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 03 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_03/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 04 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_04/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9qUv1a.png" group-title="Eventos", EVENTO 05 
+http://tv.teleclub.xyz/envivo/Eventos/EVENTO_05/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wx6s0Wq.jpg" group-title="INFANTIL", Cartoon Network 
+http://tv.teleclub.xyz/envivo/Infantil/CARTOON_NETWORK/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/84lq03p.jpg" group-title="INFANTIL", Disney Channel 
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_CHANNEL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9FOKuui.jpg" group-title="INFANTIL", Disney Jr 
+http://tv.teleclub.xyz/envivo/Infantil/DISNEY_JUNIOR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/I18tgBc.png" group-title="INFANTIL", Discovery Kids 
+http://tv.teleclub.xyz/envivo/Infantil/DISCOVERY_KIDS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GSclzOJ.jpg" group-title="INFANTIL", Nick 
+http://tv.teleclub.xyz/envivo/Infantil/NICK/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rhHtS3j.jpg" group-title="INFANTIL", Nick Jr 
+http://tv.teleclub.xyz/envivo/Infantil/NICK_JR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RO1czIu.png" group-title="INFANTIL", Tooncast 
+http://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u4sw0pf.png" group-title="INFANTIL", Bitme 
+http://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="INFANTIL", Cartoonito 
+http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P5WJMyI.png" group-title="INFANTIL", Boing 
+http://tv.teleclub.xyz/envivo/Infantil/BOING_TV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Retro-2023.png" group-title="Infantil", EnerGeek Retro 
+http://tv.teleclub.xyz/envivo/Infantil/ENERGEEK_RETRO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/s3VgvNM.png" group-title="Mundo", CNN en Español 
+http://tv.teleclub.xyz/envivo/Mundo/CNN_ESPANOL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MBBRBkz.png" group-title="Mundo", CNN 
+http://tv.teleclub.xyz/envivo/Mundo/CNN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9shfcbz.png" group-title="Mundo", Glitz 
+http://tv.teleclub.xyz/envivo/Mundo/GLITZ/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/qv3P4pm.png" group-title="Mundo", RT en Español 
+http://tv.teleclub.xyz/envivo/Mundo/RT_ESPANOL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2B8mCso.png" group-title="Mundo", Universo NBC 
+http://tv.teleclub.xyz/envivo/Mundo/UNIVERSO_NBC/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rQOOHA2.png" group-title="Mundo", MasChic 
+http://tv.teleclub.xyz/envivo/Mundo/MASCHIC/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo", Lifetime 
+http://tv.teleclub.xyz/envivo/Mundo/LIFETIME/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MLdfm8o.png" group-title="Mundo", ADN40 
+http://tv.teleclub.xyz/envivo/Mundo/ADN40/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rP8UBPq.png" group-title="Mundo", RCN 
+http://tv.teleclub.xyz/envivo/Mundo/RCN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WAZn1np.png" group-title="Mundo", Telefe 
+http://tv.teleclub.xyz/envivo/Mundo/TELEFE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/iGCVGEA.jpg" group-title="Mundo", HolaTV 
+http://tv.teleclub.xyz/envivo/Mundo/HOLATV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://logos-world.net/wp-content/uploads/2023/04/Las-Estrellas-Logo.png" group-title="Mundo", Las Estrellas 
+http://tv.teleclub.xyz/envivo/Mundo/LAS_ESTRELLAS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RPDq82Q.png" group-title="Mundo", Canal E! 
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_E/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6nPAF0Q.png" group-title="Mundo", Caracol TV 
+http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Ys31Rhw.png" group-title="Mundo", Telemundo 
+http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vpXleBr.png" group-title="Mundo", Azteca7 
+http://tv.teleclub.xyz/envivo/Mundo/AZTECA7/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sCMrEpW.png" group-title="Mundo", Univision 
+http://tv.teleclub.xyz/envivo/Mundo/UNIVISION/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0A0KkZ2.png" group-title="Mundo", Antena 3 
+http://tv.teleclub.xyz/envivo/Mundo/ANTENA3/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/skzoiz9.png" group-title="Mundo", Azteca Uno 
+http://tv.teleclub.xyz/envivo/Mundo/AZTECA_UNO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/d2SXEFp.png" group-title="Mundo", DW en Español 
+http://tv.teleclub.xyz/envivo/Mundo/DW_Spanish/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Channel_1_%28Colombia%29_-_2017_logo.svg/1043px-Channel_1_%28Colombia%29_-_2017_logo.svg.png" group-title="Mundo", Canal Uno 
+http://tv.teleclub.xyz/envivo/Mundo/CANAL_UNO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CthiJI4.png" group-title="Mundo", RCN Novelas 
+http://tv.teleclub.xyz/envivo/Mundo/RCN_NOVELAS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/68/Telemundo_logo_2018.svg" group-title="Mundo", Telemundo PR 
+http://tv.teleclub.xyz/envivo/Mundo/TELEMUNDO_PR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/WbrBFPQ.png" group-title="DOCUMENTALES", Food Network 
+http://tv.teleclub.xyz/envivo/Cultura/FOOD_NETWORK/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XHF3LKK.jpg" group-title="DOCUMENTALES", Discovery Channel 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_CHANNEL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dCIf15Q.jpg" group-title="DOCUMENTALES", Discovery Theater 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_THEATER/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n8yegix.jpg" group-title="DOCUMENTALES", Discovery World 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_WORLD/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HWv6NHE.jpg" group-title="DOCUMENTALES", Discovery Turbo 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_TURBO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/MyPyuM2.jpg" group-title="DOCUMENTALES", Discovery Sciences 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_SCIENCES/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aFNCuzq.png" group-title="DOCUMENTALES", Discovery ID 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_ID/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OO9PaGb.jpg" group-title="DOCUMENTALES", Discovery H&H 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_HH/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/J897iGL.jpg" group-title="DOCUMENTALES", History Channel 
+http://tv.teleclub.xyz/envivo/Cultura/HISTORY/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ypR4tvy.jpg" group-title="DOCUMENTALES", H2 
+http://tv.teleclub.xyz/envivo/Cultura/H2/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dq6jLKm.jpg" group-title="DOCUMENTALES", National Geographic 
+http://tv.teleclub.xyz/envivo/Cultura/NATGEO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7Vaq92j.jpg" group-title="Cultura", A&E 
+http://tv.teleclub.xyz/envivo/Cultura/A_E/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pTPpWJi.jpg" group-title="DOCUMENTALES", Animal Planet 
+http://tv.teleclub.xyz/envivo/Cultura/ANIMAL_PLANET/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fYvrHY2.png" group-title="DOCUMENTALES", El Gourmet 
+http://tv.teleclub.xyz/envivo/Cultura/EL_GOURMET/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XW8CuxK.jpg" group-title="DOCUMENTALES", TLC 
+http://tv.teleclub.xyz/envivo/Cultura/TLC/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JRVqHBL.png" group-title="DOCUMENTALES", ComedyCentral 
+http://tv.teleclub.xyz/envivo/Cultura/COMEDYCENTRAL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4bBkM3X.png" group-title="DOCUMENTALES", Distrito Comedia 
+http://tv.teleclub.xyz/envivo/Cultura/DISTRITO_COMEDIA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fCegFzr.png" group-title="DOCUMENTALES", Love Nature 
+http://tv.teleclub.xyz/envivo/Cultura/LOVE_NATURE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_tlnovelas_feb2019.png" group-title="Mundo", TLNovelas 
+http://tv.teleclub.xyz/envivo/Cultura/TLNovelas/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn6.aptoide.com/imgs/5/1/7/51713cb38f60e82562a65727ce7d5493_icon.png" group-title="DOCUMENTALES", Love Nature 4K 
+http://tv.teleclub.xyz/envivo/Cultura/LOVENATURE_4K/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Jo2QbJT.png" group-title="DOCUMENTALES", Discovery Familia 
+http://tv.teleclub.xyz/envivo/Cultura/DISCOVERY_FAMILIA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/u14ElrR.png" group-title="DOCUMENTALES", HGTV 
+http://tv.teleclub.xyz/envivo/Cultura/HGTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://www.kanalddrama.com/assets/img/logotop2.png" group-title="DOCUMENTALES", Kanal D Drama 
+http://tv.teleclub.xyz/envivo/Cultura/KANAL_DRAMA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://sony-canal.com/sites/g/files/objgke201/files/styles/discover_menu_icon/public/2022-11/menu_icon_12130.png" group-title="Mundo", Sony Novelas 
+http://tv.teleclub.xyz/envivo/Cultura/SONY_NOVELAS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hHd3J9h.png" group-title="Entretenimiento", Star Channel 
+http://tv.teleclub.xyz/envivo/Entretenimiento/STAR_CHANNEL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DrnnyVT.jpg" group-title="Entretenimiento", Universal TV 
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_TV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Db6x442.jpg" group-title="Entretenimiento", Warner TV 
+http://tv.teleclub.xyz/envivo/Entretenimiento/WARNER_TV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OdR3aff.jpg" group-title="Entretenimiento", AXN 
+http://tv.teleclub.xyz/envivo/Entretenimiento/AXN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ybgGUDk.jpg" group-title="Entretenimiento", Paramount 
+http://tv.teleclub.xyz/envivo/Entretenimiento/PARAMOUNT/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tKuGOYa.jpg" group-title="Entretenimiento", Studio Universal 
+http://tv.teleclub.xyz/envivo/Entretenimiento/STUDIO_UNIVERSAL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tGc5z3B.jpg" group-title="Entretenimiento", FX 
+http://tv.teleclub.xyz/envivo/Entretenimiento/FX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EOS4pd9.jpg" group-title="Entretenimiento", TBS 
+http://tv.teleclub.xyz/envivo/Entretenimiento/TBS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5GZsY7O.png" group-title="Entretenimiento", TNT 
+http://tv.teleclub.xyz/envivo/Entretenimiento/TNT/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JDNccBb.jpg" group-title="Entretenimiento", TNT Series 
+http://tv.teleclub.xyz/envivo/Entretenimiento/TNT_SERIES/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6jPJl1q.jpg" group-title="Entretenimiento", Cinemax 
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINEMAX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0OpKA6g.jpg" group-title="Entretenimiento", Sony 
+http://tv.teleclub.xyz/envivo/Entretenimiento/SONY/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0kp7HMZ.png" group-title="Entretenimiento", DePelicula 
+http://tv.teleclub.xyz/envivo/Entretenimiento/DEPELICULA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/PhGmc9h.jpg" group-title="Entretenimiento", Cinecanal 
+http://tv.teleclub.xyz/envivo/Entretenimiento/CINECANAL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4pK7qIc.jpg" group-title="Entretenimiento", HBO 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VjhL79o.jpg" group-title="Entretenimiento", HBO 2 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_2/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k9ctQko.jpg" group-title="Entretenimiento", HBO + 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_PLUS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/UWB6lC9.jpg" group-title="Entretenimiento", HBO Mundi 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_MUNDI/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JeWg4u9.jpg" group-title="Entretenimiento", HBO Pop 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_POP/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sVEsqdE.jpg" group-title="Entretenimiento", HBO Signature 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_SIGNATURE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/R6DVZ2A.jpg" group-title="Entretenimiento", HBO Xtreme 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_XTREME/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KQSKMwy.jpg" group-title="Entretenimiento", HBO Family 
+http://tv.teleclub.xyz/envivo/Entretenimiento/HBO_FAMILY/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden 
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Edge 
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_EDGE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Premier 
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PREMIER/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nx4RIpb.png" group-title="Entretenimiento", Golden Plus 
+http://tv.teleclub.xyz/envivo/Entretenimiento/GOLDEN_PLUS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EomyGGs.jpg" group-title="Entretenimiento", AMC 
+http://tv.teleclub.xyz/envivo/Entretenimiento/AMC/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/vZLlUrl.jpg" group-title="Entretenimiento", SPACE 
+http://tv.teleclub.xyz/envivo/Entretenimiento/SPACE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DByzHja.png" group-title="Entretenimiento", Universal Premiere 
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_PREMIERE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/e1Bjuah.png" group-title="Entretenimiento", Universal Reality 
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_REALITY/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LNg0khT.png" group-title="Entretenimiento", Universal Crime 
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_CRIME/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/G0qhNqu.png" group-title="Entretenimiento", Universal Comedy 
+http://tv.teleclub.xyz/envivo/Entretenimiento/UNIVERSAL_COMEDY/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Wmb5sIF.png" group-title="Entretenimiento", SYFY 
+http://tv.teleclub.xyz/envivo/Entretenimiento/SYFY/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV 
+http://tv.teleclub.xyz/envivo/Musica/MTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV Hits 
+http://tv.teleclub.xyz/envivo/Musica/MTV_HITS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV Live 
+http://tv.teleclub.xyz/envivo/Musica/MTV_LIVE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/8fWEIJj.png" group-title="MUSICA", MTV Classic 
+http://tv.teleclub.xyz/envivo/Musica/MTV_CLASSIC/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ddaqvnR.png" group-title="MUSICA", Bandamax 
+http://tv.teleclub.xyz/envivo/Musica/BANDAMAX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Y3C9Jkb.png" group-title="MUSICA", Nick Music 
+http://tv.teleclub.xyz/envivo/Musica/NICK_MUSIC/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="MUSICA", Retro Plus 1 
+http://tv.teleclub.xyz/envivo/Musica/RETRO_PLUS_1/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RiI6SCb.png" group-title="MUSICA", Retro Plus 2 
+http://tv.teleclub.xyz/envivo/Musica/RETRO_PLUS_2/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/imgs/CCPRadio.jpg" group-title="MUSICA", CCP Radio 
+http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_CCP_RADIO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://cdn.energeek.cl/logos/Radio-2023.png" group-title="MUSICA", EnerGeek Radio 
+http://tv.teleclub.xyz/envivo/Musica/ENERGEEK_RADIO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Eja3aRk.png" group-title="MUSICA", Telehit 
+http://tv.teleclub.xyz/envivo/Musica/TELEHIT/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/HATrmBq.png" group-title="MUSICA", TopLatino 
+http://tv.teleclub.xyz/envivo/Musica/TOPLATINO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9Yj2d1q.png" group-title="MUSICA", MTV 00s 
+http://tv.teleclub.xyz/envivo/Musica/MTV_00s/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cFIJcnS.png" group-title="MUSICA", Venus Media Music 
+http://tv.teleclub.xyz/envivo/Musica/VENUS_MEDIA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/EfHstB2.png" group-title="DEPORTES", TUDN 
+http://tv.teleclub.xyz/envivo/Deportes/TUDN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LLWkHuv.png" group-title="DEPORTES", Afizzionados 
+http://tv.teleclub.xyz/envivo/Deportes/AFIZZIONADOS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4Yo3nPE.png" group-title="DEPORTES", Claro Sports 
+http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZXJ2bQb.png" group-title="DEPORTES", GolTV 
+http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="DEPORTES", Directv 
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/r3vms8X.png" group-title="DEPORTES", Directv 2 
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mSe31sY.png" group-title="DEPORTES", Directv + 
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="DEPORTES", GolPeru 
+http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmtfrDM.png" group-title="DEPORTES", ESPN MX 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6cNQ5u9.png" group-title="DEPORTES", ESPN 2 MX 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_MX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LzHOF9w.png" group-title="DEPORTES", ESPN 3 MX 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_MX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/o9lf2bD.png" group-title="DEPORTES", Fox Sports MX 
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_MX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RNhB2io.png" group-title="DEPORTES", Fox Sports 2 MX 
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_MX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3ngxw5k.png" group-title="DEPORTES", Fox Sports 3 MX 
+http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_MX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nmtfrDM.png" group-title="DEPORTES", ESPN Sur 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6cNQ5u9.png" group-title="DEPORTES", ESPN 2 Sur 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_2_SUR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LzHOF9w.png" group-title="DEPORTES", ESPN 3 Sur 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_3_SUR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2mDlS59.png" group-title="DEPORTES", Fox Sports Sur http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_SUR/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/w2YSy0m.png" group-title="Deportes", Fox Sports 2 Sur http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_2_SUR/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/ZnnmH9e.png" group-title="Deportes", Fox Sports 3 Sur http://tv.teleclub.xyz/envivo/Deportes/FOX_SPORTS_3_SUR/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/U6eG66Q.png" group-title="Deportes", Win Sports http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/sWR2Ygt.png" group-title="Deportes", Win Sports + http://tv.teleclub.xyz/envivo/Deportes/WIN_SPORTS_PLUS/index.m3u8 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bpx2t61.png" group-title="Deportes", ESPN Extra http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/zKwneZ3.png" group-title="DEPORTES", TyC Sports 
+http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/dnfVMzW.png" group-title="DEPORTES", WWE & WWF 
+http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" group-title="DEPORTES", ESPN 4 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN4/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLyFlWt.png" group-title="DEPORTES", DAZN F1 
+http://tv.teleclub.xyz/envivo/Deportes/DAZN/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FvNnvA9.png" group-title="DEPORTES", Real Madrid TV (ES) 
+http://tv.teleclub.xyz/envivo/Deportes/RM_TV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="DEPORTES", Manchester United TV 
+http://tv.teleclub.xyz/envivo/Deportes/MAN_UNITEDTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ph4FJuA.png" group-title="DEPORTES", NFL Network 
+http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/1200px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", TNT Sports BR 
+http://tv.teleclub.xyz/envivo/Deportes/TNTSPORTS_BR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wH9tXka.png" group-title="DEPORTES", Fox Sports Premium 
+http://tv.teleclub.xyz/envivo/Deportes/FOXSPORTS_PREMIUM/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmnOtWv.png" group-title="DEPORTES", Tigo Sports BO 
+http://tv.teleclub.xyz/envivo/Deportes/TIGO_BO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/Espn_deportes.svg" group-title="DEPORTES", ESPN Deportes 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_DEPORTES/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Q2xvbyg.png" group-title="DEPORTES", BeinSports Ñ Extra 
+http://tv.teleclub.xyz/envivo/Deportes/BEINSPORTS_EXTRA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XrCEDQg.png" group-title="DEPORTES", VTV 
+http://tv.teleclub.xyz/envivo/Deportes/VTV/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/sXjwFoY.png" group-title="DEPORTES", TNT Sports 
+http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ZtjQ1Yf.png" group-title="DEPORTES", Liga 1 Max 
+http://tv.teleclub.xyz/envivo/Deportes/LIGA1_MAX/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rmnOtWv.png" group-title="DEPORTES", Tigo Sports CR 
+http://tv.teleclub.xyz/envivo/Deportes/TIGO_SPORTS_CR/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oaBDhrm.png" group-title="DEPORTES", ESPN Premium 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_PREMIUM/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7Csa8G.png" group-title="24/7", Principe del Rap 
+http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcfLruN.png" group-title="24/7", Correcaminos 
+http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkxGND0.png" group-title="24/7", Dinosaurios 
+http://tv.teleclub.xyz/envivo/24_7/DINOSAURIOS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wSQ95AD.png" group-title="24/7", Ben 10 
+http://tv.teleclub.xyz/envivo/24_7/BEN_10/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p6SrZoE.png" group-title="24/7", Los Simpsons 
+http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FS44Hp0.png" group-title="24/7", Dragon Ball 
+http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kpP4ARk.png" group-title="24/7", South Park 
+http://tv.teleclub.xyz/envivo/24_7/SOUTH_PARK/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xX3Ksnj.png" group-title="24/7", ALF 
+http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JquJMTJ.png" group-title="24/7", Familia Peluche 
+http://tv.teleclub.xyz/envivo/24_7/FAMILIA_PELUCHE/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZGBqhd.png" group-title="24/7", Chavo del 8 
+http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGK5VS.png" group-title="24/7", CHESPIRITO 
+http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLgiV4Y.png" group-title="24/7", Don Gato y su Pandilla 
+http://tv.teleclub.xyz/envivo/24_7/DON_GATO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0lPshk.png" group-title="24/7", Mi Bella Genio 
+http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izriGGO.png" group-title="24/7", El Chapulin Colorado 
+http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2xKu4B.png" group-title="24/7", Digimon 
+http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="24/7", Terror 24/7 
+http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePRV57v.png" group-title="24/7", LOONEY TOONS 
+http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jylQ77z.png" group-title="24/7", Alerta Aeropuerto 
+http://tv.teleclub.xyz/envivo/24_7/ALERTA_AEROPUERTO/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="24/7", La Rosa de Guadalupe 
+http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://cloclo61.cloud.mail.ru/videowl/0p/Z1lOUy9ramZvMWJHV00=.m3u8?double_encode=1
