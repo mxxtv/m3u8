@@ -5,7 +5,7 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat
 #EXTINF:-2 tvg-logo="https://lc.cx/zhmhuL" group-title="MEXICO", MUNDO TV | SD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
-#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rts_hd_logo.png" group-title="ECUADOR", RTS TV | SD
+#EXTINF:-3 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
 #EXTINF:-4 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Ecuavisa_2007.png" group-title="ECUADOR", ECUAVISA 1
@@ -972,18 +972,18 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",A&E 
-http://bgtv. site/play/23-853.php?a=178&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=178&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",A+ 
-http://bgtv.site/play/23- 853.php?a=113&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=113&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ABC (EE. UU.) 
-http://bgtv.site/play/23-853.php ?a=159&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ABC (USA) 
+http://bgtv.site/play/23-853.php?a=159&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ABC News 
 http://bgtv.site/play/23-853.php?a=110&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift ="-3" group-title="Entretenimiento",Adrenalina Sport 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Adrenalina Sport 
 http://bgtv.site/play/23-853.php?a=140&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Animal Planet 
@@ -992,29 +992,29 @@ http://bgtv.site/play/23-853.php?a=75&token=asdfasdfasdfasdfasdfasdf
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",AZ Corazon 
 http://bgtv.site/play/23-853.php?a=117&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Baby Primero 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Baby First 
 http://bgtv.site/play/23-853.php?a=150&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Baby TV 
-http:// bgtv.site/play/23-853.php?a=60&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=60&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",BBC América (EE. UU.) 
-http://bgtv.site/ play/23-853.php?a=166&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",BBC America (USA) 
+http://bgtv.site/play/23-853.php?a=166&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Bein Sports Esp 
-http://bgtv.site/play/23- 853.php?a=176&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=176&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Bravo (EE. UU.) 
-http://bgtv.site/play/23-853.php ?a=192&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Bravo (USA) 
+http://bgtv.site/play/23-853.php?a=192&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",CBS Sports Network (EE. UU.) 
-http://bgtv.site/play/23-853.php? a=161&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",CBS Sports Network (USA) 
+http://bgtv.site/play/23-853.php?a=161&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",CNN Internacional 
 http://bgtv.site/play/23-853.php?a=92&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",CO: Caracol 
-http://bgtv.site/play/23-853.php?a= 157&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=157&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",CO: Caracol 
 http://bgtv.site/play/23-853.php?a=226&token=asdfasdfasdfasdfasdfasdf 
@@ -1022,19 +1022,19 @@ http://bgtv.site/play/23-853.php?a=226&token=asdfasdfasdfasdfasdfasdf
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",DAZN 3 
 http://bgtv.site/play/23-853.php?a=205&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg -shift="-3" group-title="Entretenimiento",DAZN 4 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",DAZN 4 
 http://bgtv.site/play/23-853.php?a=211&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="- 3" grupo-título="Entretenimiento",Descubrimiento Turbo 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Dicovery Turbo 
 http://bgtv.site/play/23-853.php?a=230&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Discovery Kids 
 http://bgtv.site/play/23-853.php?a=210&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift ="-3" group-title="Entretenimiento", Discovery Science 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Discovery Science 
 http://bgtv.site/play/23-853.php?a=216&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Discovery Theatre 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Discovery Theater 
 http://bgtv.site/play/23-853.php?a=217&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Discovery TLC 
@@ -1047,171 +1047,171 @@ http://bgtv.site/play/23-853.php?a=229&token=asdfasdfasdfasdfasdfasdf
 http://bgtv.site/play/23-853.php?a=219&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ES: Antena 3 
-http ://bgtv.site/play/23-853.php?a=96&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=96&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ES: Movistar Drama 
-http:// bgtv.site/play/23-853.php?a=146&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=146&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ESPN (EE. UU.) 
-http://bgtv.site /play/23-853.php?a=167&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ESPN (USA) 
+http://bgtv.site/play/23-853.php?a=167&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ESPN 
-http://bgtv.site/play/23-853 .php?a=35&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=35&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ESPN 2 
-http://bgtv.site/play/23-853.php?a= 36&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=36&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ESPN 2 US 
 http://bgtv.site/play/23-853.php?a=37&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg- shift="-3" group-title="Entretenimiento",Eurosport 2 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Eurosport 2 
 http://bgtv.site/play/23-853.php?a=141&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3 " group-title="Entretenimiento",Eurosports 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Eurosports 
 http://bgtv.site/play/23-853.php?a=206&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",FOX (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",FOX (USA) 
 http://bgtv.site/play/23-853.php?a=168&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento" ,Fox Deportes 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Deportes 
 http://bgtv.site/play/23-853.php?a=38&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sports Premium 
 http://bgtv.site/play/23-853.php?a=69&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sport (EE. UU.) 
-http://bgtv.site/ play/23-853.php?a=221&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sport (USA) 
+http://bgtv.site/play/23-853.php?a=221&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sport 2 (EE. UU.) 
-http://bgtv.site/play /23-853.php?a=222&token=asdfasdfasdfasdfasdfasdf 
-
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sports 
-http://bgtv.site/play/23-853. php?a=40&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sport 2 (USA) 
+http://bgtv.site/play/23-853.php?a=222&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sports 
-http://bgtv.site/play/23-853.php?a=42&token =asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=40&token=asdfasdfasdfasdfasdfasdf 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Fox Sports 
+http://bgtv.site/play/23-853.php?a=42&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",FX 
 http://bgtv.site/play/23-853.php?a=70&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Galavision (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Galavision (USA) 
 http://bgtv.site/play/23-853.php?a=174&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg -shift="-3" group-title="Entretenimiento",Garage TV 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Garage TV 
 http://bgtv.site/play/23-853.php?a=184&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="- 3" group-title="Entretenimiento",Golden 
-http://bgtv.site/play/23-853.php?a=181&token=asdfasdfasdfasdfasdfasdf
- 
-#EXTINF:-1 tvg-shift="-3" group-title= "Entretenimiento", GolTV 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Golden 
+http://bgtv.site/play/23-853.php?a=181&token=asdfasdfasdfasdfasdfasdf 
+
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",GolTV 
 http://bgtv.site/play/23-853.php?a=208&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO 2 
 http://bgtv.site/play/23-853.php?a=72&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO 2 (EE. UU.) 
-http ://bgtv.site/play/23-853.php?a=223&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO 2 (USA) 
+http://bgtv.site/play/23-853.php?a=223&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO Familia 
-http://bgtv.site/play/23-853.php?a=73&token =asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO Family 
+http://bgtv.site/play/23-853.php?a=73&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO Family (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO Family (USA) 
 http://bgtv.site/play/23-853.php?a=224&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO Plus 
 http://bgtv.site/play/23-853.php?a=215&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento", Firma de HBO 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HBO Signature 
 http://bgtv.site/play/23-853.php?a=182&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift=" -3" group-title="Entretenimiento",HGTV (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",HGTV (USA) 
 http://bgtv.site/play/23-853.php?a=225&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Investigation Discovery 
 http://bgtv.site/play/23-853.php?a=220&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift ="-3" group-title="Entretenimiento",IZZI Afizzionados 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",IZZI Afizzionados 
 http://bgtv.site/play/23-853.php?a=43&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Lifetime (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Lifetime (USA) 
 http://bgtv.site/play/23-853.php?a=193&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title ="Entretenimiento",Milenio TV 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Milenio TV 
 http://bgtv.site/play/23-853.php?a=88&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento" ,RED MLB (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",MLB NETWORK (USA) 
 http://bgtv.site/play/23-853.php?a=188&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",MTV Hits 
 http://bgtv.site/play/23-853.php?a=94&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",MTV Live 
-http:/ /bgtv.site/play/23-853.php?a=108&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=108&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Multimedios MTY 
-http://bgtv.site/ play/23-853.php?a=89&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=89&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",NBC NY (EE. UU.) 
-http://bgtv.site/play/ 23-853.php?a=164&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",NBC NY (USA) 
+http://bgtv.site/play/23-853.php?a=164&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",NBC Universo (EE.UU.) 
-http://bgtv.site/play/23- 853.php?a=165&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",NBC Universo (USA) 
+http://bgtv.site/play/23-853.php?a=165&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Nick Jr 
 http://bgtv.site/play/23-853.php?a=64&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Once TV 
-http://bgtv.site/play/23-853.php?a=111&token =asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=111&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Showtime (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Showtime (USA) 
 http://bgtv.site/play/23-853.php?a=189&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento", Sony 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Sony 
 http://bgtv.site/play/23-853.php?a=53&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg- shift="-3" group-title="Entretenimiento",Starz (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Starz (USA) 
 http://bgtv.site/play/23-853.php?a=190&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift=" -3" group-title="Entretenimiento",SYFY 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",SYFY 
 http://bgtv.site/play/23-853.php?a=80&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" grupo-title="Entretenimiento",Telecinco 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Telecinco 
 http://bgtv.site/play/23-853.php?a=203&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift= "-3" grupo-title="Entretenimiento",Telecinco 2 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Telecinco 2 
 http://bgtv.site/play/23-853.php?a=207&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" grupo -title="Entretenimiento",Telehit 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Telehit 
 http://bgtv.site/play/23-853.php?a=95&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Telemundo 
 http://bgtv.site/play/23-853.php?a=155&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Televisa MTY 
-http: //bgtv.site/play/23-853.php?a=143&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=143&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Tennis Channel (EE. UU.) 
-http:// bgtv.site/play/23-853.php?a=171&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Tennis Channel (USA) 
+http://bgtv.site/play/23-853.php?a=171&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",TNT 
-http://bgtv.site/play/23- 853.php?a=57&token=asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=57&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",TNT (EE. UU.) 
-http://bgtv.site/play/23-853.php ?a=172&token=asdfasdfasdfasdfasdfasdf 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",TNT (USA) 
+http://bgtv.site/play/23-853.php?a=172&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Toros TV 
-http://bgtv.site/play/23-853.php?a=46&token= asdfasdfasdfasdfasdfasdf 
+http://bgtv.site/play/23-853.php?a=46&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",UFC TV 
 http://bgtv.site/play/23-853.php?a=47&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:- 1 tvg-shift="-3" group-title="Entretenimiento",Univision (EE. UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Univision 
 http://bgtv.site/play/23-853.php?a=173&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",USA Network (EE.UU.) 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",USA Network (USA) 
 http://bgtv.site/play/23-853.php?a=191&token=asdfasdfasdfasdfasdfasdf 
 
-#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento", Canal Warner 
+#EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Warner Channel 
 http://bgtv.site/play/23-853.php?a=59&token=asdfasdfasdfasdfasdfasdf 
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
