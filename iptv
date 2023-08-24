@@ -357,7 +357,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl_QJ-pzxTK8G0y7uz2cdgYAOAMN5JZZrW46t7UnC5j_g)/dm/3/x7wijay/s/live-0.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl270DqSRA0f1Dbb-FAjyuXHrcjRFssTZgbjgoAdDVNx2)/dm/3/x7wijay/s/live-2.m3u8
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -974,16 +974,16 @@ https://s6.mexside.net:1936/canal14/canal14/playlist.m3u8
  
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",A&E 
- http://bgtv. site/play/23-853.php?a=178&token=lkklklk 
+http://bgtv.site/play/23-853.php?a=178&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",A+ 
- http://bgtv.site/play/23- 853.php?a=113&token=lkklklk 
+http://bgtv.site/play/23- 853.php?a=113&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ABC (EE.UU.) 
- http://bgtv.site/play/23-853.php ?a=159&token=lkklklk 
+http://bgtv.site/play/23-853.php?a=159&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",ABC News 
- http://bgtv.site/play/23-853.php?a=110&token=lkklklk 
+http://bgtv.site/play/23-853.php?a=110&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Adrenalina Sport 
 http://bgtv.site/play/23 -853.php?a=140&token=lkklklk 
@@ -1004,16 +1004,16 @@ http://bgtv.site/play/23-853.php?a=60&token=lkklklk
 http://bgtv.site/play/23-853.php?a=166&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Bein Sports Esp 
- http://bgtv.site/play/23-853.php?a= 176&token=lkklklk 
+http://bgtv.site/play/23-853.php?a=176&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Bravo (EE.UU.) 
 http://bgtv.site/play/23-853.php?a=192&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",CBS Sports Network (EE.UU.) 
- http://bgtv.site/play/23-853.php?a=161&token=lkklklk 
+http://bgtv.site/play/23-853.php?a=161&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",CNN Internacional 
- http://bgtv.site/play/23-853.php?a=92&token=lkklklk 
+http://bgtv.site/play/23-853.php?a=92&token=lkklklk 
 
 #EXTINF:-1 tvg -shift="-3" group-title="Entretenimiento",CO: Caracol 
 http://bgtv.site/play/23-853.php?a=157&token=lkklklk 
@@ -1212,10 +1212,10 @@ http://bgtv.site/play/23-853.php?a=47&token=lkklklk
 http://bgtv.site/play/23-853.php?a =173&token=lkklklk
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",USA Network (EE.UU.) 
-http://bgtv.site/play/23-853.php?a=191&token =lkklklk 
+http://bgtv.site/play/23-853.php?a=191&token=lkklklk 
 
 #EXTINF:-1 tvg-shift="-3" group-title="Entretenimiento",Warner Channel 
-http://bgtv.site/play/23-853.php?a=59&token=asdas
+http://bgtv.site/play/23-853.php?a=59&token=lkklklk
 
 #EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Avatar-%20El%20sentido%20del%20agua%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
