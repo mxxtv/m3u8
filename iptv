@@ -74,7 +74,7 @@ https://youvideostreaming.club/hls/ecutv1.m3u8
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts | SD
 https://youvideostreaming.club/hls/ecutv2.m3u8
 
-#EXTINF:-26 tvg-logo="https://redtv.com.uy/wp-content/uploads/2019/10/logoheader2.png" ,La Red Tv
+#EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logotipo_de_La_Red_%282019-2021%29.png" ,La Red Tv
 https://d16pc5095tzygd.cloudfront.net/LaRed/d048098ce842377c101928b648065843.sdp/chunks.m3u8
 
 #EXTINF:-27 tvg-logo="https://lc.cx/4ATQDa" group-title="ECUADOR" , NOVELAS INOLVIDABLES
@@ -246,7 +246,7 @@ https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 https://video1.getstreamhosting.com:1936/8172/8172/playlist.m3u8
 
 #EXTINF:-83 tvg-id="AZT CLIC TV.mx" tvg-name="AZT CLIC TV (HD)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Az_Clic_2014.png/revision/latest?cb=20191211180120&path-prefix=es" group-title="MEXICO",AZT CLIC| HD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1693844224&id=10405&ip=45.224.152.74&override_expiration=1500&sign=NExHJiJZkyHJNwa%2BFMNSOH%2F7atCvsVLiHdqY%2FrQVsCE%3D
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4827&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252Fes%252Fapp&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1694398559&id=10405&ip=45.224.152.74&override_expiration=1500&sign=GxpUs246y8WtmMXRZaOwwG5Axf41%2B7PidTy1MMwNxA4%3D
 
 #EXTINF:-84 group-title="PUERTO RICO", TELEMUNDO HD
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
@@ -357,7 +357,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0sH8tTVVsyMaMQhjnQoOEY0qPf0xtPz1xQulmh8-KnF)/dm/3/x7wijay/s/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl9Awayc9tC3nIh7nWQaVhi9Q_HR1mgB-j-vfoIdCAfNI)/dm/3/x7wijay/s/live-2.m3u8
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -1416,10 +1416,10 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
+#EXTINF:-473 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Avatar-%20El%20sentido%20del%20agua%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
 
-#EXTINF:-1 tvg-chno="295" tvg-id="Terremoto Ártico .es" tvg-name="Terremoto Ártico" tvg-country="ES" tvg-lenguaje="spanish" type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico | HD
+#EXTINF:-1 type="movie" group-title="PELICULAS" tvg-logo="https://img2.static-ottera.com/prod/run/video/thumbnails/widescreen/366x206/terremoto_de_hielo_thumbnail_16x9_widescreen_las.jpg" audio-track="es",Terremoto Ártico | HD
 https://cdnapisec.kaltura.com/p/513551/sp/51355100/playManifest/entryId/1_8fn3peni/format/applehttp/protocol/https/flavorIds/1_u5ls3ccf,1_t4lmpmuv,1_e5bikcef,1_ak4nlufr,1_dlx1z10h,1_5xhr8zdp/preferredBitrate/1500/maxBitrate/10000/a.m3u8?timestamp=1682477646&amp;id=107&amp;ip=45.224.152.74&amp;override_expiration=1500&amp;sign=uy0tQgY8ICTN1ugeF3xcwM4%2BzfqaLM3mJCFYO%2FDe7R0%3D&amp;playSessionId=f8c46347-f827-63ba-f46c-799fdf90d6ea:a213a73c-1601-17d2-db9a-4b87f058c3ec&amp;referrer=aHR0cHM6Ly93d3cucnVudGltZS50di9lcy9mZWF0dXJlL3RlcnJlbW90by1hcnRpY28=&amp;clientTag=html5:v7.61
 
 #EXTINF:-1 tvg-logo="https://poluxweb.com/Polux3/images/data/cine/resenas/2013/El_ejecutor_01.jpg"group-title="PELICULAS" type="movie", EL EJECUTOR | HD
@@ -2696,7 +2696,7 @@ https://archive.org/download/01_20230718_20230718_1952/01.mp4
 https://archive.org/download/01_20230629_20230629_2204/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) 
-https://archive.org/download/01_20230718_20230718_1944/01.mp4 
+https://archive.org/download/01_20230718_20230718_1944/01.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tcKBclNUdkas4Jis8RYYZnPdTIm.jpg",Asteroid City (2023) 
 https://archive.org/download/01_20230718_20230718_1937/01.mp4 
@@ -3129,39 +3129,6 @@ http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023) 
 http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pLAeWgqXbTeJ2gQtNvRmdIncYsk.jpg",Father Stu 
-http://regioplay.xyz/604023/Father.Stu.2022.lati.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",Jurassic World Dominio 
-http://regioplay.xyz/604023/JurassicWorldDominio.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lr11mCT85T1JanlgjMuhs9nMht4.jpg",Telefono negro 
-http://regioplay.xyz/604023/El.Telefono.Negro.SRREGIO.NET.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",LightYear 
-http://regioplay.xyz/604023/lightyear.2022.SRREGIO.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/wKiOkZTN9lUUUNZLmtnwubZYONg.jpg",Minions Nace un villano 
-http://regioplay.xyz/604023/Minions.NaceUnVillano.SrRegio.Net.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Predator: Prey 
-http://regioplay.xyz/604023/Predator_Prey_SrRegio.Net.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/fR49hZdFJ6ZtRS23JW79VYmZgI7.jpg",Las Leyendas: El Origen 
-http://regioplay.xyz/604023/Las.leyendas.El.origen.2021.lati.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6FsGeIp7heHm5eh4tIxTzHIRxmt.jpg",365 dias mas 
-http://regioplay.xyz/604023/365.Days.Part.III.2022.lati.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",LUCK 
-http://regioplay.xyz/604023/Luck.2022.lati.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/561TUe0s63tKVMMj9IZznGNoWLH.jpg",Y como es el? 
-http://regioplay.xyz/604023/Backseat.Driver.2020..lati.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tsk3MrYrSKGRNCOm2DYaDxLh6KR.jpg",Mentada de padre 
-http://regioplay.xyz/604023/Mentada.de.padre.2019.lati.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",The Jack in the Box: El despertar (2022) 
 http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
@@ -4055,4 +4022,65 @@ http://144.217.70.79/VODS-M/1080P/The%20Spy%20Next%20Door%202010.mkv
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/gntsO8yN1xiFp1CldoJkk0jzxh7.jpg" group-title="PELICULAS" type="movie" , The Shepherd Border Patrol (2008) 
 http://144.217.70.79/VODS-M/1080P/The%20Shepherd%20Border%20Patrol%202008.mkv
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ueO9MYIOHO7M1PiMUeX74uf8fB9.jpg",Teen mutant ninfa turtles mayhem 
+http://208.88.245.85/hd/Teenage.Mutant.Ninja.Turtles.Mutant.Mayhem.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//4EONm3medZBNfHhost4taqrje1r.jpg",La gran seducción 
+http://208.88.245.85/nuevo/la.gran.seduccion.2023.latino.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2aBjSNnl1eIsR8RVNlczc1beL6l.jpg",Los casi ídolos de bahía colorada 
+http://208.88.245.85/nuevo/los.casi.idolos.de.bahia.colorada.latino2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//nrtbv6Cew7qC7k9GsYSf5uSmuKh.jpg",Dracula mar de sangre 
+http://208.88.245.85/nuevo/dracula.mar.de.sangre.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7KK4s4QOYemq1fC9stcdZbhIiVm.jpg",Isabel el caso nardoni 
+http://208.88.245.85/nuevo/isabella.el.caso.nardoni.dual.2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//6qR9WbXYIddZcVk6nxFULfHcKmK.jpg",Águila y Jaguar 
+http://208.88.245.85/nuevo/aguila.y.jaguar.2023.latino.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//Af4bXE63pVsb2FtbW8uYIyPBadD.jpg",Indiana Jones and the dial of Destiny 
+http://208.88.245.85/nuevo/indianajones5.latino.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//d8YaaRIDzvHL4NyHJQxIvm0qDng.jpg",El final que quiero 
+http://208.88.245.85/nuevo/el.final.que.quiero.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//sIk2wnKj9OSMrUNZ5Z97XkzUICK.jpg",El salón de la infamia 
+http://208.88.245.85/nuevo/untolld.el.salon.dla.infamia.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//wmH3VaUbwwTO3vDJhWT35BOFgb3.jpg",Amigos de las vacaciones 2 
+http://208.88.245.85/nuevo/amigos.dlas.vacaciones2.dual.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//lZ2sOCMCcGaPppaXj0Wiv0S7A08.jpg",Blue beetle 
+http://208.88.245.85/nuevo/bluebeetle.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//e7CKgRnRdE7bk1jl2vhJniX89cU.jpg",Al descubierto Johnn football 
+http://208.88.245.85/nuevo/al.descubierto.johnnyfootball.dual2023.mkv 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rKvCys0fMIIi1X9rmJBxTPLAtoU.jpg",En Todas Partes Al Mismo Tiempo (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Todo%20En%20Todas%20Partes%20Al%20Mismo%20Tiempo%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rR3CIo7yfAMOWj8rDPQmesveJOv.jpg",Sed de Venganza (Vendetta) (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Sed%20de%20Venganza%20(2022)%20Online%20%E2%80%93%20CineHDPlus_2.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Predator: La presa (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Predator-%20La%20presa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/yWlBvsPl9y2h03padhD2tIG0rqy.jpg",Amigos vs. extraterrestres (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Amigos%20vs.%20Extraterrestres%20(2022)%20Pel%C3%ADcula%20Online%20Latino.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/oyGb5JpEYMEqDDjfJKLEvPTVSjK.jpg",Scrooge: Cuento de Navidad (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Scrooge-%20Cuento%20de%20Navidad%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/vx1u0uwxdlhV2MUzj4VlcMB0N6m.jpg",Pinocho de Guillermo del Toro (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Pinocho%20de%20Guillermo%20del%20Toro%20(2022)%20Online%20Gratis%20en%20HD%20-%20InkaPelis.mp4 
+
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/aSgl2DxPG3DuQXoaHr500KeULmT.jpg",El amante de Lady Chatterley (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20El%20amante%20de%20Lady%20Chatterley%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull_2.mp4 
+
+#EXTINF:-1 group-title="Pelis 1" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t6HIqrRAclMCA60NsSmeqe9RmNV.jpg",Avatar 2 (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fdici%2FVer%20Avatar-%20El%20sentido%20del%20agua%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4
+
 
