@@ -69,7 +69,7 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 
 #EXTINF:-24 tvg-logo="https://is.gd/c0sqqp" group-title="ECUADOR", Ecuavisa 2 | SD
-https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC2/chunks.m3u8
@@ -101,7 +101,7 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3
 #EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 
-#EXTINF:-35 tvg-logo="https://lc.cx/nmaAA_" group-title="ECUADOR",TELEAMAZONAS sierra | SD
+#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra | SD
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
 #EXTINF:-36 tvg-logo="https://lc.cx/rkqH-X" group-title="CINE Y SERIES", Rakuten ACCION | HD
@@ -357,7 +357,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
 #EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7Llwvei5D9AwZFlp-faUtEOYt1LjpG3bdqFyndXLlbs)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7Llwvei5D9AwZFlp-faUtEOYt1LjpG3bdqFyndXLlbs)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
@@ -823,6 +823,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009
 
 #EXTINF:-1 group-title="CINE Y SERIES", Canela TV
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=653
+
+#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/466deabbd42d619f75a9134701c3e39b.webp" group-title="ECUADOR", RETRO PLUS TV
+https://video06.logicahost.com.br/retroplussenal3/retroplussenal3/playlist.m3u8
 
 #EXTINF:-1 group-title="INFANTIL", Pluto Cartoon HD
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60142258a54aeb0007751c15/master.m3u8?advertisingId=&appName=web&appVersion=6.2.1-041b6a96d2795999577532a465490fe620265728&app_name=web&clientDeviceType=0&clientID=73c188ed-3fa6-4f16-a5ae-2a809a48d918&clientModelNumber=1.0.0&country=AR&deviceDNT=false&deviceId=73c188ed-3fa6-4f16-a5ae-2a809a48d918&deviceLat=-32.9204&deviceLon=-68.8293&deviceMake=chrome&deviceModel=web&deviceType=web&deviceVersion=102.0.5005&marketingRegion=VE&serverSideAds=true&sessionID=7a236036-f0de-11ec-884e-0242ac110003&sid=7a236036-f0de-11ec-884e-0242ac110003&userId=&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6ImZmZmI5OTlkLTM1YWMtNDYxYS1iOGQ3LWIyZmVkN2I4YjRlMiIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiI3YTIzNjAzNi1mMGRlLTExZWMtODg0ZS0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE5MS44Mi4xMTQuMjIiLCJjaXR5IjoiR29kb3kgQ3J1eiIsInBvc3RhbENvZGUiOiI1NTAxIiwiY291bnRyeSI6IkFSIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJWRSIsImRldmljZUxhdCI6LTMyLjkyMDQsImRldmljZUxvbiI6LTY4LjgyOTMsInByZWZlcnJlZExhbmd1YWdlIjoiZXMiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6IjEwMi4wLjUwMDUiLCJkZXZpY2VNYWtlIjoiY2hyb21lIiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMi4xLTA0MWI2YTk2ZDI3OTU5OTk1Nzc1MzJhNDY1NDkwZmU2MjAyNjU3MjgiLCJjbGllbnRJRCI6IjczYzE4OGVkLTNmYTYtNGYxNi1hNWFlLTJhODA5YTQ4ZDkxOCIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJBbWVyaWNhL0FyZ2VudGluYS9NZW5kb3phIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiZHJtIjp7Im5hbWUiOiJ3aWRldmluZSIsImxldmVsIjoiTDMifSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1NTc4ODY4NiwianRpIjoiOTU4MDJhYjAtYjgxOS00YmVmLWJjMTgtMDE4ZmU3YTkxYjY0IiwiaWF0IjoxNjU1NzU5ODg2LCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6VkU6TnpOak1UZzRaV1F0TTJaaE5pMDBaakUyTFdFMVlXVXRNbUU0TURsaE5EaGtPVEU0In0.QVtzw0AeT2Cowcuere2sMTDHcipfpA-Bx3MJ8dh_tWY&masterJWTPassthrough=true
