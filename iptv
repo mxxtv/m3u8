@@ -2,11 +2,11 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="https://lc.cx/ABRwuG" group-title="MEXICO", AZTCA INTERNACIONAL
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691083049&id=10411&ip=45.224.152.74&override_expiration=1500&sign=zK1PIBs6E13FQXc%2BgxeY9vC8IBdfXx0eJlxNxUmh2Vw%3D
+#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl4WcQoeipMRST4x9xfeV_h81rg9NtBHyV-XLBxjgL-tS)/dm/3/x7wijay/d/live-2.m3u8
 
-#EXTINF:-3 tvg-logo="https://lc.cx/zhmhuL" group-title="MEXICO", MUNDO TV | SD
-https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra | SD
+https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
 
 #EXTINF:-4 tvg-logo="https://n9.cl/fetytr" group-title="ECUADOR", ECUAVISA 1
 https://mdstrm.com/live-stream-playlist/6089d0a7f61e11081f8c832a.m3u8
@@ -17,8 +17,8 @@ https://go.majestadtv.ec/hls/stream.m3u8
 #EXTINF:-6 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 
-#EXTINF:-7 tvg-logo="https://lc.cx/xmGJk3" group-title="ECUADOR", Telerama 
-https://envivo.telerama.ec/stream.m3u8
+#EXTINF:-7 tvg-logo="https://is.gd/c0sqqp" group-title="ECUADOR", Ecuavisa 2 | SD
+https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-8 tvg-logo="https://lc.cx/Eeaf4i" group-title="CHILE" , VIVA movil tv
 https://tvdatta.com:3957/hybrid/play.m3u8
@@ -68,11 +68,11 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-23 tvg-logo="https://static2.tgstat.ru/channels/_0/17/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis | HD
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 
-#EXTINF:-24 tvg-logo="https://is.gd/c0sqqp" group-title="ECUADOR", Ecuavisa 2 | SD
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
+#EXTINF:-24 tvg-logo="https://lc.cx/xmGJk3" group-title="ECUADOR", Telerama 
+https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts | SD
-https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC2/chunks.m3u8
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
 #EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logotipo_de_La_Red_%282019-2021%29.png"group-title="COSTA RICA" ,La Red Tv
 https://unlimited1-us.dps.live/lared/lared.smil/playlist.m3u8
@@ -101,8 +101,8 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3
 #EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
 https://live.tvcontrolcp.com:1936/puruwatv/puruwatv/chunklist_w2102122426.m3u8
 
-#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra | SD
-https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+#EXTINF:-35 tvg-logo="https://lc.cx/zhmhuL" group-title="MEXICO", MUNDO TV | SD
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4871&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.
 
 #EXTINF:-36 tvg-logo="https://lc.cx/rkqH-X" group-title="CINE Y SERIES", Rakuten ACCION | HD
 https://e2480f6eed82498b953d8a2eabd43b4f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-es_TopFree/playlist.m3u8
@@ -356,11 +356,11 @@ https://playout.cdn.cartoonnetwork.com.br/playout_08/playlist-720p.m3u8
 #EXTINF:-119 tvg-logo="https://mplay.es/images/2020/canales-azcorazon.png" group-title="MEXICO", Corazon tv | HD
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
 
-#EXTINF:-120 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0A-2R-uDTqW90biKYBbtC2HMjo4sNYsa1zDi7pC8VOt)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-120 tvg-logo="https://lc.cx/ABRwuG" group-title="MEXICO", AZTCA INTERNACIONAL
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=4828&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691083049&id=10411&ip=45.224.152.74&override_expiration=1500&sign=zK1PIBs6E13FQXc%2BgxeY9vC8IBdfXx0eJlxNxUmh2Vw%3D
 
 #EXTINF:-121 group-title="RELIGIÓN" , EWTN
-https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
+https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/ss8djzjv/720/chunklist.m3u8
 
 #EXTINF:-122 tvg-logo="https://lc.cx/ocv7bE" group-title="ARGENTINA" , TV PUBLICA
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
@@ -403,6 +403,7 @@ https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
 #EXTINF:-135 tvg-logo="https://lc.cx/q4XH-8" group-title="ECUADOR", ECUADOR TV| HD
 https://samson.streamerr.co:8081/akira/index.m3u8
+https://samson.streamerr.co:8081/akira/tracks-v1a1/mono.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
 https://59ec5453559f0.streamlock.net/miamitv/smil:WEB/playlist.m3u8
@@ -974,6 +975,9 @@ https://vcp.myplaytv.com/moviefe/moviefe/chunklist_w306402727.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/vozB66"group-title="VARIOS" ,Miami Tv Latino
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist_w1804858925_b1896000.m3u8
 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0muMBZSsBAI/XTyLKssEwYI/AAAAAAAAIHA/h2BrcJQLjoQ3DgC0HGLr2NW-_NuhCj_ggCLcBGAs/w350-h350-p-k-no-nu/CDN%2BCanal%2B37%2Ben%2Bvivo.png"group-title="REPUBLICA DOMINICANA" ,CDN
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/5f85ae10c62d4be3a5edbf483cb04f25/chunklist_b4628000.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/22/Estrella_TV_Logo_2020.png" group-title="MEXICO" ,ESTRELLA TV
 https://estrellatv-oando.amagi.tv/playlist.m3u8
 
@@ -1325,7 +1329,7 @@ http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="SERVIDOR 2", GolTV 
 http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://lc.cx/DWlyDI" group-title="SERVIDOR 2", Goltv Peru 
+#EXTINF:-1 tvg-logo="https://librefutboltv.com/esp/img/logo-canal/GolTV.webp" group-title="SERVIDOR 2", Goltv Peru 
 http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="SERVIDOR 2", Directv 
@@ -2763,7 +2767,7 @@ https://archive.org/download/01_20230718_20230718_1856/01.mp4
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hQUT2B0QVV17pYMHyLzdNGVdrBF.jpg",Todo sobre mi padre (2023) 
 https://archive.org/download/01_20230718_20230718_2016/01.mp4 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ygO9lowFMXWymATCrhoQXd6gCEh.jpg",Sisu (2022) 
+#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXZHM8J/image?locale=en-us&mode=crop&purposes=BoxArt&q=90&h=300&w=200&format=jpg",SISU (2023) 
 https://archive.org/download/01_20230718_20230718_1849/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kVG8zFFYrpyYLoHChuEeOGAd6Ru.jpg",The Covenant (2023) 
@@ -2783,9 +2787,6 @@ https://main.cinedecalidad.xyz/mexicanas/barbie.mp4
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/21sRRZZ5lAYe1aLl9O0oz2qtXe0.jpg", Barbie (2023) 
 https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvYmFyYmllLTIwMjM= 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",Barbie 
-http://208.88.245.81/nuevo/barbie.dual.2023.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w154/wzAZnkTQZBGCxZTvZk5g5VzgKuR.jpg", Iké Boys (2021) 
 https://bgtv.site/pelisplushd.php?id=aHR0cHM6Ly9wZWxpc3BsdXNoZC5tb3YvcGVsaWN1bGEvaWtlLWJveXM= 
