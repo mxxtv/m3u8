@@ -3,7 +3,7 @@
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
 #EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU | SD
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-cLQqbJDSDqrCsuj8WgXZk17SdmH0paTrA5Bjop8m3c)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0KaeUTLzsXfk4Ohix8Yzh8P5uUkm4la4MNFxd-PzAYi)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra | SD
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
@@ -17,14 +17,14 @@ https://go.majestadtv.ec/hls/stream.m3u8
 #EXTINF:-6 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 
-#EXTINF:-7 tvg-logo="https://is.gd/c0sqqp" group-title="ECUADOR", Ecuavisa 2 | SD
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", Ecuavisa 2 | SD
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-8 tvg-logo="https://lc.cx/Eeaf4i" group-title="CHILE" , VIVA movil tv
 https://tvdatta.com:3957/hybrid/play.m3u8
 
 #EXTINF:-9 tvg-logo="https://www.tvc.com.ec/wp-content/uploads/2023/07/logo-150x150.png" group-title="ECUADOR", TVC ec | HD
-https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/TVCEC/TVCEC1/chunks.m3u8
+https://d2vb5iv6i34lh5.cloudfront.net/TVCEC/d58f5eb5cbb9ad9c56649a0083de7c8b.sdp/playlist.m3u8
 
 #EXTINF:-10 tvg-logo="https://seeklogo.com/images/T/telesistema-canal-11-logo-AD1DE4DB73-seeklogo.com.png" group-title="ECUADOR", Telesistema  | SD
 https://59ef525c24caa.streamlock.net/ARBtv/ARBtv/chunklist_w1753795779.m3u8
@@ -68,14 +68,15 @@ https://s2.tvdatta.com:3307/hybrid/play.m3u8
 #EXTINF:-23 tvg-logo="https://static2.tgstat.ru/channels/_0/17/1709ea70babf9cb66fd4203443c31cce.jpg" group-title="CINE Y SERIES", Pelis | HD
 https://stmv2.voxtvhd.com.br/videokapc/videokapc/playlist.m3u8
 
-#EXTINF:-24 tvg-logo="https://lc.cx/xmGJk3" group-title="ECUADOR", Telerama 
+#EXTINF:-24 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" group-title="ECUADOR", Telerama 
 https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts | SD
-https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
+https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
+
 
 #EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logotipo_de_La_Red_%282019-2021%29.png"group-title="COSTA RICA" ,La Red Tv
-https://unlimited1-us.dps.live/lared/lared.smil/playlist.m3u8
+https://unlimited1-us.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
 
 #EXTINF:-27 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/da77b40cc9acf3c1b8b5642838906de4.webp" group-title="ECUADOR" , NOVELAS INOLVIDABLES
 https://ov.ottera.tv/channels/cnm_niv/master.m3u8
@@ -167,8 +168,10 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-56 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="COSTA RICA", REPRETEL 11 | HD
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
+
 #EXTINF:-57 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Ecuavisa_Internacional-C.svg/640px-Ecuavisa_Internacional-C.svg.png" group-title="ECUADOR", ECUAVISA 3 costa HD
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
+
 
 #EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
 https://scl.edge.grupoz.cl/movie/live/chunklist_w248713290.m3u8
@@ -438,7 +441,7 @@ https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-146 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="CINE Y SERIES",CANELA CLÁSSICOS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
-#EXTINF:-147 tvg-logo="https://pbs.twimg.com/profile_images/435932640722825216/hgILIL7X_400x400.jpeg" group-title="CINE Y SERIES", CINEMA
+#EXTINF:-147 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqO459KwlUqTSejVEg1LoWQy247pImwXyZSGIStVUtwqPB283DArDB6iwh2MHQC_BiXWY&usqp=CAU" group-title="CINE Y SERIES",AZ CINEMA
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4829&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252Fes%252Fapp&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1687918988&id=10407&ip=45.224.152.74&override_expiration=1500&sign=uXoxFDHc9lq4NLRdfIHVECl1%2FxdgLzcoyCp1EMHdVlo%3D
 
 #EXTINF:-148 tvg-logo="https://www.coolstreaming.us/img/ch/image96674211510.jpg" group-title="DEPORTES", Mas23 TV
@@ -724,7 +727,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
 
 #EXTINF:-242 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="CHILE" , INT Hispantv
-https://cdnlive.presstv.ir/cdnlive/smil:live.smil/chunklist_b644100_slen.m3u8
+
+
 
 #EXTINF:-245 tvg-logo="https://lc.cx/GuREUN" group-title="COSTA RICA",CANAL 4 | SD
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/chunklist_w1976056133.m3u8
@@ -739,7 +743,7 @@ https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
 https://ztnr.rtve.es/ztnr/1688877.m3u8
 
 #EXTINF:-249 tvg-logo="https://graph.facebook.com/la2detve/picture?width=200&height=200" group-title="ESPAÑA",La2.TV
-https://rtvelivestream.akamaized.net/rtvesec/la1/la1_main_720.m3u8
+https://ztnr.rtve.es/ztnr/1688885.m3u8
 
 #EXTINF:-250 tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/pequeradio-tv-en-vivo-2317.jpg" group-title="INFANTIL",PEQUERADIO
 https://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -926,6 +930,12 @@ https://streamtv.onliv3.online:1936/exito-tv/exito-tv/playlist.m3u8
 
 #EXTINF:-72 group-title="COLOMBIA" tvg-logo="https://cdn.m3u.cl/logo/1285_La_Despechada_TV.png",LA DESPECHADA
 https://servidordevideo.com:3077/hybrid/play.m3u8
+
+#EXTINF:-72 group-title="MEXICO" tvg-logo="https://cdn.m3u.cl/logo/771_Mundo_de_la_Musica_TV.png",MUNDO DE LA MUISIC
+https://tv.streaming-chile.com:1936/mundodelamusicatv/mundodelamusicatv/playlist.m3u8
+
+#EXTINF:-72 group-title="BOLIVIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWPM6JzPExsJHBxDgm6MrcD9gsKBS4afdoDNhzmNgyKo1qqdt3-WqE3gnkxdFt-3JCNtI&usqp=CAU",GOGO PLAY
+https://tgn.bozztv.com/ssh101/ssh101/gogoplay/playlist.m3u8
 
 #EXTINF:-72 group-title="VENEZUELA" tvg-logo="https://cdn.m3u.cl/logo/1442_Latina_TV.png",LATINA TV
 https://vcp7.myplaytv.com/latinatv/latinatv/playlist.m3u8
@@ -4190,65 +4200,7 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",Hazme el favor (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Hazme%20el%20favor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
 
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 1 
-https://novelisima-vod.akamaized.net/nov/delivery/6109b9691f67f010bfa98d91/master.m3u8
 
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 2
-https://novelisima-vod.akamaized.net/nov/delivery/6109c8881f67f010bfa98dac/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 3
-https://novelisima-vod.akamaized.net/nov/delivery/6123c34a8e534b350a87716d/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 4
-https://novelisima-vod.akamaized.net/nov/delivery/610d6a19cc08f72440be30fa/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 5
-https://novelisima-vod.akamaized.net/nov/delivery/6123dfdb8e534b350a877188/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 6
-https://novelisima-vod.akamaized.net/nov/delivery/6123e0178e534b350a877189/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 7
-https://novelisima-vod.akamaized.net/nov/delivery/610d6a5ccc08f72440be30fd/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 8
-https://novelisima-vod.akamaized.net/nov/delivery/610d6a6fcc08f72440be30fe/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 9
-https://novelisima-vod.akamaized.net/nov/delivery/6123e0368e534b350a87718a/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 10
-https://novelisima-vod.akamaized.net/nov/delivery/610d6ac7cc08f72440be3101/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 11
-https://novelisima-vod.akamaized.net/nov/delivery/610d6ac7cc08f72440be3101/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 12
-https://novelisima-vod.akamaized.net/nov/delivery/6123e06a8e534b350a87718c/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 13
-https://novelisima-vod.akamaized.net/nov/delivery/610d6af2cc08f72440be3103/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 14
-https://novelisima-vod.akamaized.net/nov/delivery/610d6b06cc08f72440be3104/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 15
-https://novelisima-vod.akamaized.net/nov/delivery/610d6b16cc08f72440be3105/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 16
-https://novelisima-vod.akamaized.net/nov/delivery/610d6b27cc08f72440be3106/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 17
-https://novelisima-vod.akamaized.net/nov/delivery/610d6b38cc08f72440be3107/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 18
-https://novelisima-vod.akamaized.net/nov/delivery/610d6b49cc08f72440be3108/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 19
-https://novelisima-vod.akamaized.net/nov/delivery/610d6b57cc08f72440be3109/master.m3u8
-
-#EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://m.media-amazon.com/images/I/51JQQXptlYL._AC_SY200_QL15_.jpg",EVA LUNA CAP 20
-https://novelisima-vod.akamaized.net/nov/delivery/610d6b6ecc08f72440be310a/master.m3u8
 
 
 #EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4361140/16c438e22bb40da5ac5a53680d7c3ba0?tr=w-1200,h-627,f-jpeg",Voltea Pa Que Te Enamores CAP 1
@@ -4283,3 +4235,4 @@ https://novelisima-vod.akamaized.net/nov/delivery/610d736ecc08f72440be3124/maste
 
 #EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 6
 https://novelisima-vod.akamaized.net/nov/delivery/610d7381cc08f72440be3125/master.m3u8
+
