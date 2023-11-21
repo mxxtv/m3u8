@@ -228,7 +228,7 @@ https://rt-esp.rttv.com/live/rtesp/playlist_800Kb.m3u8
 https://cp.panelchs.com:1936/8122/8122/playlist.m3u8
 
 #EXTINF:-76 tvg-logo="https://lc.cx/2aTtXY" group-title="PERU",PANAMERICANA| HD
-https://cdn75.iblups.com/hls/stream.m3u8
+https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-77 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/8f667db78acfeca3e792be86616ee96f.webp" group-title="CINE Y SERIES", Cine Friki tv | HD
 https://tvup-fast-zylo-cine-friki.secure2.footprint.net/cinefriki/17/media.m3u8
@@ -472,7 +472,7 @@ https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/bitrate_3.m3u8
 https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
 
 #EXTINF:-157 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/91ce8a6df9674a7ff01fa203cdca71c9.webp" group-title="VENEZUELA", VEPACO TV
-https://cloud.streamingconnect.tv/hls/vepacotv/vepacotv.m3u8
+https://cloud.fastchannel.es/manifiest/hls/prog9/vepacotv.m3u8
 
 #EXTINF:-158 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="INFANTIL", YU-GI-OH!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
@@ -691,7 +691,7 @@ https://azt-oo.otteravision.com/out/v1/da53d7d388be437e92bf8f464018eb48/index.m3
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3529&avod=1&coppa=0&is_lat=0&dnt=0&us_privacy=1YN-&did=e4ce72c53dd087e8c9bcf30074bacd21&app_bundle=com.ammo.runtime&app_store_url=https%3A%2F%2Fwww.runtime.tv%2Fdevices&app_domain=runtime.tv&app_name=runtime&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=runtime&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&consent=1&gdpr=0&custom_12=0&custom_15=es&custom_16=EN&custom_17=es&site_page=https%253A%252F%252Fwww.runtime.tv%252F&gender=not_specified&yob=0&livestream=1&custom_param_0=&custom_param_1=desktop&custom_param_2=&custom_param_3=&custom_param_4=internal&custom_param_5=web&custom_param_6=South%2520America&timestamp=1691084212&id=6813&ip=45.224.152.74&override_expiration=1500&sign=6aote%2FsxHrM%2FGd07KYygmatUqUgMav7yelfQpm%2FuYIo%3D
 
 #EXTINF:-230 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/d361f1f51796136d9f931586c45f4a33.webp" group-title="PERU" , TVPE INTERNACIONAL
-https://dy8y8vcruqztn.cloudfront.net/out/v1/ee2450c81e554f4cae0e6292106993c2/index_3.m3u8
+https://cdnhd.iblups.com/hls/777b4d4cc0984575a7d14f6ee57dbcaf.m3u8
 
 #EXTINF:-231 tvg-logo="https://image.roku.com/developer_channels/prod/d8520391d9008e9c84d39705b8b6364bfb5fa7dafa7c65c90b3f77bd5f1495d5.png" group-title="MUSICA" , Panavision tv
 https://vcp.myplaytv.com/panavision/panavision/chunklist_w1472037853.m3u8
@@ -727,8 +727,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
 
 #EXTINF:-242 tvg-logo="https://i.ytimg.com/vi/UNNg5STH5wI/maxresdefault.jpg" group-title="CHILE" , INT Hispantv
-
-
 
 #EXTINF:-245 tvg-logo="https://lc.cx/GuREUN" group-title="COSTA RICA",CANAL 4 | SD
 https://5cd577a3dd8ec.streamlock.net/CAMARAS/live5/chunklist_w1976056133.m3u8
@@ -769,13 +767,13 @@ https://amg01768-flou-floucaribe-canelatv-cgucr.amagi.tv/playlist/amg01768-flou-
 #EXTINF:-257 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/741d3530aa091029acacc03a92ae6bb7.webp" group-title="CINE Y SERIES", Sony Canal Comedias
 https://f06ba9efc5bb4fc28ca33d4aa03e6dc0.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_SonyCanalComedias-1/39f9a08c-ff8d-48d3-869d-8e397f357106/5.m3u8
 
-#EXTINF:-1 group-title="VARIOS" , TV 24 HORAS
+#EXTINF:-258 group-title="VARIOS" , TV 24 HORAS
 https://mdstrm.com/live-stream-playlist/57d1a22064f5d85712b20dab.m3u8?uid=VD0FWEGn1jQLL1fmDvcuzPd97s5PcYoS&amp;sid=o3ttWqAc0Ptj9XxQPpltYlq46wKI2Jk0&amp;pid=tduCjkqCWPEcwfHZTpWrdUO5ewrRUyPP&amp;an=screen&amp;at=web-app&amp;av=v5.2.336&amp;ref=https%3A%2F%2Fwww.24horas.cl%2Fsenal-24hplay&amp;res=940x554&amp;without_cookies=false&amp;listenerid=&amp;dnt=true
 
-#EXTINF:-1 group-title="VARIOS" , Net TV
+#EXTINF:-259 group-title="VARIOS" , Net TV
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="INFANTIL" ,Xtrema TV - Retro Cartoons
+#EXTINF:-260 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/bc4b7e61e1dc1d6e21310964acd99139.webp" group-title="INFANTIL" ,Xtrema TV - Retro Cartoons
 https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist_w2016980563.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="CINE Y SERIES" , Planeta TV Family
@@ -916,10 +914,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078
 #EXTINF:-72 group-title="CINE Y SERIES", TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
+#EXTINF:-72 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwucBRvHRSzskmcm2RQL-IP4-AQftTiG6Uc0ZR0I_PV1iogfr0kBL2Tkb2RIG4tZ5yjg&usqp=CAU"group-title="VARIOS", MIAMI TV MX
+https://59ec5453559f0.streamlock.net/jennyforyou/jennyforyou/.m3u8
+
 #EXTINF:-72 group-title="PERU" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2c/Uranio_15_1994.svg/revision/latest/scale-to-width-down/1200?cb=20220831215333&path-prefix=es", URANIO TV
 https://live.obslivestream.com/uraniotv/index.m3u8
 
-#EXTINF:-72 group-title="ECUADOR" tvg-logo="https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png", VIA TV
+#EXTINF:-72 group-title="ECUADOR"https://viatelevision.pe/wp-content/uploads/2021/11/logo-retina.png", VIA TV
 https://videoserver.tmcreativos.com:19360/cablerasvia/cablerasvia.m3u8
 
 #EXTINF:-72 group-title="PERU" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/049c98cb65e2cb33606d01d8003f1750.webp",PERU CHANNEL
@@ -4201,8 +4202,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Hazme%20el%20favor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
 
 
-
-
 #EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://images.vix.com/prd/videos/video:mcp:4361140/16c438e22bb40da5ac5a53680d7c3ba0?tr=w-1200,h-627,f-jpeg",Voltea Pa Que Te Enamores CAP 1
 https://frankly-vod.akamaized.net/venevision/transcoded/4767c4ca-c8fd-4352-a906-4a89ee6f8bbe/hls/master.m3u8
 
@@ -4235,4 +4234,3 @@ https://novelisima-vod.akamaized.net/nov/delivery/610d736ecc08f72440be3124/maste
 
 #EXTINF:-1 group-title="TELENOVELAS" type="movie" tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/84/Poster_of_El_pais_de_las_mujeres.jpg",El País De Las Mujeres CAP 6
 https://novelisima-vod.akamaized.net/nov/delivery/610d7381cc08f72440be3125/master.m3u8
-
