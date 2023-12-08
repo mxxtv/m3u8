@@ -642,8 +642,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-214 tvg-name="Weather Channel" tvg-logo="https://canalesdominicanos.live/template/images/radios/cibaena-tv-radio.png" group-title="REPUBLICA DOMINICANA",Cibaeña TV
 https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 
-#EXTINF:-215 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="ECUADOR", READY TV
-https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
+#EXTINF:-215 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png/revision/latest/scale-to-width-down/1200?cb=20210214155846&path-prefix=es" group-title="ECUADOR", OROMAR EC
+https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
 
 #EXTINF:-216 tvg-name="RCC TV" tvg-logo="https://1.bp.blogspot.com/-TFCLCbyzLJg/YTX7J_MP0VI/AAAAAAAAQYU/NmDse7rND7MbfbhJvdimrzRhZ8HAFBXGgCLcBGAsYHQ/w172-h172/RCC%2BTV%2BEn%2Bvivo.png" group-title="PARAGUAY",RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
@@ -793,6 +793,9 @@ https://stream.trixserver.com:3088/live/uv096live.m3u8
 
 #EXTINF:-1 group-title="VARIOS" , Canal 36 costa rica
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8
+
+#EXTINF:-215 tvg-logo="https://readytelevision.com/wp-content/uploads/2020/09/Readytelevision-small.png" group-title="VARIOS", READY TV
+https://streaming.telecablecentral.com.do/ReadyTV/ReadyHD/playlist.m3u8
 
 #EXTINF:-1 group-title="VARIOS" , Canal Capital HD
 https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live-2500/index.m3u8
@@ -4207,4 +4210,5 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",Hazme el favor (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Hazme%20el%20favor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
+
 
