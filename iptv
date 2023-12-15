@@ -3,7 +3,7 @@
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
 #EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5dfCxyj1DWyE_zbZxdBEmuIQGR9ocgsLnnGdfSxg8i_)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl2rE7T4ON81jTm3hu7-VQOChwuQivPoYCwo9y4l0tbOY)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
@@ -95,7 +95,7 @@ https://live.obslivestream.com/planetatv/index.m3u8
 #EXTINF:-32 tvg-logo="https://lc.cx/muIXxu" group-title="PUERTO RICO", Mega tv | HD
 https://livestream.lamusica.com/megatvP320/ngrp:megatvP320_all/.m3u8
 
-#EXTINF:-33 tvg-logo="https://lc.cx/YjRC8H" group-title="DEPORTES", Bein Sport | HD
+#EXTINF:-33 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="DEPORTES", Bein Sport | HD
 https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3u8
 
 #EXTINF:-34 tvg-logo="https://puruwatv.com/wp-content/uploads/2018/04/logo.png" group-title="ECUADOR", PURUWA TV  | SD
@@ -315,7 +315,7 @@ https://video20.klm99.com:3558/hybrid/play.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/480p/chunklist.m3u8
 
 #EXTINF:-106 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="DEPORTES", BEIN SPORTS XTRA
-https://i.mjh.nz/PlutoTV/5df975e2b27cf5000921c102-alt.m3u8
+https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
 #EXTINF:-107 tvg-logo="https://img.asmedia.epimg.net/resizer/xjFGduUDe9tcl3j7HgyVNbWq20M=/360x203/cloudfront-eu-central-1.images.arcpublishing.com/diarioas/EW3U7NAIBNCOZCYGAGD3NYY54A.jpg" group-title="MEXICO", N mas GUADALAJARA
 https://channel04-notusa.akamaized.net/hls/live/2029754/event01/index_4.m3u8
@@ -803,7 +803,7 @@ https://live-edge-bhs-1.cdn.enetres.net/C99D9A0676F3401589C768D47D31605C022/live
 https://vivo.canaloncelive.tv/alivepkgr3/ngrp:cepro_all/playlist.m3u8
 
 #EXTINF:-270 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2015/09/movistar-plus-bein-sports.jpg" group-title="DEPORTES",MOVISTAR BEIN SPORT
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
 
 #EXTINF:-271 group-title="CINE Y SERIES",TU CINE HD
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/playlist.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ftu-cine%2F&amp;genre=&amp;ic=&amp;us_privacy=2021&amp;coppa=0&amp;user_id=&amp;ip=157.100.59.47&amp;ipv6=&amp;c_duration=3600&amp;c_producer=tucine&amp;c_lang=es&amp;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F107.0.0.0+Safari%2F537.36&amp;hls_marker=1&amp;content_channel=Tu+Cine&amp;content_title=&amp;content_genre=&amp;gdpr=0&amp;player_height=1080&amp;player_width=1920&amp;min_ad_duration=6&amp;max_ad_duration=120
@@ -860,7 +860,7 @@ https://streaming.rtvc.gov.co/TV_Senal_Colombia_live/smil:live.smil/playlist.m3u
 https://vdo2.streamgato.us:3562/live/dantvlive.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6ee8b5734b4901400532a4a97e6ca03a.webp" group-title="DEPORTES", CHIV DEPORTES
-https://dai.google.com/linear/hls/pa/event/1P2iL-EkSe2OuVR2IZ-v6w/stream/7915b989-ec76-49df-8b47-37ef1c44ded4:DLS/master.m3u8
+hhttps://dai.google.com/linear/hls/pa/event/1P2iL-EkSe2OuVR2IZ-v6w/stream/f9f08136-1aa9-4b48-9137-7fc49dd13c8f:CBF2/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQi8snrz6a7tTcg29UUpirGBQIRVZkYCqAfToF9fdEVvEbDf6NlD0AFU44qqZfJf_mXoXI&usqp=CAU" group-title="COLOMBIA" , Multizona tv  HD
 https://cloudvideo.servers10.com:8081/8068/tracks-v1a1/mono.m3u8
@@ -993,6 +993,19 @@ https://mdstrm.com/live-stream-playlist/60b578b060947317de7b57ac.m3u8
 
 #EXTINF:-300 tvg-logo="https://lc.cx/qQMuBT" group-title="COLOMBIA", CORDOVA TV
 https://streamer.zapitv.com/PTV_CORDOBA/index.m3u8
+
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/NjS9j6rR/CINE_PREMIERE.png" group-title="CINE Y SERIES", CINE PREMIERE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eeb650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9d68de35-eba9-49ed-8345-3e39294775b8&userId=&serverSideAds=true
+
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=20f53e04-9cb8-454e-ad8b-838686c353e7&userId=&serverSideAds=true
+
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f50cc36a94000749fd3f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff04-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=236222be-74f0-4d28-b58b-70f75ce8319a&userId=&serverSideAds=true
+
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR 3
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e6a68b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0592c791-fce9-4adb-b161-20f61b7145ae&userId=&serverSideAds=true
+
 
 #EXTINF:-301 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Caracol_Television_Lo_Mejor_Para_Ti.png" group-title="COLOMBIA", CARACOL
 http://tv.teleclub.xyz/envivo/Mundo/CARACOLTV/index.m3u8
@@ -4236,7 +4249,3 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gD72DhJ7NbfxvtxGiAzLaa0xaoj.jpg",Hazme el favor (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fagosto%2FVer%20Hazme%20el%20favor%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
-
-
-
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         
