@@ -3,10 +3,10 @@
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
 #EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx7vdHpBn_a4mFPRjrROTXu_QRE9SaLt2UcDA9DsvP3z)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlx7vdHpBn_a4mFPRjrROTXu_QRE9SaLt2UcDA9DsvP3z)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/1200px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
-https://teleamazonas-live.cdn.vustreams.com/live/0fc97608-6057-4db8-9af7-102c21ac18af/live.isml/0fc97608-6057-4db8-9af7-102c21ac18af.m3u8
+https://teleamazonas-live.cdn.vustreams.com/live/e0d24c1d-07ed-4717-8726-635c1735d1f3/live.isml/e0d24c1d-07ed-4717-8726-635c1735d1f3.m3u8
 
 #EXTINF:-4 tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES", PLUTO TV NATURALEZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
