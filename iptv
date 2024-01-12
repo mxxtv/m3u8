@@ -643,8 +643,8 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=1153
 #EXTINF:-214 tvg-name="Weather Channel" tvg-logo="https://canalesdominicanos.live/template/images/radios/cibaena-tv-radio.png" group-title="REPUBLICA DOMINICANA",Cibaeña TV
 https://vsrv2.az-streamingserver.com:3958/live/cibaenatvlive.m3u8
 
-#EXTINF:-215 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3c/OromarTV_2010.png/revision/latest/scale-to-width-down/1200?cb=20210214155846&path-prefix=es" group-title="ECUADOR", OROMAR EC
-https://stream.oromartv.com:8082/hls/oromartv_hi/index.m3u8
+#EXTINF:-215 tvg-logo="https://i.imgur.com/j3rofV7.png" group-title="ECUADOR", PrensaEc
+https://rpn3.bozztv.com/ssh101/ssh101/prensaec/playlist.m3u8
 
 #EXTINF:-216 tvg-name="RCC TV" tvg-logo="https://1.bp.blogspot.com/-TFCLCbyzLJg/YTX7J_MP0VI/AAAAAAAAQYU/NmDse7rND7MbfbhJvdimrzRhZ8HAFBXGgCLcBGAsYHQ/w172-h172/RCC%2BTV%2BEn%2Bvivo.png" group-title="PARAGUAY",RCC TV
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/chunklist_w584696906.m3u8
@@ -814,10 +814,10 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-tucinelatam-ono/pla
 https://cdn.elsalvadordigital.com:1936/wowtv/smil:wowtv.smil/playlist.m3u8
 
 #EXTINF:-273 tvg-logo="https://cdn.teleon.tv/logo/orbit_tv.png" group-title="ECUADOR", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/playlist.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w2094971648.m3u8
 
 #EXTINF:-274 tvg-logo="https://cdn.teleon.tv/logo/orbit_tv.png" group-title="CINE Y SERIES", ORBIT TV
-https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w1370159806.m3u8
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w2094971648.m3u8
 
 #EXTINF:-275 group-title="CINE Y SERIES", FREE TV HD
 https://freetv.stream.olympusatmedia.com/index.m3u8?url=https%3A%2F%2Fwww.freetv.com%2Fpeliculas%2Ffreetv-8-2%2F&amp;genre=Entretenimiento&amp;ic=&amp;us_privacy=&amp;coppa=0&amp;user_id=&amp;ip=45.224.152.74&amp;ipv6=&amp;c_duration=3600&amp;c_producer=freetv8.2&amp;c_rating=&amp;c_lang=es&amp;ua=Mozilla%2F5.0+%28Windows+NT+10.0%3B+Win64%3B+x64%29+AppleWebKit%2F537.36+%28KHTML%2C+like+Gecko%29+Chrome%2F111.0.0.0+Safari%2F537.36&amp;hls_marker=1&amp;content_channel=FreeTV+8.2&amp;content_title=&amp;content_genre=&amp;gdpr=0&amp;player_height=1080&amp;player_width=1920&amp;min_ad_duration=6&amp;max_ad_duration=120
@@ -921,12 +921,14 @@ https://vod2live.univtec.com/manifest/89290956-94ab-4950-accb-a54bbd7e176f/10800
 #EXTINF:-308 group-title="VARIOS" , MEGA TV PARAGUAY
 https://ott.streann.com/loadbalancer/services/public/channels-secure/5e62b96e2cdcfac2dd8885dd/playlist.m3u8
 
-
 #EXTINF:-308 group-title="DEPORTES", ITV SPORTS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=3010
 
 #EXTINF:-309 tvg-logo="https://d3b5jqy5xuub7g.cloudfront.net/wp-content/uploads/2021/05/DeporTVOK-300x225.jpg" group-title="DEPORTES" , DEPORTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/.m3u8
+
+#EXTINF:-309 tvg-logo="https://i.imgur.com/7wYK8m6.png" group-title="MEXICO" , ViX Parejas
+https://d1f3q72l8uy8ur.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-z46pswns8dp1b-ssai-prd/dist/samsungtv/318/hls/master/playlist.m3u8
 
 #EXTINF:-1 group-title="ECUADOR", TV AUSTRO
 https://cp.panelchs.com:1936/8148/8148/playlist.m3u8
@@ -4798,3 +4800,4 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
+
