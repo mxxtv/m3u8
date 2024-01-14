@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC EC 4 HORAS
-https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5IXMJcdPHPovaF7evKOZL_g4KnR490xDdAA0OnT6b_3)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC 4 HORAS
+https://stream-04.nyc.dailymotion.com/sec(p5KA4QqcEoMI-Au0U41kOp4Cf3R6hXeIvBuGSj1-WYX8j5D0r_HcWXWoc7vWYrLU)/dm/3/x84cxl0/s/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/34bbb9b2-6561-4671-9b15-8d7db8a09983/live.isml/34bbb9b2-6561-4671-9b15-8d7db8a09983.m3u8
@@ -73,6 +73,7 @@ https://envivo.telerama.ec/stream.m3u8
 
 #EXTINF:-25 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/Rts_logo.png" group-title="ECUADOR",Rts | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC2/chunks.m3u8
+
 
 #EXTINF:-26 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/Logotipo_de_La_Red_%282019-2021%29.png"group-title="COSTA RICA" ,La Red Tv
 https://unlimited1-us.dps.live/lared/lared.smil/lared/livestream0/chunks.m3u8
@@ -229,7 +230,6 @@ https://cdnhd.iblups.com/hls/ptv5.m3u8
 
 #EXTINF:-77 tvg-shift="-3" tvg-logo="https://lc.cx/gBjIZ1"  group-title="MEXICO",AZ Corazon 
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=4830&amp;avod=1&amp;coppa=0&amp;is_lat=0&amp;dnt=0&amp;us_privacy=1YN-&amp;did=e4ce72c53dd087e8c9bcf30074bacd21&amp;app_bundle=com.tvazteca.live&amp;app_store_url=https%3A%2F%2Fwww.ottera.tv%2Fdevices&amp;app_domain=ottera.tv&amp;app_name=tvazteca&amp;custom_targeting=web&amp;custom_4=internal&amp;h=720&amp;w=1280&amp;content_channel=tvazteca&amp;content_dist_name=internal&amp;device_make=&amp;device_model=&amp;preferred_language=EN&amp;consent=1&amp;gdpr=0&amp;custom_12=0&amp;custom_15=es&amp;custom_16=EN&amp;custom_17=en&amp;site_page=ottera.tv&amp;gender=not_specified&amp;yob=0&amp;livestream=1&amp;custom_param_1=desktop&amp;custom_param_4=internal&amp;custom_param_5=web&amp;custom_param_6=South%20America&amp;custom_param_0=&amp;custom_param_2=&amp;custom_param_3=
-
 
 #EXTINF:-78 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/46140fd597ed896d58f12c7e794d5f06.webp" group-title="PARAGUAY",Jazmín Tv En Vivo
 https://tvdatta.com:3957/stream/play.m3u8
@@ -777,8 +777,8 @@ https://stmv1.cnarlatam.com/retroinfantil/retroinfantil/chunklist_w2016980563.m3
 #EXTINF:-260 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/6731cdcffdd23c62cd574c8d68154af9.webp" group-title="CINE Y SERIES" , Planeta TV Family
 https://scl.edge.grupoz.cl/planetatvkids/live/chunklist_w76884755.m3u8
 
-#EXTINF:-261 group-title="VARIOS" , GALAXIA TV LIVE
-https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8?DVR
+#EXTINF:-261 group-title="VARIOS" , las estrelas event
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-262 tvg-logo="https://pbs.twimg.com/profile_images/1687425244/flashtv_400x400.jpg" group-title="MUSICA", Flash TV
 https://epg.provider.plex.tv/library/parts/608049aefa2b8ae93c2c3a20-6018913ea15130002b284191.m3u8?includeAllStreams=1&X-Plex-Product=Plex+Mediaverse&X-Plex-Token=xFqFUUB6JzdRBY2DuUrG
@@ -1213,6 +1213,18 @@ https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/playlist.m3u8
 #EXTINF:-401 tvg-id="Canal4.mx" tvg-name="Canal 4" tvg-logo="https://i.imgur.com/qnx8nBP.png" group-title="MEXICO",Canal 4
 https://5fa5de1a545ae.streamlock.net/4982/4982/playlist.m3u8
 
+#EXTINF:-401 tvg-logo="https://th.bing.com/th/id/OIP.qCojySeacc_iPGdzklMDIAHaI7?w=151&h=183&c=7&r=0&o=5&pid=1.7" group-title="MEXICO", Warner Brother
+https://linear-262.frequency.stream/dist/vix/262/hls/master/playlist_1280x720.m3u8
+
+#EXTINF:-401 tvg-logo="https://th.bing.com/th/id/OIP.VW6AhwGJHNGediUhpQksGwAAAA?w=273&h=180&c=7&r=0&o=5&pid=1.7" group-title="DEPORTES", Tigo Sports
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+
+#EXTINF:-401 tvg-logo="https://th.bing.com/th/id/OIP.grLQ2AeY6bGm1RE0Kz8xLQHaHa?w=173&h=180&c=7&r=0&o=5&pid=1.7" group-title="MEXICO", ULTRA PUEBLA
+https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kaTu9Qb.png" group-title="MEXICO" , LAS ESTRELLAS LTN
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde http://teleclub.xyz/activar 
 http://tv.teleclub.xyz/hls/welcome.m3u8
  
@@ -1588,9 +1600,9 @@ https://linear-256.frequency.stream/dist/vix/256/hls/master/playlist_1024x576.m3
 #EXTINF:-87 tvg-logo="https://i.imgur.com/Q2xvbyg.png" group-title="SERVIDOR 2", BeinSports Ñ Extra 
 https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="Deportes", Bein Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="SERVIDOR 2", Bein Sports
 http://tv.teleclub.xyz/envivo/Deportes/BEING_SPORTS/index.m3u8
- 
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D06tacN.png" group-title="SERVIDOR 2", Bein SPORTS 
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
@@ -1598,7 +1610,7 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/g7Csa8G.png" group-title="SERVIDOR 2", Principe del Rap 
-http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8 
+http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/kcfLruN.png" group-title="SERVIDOR 2", Correcaminos 
 http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8 
@@ -4813,102 +4825,3 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://webcam.lgbt/wp-content/uploads/2023/03/image-97.png",POV PORNO
-https://cdn.adultiptv.net/pov.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.logotypes101.com/logos/902/628B6656F15FF18373495599DF11E7F3/Pornstar.png",PORNSTAR
-https://cdn.adultiptv.net/pornstar.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/VkiN5Q",BLOWJOB
-https://cdn.adultiptv.net/blowjob.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://lc.cx/_8ke6X",HUSTLER
-https://b-hls-10.doppiocdn.com/hls/76592543/76592543.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/brazzers-tv-official-logo.png",BRAZZERS TV
-https://livechannels.xyz:2053/iptv/brazzers/playlist.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://adult-tv-channels.com/wp-content/uploads/2021/09/hustler-hd-official-logo.png",Hustler-hd-tv
-https://livechannels.xyz:2053/iptv/hustlertv/playlist.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dorcel_TV.svg/1200px-Dorcel_TV.svg.png",DORCEL-hd-tv
-https://livechannels.xyz:2053/iptv/dorcel/playlist.m3u8
-
-#EXTINF:-1 group-title="ZONA 18 XX" tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/868-540x304-FFFFFF.jpg",MIAMI TV XX
-https://59ec5453559f0.streamlock.net/jennyforyou/smil:WEB3131/.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", LiveCams 
-https://tv.teleclub.xyz/envivo/XXX/LIVECAMS/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Milf 
-https://tv.teleclub.xyz/envivo/XXX/MILF/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigDick 
-https://tv.teleclub.xyz/envivo/XXX/BIGDICK/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Fetish 
-https://tv.teleclub.xyz/envivo/XXX/FETISH/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigTits 
-https://tv.teleclub.xyz/envivo/XXX/BIGTITS/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Pornstar 
-https://tv.teleclub.xyz/envivo/XXX/PORNSTAR/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", BigAss 
-https://tv.teleclub.xyz/envivo/XXX/BIGASS/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Interracial 
-https://tv.teleclub.xyz/envivo/XXX/INTERRACIAL/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Latina 
-https://tv.teleclub.xyz/envivo/XXX/LATINA/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", POV 
-https://tv.teleclub.xyz/envivo/XXX/POV/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blowjob 
-https://tv.teleclub.xyz/envivo/XXX/BLOWJOB/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Teen 
-https://tv.teleclub.xyz/envivo/XXX/TEEN/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Hardcore 
-https://tv.teleclub.xyz/envivo/XXX/HARDCORE/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Cuckold 
-http://tv.teleclub.xyz/envivo/XXX/CUCKOLD/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Threesome 
-http://tv.teleclub.xyz/envivo/XXX/THREESOME/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Russian 
-https://tv.teleclub.xyz/envivo/XXX/RUSSIAN/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Lesbian 
-https://tv.teleclub.xyz/envivo/XXX/LESBIAN/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Rought 
-https://tv.teleclub.xyz/envivo/XXX/ROUGHT/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Gangbang 
-https://tv.teleclub.xyz/envivo/XXX/GANGBANG/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Anal
-https://tv.teleclub.xyz/envivo/XXX/ANAL/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Compilation 
-https://tv.teleclub.xyz/envivo/XXX/COMPILATION/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Brunette 
-https://tv.teleclub.xyz/envivo/XXX/BRUNETTE/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", Blonde 
-https://tv.teleclub.xyz/envivo/XXX/BLONDE/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", PlayBoy HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_PLAYBOY/index.m3u8 
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GupWvRh.png" group-title="ZONA 18 XX", VENUS HD 
-https://tv.teleclub.xyz/envivo/XXX/XXX_VENUS/index.m3u8
