@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ECU 4 HORAS
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl0AzqK8fq50M_p_SNCJBl1HRLV3j8U6zs0Zqki7kGqK8)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC 4 HORAS
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl90JcAabWZ0A02hnxBMx56SOO0Esov3enMHp5t-XJGoR)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/34bbb9b2-6561-4671-9b15-8d7db8a09983/live.isml/34bbb9b2-6561-4671-9b15-8d7db8a09983.m3u8
@@ -17,7 +17,7 @@ https://go.majestadtv.ec/hls/stream.m3u8
 #EXTINF:-6 tvg-logo="https://lc.cx/81w4NA" group-title="ECUADOR", Ecuastereo 
 https://video.misistemareseller.com/ecuastereotv/ecuastereotv/playlist.m3u8
 
-#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA
+#EXTINF:-7 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" group-title="ECUADOR", ECUAVISA GYQUIL
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisa/ecuavisa.smil/playlist.m3u8
 
 #EXTINF:-8 tvg-logo="https://i.postimg.cc/SQtWNWHp/TELEFEHITS.png" group-title="ARGENTINA", TELEFÉ HITS
@@ -167,7 +167,7 @@ https://vdo.grupolimalive.com:3365/live/unitellive.m3u8
 #EXTINF:-56 tvg-logo="https://www.repretel.com/wp-content/uploads/2020/09/canal_11.png" group-title="COSTA RICA", REPRETEL 11 | HD
 https://d2t46xrpai3it5.cloudfront.net/Repretel11/b3e2798525101c45f84a48573676853a.sdp/playlist.m3u8
 
-#EXTINF:-57 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEU9qut1QCiW_5qv2AId0cS2b663rfT2Ue8LcxOUEUjRcorMM56Kb2NM_aQY0sBiceSgc&usqp=CAU" group-title="ECUADOR", Ecuavisa HD
+#EXTINF:-57 tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="ECUADOR", Ecuavisa QUITO
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 
 #EXTINF:-58 tvg-logo="https://i.paste.pics/37697a4fd7370ba4b48f377e79656ee2.png" group-title="CINE Y SERIES", Planeta TV movies  | SD
@@ -1165,7 +1165,7 @@ https://amg00567-estrellamedia-cineestrella-lgus-urymg.amagi.tv/playlist/amg0056
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/2a5b75e43e4ae2c4c2b44a34ee9045d9.webp" group-title="VENEZUELA" ,TVO
-https://5fc584f3f19c9.streamlock.net/tvo/smil:tvo.smil/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xMS8yMDI0IDY6NDU6NTcgUE0maGFzaF92YWx1ZT14aDBqK0xKbllacis2L3M1R1BBcnhnPT0mdmFsaWRtaW51dGVzPTEwJmlkPQ==
+https://cloud.fastchannel.es/manifiest/hls/prog9/tvo.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/J8ztiAN.png" group-title="VENEZUELA" ,TVS
 https://vcp3.myplaytv.com/tvs/tvs/playlist.m3u8
@@ -1223,6 +1223,15 @@ https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
 
 #EXTINF:-401 tvg-logo="https://th.bing.com/th/id/OIP.grLQ2AeY6bGm1RE0Kz8xLQHaHa?w=173&h=180&c=7&r=0&o=5&pid=1.7" group-title="MEXICO", ULTRA PUEBLA
 https://5e50264bd6766.streamlock.net/telemetrika2/smil:telemetrika2.smil/playlist.m3u8
+
+#EXTINF:-401 tvg-logo="https://i.imgur.com/NMI2Wed.png" group-title="VENEZUELA",VALE TV
+https://vcp2.myplaytv.com/valetv/valetv/.m3u8
+
+#EXTINF:-401 tvg-logo="https://i.imgur.com/g5ShxZ7.png" group-title="MEXICO",LAS ESTRELLAS INTER
+https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+
+#EXTINF:-401 tvg-logo="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Rzd9GLxY91gVUTcJZl84rA.jpeg" group-title="VENEZUELA",VISION LATINA
+https://dacastmmd.mmdlive.lldns.net/dacastmmd/c259ef3a5ff14f8da764c45f1f4cc5b8/manifest.m3u8?p=79&s=1705898554&e=1705898674&h=ae122eb84bc2edf88e5e49ffda7024bf
 
 
 #EXTINF:-1 tvg-logo="https://lc.cx/-tQ7NA" group-title="SERVIDOR 2", Activar desde http://teleclub.xyz/activar 
