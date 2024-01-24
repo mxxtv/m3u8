@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC ec 4 HORAS
+#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC 4 HORAS NOCHE
 https://live-c.cf.dmcdn.net/sec2(25oQrP-OJWaWfd0fcy_PBx4Dss1HHekX7J2_LDQR8wUWLAcThBILIx7iK8dyBoxYCXmO2Z2Awd9dS07tSBDhus-ENqAoRTHsd_OYg27megY)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
@@ -1522,7 +1522,7 @@ http://tv.teleclub.xyz/envivo/Deportes/CLARO_SPORTS/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/k7yZgTl.jpg" group-title="SERVIDOR 2", GolTV 
 http://tv.teleclub.xyz/envivo/Deportes/GOLTV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="SERVIDOR 2", Goltv Peru 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="SERVIDOR 2", Goltv Peru 
 http://tv.teleclub.xyz/envivo/Deportes/GOLPERU/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="SERVIDOR 2", Directv 
@@ -1535,7 +1535,10 @@ http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_2/index.m3u8
 http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_PLUS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/TG1HRPi.png" group-title="SERVIDOR 2", DirecTV Sports (ARG) 
-http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_ARG/index.m3u8  
+http://tv.teleclub.xyz/envivo/Deportes/DIRECTV_ARG/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wZWckwd.jpg" group-title="SERVIDOR 2", ESPN Premium 
+http://tv.teleclub.xyz/envivo/Deportes/ESPN_PREMIUM/index.m3u8  
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="SERVIDOR 2", ESPN MX 
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_MX/index.m3u8
@@ -1596,6 +1599,12 @@ http://tv.teleclub.xyz/envivo/Deportes/TYC_SPORTS/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IEQHphW.jpg" group-title="SERVIDOR 2", WWE & WWF 
 http://tv.teleclub.xyz/envivo/Deportes/WWE_WWF/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kRxbN72.png" group-title="SERVIDOR 2", El Canal del Futbol 
+http://tv.teleclub.xyz/envivo/Deportes/EL_CANAL_DEL_FUTBOL/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kRxbN72.png" group-title="DEPORTES", El Canal del Futbol 
+http://tv.teleclub.xyz/envivo/Deportes/EL_CANAL_DEL_FUTBOL/index.m3u8
  
 #EXTINF:-1 tvg-logo="https://lc.cx/nugSOv" group-title="SERVIDOR 2", NFL Channel 
 http://tv.teleclub.xyz/envivo/Deportes/NFL_CHANNEL/index.m3u8 
@@ -1668,6 +1677,15 @@ http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
+
+ #EXTINF:-1 tvg-logo="https://i.imgur.com/Q3KJSUO.png" group-title="SERVIDOR 2", Padre de Familia 
+http://tv.teleclub.xyz/envivo/24_7/PADRE_DE_FAMILIA/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CWFgnoI.png" group-title="SERVIDOR 2", Los Simpsons 
+http://tv.teleclub.xyz/envivo/24_7/LOS_SIMPSONS/index.m3u8 
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/it1OidM.png" group-title="SERVIDOR 2", Doraemon 
+http://tv.teleclub.xyz/envivo/24_7/DORAEMON/index.m3u8
 
 
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
