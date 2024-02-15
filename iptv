@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
-#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC 4horas NOCH
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlzcGfgJDKHZqVhPX3SZ4TTUgxgiPzkwHdjcU4-FQPPvI)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC4 horas NOCH
+https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl-AbqirwFf6fXhZ7CIpRZ31UnZX10dlItzpk4GjKSdS_)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/34bbb9b2-6561-4671-9b15-8d7db8a09983/live.isml/34bbb9b2-6561-4671-9b15-8d7db8a09983.m3u8
@@ -398,10 +398,10 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main_576.m3u8
 #EXTINF:-133 tvg-logo="https://images.radiovolna.net/_files/images/stations/423203/f9cddc37fc964ed778315f8b50a611d6_130x130.webp" group-title="ECUADOR", Recuerdos Retro | HD
 https://panel.tvstream.cl:1936/8034/8034/chunklist_w1244170437.m3u8
 
-#EXTINF:-134 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR6pwd4ddbpHbDaa0U1Xhk_RiikwmFDXc5Y9nhps4Za0F-6CCVxLAKxp542lW34Kg151Y&usqp=CAU" group-title="ECUADOR", INFINITA TV | HD
+#EXTINF:-134 tvg-logo="https://i.postimg.cc/9QV9H9fY/inf.png" group-title="ECUADOR", INFINITA TV | HD
 https://s2.tvdatta.com:3753/hybrid/play.m3u8
 
-#EXTINF:-135 tvg-logo="https://lc.cx/q4XH-8" group-title="ECUADOR", ECUADOR TV| HD
+#EXTINF:-135 tvg-logo="https://i.postimg.cc/8C2nTwf0/ecutv.png" group-title="ECUADOR", ECUADOR TV| HD
 https://samson.streamerr.co:8081/akira/index.m3u8
 
 #EXTINF:-136 tvg-logo="https://www.coolstreaming.us/img/ch/image5883637955.webp" group-title="MEXICO", MIAMI TV| HD
@@ -1835,6 +1835,9 @@ http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",Wonka 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1 .oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Wonka%20online%20HD%20-%20Cuevana%202.mp4 #EXTINF:-1 group-title= "Pelis 2" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",Los tipos malos: Una Navidad muy mala (2023) https:// grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Los%20tipos%20malos-%20Una%20Navidad%20muy%20mala %20online%20HD%20-%20Cuevana%202.mp4 
 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ycpxvpNyrkzsydwvLTUNixRWrdQ.jpg",Silber y el libro de los sueños (2023) 
+https://grrfff66me7t. objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Silber%20y%20el%20libro%20de%20los%20sue%C3% B1os%20online%20HD%20-%20Cuevana%202.mp4 
+
 
 #EXTVLCOPT:http-user-agent=BrzLRzQgfTrvXYGnfIVrkwb9402QA44LkyZf98xmMznUT 
 #EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/8xV47NDrjdZDpkVcCFqkdHa3T0C.jpg",Aquaman el reino perdido 
@@ -1895,9 +1898,6 @@ https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66
 #EXTINF:-1 group-title="Pelis 2" type="película" tvg-logo="https://image.tmdb .org/t/p/w500/iuGofAB4DaAkq7KyFZEyW6czRCj.jpg",En el desierto (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/ o/reset%2Fpeliculas%2Fdiciembre%2FVer%20%D9%86%D8%A7%D9%82%D8%A9%20online%20HD%20-%20Cuevana%202.mp4 
 
-#EXTINF:-1 group-title=" Pelis 2" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ycpxvpNyrkzsydwvLTUNixRWrdQ.jpg",Silber y el libro de los sueños (2023) 
-https://grrfff66me7t. objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Silber%20y%20el%20libro%20de%20los%20sue%C3% B1os%20online%20HD%20-%20Cuevana%202.mp4 
-
 #EXTINF:-1 group-title="Pelis 2" type="película" tvg-logo="https://image.tmdb.org/t/p /w500/29rhl1xopxA7JlGVVsf1UHfYPvN.jpg",Dejar el mundo atrás (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas %2Fdiciembre%2FVer%20Dejar%20el%20mundo%20atr%C3%A1s%20online%20HD%20-%20Cuevana%202.mp4 
 
@@ -1920,13 +1920,19 @@ http://vod.tuxchannel.mx/peliculas/720/ doctor%20who%20the%20star%20beast%202023
 http://vod.tuxchannel.mx/peliculas/720/sobreviviendo%20mis%20xv%202023.mkv 
 
 #EXTINF:-1 group-title="Pelis 2" tipo ="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sIpn96a6QyXLEDydbTg7ciGcncs.jpg",Viaje todo robado (2023) 
-http://vod.tuxchannel.mx/peliculas/720/ robado%20vacation%202023.mkv #EXTINF:-1 group-title="Pelis 2" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/wy6FIXGqaOiNeBOkVei3hOB6sVM.jpg" ,De vuelta a Las Vegas (2023) http://vod.tuxchannel.mx/peliculas/720/back%20on%20the%20strip%202023.mkv 
+http://vod.tuxchannel.mx/peliculas/720/ robado%20vacation%202023.mkv 
+
+#EXTINF:-1 group-title="Pelis 2" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/wy6FIXGqaOiNeBOkVei3hOB6sVM.jpg" ,De vuelta a Las Vegas (2023) 
+http://vod.tuxchannel.mx/peliculas/720/back%20on%20the%20strip%202023.mkv 
 
 #EXTINF:-1 group-title="Pelis 2" type=" movie" tvg-logo="https://image.tmdb.org/t/p/w500/xzUDZrl4yRy23nbYEmAaPWCTh5J.jpg",El pastor (2023) 
 https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer -oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20The%20Shepherd%20online%20HD%20-%20Cuevana%202.mp4 
 
 #EXTINF:-1 group-title="Pelis 2" type="película" tvg-logo="https://image.tmdb.org/t/p/w500/qhb1qOilapbapxWQn9jtRCMwXJF.jpg",Wonka (2023) 
-https://grrfff66me7t.objectstorage.sa-saopaulo-1 .oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Wonka%20online%20HD%20-%20Cuevana%202.mp4 #EXTINF:-1 group-title= "Pelis 2" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",Los tipos malos: Una Navidad muy mala (2023) https:// grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Los%20tipos%20malos-%20Una%20Navidad%20muy%20mala %20online%20HD%20-%20Cuevana%202.mp4 
+https://grrfff66me7t.objectstorage.sa-saopaulo-1 .oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Wonka%20online%20HD%20-%20Cuevana%202.mp4 
+
+#EXTINF:-1 group-title= "Pelis 2" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/atBDD05PbVDI2lm2OUy1KFQpzen.jpg",Los tipos malos: Una Navidad muy mala (2023) 
+https:// grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Los%20tipos%20malos-%20Una%20Navidad%20muy%20mala %20online%20HD%20-%20Cuevana%202.mp4 
 
 #EXTINF:-1 group-title="Pelis 2" type="película" tvg-logo="https://image.tmdb.org/t/p/ w500/AnfXxsoLBS6JDpu65vHsEvEcWSA.jpg",Menuda Nochebuena (2023) 
 http://208.88.245.85/nuevo/la.magia.dla.navidad.dual.2023.mkv 
