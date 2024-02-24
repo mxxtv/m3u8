@@ -3,7 +3,7 @@
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/RTSEC/RTSEC1/chunks.m3u8
 
 #EXTINF:-2 tvg-logo="https://tctelevision.nyc3.digitaloceanspaces.com/Archivos/logos/TC_Logo.png" group-title="ECUADOR", TC 4 horas NOCH
-https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl7nOgw-_OKflObQl7BQj2L1xQW2w_5CUy58bvh5k2EF6)/dm/3/x7wijay/d/live-2.m3u8
+https://stream-01.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1_mffDdp17B3MbtXQp909hNqvIu7X2JXFM1piaIkOpI)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/34bbb9b2-6561-4671-9b15-8d7db8a09983/live.isml/34bbb9b2-6561-4671-9b15-8d7db8a09983.m3u8
@@ -2606,7 +2606,7 @@ http://tv.teleclub.xyz/envivo/Deportes/ESPN_EXTRA/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yTaEw8U.png" group-title="SERVIDOR 2", ESPN 4 
 http://tv.teleclub.xyz/envivo/Deportes/ESPN4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="SERVIDOR 2", ESPN Sur 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Qltczdi.jpg" group-title="SERVIDOR 2", ESPN Sur ᵸᴰ
 http://tv.teleclub.xyz/envivo/Deportes/ESPN_SUR/index.m3u8 
 
 #EXTINF:-1 tvg-logo="https://lc.cx/fgjxBX" group-title="SERVIDOR 2", ESPN 2 Sur 
@@ -2675,57 +2675,66 @@ https://bein-esp-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://lc.cx/_ujnYR" group-title="SERVIDOR 2", TNT Sports 
 http://tv.teleclub.xyz/envivo/Deportes/TNT_SPORTS/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/g7Csa8G.png" group-title="SERVIDOR 2", Principe del Rap 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/g7Csa8G.png" group-title="SERVIDOR 2", Principe del Rap ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/PRINCIPE_DEL_RAP/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/kcfLruN.png" group-title="SERVIDOR 2", Correcaminos 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/kcfLruN.png" group-title="SERVIDOR 2", Correcaminos ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/CORRECAMINOS/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FkxGND0.png" group-title="SERVIDOR 2", Dinosaurios 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FkxGND0.png" group-title="SERVIDOR 2", Dinosaurios ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/DINOSAURIOS/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/wSQ95AD.png" group-title="SERVIDOR 2", Ben 10 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wSQ95AD.png" group-title="SERVIDOR 2", Ben 10 ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/BEN_10/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/p6SrZoE.png" group-title="SERVIDOR 2", Los Simpsons 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p6SrZoE.png" group-title="SERVIDOR 2", Los Simpsons ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/SIMPSONS_247/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/FS44Hp0.png" group-title="SERVIDOR 2", Dragon Ball 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FS44Hp0.png" group-title="SERVIDOR 2", Dragon Ball ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/DRAGON_BALL/index.m3u8 
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xX3Ksnj.png" group-title="SERVIDOR 2", ALF 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xX3Ksnj.png" group-title="SERVIDOR 2", ALF ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/ALF/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JquJMTJ.png" group-title="SERVIDOR 2", Familia Peluche 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JquJMTJ.png" group-title="SERVIDOR 2", Familia Peluche ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/FAMILIA_PELUCHE/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZGBqhd.png" group-title="SERVIDOR 2", Chavo del 8 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZGBqhd.png" group-title="SERVIDOR 2", Chavo del 8 ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/CHAVO_8/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGK5VS.png" group-title="SERVIDOR 2", CHESPIRITO 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4vGK5VS.png" group-title="SERVIDOR 2", CHESPIRITO ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/CHESPIRITO/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OLgiV4Y.png" group-title="SERVIDOR 2", Don Gato y su Pandilla 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OLgiV4Y.png" group-title="SERVIDOR 2", Don Gato y su Pandilla ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/DON_GATO/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/m0lPshk.png" group-title="SERVIDOR 2", Mi Bella Genio 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/m0lPshk.png" group-title="SERVIDOR 2", Mi Bella Genio ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/BELLA_GENIO/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/izriGGO.png" group-title="SERVIDOR 2", El Chapulin Colorado 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/izriGGO.png" group-title="SERVIDOR 2", El Chapulin Colorado ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/CHAPULIN_COLORADO/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/i2xKu4B.png" group-title="SERVIDOR 2", Digimon 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/i2xKu4B.png" group-title="SERVIDOR 2", Digimon ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/DIGIMON/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="SERVIDOR 2", Terror 24/7 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmLDkty.jpg" group-title="SERVIDOR 2", Terror ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/TERROR_247/index.m3u8 
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ePRV57v.png" group-title="SERVIDOR 2", LOONEY TOONS 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ePRV57v.png" group-title="SERVIDOR 2", LOONEY TOONS ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/LOONEYTOONS_247/index.m3u8  
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe 
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GMPwjG.png" group-title="SERVIDOR 2", La Rosa de Guadalupe ²⁴⁺⁷ 
 http://tv.teleclub.xyz/envivo/24_7/LAROSA_DEGUADALUPE/index.m3u8
 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500",Doctor Strange en el multiverso de la locura(2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20Doctor%20Strange%20en%20el%20multiverso%20de%20la%20locura%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+ 
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q7FmdJHKMLIC4XgWfcFRIu2iVdL.jpg",The Valet (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fmayo%2FVer%20El%20aparcacoches%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
+
+#EXTINF:-1 group-title="PELICULAS ESTRENOS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ujr5pztc1oitbe7ViMUOilFaJ7s.jpg",Predator: La presa (2022) 
+https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2022pelicu%2Fjulio%2FVer%20Predator-%20La%20presa%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
 
 
 #EXTINF:-473 tvg-logo="https://es.web.img3.acsta.net/pictures/22/11/02/15/37/0544148.jpg"group-title="PELICULAS" type="movie", Avatar2 | HD
@@ -3051,123 +3060,6 @@ http://vod.tuxchannel.mx/peliculas/720/2%20guns.mkv
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/q4FQOiSRhTLWulHl5Vpg37FMArH.jpg",1922 (2017) 
 http://vod.tuxchannel.mx/peliculas/720/1922.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022) 
-http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tq8x5F17q95T1j0up5rpzXFAylN.jpg",Embaucadores (2023) 
-http://208.88.245.85/nuevo/sharper.2023.dual.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/cpv6n4IK26IbSlSXH1v3JkCAjEV.jpg",Un paraíso peligroso (2023) 
-http://208.88.245.85/nuevo/paradisecity.dual.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gU4mmINWUF294Wzi8mqRvi6peMe.jpg",Narvik (2023) 
-http://208.88.245.85/nuevo/narvik.2023.dual.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/uznaVbYbfeW2t2KyqGk0ivh9wSO.jpg",Malcriados (2023) 
-http://208.88.245.85/nuevo/malcriados.2023.latino.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/5C9rerMqV1X0jnRdbbsM1BswVI2.jpg",El último baile de Magic Mike (2023) 
-http://208.88.245.85/nuevo/magicmike.elultimo.baile.dual2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/dm06L9pxDOL9jNSK4Cb6y139rrG.jpg",Llaman a la puerta (2023) 
-http://208.88.245.85/nuevo/llaman.ala.puerta.dual.2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/lwybGlEEJtXZM3ynY19PNwNlPn9.jpg",Historia de Honor (2022) 
-http://208.88.245.85/nuevo/historia.dehonor.dual2023.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/t79ozwWnwekO0ADIzsFP1E5SkvR.jpg",Bodas de plomo (2023) 
-http://208.88.245.85/nuevo/bodas.deplomo.2023.dual.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/3Ib8vlWTrAKRrTWUrTrZPOMW4jp.jpg",The Jack in the Box: El despertar (2022) 
-http://208.88.245.81/nuevo/jackinthebox2.eldespertar.dual.2023.mkv
-
-EXTINF:-1 tvg-logo="https://pics.filmaffinity.com/pistolero-828658835-mmed.jpg"group-title="PELICULAS" type="movie" ,El pistolero (2015) 
-http://144.217.70.79/VODS-M/1080P/The%20gunman%202015.mp4
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/roIpyS1wlXFCiunN7WGkKSY3BGG.jpg"group-title="PELICULAS" type="movie" , Max 2 héroe de la casa blanca (2017) 
-http://144.217.70.79/VODS-M/1080P/Max%202%20white%20house%20hero% 202017.mp4 
-
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/huRhv4IZDk2ds0DIDkI6uxdmb6J.jpg"group-title="PELICULAS" type="movie", Pelea a puñetazos (2017) 
-http://144.217. 70.79/VODS-M/1080P/Fist%20fight%202017.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://pics.filmaffinity.com/Rumbo_al_infierno_Serie_de_TV-617674681-large.jpg",Rumbo al Infierno (2021) 
-https://archive.org/download/06_20211124_202111/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kAVRgw7GgK1CfYEJq8ME6EvRIgU.jpg",Jurassic World: Dominion (2022) 
-https://archive.org/download/01_20220714_20220714_1557/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/qAbavRagMPASvYdojyO3IuFN2Qn.jpg",Venganza y redención (2022) 
-https://archive.org/download/01_20220916_20220916_1817/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hAdkgE8lHelIQWpgrHk4wjEnbxQ.jpg",Bestia (2022) 
-https://archive.org/download/01_20220909_20220909_1419/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/gb7nmirBcmqQDRgyLlXA0upyI5F.jpg",Pinocho (2022) 
-https://archive.org/download/01_20220908_20220908_1538/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/r7XifzvtezNt31ypvsmb6Oqxw49.jpg",DC Liga De Súpermascotas (2022) 
-https://archive.org/download/01_20220823_20220823_1818/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ipn8khVVC4eToWiGf89WF9J5PJn.jpg",Guerra Oculta (2022) 
-https://archive.org/download/01_20220823_20220823_1612/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/okqoqyEVnQMfIk7xI13MsQx3sha.jpg",Dragon Ball Super: Super Hero (2022) 
-https://archive.org/download/01_20220821_20220821_1708/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/pHkKbIRoCe7zIFvqan9LFSaQAde.jpg",La huérfana: El origen (2022) 
-https://archive.org/download/01_20220821_20220821/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/abPQVYyNfVuGoFUfGVhlNecu0QG.jpg",Pil: Princesa cero fresa (2022) 
-https://archive.org/download/01_20220821_20220821_1714/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rva3UhKaMeiB0Vej5A2pm1leX7K.jpg",Elvis (2022) 
-https://archive.org/download/01_20220808_20220808_1612/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/quU3TPUcABxhn8c3zr5FX7ABkdc.jpg",Viajeros: Perdidos en el tiempo (2022) 
-https://archive.org/download/01_20220808_20220808_1638/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/tVxDe01Zy3kZqaZRNiXFGDICdZk.jpg",Tren bala (2022) 
-https://archive.org/download/01_20220926_20220926_2358/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/rtfGeS5WMXA6PtikIYUmYTSbVdg.jpg",Escalera al infierno (2022) 
-https://archive.org/download/01_20220808_20220808_1622/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/sv1xJUazXeYqALzczSZ3O6nkH75.jpg",Black Panther: Wakanda Forever (2022) 
-http://51.81.208.167/pelis2022/Black.Panther.Wakanda.Forever.2022.lati.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//5ik4ATKmNtmJU6AYD0bLm56BCVM.jpg",Posesión infernal: El despertar 2023 
-https://archive.org/download/01_20230509_20230509_1915/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/1HOYvwGFioUFL58UVvDRG6beEDm.jpg",Luck (2022) 
-https://archive.org/download/01_20220806_20220806_1557/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/ox4goZd956BxqJH6iLwhWPL9ct4.jpg",Lightyear (2022) 
-https://archive.org/download/01_20220818_20220818_1820/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/kuxjMVuc3VTD7p42TZpJNsSrM1V.jpg",Ambulance. Plan de huida (2022) 
-https://archive.org/download/01_20220429/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//Anw3eLdNVRXafpYktwRzAGd6sPW.jpg",Euphoria HBO Max (2022) 
-https://archive.org/download/04_20220319_20220319/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/hc3p6pvIrfO4AmrVLb6qTviOwW2.jpg",Peacemaker (El Pacificador) HBO Max (2022) 
-https://archive.org/download/04_20220319/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/okNgwtxIWzGsNlR3GsOS0i0Qgbn.jpg",Kimi (2022) 
-https://archive.org/download/01_20220219_20220219_0318/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//jJ07f8DTdeWnCKCwDzB4htLXKBN.jpg",Sneakerella: Cenicienta en zapatillas Disney (2022) 
-https://archive.org/download/01_20220522_20220522_1534/01.mp4
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7UGmn8TyWPPzkjhLUW58cOUHjPS.jpg",Chip y Dale: Al Rescate Disney (2022) 
-https://archive.org/download/01_20220522_20220522_1455/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500/6JjfSchsU6daXk2AKX8EEBjO3Fm.jpg",Morbius (2022) 
-https://archive.org/download/01_20220522_20220522_1504/01.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//p6yUjhvNGQpFZilKwOKbxQ1eHlo.jpg",Renfield: Asistente de vampiro (2023) 
-http://208.88.245.81/nuevo/renfield.asistdvampiro.dual2023.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",Guardianes de la galaxia Vol. 3 (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Guardianes%20de%20la%20Galaxia-%20Volumen%203%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
@@ -3690,7 +3582,6 @@ http://208.88.245.85:80/nuevo/taz.odiseaxlashamburguesas.2023dual.mkv
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uYxrWr9o44yO0HvVfFFHGu01gfX.jpg",La niña de la comunión 
 http://208.88.245.85:80/nuevo/la.nina.dela.comunion.2023cast.mkv
  
- 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7gKI9hpEMcZUQpNgKrkDzJpbnNS.jpg",Misión de rescate 2 (2023) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fjunn%2FVer%20Tyler%20Rake%202%20Online%20Castellano%20Latino%20Subtitulada%20HD%20-%20HDFull.mp4 
 
@@ -3734,11 +3625,6 @@ http://208.88.245.81/nuevo/blacklover.espadadelreymago.2023dual.mkv
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ktpoqsz2O5xz8SPxc358YXmmzHU.jpg",Cuiden a maya 
 http://208.88.245.81/nuevo/cuiden.a.maya.dual2023.mkv 
 
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//7ibI5KJmdEYQnCcuDMk0clCrz1C.jpg",El pacto 
-http://208.88.245.81/nuevo/el.pacto.2023dual.mkv 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//8riWcADI1ekEiBguVB9vkilhiQm.jpg",Elemental 
-http://208.88.245.81/nuevo/elemental.dual2023.mkv 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers despertar de las bestias 
 http://208.88.245.85/nuevo/transformers.despertar.dlas.bestias.2023dual.mkv
@@ -3782,13 +3668,6 @@ https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//uiFcFIjig0YwyNmhoxkxtAAVIL2.jpg",Demonio negro (2023) (CAM) 
 https://objectstorage.us-phoenix-1.oraclecloud.com/n/axa4wow3dcia/b/bucket-20201001-1658/o/2023pelis%2Fmayooo%2FVer%20Demonio%20negro%20online%20HD%20-%20Cuevana%202%20Espa%C3%B1ol.mp4 
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//gPbM0MK8CP8A174rmUwGsADNYKD.jpg",Transformers: El despertar de las bestias 
-https://archive.org/download/01_20230609_202306/01.mp4 
-
-
-#EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",La sirenita (2023) 
-https://archive.org/download/01_20230602_20230602_1628/01.mp4 
 
 #EXTINF:-1 group-title="PELICULAS" type="movie" tvg-logo="https://image.tmdb.org/t/p/w500//2axXVpi3dKfESWzgncbakLB7o7f.jpg",La princesa cisne 
 http://208.88.245.85/nuevo/princesa.cisne.2023dual.mkv 
@@ -5704,3 +5583,4 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
+
