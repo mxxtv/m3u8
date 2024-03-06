@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 horas NOCH
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlwPvASOl5oNbzg7ILcXnKcWqqXjBGVMdeEJRLk79V2qP)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4 horasNOCH
+https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1WySS_bTi8WHWPjrN1qTX8dv29U1CpEEb647D2QH5US)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -104,8 +104,9 @@ https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-bei
 #EXTINF:-35 tvg-logo="https://teamhandballnews.com/wp-content/uploads/2020/01/beIN-SPORTS-XTRA_LOGO-1024x127.png" group-title="DEPORTES", BEIN SPORTS XTRA
 https://bein-esp-xumo.amagi.tv/playlist.m3u8
 
+
 #EXTINF:-36 tvg-logo="https://www.adslzone.net/app/uploads-adslzone.net/2015/09/movistar-plus-bein-sports.jpg" group-title="DEPORTES",MOVISTAR BEIN SPORT
-https://amg01334-beinsportsllc-beinxtra-tcl-pr3zb.amagi.tv/playlist/amg01334-beinsportsllc-beinxtra-tcl/playlist.m3u8
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
 
 #EXTINF:-37 tvg-logo="https://lc.cx/VRnIpE" group-title="NIÑOS Y ADOLECENTES", Planeta kids
 https://deaplaneta-planetakidz-1-es.samsung.wurl.tv/3000.m3u8
@@ -455,8 +456,8 @@ https://videostream.shockmedia.com.ar:19360/cincotv/cincotv.m3u8
 #EXTINF:-152 tvg-logo="https://i.imgur.com/HctHhLL.png" group-title="ESPAÑA", BBC Drama | HD
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 
-#EXTINF:-153 tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-betis-tv-872.png" group-title="DEPORTES",Betis Sport | HD
-https://betistv-live.flumotion.com/9BdNbP1lCu0tA-cIGm1keA/1705341629/betistv/live_all/playlist.m3u8
+#EXTINF:-153 tvg-shift="0" group-title="DEPORTES",CANAL DE GOLF
+http://livex.pop-app.live/s4n/poplive/ch335/playlist.m3u8
 
 #EXTINF:-154 tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES", PLUTO TV PELEAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
@@ -1438,17 +1439,17 @@ https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-shift="0"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES",TNT SERIES LAT
 http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO SIGNATURE LAT
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-
 #EXTINF:-1  group-title="NIÑOS Y ADOLECENTES",  DISCOVERY KIDS
 http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pypul3s.png"  group-title="DEPORTES",GOL TV LAT
+#EXTINF:-1 tvg-shift="0" tvg-logo="https://i.imgur.com/pypul3s.png"  group-title="DEPORTES",GOL TV LAT
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
 
-#EXTINF:-1 group-title="DEPORTES",GOL TV 
+#EXTINF:-1 tvg-shift="0" tvg-logo="https://i.imgur.com/pypul3s.png" group-title="DEPORTES",GOL TV 
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ACCN ESPN
+http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ESPN DEPORTES
 http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
@@ -1462,14 +1463,20 @@ http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY
 http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
 
+#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY LAT
+http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO PLUS LAT
+http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO SIGNATURE LAT
+http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
+
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",FX LAT
 http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",SONY LAT
 http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY LAT
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="DOCUMENTALES",NAT GEO LAT
 http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
@@ -1486,37 +1493,40 @@ http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
 #EXTINF:-1 group-title="NIÑOS Y ADOLECENTES" tvg-logo="",El Reino Infantil
 https://linear-524.frequency.stream/mt/studio/524/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",La Rosa de Guadalupe
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Rosa de Guadalupe
 https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Vecinos
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Vecinos
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Amor Bravio
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Amor Bravio
 https://linear-478.frequency.stream/mt/studio/478/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Como Dice el Dicho
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Usurpadora
+https://linear-448.frequency.stream/mt/studio/448/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Como Dice el Dicho
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Teresa
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Teresa
 https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",La Fuerza del Destino
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Fuerza del Destino
 https://linear-480.frequency.stream/mt/studio/480/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Lazos de Amor
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Lazos de Amor
 https://linear-481.frequency.stream/mt/studio/481/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Mi Corazón es Tuyo
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Mi Corazón es Tuyo
 https://linear-482.frequency.stream/mt/studio/482/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",La Familia P. Luche
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Familia P. Luche
 https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Una Familia de Diez
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Una Familia de Diez
 https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXFULL ᵸᴰ" tvg-logo="",Nosotros los Guapos
+#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Nosotros los Guapos
 https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 
 #EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
@@ -1525,7 +1535,10 @@ https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="DEPORTES", TUDN MX
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPN" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHHtinvFuptkCNv1xsLheZy1w6mH04kKnTw&usqp=CAU"group-title="08-DEPORTES" tvg-logo="",Lo Mejor de Liga MX (México / Estados Unidos)
+https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPNᵸᴰ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 
 #EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES", ESPN 2 | HD
@@ -1534,7 +1547,7 @@ http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="DEPORTES", ESPN 3
 http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sports (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="DEPORTES",FOX SPORTS HD
+#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sportsᵸᴰ (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="DEPORTES",FOX SPORTS HD
 http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="DEPORTES",FOX SPORTS 2 HD
@@ -1545,6 +1558,9 @@ http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="DEPORTES",UFC
 http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
+
+#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",WINSPORT
+http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
 
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx",Canal 5 (1080p)
@@ -6682,4 +6698,4 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
- 
+
