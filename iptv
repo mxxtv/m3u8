@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4 horasNOCH
-https://stream-02.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1WySS_bTi8WHWPjrN1qTX8dv29U1CpEEb647D2QH5US)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
+https://stream-04.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl1FhaWgcVbeT7XWOcGyNlHYL6tswG21zBJZKZDKHcSns)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Teleamazonas_Logo.png/512px-Teleamazonas_Logo.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -1529,13 +1529,16 @@ https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Nosotros los Guapos
 https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="MAXDFULL ᵸᴰ",Tlnovelas (576p)
+https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
+
 #EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 
 #EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="DEPORTES", TUDN MX
 http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHHtinvFuptkCNv1xsLheZy1w6mH04kKnTw&usqp=CAU"group-title="08-DEPORTES" tvg-logo="",Lo Mejor de Liga MX (México / Estados Unidos)
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHHtinvFuptkCNv1xsLheZy1w6mH04kKnTw&usqp=CAU"group-title="DEPORTES" tvg-logo="",Lo Mejor de Liga MX (México / Estados Unidos)
 https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPNᵸᴰ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
@@ -1561,7 +1564,6 @@ http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="DEPORTES",WINSPORT
 http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -1773,10 +1775,6 @@ https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/92811182991
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="MEXICO",Tlnovelas (576p)
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="MAXFULL ᵸᴰ",Tlnovelas (576p)
-https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
-
 
 #EXTINF:-1 tvg-id="TVLobo.mx",TV Lobo Durango (720p)
 https://5ca9af4645e15.streamlock.net/lobodurango/videolobodurango/playlist.m3u8
@@ -6698,4 +6696,5 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
+ 
 
