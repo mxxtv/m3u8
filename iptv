@@ -2,8 +2,8 @@
 #EXTINF:-1 tvg-logo="https://lc.cx/NXHQOC" group-title="ECUADOR", RTS TV | SD
 https://d2vb5iv6i34lh5.cloudfront.net/RTSEC/93fc3c04cedad73f1f80aebf11451d53.sdp/playlist.m3u8
 
-#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC 4HRS NOCH
-https://stream-03.nyc.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAl5YrGS2A5JXm9JXhFDxdZZtAMusUrUD7DnRRHuCdFLgq)/dm/3/x7wijay/d/live-2.m3u8
+#EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 HRS NOCH
+https://stream-03.sv4.dailymotion.com/sec(RiWEtJG0nU_F5iuiUOWAlyd5JsA93SOfkLBJnxPCzDNtXLD-IVjUIleDSR3F1F6g)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -1315,11 +1315,23 @@ https://stmv.streamingvip.click/rocafuertefm/rocafuertefm/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioCuencaEstereo.ec" tvg-logo="https://i.imgur.com/qZzSOeU.png" group-title="ECUADOR",Radio Cuenca Estéreo (720p)
 https://eu1.servers10.com:8081/8074/index.m3u8
 
-#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="https://pandamax.cl/assets/img/pandalogo2.png" group-title="ECUADOR",Pandamax Channel (1080p)
+#EXTINF:-1 tvg-id="PandamaxChannel.cl" tvg-logo="logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" " group-title="ECUADOR",Pandamax Channel (1080p)
 https://stream.wifiexpert.cl/telenorte/pandamaxch/playlist.m3u8
 
-#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-logo="https://pandamax.cl/public/assets/img/pandamaxlogo.png" group-title="ECUADOR",Pantalla Clásica EC 24/7
+#EXTINF:-1 tvg-id="PantallaClasicaEC.ec" tvg-logo="https://i.imgur.com/mhbERF9.jpg" group-title="ECUADOR",Pantalla Clásica EC 24/7
 https://rpn3.bozztv.com/ssh101/ssh101/ecuadoralmundo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RTV.ec" tvg-logo="https://i.imgur.com/DzxGHRZ.png" group-title="ECUADOR",RTV (Ecuador)
+https://sv72.ecuaradiotv.net/rtvhd/live/manifest.m3u8
+
+#EXTINF:-1 tvg-id="UEBITVOnline.ec" tvg-logo="https://i.imgur.com/Tf0BF2q.jpg" group-title="ECUADOR",UEBI TV en línea
+https://cloud2.streaminglivehd.com:1936/uebi/uebi/playlist.m3u8
+
+#EXTINF:-1 tvg-id="VosyTV.ec" tvg-logo="https://i.imgur.com/294FDCB.png" group-title="ECUADOR",Vos y TV
+https://cloud37.ecuatel.com/vostv/live/manifest.m3u8
+
+#EXTINF:-1  group-title="DEPORTES",CARACOL HD
+https://mdstrm.com/live-stream-playlist/574463697b9817cf0886fc17.m3u8
 
 #EXTINF:-1 tvg-id="Bandamax.mx" tvg-logo="https://i.imgur.com/4DfnOTA.png" group-title="MEXICO",Bandamax
 https://linear-400.frequency.stream/mt/studio/400/hls/master/playlist.m3u8
@@ -1449,12 +1461,6 @@ https://magicstream.ddns.net/magicstream/stream.m3u8
 
 #EXTINF:-1  group-title="NIÑOS Y ADOLECENTES",  DISCOVERY KIDS
 http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
-
-#EXTINF:-1  group-title="DEPORTES",Santa fe canal en vivo
-https://playback2.akamaized.net/streams/22636012_8242619_lsi1dvhu3lse9wqy1z1_1/master.m3u8?dw=14400&hdnts=exp=1709847453~acl=/streams/22636012_8242619_lsi1dvhu3lse9wqy1z1_1/master.m3u8*~hmac=6fb54417fc6ddb7a53a15ecf00717b8df91d07df9ebbbd43f4343c8e992bfde2
-
-#EXTINF:-1  group-title="DEPORTES",  Deporte 13 chile
-https://dai.google.com/linear/hls/pa/event/uFiYkh4CQPCPgbs7WPKhXw/stream/1e8bf400-7fc6-4229-93f4-9ff92dad5e04:DLS/master.m3u8
 
 #EXTINF:-1 tvg-shift="0" tvg-logo="https://i.imgur.com/pypul3s.png"  group-title="DEPORTES",GOL TV LAT
 http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
@@ -6826,4 +6832,3 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
-
