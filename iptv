@@ -1123,8 +1123,14 @@ https://linear-415.frequency.stream/mt/studio/415/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PfROac9.png" group-title="MEXICO" , Música Telehit
 https://linear-418.frequency.stream/mt/studio/418/hls/master/playlist.m3u8
 
+#EXTINF:-1 group-title="MEXICO" tvg-logo="",Nuestra Visión
+https://linear-262.frequency.stream/mt/studio/262/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NVxHxJn.png" group-title="MEXICO" , Telehit
 https://linear-417.frequency.stream/mt/studio/417/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="MUSICA" tvg-logo="https://i.imgur.com/NVxHxJn.png",Telehit Música Plus
+https://linear-419.frequency.stream/mt/studio/419/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/y0a0xwY.png" group-title="MEXICO" , TELEFORMULA
 https://mdstrm.com/live-stream-playlist/62f2c855f7981b5a5a2d8763.m3u8
@@ -1141,11 +1147,17 @@ https://ythls.armelin.one/channel/UCcmuFsMIIIHO3LBqeBVfm8Q.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/2d7H9Nz/Channels4-profile-8.jpg" group-title="MEXICO" ,Televisa Guerrero
 https://ythls.armelin.one/channel/UCnxTRk2K1iNsQkgpWXxyj4w.m3u8
 
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="",Red Bull TV (Español)
+https://linear-535.frequency.stream/mt/studio/535/hls/master/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/oT5CAvd.png",TUDN
+https://linear-347.frequency.stream/mt/studio/347/hls/master/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="MEXICO" , TUDN (México)
 https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/oT5CAvd.png" group-title="DEPORTES" , TUDN (México)
-https://i.mjh.nz/SamsungTVPlus/USBD1700016X9.m3u8
+https://linear-357.frequency.stream/mt/studio/357/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fE3BkcT.png" group-title="BOLIVIA" , Gigavisión
 https://master.tucableip.com/gigavision/playlist.m3u8
@@ -1451,62 +1463,31 @@ https://mdstrm.com/live-stream-playlist/609b243156cca108312822a6.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/79hrcx8.png" tvg-id="bitMe.mx"group-title="MEXICO",bitMe (576p)
 https://linear-401.frequency.stream/mt/studio/401/hls/master/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://maximachile.cl/wp-content/uploads/2023/09/2021.gif" group-title="MUSICA", Maxima FM
+https://server1.oklanet.cl:1936/difunde-la-maximafmchile/ngrp:difunde-la-maximafmchile_all/playlist.m3u8
+
 #EXTINF:-1 tvg-shift="0"tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="CINE Y SERIES",TNT SERIES LAT
 http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://meganettv.fun/storage/channel-logos/Moy3tTzOeCPDPGVMdMFU64qRocSPWbsHBupbvg36.jpg"group-title="NIÑOS Y ADOLECENTES",Magic Kids
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
-#EXTINF:-1  group-title="NIÑOS Y ADOLECENTES",  DISCOVERY KIDS
-http://livex.pop-app.live/s4n/poplive/ch512/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" tvg-logo="https://i.imgur.com/pypul3s.png"  group-title="DEPORTES",GOL TV LAT
-http://livex.pop-app.live/s4n/poplive/ch552/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" tvg-logo="https://i.imgur.com/pypul3s.png" group-title="DEPORTES",GOL TV 
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ACCN ESPN
-http://livex.pop-app.live/s4n/poplive/ch573/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ESPN DEPORTES
-http://livex.pop-app.live/s4n/poplive/ch311/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ESPN 2 MX
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",ESPN 3 MX
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY
-http://livex.pop-app.live/s4n/poplive/ch515/playlist.m3u8
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/176.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY LAT
-http://livex.pop-app.live/s4n/poplive/ch530/playlist.m3u8
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/174.m3u8
 
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO PLUS LAT
-http://livex.pop-app.live/s4n/poplive/ch516/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO SIGNATURE LAT
-http://livex.pop-app.live/s4n/poplive/ch517/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",FX LAT
-http://livex.pop-app.live/s4n/poplive/ch505/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",SONY LAT
-http://livex.pop-app.live/s4n/poplive/ch506/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="DOCUMENTALES",NAT GEO LAT
-http://livex.pop-app.live/s4n/poplive/ch508/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="DOCUMENTALES",ANIMAL PLANET
-http://livex.pop-app.live/s4n/poplive/ch208/playlist.m3u8
+http://138.59.177.34:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="",Nature Time
 https://linear-530.frequency.stream/mt/studio/530/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0" group-title="COLOMBIA",CARACOL
-http://livex.pop-app.live/s4n/poplive/ch350/playlist.m3u8
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/33.m3u8
 
 #EXTINF:-1 group-title="NIÑOS Y ADOLECENTES" tvg-logo="",El Reino Infantil
 https://linear-524.frequency.stream/mt/studio/524/hls/master/playlist.m3u8
@@ -1553,8 +1534,8 @@ https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 #EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
 https://livetv.305streamhd.com:3667/live/majestadtvlive.m3u8
 
-#EXTINF:-1 tvg-id="TUDN.mx" tvg-name="TUDNM" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/2560px-TUDN_Logo.svg.png"  group-title="DEPORTES", TUDN MX
-http://livex.pop-app.live/s4n/poplive/ch302/playlist.m3u8
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="",Adrenalina Sports Network
+https://linear-393.frequency.stream/mt/studio/393/hls/master/playlist.m3u8
 
 #EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBHHtinvFuptkCNv1xsLheZy1w6mH04kKnTw&usqp=CAU"group-title="DEPORTES" tvg-logo="",Lo Mejor de Liga MX (México / Estados Unidos)
 https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
@@ -1562,29 +1543,88 @@ https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPNᵸᴰ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPN2.mx" tvg-name="ESPN 2" tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES", ESPN 2 | HD
-http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
 
 #EXTINF:-1 tvg-shift="0"tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES",ESPN SUR2
 http://181.78.105.146:2000/play/a063/index.m3u8
 
-#EXTINF:-1 tvg-id="ESPNTres(North).mx" tvg-name="ESPN 3" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6c/Espn3.png"  group-title="DEPORTES", ESPN 3
-http://livex.pop-app.live/s4n/poplive/ch320/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FOXSports(ConoNorteMexico).mx" tvg-name="FOX Sportsᵸᴰ (Cono Norte México)" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="DEPORTES",FOX SPORTS HD
-http://livex.pop-app.live/s4n/poplive/ch321/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports2(ConoNorte).mx" tvg-name="Fox Sports 2 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsport2.png" group-title="DEPORTES",FOX SPORTS 2 HD
-http://livex.pop-app.live/s4n/poplive/ch322/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports3(ConoNorte).mx" tvg-name="Fox Sports 3 (Cono Norte)" tvg-logo="https://logo.iptveditor.com/foxsports3.png" group-title="DEPORTES",FOX SPORTS 3 HD
-http://livex.pop-app.live/s4n/poplive/ch338/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",UFC
-http://livex.pop-app.live/s4n/poplive/ch534/playlist.m3u8
-
-#EXTINF:-1 tvg-shift="0" group-title="DEPORTES",WINSPORT
-http://livex.pop-app.live/s4n/poplive/ch562/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | ESPN" tvg-name="EE.UU. | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark. svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 221 | ESPN
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 2" tvg-name="EE.UU. | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 222 | ESPN 2
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 223 | ESPN 3
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN3_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 4" tvg-name="EE.UU. | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 224 | ESPN 4
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN4_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 5" tvg-name="EE.UU. | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png" group-title="DEPORTES", 225 | ESPN 5
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN5_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 6" tvg-name="EE.UU. | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png" group-title="DEPORTES", 226 | ESPN 6
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 7" tvg-name="EE.UU. | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
+http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | Claro Deportes" tvg-name="MX | Claro Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 228 | Claro Deportes
+http://138.59.177.34:8000/play/a01i/index.m3u8
+#EXTINF:-1 tvg-id="MX | Claro Deportes 2" tvg-name="MX | Claro Deportes 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/ 56/ClaroSports2.png/revision/latest/scale-to-width-down/250?cb=20210423191014&path-prefix=es" group-title="DEPORTES", 229 | Claro Deportes 2
+http://138.59.177.34:8000/play/a01j/index.m3u8
+#EXTINF:-1 tvg-id="CL | TNT Sports" tvg-name="CL | TNT Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ TNT_Sports_2021_logo.svg/320px-TNT_Sports_2021_logo.svg.png" group-title="DEPORTES", 230 | Deportes TNT
+http://168.227.22.18:1935/live/mobile-143/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | TyC Sports" tvg-name="AR | TyC Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ TyC_Sports_logo.svg/245px-TyC_Sports_logo.svg.png" group-title="DEPORTES", 231 | Deportes TyC
+http://168.227.22.18:1935/live/mobile-005/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | El Garaje TV" tvg-name="AR | El Garaje TV" tvg-logo="https://yt3.ggpht.com/ytc/AKedOLS-T1STlbnBP1FvFZIpa4XY9LsYWzX0KuHw72YVeg=s88- ck-c0x00ffffff-no-rj" group-title="DEPORTES", 232 | El Garaje TV
+https://stream1.sersat.com/hls/garagetv.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | Deporte de América Latina" tvg-name="EE.UU. | Deporte de América Latina" tvg-logo="https://pbs.twimg.com/media/F7kw9GuWsAAmPrJ?format=png&name= pequeño" group-title="DEPORTES", 233 | Deporte latinoamericano
+http://138.59.177.34:8000/play/a049/index.m3u8
+#EXTINF:-1 grupo tvg-id="GT | Tigo Sports Guatemala" tvg-name="GT | Tigo Sports Guatemala" tvg-logo="https://play-lh.googleusercontent.com/KH-g_YGtjU5GdfVyNZlvi40ld8mN0Nf5KQuRxRvGd_McffdR7wA95zLDn7eV0khH_0o"- title="DEPORTES", 234 | Tigo Deportes Guatemala
+https://linear-556.frequency.stream/dist/vix/556/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="CR | Tigo Sports Costa Rica" tvg-name="CR | Tigo Sports Costa Rica" tvg-logo="https://play-lh.googleusercontent.com/6hNBaZu9_Ss-aBT6NOib7gTdU6fokNFqhOVCvGkIBjuLKXK6USX5fBfWsDfQjrD0L- A" group-title="DEPORTES", 235 | Tigo Deportes Costa Rica
+http://138.59.177.34:8000/play/a05i/index.m3u8
+#EXTINF:-1 tvg-id="CL | Fitmaxx TV" tvg-name="CL | Fitmaxx TV" tvg-logo="https://pbs.twimg.com/media/FSk6Zq7WQAA7Cp8?format=png&name=240x240" título-grupo="DEPORTES", 236 | Fitmaxx TV
+https://marine2.miplay.cl/fitmaxx/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | PX Deportes" tvg-name=MX | PX Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/PX_Sports_-_Logo.png/300px-PX_Sports_-_Logo.png" group-title="DEPORTES", 237 | Deportes PX
+http://138.59.177.34:8000/play/a048/index.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | Noticias de Sports Max" tvg-name="EE.UU. | Noticias de Sports Max" tvg-logo="https://loopnewslive.blob.core.windows.net/liveimage/sites/ default/files/2022-04/c0905f3c2a67827ed63557ed907d927csportsmax-logo.jpg" group-title="DEPORTES", 238 | Deportes Max Noticias
+http://bantel.iptvperu.tv:1935/bantel/sportmax/playlist.m3u8
+#EXTINF:-1 tvg-id="AR | Basquet Pass TV" tvg-name="AR | Basquet Pass TV" tvg-logo="https://pbs.twimg.com/media/GBeyItwX0AAGeJC?format=png&name= 360x360" group-title="DEPORTES", 239 | Pase Básquet TV
+http://191.97.60.193:10000/play/a02v/index.m3u8
+#EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV. svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 240 | futv
+http://138.59.177.34:8000/play/a05z/index.m3u8
+#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 241 | ganar deportes
+http://pe.shortgod.com/volvimos2024/tv11.php?id=67
+#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 242 | Ganar deportes+
+http://pe.shortgod.com/volvimos2024/tv11.php?id=66
+#EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo. svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 243 | GolTV
+http://pe.shortgod.com/volvimos2024/tv11.php?id=76
+#EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 244 | Gol Perú
+http://190.61.55.186:1010/play/a010/index.m3u8
+#EXTINF:-1 tvg-id="PE | Movistar Deportes" tvg-name="PE | Movistar Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/ Movistar_Deportes.svg/200px-Movistar_Deportes.svg.png" group-title="DEPORTES", 245 | Movistar Deportes
+http://190.61.55.186:1010/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="EC | El Canal del Fútbol" tvg-name="EC | El Canal del Fútbol" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q= tbn:ANd9GcQwzWYSdZCspsQKxcVfO05M-kTMsA9kY76v-7hw5szdpg&s" group-title="DEPORTES", 246 | El Canal del Futbol
+http://190.90.154.73:8080/play/a08x/index.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | TUDN" tvg-name="EE.UU. | TUDN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo. svg/200px-TUDN_Logo.svg.png" group-title="DEPORTES", 247 | TUDN
+http://181.78.105.146:2000/play/a08j/index.m3u8
+#EXTINF:-1 tvg-id="MX | Afizzionados" tvg-name="MX | Afizzionados" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Afizzionados_Logo. svg/320px-Afizzionados_Logo.svg.png" group-title="DEPORTES", 248 | Aficionados
+http://livex.pop-app.live/s4n/poplive/ch548/playlist.m3u8
+#EXTINF:-1 tvg-id="MX | Sky Sports La Liga" tvg-name="MX | Sky Sports La Liga" tvg-logo="https://pbs.twimg.com/media/GA01qNoWoAAl6US?format= png&name=240x240" group-title="DEPORTES", 249 | Sky Sports La Liga
+http://181.78.105.146:2000/play/a08m/index.m3u8
+#EXTINF:-1 tvg-id="USA | ESPN 2" tvg-name="USA | ESPN 2" tvg-logo="https://futbollibre.wtf/webp/logos/optimized/espn2.webp" grupo- title="DEPORTES", 250 | ESPN 2 || MÉXICO
+http://livex.pop-app.live/s4n/poplive/ch542/playlist.m3u8
+#EXTINF:-1 tvg-id="CR| TD Más" tvg-name="CR | TD Más" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ TDMasLogo22.png/150px-TDMasLogo22.png" group-title="DEPORTES", 251 | TD Más
+http://138.59.177.34:8000/play/a013/index.m3u8
+#EXTINF:-1 tvg-id="USA | beIN Sports Xtra ñ" tvg-name="USA | beIN Sports Xtra ñ" tvg-logo="https://beinxtraespanol.com/images/logo-bein-sport- xtra-espanol-plain.png" group-title="DEPORTES", 252 | beIN Sports Xtrañ
+https://linear-256.frequency.stream/mt/studio/256/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Real Madrid TV" tvg-name="ES | Real Madrid TV" tvg-logo="https://vercanalestv.online/wp-content/uploads/2021/10/ realmadridtv.jpg" group-title="DEPORTES", 253 | Real Madrid Televisión
+https://linear-491.frequency.stream/dist/vix/491/hls/master/playlist.m3u8
+#EXTINF:-1 tvg-id="ES | Canal Titán" tvg-name="ES | Canal Titán" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzaaKhC3Cd3dVXmEzziRB7VB9WNkiI_fA8Ok7NtXmbblGCjH_780JG8qfZHkr67t6CwcY&usq pag= CAU" group-title="DEPORTES", 254 | Canal Titán
+http://191.97.60.193:10000/play/a04d/index.m3u8
+#EXTINF:-1 tvg-id="ES | Gol Play" tvg-name="ES | Gol Play" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/ GOL_PLAY.svg/250px-GOL_PLAY.svg.png" group-title="DEPORTES", 255 | Gol Jugar
+https://spa-ha-p004.cdn.masmediatv.es/SVoriginOperatorEdge/smil:5_HD.smil/manifest.m3u8
+#EXTINF:-1 tvg-id="PE | Taurus TV" tvg-name="PE | Taurus TV" tvg-logo="http://core1.hdlatam.tv/media/images/channel/taurustv.png" título-grupo="DEPORTES", 256 | Tauro TV
+https://ott1.hdlatam.tv/live/taurustv/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Creo Sport" tvg-name="PE | Creo Sport" tvg-logo="http://core1.hdlatam.tv/media/images/channel/creosport.png" título-grupo="DEPORTES", 257 | Creo deporte
+https://ott1.hdlatam.tv/live/Creosport/playlist.m3u8
+#EXTINF:-1 tvg-id="EE.UU. | E Sports Max" tvg-name="EE.UU. | E Sports Max" tvg-logo="https://play-lh.googleusercontent.com/DeDOZbtJt_WwCe5SmLQoIt9zurIgnq7nOzZlGjanVAaDfnDRiK3v4JOF1jyYw5WU7MSx" group-title= "DEPORTES", 258 | Deportes Max
+http://bantel.iptvperu.tv:1935/bantel/esportsmax/playlist.m3u8
+#EXTINF:-1 tvg-id="PE | Mejor Música por Cable" tvg-name="PE | Mejor Música por Cable" tvg-logo="https://bestcableperu.com.pe/img/canales/97.jpg" group-title="MUSICA Y REALIDADES", 259 | Mejor música por cable
+https://tv.godo.net.pe/bestcablemusic/index.m3u8
 
 #EXTINF:-1 tvg-logo=" https://i.imgur.com/uZdVSoW.png" tvg-id="Canal5.mx",Canal 5 (1080p)
 https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
@@ -6830,5 +6870,3 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
-
-
