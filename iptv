@@ -3,7 +3,7 @@
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(DobkabZio-PhszOuoj98zEhxf1sgtIHIY9JZsNlbEj_X0_MrEFz5XCKpz-1oXh-eS0POZ-F_Fw172Xij3SQ7cjo7uCBgD9pcorglQdyVnEs)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(VYfTL7P5TtWUzotglzayMKewJ4EMer1KQbKa3qGopHisY7FFfI7Q8cHyLI6Algz51JcWOKVoYYsQNzX2417n6w1MpF1P0fE2YiqdoBGw71o)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -2102,10 +2102,55 @@ http://45.5.117.182:8000/play/ihf9/index.m3u8
 #EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 175 | Comedy Central 
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN" tvg-name="EE.UU. | ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark. svg/150px-ESPN_wordmark.svg.png" group-title="DEPORTES", 221 | ESPN
+#EXTINF:-1 tvg-id="CO | Agrotendencia TV" tvg-name="CO | Agrotendencia TV" tvg-logo="https://yt3.googleusercontent.com/km-Yd_joQNwRduGOPjI3hBbcLGNgCEjZYnILj_2VT7Qvezmdt-iYXc7UjpY6jwi0UquzHUVd=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTALES", 311 | Agrotendencia TV
+https://5fc584f3f19c9.streamlock.net/agrotendencia/videoagrotendencia_hls1/chunklist_w653625610.m3u8
+
+#EXTINF:-1 tvg-id="CL | TV Salud" tvg-name="CL | TV Salud" tvg-logo="https://miplay.cl/wp-content/uploads/2022/01/tvsalud-1920-1080-300x169.jpg" group-title="DOCUMENTALES", 312 | TV Salud
+https://marine2.miplay.cl/tvsalud/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | Nasa TV" tvg-name="USA | Nasa TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/NASA_TV.svg/265px-NASA_TV.svg.png" group-title="DOCUMENTALES", 313 | Nasa TV
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-1 tvg-id="USA | Discovery Channel" tvg-name="USA | Discovery Channel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/2019_Discovery_logo.svg/180px-2019_Discovery_logo.svg.png" group-title="DOCUMENTALES", 314 | Discovery Channel
+http://168.227.22.18:1935/live/mobile-006/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | Discovery Science" tvg-name="USA | Discovery Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Science_Channel_logo.svg/150px-Science_Channel_logo.svg.png" group-title="DOCUMENTALES", 315 | Discovery Science
+http://138.59.177.34:8000/play/a00v/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | Discovery Turbo" tvg-name="USA | Discovery Turbo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Discovery_Turbo_logo.svg/180px-Discovery_Turbo_logo.svg.png" group-title="DOCUMENTALES", 316 | Discovery Turbo
+http://pe.shortgod.com/volvimos2024/tv11.php?id=80
+
+#EXTINF:-1 tvg-id="USA | Discovery World" tvg-name="USA | Discovery World" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/World_Discovery_HD_logo.svg/245px-World_Discovery_HD_logo.svg.png" group-title="DOCUMENTALES", 317 | Discovery World
+http://138.59.177.34:8000/play/a078/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | Discovery Theater" tvg-name="USA | Discovery Theater" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/2015_Discovery_theater_HD_logo.svg/245px-2015_Discovery_theater_HD_logo.svg.png" group-title="DOCUMENTALES", 318 | Discovery Theater
+http://138.59.177.34:8000/play/a05m/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | Animal Planet" tvg-name="USA | Animal Planet" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/200px-2018_Animal_Planet_logo.svg.png" group-title="DOCUMENTALES", 319 | Animal Planet
+http://168.227.22.18:1935/live/mobile-068/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | National Geographic" tvg-name="USA | National Geographic" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/200px-Natgeologo.svg.png" group-title="DOCUMENTALES", 320 | National Geographic
+http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | History" tvg-name="USA | History" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/100px-History_Logo.svg.png" group-title="DOCUMENTALES", 321 | History
+http://bantel.iptvperu.tv:1935/transcoderip/History_t4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="USA | History 2" tvg-name="USA | History 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/History2Logo2019.png/110px-History2Logo2019.png" group-title="DOCUMENTALES", 322 | History 2
+http://bantel.iptvperu.tv:1935/transcoderip/history2_t4/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CA | Love Nature" tvg-name="CA | Love Nature" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2019/11/love_nature_logo_rgb_colour.png" group-title="DOCUMENTALES", 323 | Love Nature
+http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2_principal/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CL | Atlas" tvg-name="CL | Atlas" tvg-logo="https://pbs.twimg.com/media/FvKvGG_WIAIXoG5?format=png&name=240x240" group-title="DOCUMENTALES", 324 | Atlas
+http://191.97.60.193:10000/play/a02o/index.m3u8
+
+#EXTINF:-1 tvg-id="USA | HTV" tvg-name="USA | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 269 | HTV
+http://138.59.177.34:8000/play/a04c/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES", 221 | ESPN
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN 2" tvg-name="EE.UU. | ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 222 | ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 222 | ESPN 2
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 223 | ESPN 3
@@ -2162,12 +2207,6 @@ http://191.97.60.193:10000/play/a02v/index.m3u8
 #EXTINF:-1 tvg-id="CR | FUTV" tvg-name="CR | FUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Logo_de_FUTV. svg/200px-Logo_de_FUTV.svg.png" group-title="DEPORTES", 240 | futv
 http://138.59.177.34:8000/play/a05z/index.m3u8
 
-#EXTINF:-1 tvg-id="CO | Win Sports" tvg-name="CO | Win Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/ WinSports2022.png/150px-WinSports2022.png" group-title="DEPORTES", 241 | ganar deportes
-http://pe.shortgod.com/volvimos2024/tv11.php?id=67
-#EXTINF:-1 tvg-id="CO | Win Sports+" tvg-name="CO | Win Sports+" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/ WinSportsM%C3%A1s2022.png/200px-WinSportsM%C3%A1s2022.png" group-title="DEPORTES", 242 | Ganar deportes+
-http://pe.shortgod.com/volvimos2024/tv11.php?id=66
-#EXTINF:-1 tvg-id="PE | GolTV" tvg-name="PE | GolTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/GolTV_logo. svg/320px-GolTV_logo.svg.png" group-title="DEPORTES", 243 | GolTV
-http://pe.shortgod.com/volvimos2024/tv11.php?id=76
 
 #EXTINF:-1 tvg-id="PE | Gol Perú" tvg-name="PE | Gol Perú" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ Gol_Per%C3%BA_2019.svg/245px-Gol_Per%C3%BA_2019.svg.png" group-title="DEPORTES", 244 | Gol Perú
 http://190.61.55.186:1010/play/a010/index.m3u8
@@ -7461,3 +7500,57 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+#EXTINF:-1 grupo-título="DEPORTES", GOLTV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA :TV
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/74.m3u8
+
+#EXTINF:-1 grupo-title="DEPORTES", ESPN PREMIUM LA HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/213.m3u8
+
+#EXTINF:-1 grupo-title="DEPORTES", ESPN 4 LA FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/214.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FOX DEPORTES HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/200.m3u8
+
+#EXTINF:-1 grupo-title="DEPORTES", ESPN DEPORTES HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
+
+#EXTINF:-1 grupo-título="DEPORTES", ESPN 1 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/193.m3u8
+
+#EXTINF:-1 grupo-título="DEPORTES", ESPN 2 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/194.m3u8
+
+#EXTINF:-1 grupo-título="DEPORTES", ESPN 3 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
+
+#EXTINF:-1 grupo-título="DEPORTES", ESPN EXTRA MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
+
+#EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
+
+
+#EXTINF:-1 grupo-título="DEPORTES", FOX SPORTS 2 MX FHD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/198.m3u8
+
+#EXTINF:-1 grupo-título="DEPORTES", FOX SPORTS 3 MX HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/199.m3u8
+
+
+#EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
+#EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS 2
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/207.m3u8
+#EXTINF:-1 group-title="DEPORTES", D SPORTS HD
+http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
+
+#EXTINF:-1 group-title="CINE Y SERIES", TNT
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
+
+#EXTINF:-1 group-title="NOVELAS", TLNOVELAS
+http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
