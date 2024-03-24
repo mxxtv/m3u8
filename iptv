@@ -3,7 +3,7 @@
 https://alba-ec-rts-rts.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-2 tvg-logo="https://i.imgur.com/okK02EN.png" group-title="ECUADOR", TC4 HRS NOCH
-https://live-c.cf.dmcdn.net/sec2(VYfTL7P5TtWUzotglzayMKewJ4EMer1KQbKa3qGopHisY7FFfI7Q8cHyLI6Algz51JcWOKVoYYsQNzX2417n6w1MpF1P0fE2YiqdoBGw71o)/dm/3/x7wijay/d/live-2.m3u8
+https://live-c.cf.dmcdn.net/sec2(PctJs8aHFftO3GrOKBBhrXS1dDNdyxsNWOZjRg7ovveCjknOAB2zO_UWiLMyOnFU3GewW4QL-xiX7daWvKHROl8dwzHUxM3kTW_hKyMcGK4)/dm/3/x7wijay/d/live-2.m3u8
 
 #EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Logoteleamazonas.png" group-title="ECUADOR",TELEAMAZONAS sierra
 https://teleamazonas-live.cdn.vustreams.com/live/43953caa-53ff-4525-9f9e-202a12bf264e/live.isml/43953caa-53ff-4525-9f9e-202a12bf264e.m3u8
@@ -345,7 +345,7 @@ https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 https://run-rt-es.otteravision.com/run/rt_es/rt_es.m3u8
 
 #EXTINF:-116 tvg-logo="https://www.repretel.com/wp-content/themes/albavision-theme/img/logo.png" group-title="COSTA RICA", REPRETEL | HD
-https://d2t46xrpai3it5.cloudfront.net/Canal6CR/201cac55f42a87a46e2d27a75e0c7c84.sdp/playlist.m3u8
+https://cdn01.teletica.com/TeleticaLiveStream/Stream/playlist_dvr.m3u8
 
 #EXTINF:-117 group-title="VENEZUELA", Guaymote tv | HD
 https://5790d294af2dc.streamlock.net/8100/8100/chunklist_w1637475121.m3u8
@@ -417,7 +417,7 @@ https://scl.edge.grupoz.cl/movie/live/chunklist_w1379090887.m3u8
 https://d2t46xrpai3it5.cloudfront.net/Canal2CR/1ccdc8545fd05b83e9c57826d0de1069.sdp/playlist.m3u8
 
 #EXTINF:-140 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="BOLIVIA", BOLIVISION | HD
-https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/tracks-v3a1/mono.m3u8
 
 #EXTINF:-141 tvg-logo="https://www.caprichotvradio.com/wp-content/uploads/2021/12/cropped-cropped-cropped-logo-capricho-1.png" group-title="ECUADOR", CAPRICO TV | HD
 https://video.compuwebecuador.com:3783/live/caprichotvlive.m3u8
@@ -1166,10 +1166,13 @@ https://master.tucableip.com/gigavision/playlist.m3u8
 https://master.tucableip.com/dtvsc/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="ECUADOR" , SEO TV 1
-https://seo.tv.bo/tv/SEO_1FHD.m3u8
+https://seo.tv.bo/tv/STV_1FHD.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="ECUADOR" , SEO TV pel
+https://seo.tv.bo/tv/STV4_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aTcJ5p3.png" group-title="DEPORTES" , SEO TV 5 DEPORTES
-https://seo.tv.bo/tv/seo_5sd.m3u8
+https://seo.tv.bo/tv/Stv_5sd.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wwNh4wb.png" group-title="ECUADOR" , Teledigital
 https://tv.portalexpress.es:3182/hybrid/play.m3u8
@@ -1472,14 +1475,14 @@ http://livex.pop-app.live/s4n/poplive/ch520/playlist.m3u8
 https://magicstream.ddns.net/magicstream/stream.m3u8
 
 
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY
+#EXTINF:-1 tvg-shift="0"tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/176.m3u8
 
-#EXTINF:-1 tvg-shift="0" group-title="CINE Y SERIES",HBO FAMILY LAT
+#EXTINF:-1 tvg-shift="0"tvg-logo="" group-title="CINE Y SERIES",HBO FAMILY LAT
 http://23.175.48.252:25461/live/televall/tm2CfUujSc/174.m3u8
 
 
-#EXTINF:-1 tvg-shift="0" group-title="DOCUMENTALES",ANIMAL PLANET
+#EXTINF:-1 tvg-shift="0"tvg-logo="" group-title="DOCUMENTALES",ANIMAL PLANET
 http://138.59.177.34:8000/play/a02z/index.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTALES" tvg-logo="",Nature Time
@@ -1491,43 +1494,43 @@ http://23.175.48.252:25461/live/ligatv/eTnAN837tX/33.m3u8
 #EXTINF:-1 group-title="NIÑOS Y ADOLECENTES" tvg-logo="",El Reino Infantil
 https://linear-524.frequency.stream/mt/studio/524/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Rosa de Guadalupe
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",La Rosa de Guadalupe ²⁴⁺⁷
 https://linear-344.frequency.stream/mt/studio/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Vecinos
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Vecinos ²⁴⁺⁷
 https://linear-314.frequency.stream/mt/studio/314/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Amor Bravio
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Amor Bravio ²⁴⁺⁷
 https://linear-478.frequency.stream/mt/studio/478/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Usurpadora
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",La Usurpadora ²⁴⁺⁷
 https://linear-448.frequency.stream/mt/studio/448/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Como Dice el Dicho
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Como Dice el Dicho ²⁴⁺⁷
 https://linear-341.frequency.stream/mt/studio/341/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Teresa
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Teresa ²⁴⁺⁷
 https://linear-342.frequency.stream/mt/studio/342/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Fuerza del Destino
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",La Fuerza del Destino ²⁴⁺⁷
 https://linear-480.frequency.stream/mt/studio/480/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Lazos de Amor
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Lazos de Amor ²⁴⁺⁷
 https://linear-481.frequency.stream/mt/studio/481/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Mi Corazón es Tuyo
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Mi Corazón es Tuyo ²⁴⁺⁷
 https://linear-482.frequency.stream/mt/studio/482/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",La Familia P. Luche
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",La Familia P. Luche ²⁴⁺⁷
 https://linear-311.frequency.stream/mt/studio/311/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Una Familia de Diez
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Una Familia de Diez ²⁴⁺⁷
 https://linear-450.frequency.stream/mt/studio/450/hls/master/playlist.m3u8
 
-#EXTINF:-1 group-title="MAXDFULL ᵸᴰ" tvg-logo="",Nosotros los Guapos
+#EXTINF:-1 group-title="CANALES 24/7 ᵸᴰ" tvg-logo="",Nosotros los Guapos ²⁴⁺⁷
 https://linear-451.frequency.stream/mt/studio/451/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="MAXDFULL ᵸᴰ",Tlnovelas (576p)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/62/Tlnovelas_logo_2021.png" tvg-id="TlnovelasMexico.mx"group-title="CANALES 24/7 ᵸᴰ",Tlnovelas ²⁴⁺⁷ (ᵸᴰ)
 https://linear-421.frequency.stream/mt/studio/421/hls/master/playlist.m3u8
 
 #EXTINF:-5 tvg-logo="https://lc.cx/elfodD" group-title="ECUADOR", Magestad tv R
@@ -1541,7 +1544,6 @@ https://linear-452.frequency.stream/mt/studio/452/hls/master/playlist.m3u8
 
 #EXTINF:-1 tvg-id="ESPN.mx" tvg-name="ESPNᵸᴰ" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/logo-ESPN.png"  group-title="DEPORTES", ESPN | HD
 http://181.78.105.146:2000/play/a064/index.m3u8
-
 
 #EXTINF:-1 tvg-shift="0"tvg-logo="https://static.wikia.nocookie.net/disney/images/d/d9/2000px-ESPN2_logo.png"  group-title="DEPORTES",ESPN SUR2
 http://181.78.105.146:2000/play/a063/index.m3u8
@@ -1718,7 +1720,7 @@ https://vdo.grupolimalive.com:3467/live/orientaltvlive.m3u8
 #EXTINF:-1 tvg-id="PE | Ya TV" tvg-name="PE | Ya TV" tvg-logo="https://play-lh.googleusercontent.com/_X3laoxSMiqEcP6gR4MNX-7FWqAM8YIOv0Ho6juGEA6elk6b4X_sFliEXUn7_LyUiQ=w240-h480-rw" group-title="PERU", 49 | Ya TV || Pucallpa
 https://vdo.grupolimalive.com:3927/live/milleniumlive.m3u8
 
-#EXTINF:-1 tvg-id="PE | Pucallpa Televisión" tvg-name="PE | Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="REGIONALES", 50 | Pucallpa Televisión || Pucallpa
+#EXTINF:-1 tvg-id="PE | Pucallpa Televisión" tvg-name="PE | Pucallpa Televisión" tvg-logo="https://play-lh.googleusercontent.com/XKSBWGFeJZmoKEmTVbPjhDUS5GGmehWoBXv6xZYlFwCDCLMgMz8jLvOc_S6Kh82cWg=w240-h480-rw" group-title="PERU", 50 | Pucallpa Televisión || Pucallpa
 https://vdo.grupolimalive.com:3333/live/pucallpatvlive.m3u8
 
 #EXTINF:-1 tvg-id="PE | Ucayali TV" tvg-name="PE | Ucayali TV" tvg-logo="https://pbs.twimg.com/media/FbX4GOdXoAAtuar?format=png&name=small" group-title="PERU", 51 | Ucayali TV || Pucallpa
@@ -2072,34 +2074,34 @@ https://tgn.bozztv.com/ssh101/ssh101/livestreamingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="USA | Adult Swim" tvg-name="USA | Adult Swim" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/300px-Adult_Swim_2003_logo.svg.png" group-title="NIÑOS Y ADOLECENTES", 165 | Adult Swim
 http://138.59.177.34:8000/play/a029/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7", 166 | El Conflicto Tribunal del Pueblo TV
+#EXTINF:-1 tvg-id="USA | El Conflicto Tribunal del Pueblo TV" tvg-name="USA | El Conflicto Tribunal del Pueblo TV" tvg-logo="https://www.distro.tv/espanol-latam/img/elconflicto_600x600.jpg" group-title="CANALES 24/7 ᵸᴰ", 166 | El Conflicto Tribunal del Pueblo TV
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965
 
-#EXTINF:-1 tvg-id="MX | La Rosa de Guadalupe TV" tvg-name="MX | La Rosa de Guadalupe TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/La_rosa_de_guadalupe_with_font.jpg/revision/latest/scale-to-width-down/1200?cb=20220509193234" group-title="CANALES 24/7", 167 | La Rosa de Guadalupe TV
+#EXTINF:-1 tvg-id="MX | La Rosa de Guadalupe TV" tvg-name="MX | La Rosa de Guadalupe TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/04/La_rosa_de_guadalupe_with_font.jpg/revision/latest/scale-to-width-down/1200?cb=20220509193234" group-title="CANALES 24/7 ᵸᴰ", 167 | La Rosa de Guadalupe TV
 https://linear-344.frequency.stream/dist/vix/344/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Los Picapiedra TV" tvg-name="USA | Los Picapiedra TV" tvg-logo="https://www.themoviedb.org/t/p/original/f87jYBMajaJpW8G5zxfqmfZwjJ5.png" group-title="CANALES 24/7", 168 | Los Picapiedra TV
+#EXTINF:-1 tvg-id="USA | Los Picapiedra TV" tvg-name="USA | Los Picapiedra TV" tvg-logo="https://www.themoviedb.org/t/p/original/f87jYBMajaJpW8G5zxfqmfZwjJ5.png" group-title="CANALES 24/7 ᵸᴰ", 168 | Los Picapiedra TV
 https://6362ca6f1fc28.streamlock.net:443/picapiedraplus/picapiedraplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="CANALES 24/7", 169 | Tom y Jerry TV
+#EXTINF:-1 tvg-id="USA | Tom y Jerry TV" tvg-name="USA | Tom y Jerry TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB_T3QPiTLA_Cr6xXHsJmZl9YvIYQIElADnBLb7PTa47g-GR81C_zQcqJ6tVIrBmw7lg&usqp=CAU" group-title="CANALES 24/7 ᵸᴰ", 169 | Tom y Jerry TV
 https://6362ca6f1fc28.streamlock.net:443/tomyjerry/tomyjerry/playlist.m3u8
 
-#EXTINF:-1 tvg-id="USA | Ben 10 TV" tvg-name="USA | Ben 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="CANALES 24/7", 170 | Ben 10 TV
+#EXTINF:-1 tvg-id="USA | Ben 10 TV" tvg-name="USA | Ben 10 TV" tvg-logo="https://w7.pngwing.com/pngs/972/930/png-transparent-ben-10-alien-force-logo-cartoon-network-miscellaneous-game-cdr.png" group-title="CANALES 24/7 ᵸᴰ", 170 | Ben 10 TV
 http://51.159.104.29:8080/ben10/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANALES 24/7", 171 | Bob Esponja TV
+#EXTINF:-1 tvg-id="USA | Bob Esponja TV" tvg-name="USA | Bob Esponja TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Bob_esponja_logotipo.svg/2560px-Bob_esponja_logotipo.svg.png" group-title="CANALES 24/7 ᵸᴰ", 171 | Bob Esponja TV
 http://51.159.104.29:8080/bobesponja/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="CANALES 24/7", 172 | Los Tres Chiflados TV
+#EXTINF:-1 tvg-id="USA | Los Tres Chiflados TV" tvg-name="USA | Los Tres Chiflados TV" tvg-logo="https://pics.filmaffinity.com/the_three_stooges-358012845-mmed.jpg" group-title="CANALES 24/7 ᵸᴰ", 172 | Los Tres Chiflados TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="CANALES 24/7", 173 | El Chavo del 8 TV
+#EXTINF:-1 tvg-id="MX | El Chavo del 8 TV" tvg-name="MX | El Chavo del 8 TV" tvg-logo="https://pbs.twimg.com/media/Fp3p0zZXoAY_loW?format=png&name=small" group-title="CANALES 24/7 ᵸᴰ", 173 | El Chavo del 8 TV
 https://6362ca6f1fc28.streamlock.net:443/elchavoplus/elchavoplus/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="ENTRETENIMIENTO", 174 | Distrito Comedia
+#EXTINF:-1 tvg-id="MX | Distrito Comedia" tvg-name="MX | Distrito Comedia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/DistritoComediaLOGO2018.png/175px-DistritoComediaLOGO2018.png" group-title="CANALES 24/7 ᵸᴰ", 174 | Distrito Comedia
 http://45.5.117.182:8000/play/ihf9/index.m3u8
 
-#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="ENTRETENIMIENTO", 175 | Comedy Central 
+#EXTINF:-1 tvg-id="USA | Comedy Central" tvg-name="USA | Comedy Central" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/250px-Comedy_Central_2018.svg.png" group-title="CANALES 24/7 ᵸᴰ", 175 | Comedy Central 
 http://168.227.22.18:1935/live/mobile-001/playlist.m3u8
 
 #EXTINF:-1 tvg-id="CO | Agrotendencia TV" tvg-name="CO | Agrotendencia TV" tvg-logo="https://yt3.googleusercontent.com/km-Yd_joQNwRduGOPjI3hBbcLGNgCEjZYnILj_2VT7Qvezmdt-iYXc7UjpY6jwi0UquzHUVd=s900-c-k-c0x00ffffff-no-rj" group-title="DOCUMENTALES", 311 | Agrotendencia TV
@@ -2143,29 +2145,28 @@ http://bantel.iptvperu.tv:1935/transcoderip/lovenature_t2_principal/playlist.m3u
 
 #EXTINF:-1 tvg-id="CL | Atlas" tvg-name="CL | Atlas" tvg-logo="https://pbs.twimg.com/media/FvKvGG_WIAIXoG5?format=png&name=240x240" group-title="DOCUMENTALES", 324 | Atlas
 http://191.97.60.193:10000/play/a02o/index.m3u8
-
-#EXTINF:-1 tvg-id="USA | HTV" tvg-name="USA | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 269 | HTV
+  #EXTINF:-1 tvg-id="USA | HTV" tvg-name="USA | HTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Htv_logo.svg/120px-Htv_logo.svg.png" group-title="MUSICA", 269 | HTV
 http://138.59.177.34:8000/play/a04c/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png" group-title="DEPORTES", 221 | ESPN
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 222 | ESPN 2
+#EXTINF:-1 tvg-logo="ttps://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ ESPN2_logo.svg/180px-ESPN2_logo.svg.png" group-title="DEPORTES", 222 | ESPN 2
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN2_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ ESPN3_Logo.png/180px-ESPN3_Logo.png" group-title="DEPORTES", 223 | ESPN 3
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 3" tvg-name="EE.UU. | ESPN 3" tvg-logo="https://e7.pngegg.com/pngimages/20/364/png-clipart-espn3-watchespn-espn-com-streaming-media-espn-3-television-text.png" group-title="DEPORTES", 223 | ESPN 3
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN3_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN 4" tvg-name="EE.UU. | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ ESPN_4_logo.svg/180px-ESPN_4_logo.svg.png" group-title="DEPORTES", 224 | ESPN 4
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 4" tvg-name="EE.UU. | ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/2560px-ESPN_4_logo.svg.png" group-title="DEPORTES", 224 | ESPN 4
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN4_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN 5" tvg-name="EE.UU. | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ ESPN_5_logo.svg/180px-ESPN_5_logo.svg.png" group-title="DEPORTES", 225 | ESPN 5
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 5" tvg-name="EE.UU. | ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/ESPN_5_logo.svg/2560px-ESPN_5_logo.svg.png" group-title="DEPORTES", 225 | ESPN 5
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN5_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN 6" tvg-name="EE.UU. | ESPN 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/ ESPN_6_logo.svg/180px-ESPN_6_logo.svg.png" group-title="DEPORTES", 226 | ESPN 6
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 6" tvg-name="EE.UU. | ESPN 6" tvg-logo="https://fiber.nl/wp-content/uploads/tvicon-ESPN-6-International.png" group-title="DEPORTES", 226 | ESPN 6
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN6_t2.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EE.UU. | ESPN 7" tvg-name="EE.UU. | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ ESPN_7_logo.svg/175px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
+#EXTINF:-1 tvg-id="EE.UU. | ESPN 7" tvg-name="EE.UU. | ESPN 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/ESPN_7_logo.svg/2560px-ESPN_7_logo.svg.png" group-title="DEPORTES", 227 | ESPN 7
 http://bantel.iptvperu.tv:1935/transcoderip/ESPN7_t2.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MX | Claro Deportes" tvg-name="MX | Claro Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ Claro_Sports_logo.svg/150px-Claro_Sports_logo.svg.png" group-title="DEPORTES", 228 | Claro Deportes
@@ -3134,7 +3135,7 @@ https://tv.teleclub.xyz/envivo/Infantil/TOONCAST/index.m3u8
 https://tv.teleclub.xyz/envivo/Infantil/BITME/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://tvmi.com.bo/wp-content/uploads/sites/2/2018/04/bolivision.png" group-title="SERVIDOR 2", BOLIVISION | HD
-https://d3mghbm9e5zfap.cloudfront.net/Bolivision/2af819d7c8ab1c07658d1575e55800e5.sdp/playlist.m3u8
+https://alba-bo-bolivision-bolivision.stream.mediatiquestream.com/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5U7AMyc.png" group-title="SERVIDOR 2", Cartoonito 
 http://tv.teleclub.xyz/envivo/Infantil/CARTOONITO/index.m3u8 
@@ -7500,57 +7501,6 @@ http://archive.org/download/ulakinw_w542c_mygeoweb_4/DFRT/9.mp4
 
 #EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/w500/n3ZxUztAAF4NEzYnIZd8XZVyTJ1.jpg" group-title="Pelis 3" type="movie" ,WINX CLUB EL SECRETO DEL REINO PERDIDO 
 http://archive.org/download/winxclubelsecretodelreinoperdidopeliculaespanollatino_201909/Winx%20Club%20%20%20El%20Secreto%20del%20Reino%20Perdido%20_%20Pel%C3%ADcula%20%20%20Espa%C3%B1ol%20Latino.mp4 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
 #EXTINF:-1 grupo-título="DEPORTES", GOLTV
 http://23.175.48.252:25461/live/ligatv/eTnAN837tX/208.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", BEIN SPORTS XTRA :TV
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/74.m3u8
-
-#EXTINF:-1 grupo-title="DEPORTES", ESPN PREMIUM LA HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/213.m3u8
-
-#EXTINF:-1 grupo-title="DEPORTES", ESPN 4 LA FHD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/214.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", FOX DEPORTES HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/200.m3u8
-
-#EXTINF:-1 grupo-title="DEPORTES", ESPN DEPORTES HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/192.m3u8
-
-#EXTINF:-1 grupo-título="DEPORTES", ESPN 1 MX HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/193.m3u8
-
-#EXTINF:-1 grupo-título="DEPORTES", ESPN 2 MX FHD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/194.m3u8
-
-#EXTINF:-1 grupo-título="DEPORTES", ESPN 3 MX HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/195.m3u8
-
-#EXTINF:-1 grupo-título="DEPORTES", ESPN EXTRA MX FHD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/196.m3u8
-
-#EXTINF:-1 group-title="DEPORTES", FOX SPORTS PREMIUM HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/197.m3u8
-
-
-#EXTINF:-1 grupo-título="DEPORTES", FOX SPORTS 2 MX FHD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/198.m3u8
-
-#EXTINF:-1 grupo-título="DEPORTES", FOX SPORTS 3 MX HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/199.m3u8
-
-
-#EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
-#EXTINF:-1 group-title="DEPORTES",COL | DIRECTV SPORTS 2
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/207.m3u8
-#EXTINF:-1 group-title="DEPORTES", D SPORTS HD
-http://23.175.48.252:25461/live/ligatv/eTnAN837tX/206.m3u8
-
-#EXTINF:-1 group-title="CINE Y SERIES", TNT
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/9.m3u8
-
-#EXTINF:-1 group-title="NOVELAS", TLNOVELAS
-http://23.175.48.252:25461/live/televall/tm2CfUujSc/134.m3u8
